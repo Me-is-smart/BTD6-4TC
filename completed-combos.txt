@@ -5453,215 +5453,6 @@
 |Sniper |Ace    |Mortar |Alch   |Chocbox|OZELEWP|N
 |Tack   |Ace    |Mortar |Alch   |Chocbox|OZELEWP|N
 |Bomb   |Ace    |Mortar |Alch   |Chocbox|OZELEWP|N
-|Ezili  |Bomb   |Ninja  |Engi   |frds|SZELETX|N
-|Ezili  |Bomb   |Ninja  |Village|frds|SZELETX|N
-|Ezili  |Bomb   |Ninja  |Spact  |frds|SZELETX|N
-|Ezili  |Bomb   |Ninja  |Druid  |frds|SZELETX|N
-|Ezili  |Bomb   |Super  |Ninja  |frds|SZELETX|N
-|Ezili  |Bomb   |Mortar |Ninja  |frds|SZELETX|N
-|Ezili  |Bomb   |Ace    |Ninja  |frds|SZELETX|N
-|Ezili  |Bomb   |Bucc   |Ninja  |frds|SZELETX|N
-|Ezili  |Bomb   |Sub    |Ninja  |frds|SZELETX|N
-|Ezili  |Bomb   |Sniper |Ninja  |frds|SZELETX|N
-|Ezili  |Bomb   |Glue   |Ninja  |frds|SZELETX|N
-|Ezili  |Bomb   |Ice    |Ninja  |frds|SZELETX|N
-|Ezili  |Bomb   |Tack   |Ninja  |frds|SZELETX|N
-|Ezili  |Boomer |Bomb   |Ninja  |frds|SZELETX|N
-|Ezili  |Dart   |Bomb   |Ninja  |frds|SZELETX|N
-|Ben    |Bomb   |Ninja  |Engi   |frds|SZELETX|N
-|Ben    |Bomb   |Ninja  |Village|frds|SZELETX|N
-|Ben    |Bomb   |Ninja  |Spact  |frds|SZELETX|N
-|Ben    |Bomb   |Ninja  |Druid  |frds|SZELETX|N
-|Ben    |Bomb   |Super  |Ninja  |frds|SZELETX|N
-|Ben    |Bomb   |Mortar |Ninja  |frds|SZELETX|N
-|Ben    |Bomb   |Ace    |Ninja  |frds|SZELETX|N
-|Ben    |Bomb   |Bucc   |Ninja  |frds|SZELETX|N
-|Ben    |Bomb   |Sub    |Ninja  |frds|SZELETX|N
-|Ben    |Bomb   |Sniper |Ninja  |frds|SZELETX|N
-|Ben    |Bomb   |Glue   |Ninja  |frds|SZELETX|N
-|Ben    |Bomb   |Ice    |Ninja  |frds|SZELETX|N
-|Ben    |Bomb   |Tack   |Ninja  |frds|SZELETX|N
-|Ben    |Boomer |Bomb   |Ninja  |frds|SZELETX|N
-|Ben    |Dart   |Bomb   |Ninja  |frds|SZELETX|N
-|Church |Bomb   |Ninja  |Engi   |frds|SZELETX|N
-|Church |Bomb   |Ninja  |Village|frds|SZELETX|N
-|Church |Bomb   |Ninja  |Spact  |frds|SZELETX|N
-|Church |Bomb   |Ninja  |Druid  |frds|SZELETX|N
-|Church |Bomb   |Mortar |Ninja  |frds|SZELETX|N
-|Church |Bomb   |Ace    |Ninja  |frds|SZELETX|N
-|Church |Bomb   |Bucc   |Ninja  |frds|SZELETX|N
-|Church |Bomb   |Sub    |Ninja  |frds|SZELETX|N
-|Church |Bomb   |Sniper |Ninja  |frds|SZELETX|N
-|Church |Bomb   |Glue   |Ninja  |frds|SZELETX|N
-|Church |Bomb   |Ice    |Ninja  |frds|SZELETX|N
-|Church |Bomb   |Tack   |Ninja  |frds|SZELETX|N
-|Church |Boomer |Bomb   |Ninja  |frds|SZELETX|N
-|Church |Dart   |Bomb   |Ninja  |frds|SZELETX|N
-|Pat    |Bomb   |Ninja  |Engi   |frds|SZELETX|N
-|Pat    |Bomb   |Ninja  |Spact  |frds|SZELETX|N
-|Pat    |Bomb   |Ninja  |Druid  |frds|SZELETX|N
-|Pat    |Bomb   |Super  |Ninja  |frds|SZELETX|N
-|Pat    |Bomb   |Mortar |Ninja  |frds|SZELETX|N
-|Pat    |Bomb   |Ace    |Ninja  |frds|SZELETX|N
-|Pat    |Bomb   |Bucc   |Ninja  |frds|SZELETX|N
-|Pat    |Bomb   |Sub    |Ninja  |frds|SZELETX|N
-|Pat    |Bomb   |Sniper |Ninja  |frds|SZELETX|N
-|Pat    |Bomb   |Glue   |Ninja  |frds|SZELETX|N
-|Pat    |Bomb   |Ice    |Ninja  |frds|SZELETX|N
-|Pat    |Bomb   |Tack   |Ninja  |frds|SZELETX|N
-|Pat    |Boomer |Bomb   |Ninja  |frds|SZELETX|N
-|Pat    |Dart   |Bomb   |Ninja  |frds|SZELETX|N
-|Obyn   |Bomb   |Ninja  |Engi   |frds|SZELETX|N
-|Obyn   |Bomb   |Ninja  |Village|frds|SZELETX|N
-|Obyn   |Bomb   |Ninja  |Druid  |frds|SZELETX|N
-|Obyn   |Bomb   |Mortar |Ninja  |frds|SZELETX|N
-|Obyn   |Bomb   |Ace    |Ninja  |frds|SZELETX|N
-|Obyn   |Bomb   |Bucc   |Ninja  |frds|SZELETX|N
-|Obyn   |Bomb   |Sub    |Ninja  |frds|SZELETX|N
-|Obyn   |Bomb   |Sniper |Ninja  |frds|SZELETX|N
-|Obyn   |Bomb   |Glue   |Ninja  |frds|SZELETX|N
-|Obyn   |Bomb   |Ice    |Ninja  |frds|SZELETX|N
-|Obyn   |Bomb   |Tack   |Ninja  |frds|SZELETX|N
-|Obyn   |Boomer |Bomb   |Ninja  |frds|SZELETX|N
-|Obyn   |Dart   |Bomb   |Ninja  |frds|SZELETX|N
-|Striker|Bomb   |Ninja  |Engi   |frds|SZELETX|N
-|Striker|Bomb   |Ninja  |Village|frds|SZELETX|N
-|Striker|Bomb   |Ninja  |Spact  |frds|SZELETX|N
-|Striker|Bomb   |Ninja  |Druid  |frds|SZELETX|N
-|Striker|Bomb   |Super  |Ninja  |frds|SZELETX|N
-|Striker|Bomb   |Mortar |Ninja  |frds|SZELETX|N
-|Striker|Bomb   |Ace    |Ninja  |frds|SZELETX|N
-|Striker|Bomb   |Bucc   |Ninja  |frds|SZELETX|N
-|Striker|Bomb   |Sub    |Ninja  |frds|SZELETX|N
-|Striker|Bomb   |Sniper |Ninja  |frds|SZELETX|N
-|Striker|Bomb   |Glue   |Ninja  |frds|SZELETX|N
-|Striker|Bomb   |Ice    |Ninja  |frds|SZELETX|N
-|Striker|Bomb   |Tack   |Ninja  |frds|SZELETX|N
-|Striker|Boomer |Bomb   |Ninja  |frds|SZELETX|N
-|Striker|Dart   |Bomb   |Ninja  |frds|SZELETX|N
-|Gwen   |Bomb   |Ninja  |Engi   |frds|SZELETX|N
-|Gwen   |Bomb   |Ninja  |Village|frds|SZELETX|N
-|Gwen   |Bomb   |Ninja  |Spact  |frds|SZELETX|N
-|Gwen   |Bomb   |Ninja  |Druid  |frds|SZELETX|N
-|Gwen   |Bomb   |Mortar |Ninja  |frds|SZELETX|N
-|Gwen   |Bomb   |Ace    |Ninja  |frds|SZELETX|N
-|Gwen   |Bomb   |Bucc   |Ninja  |frds|SZELETX|N
-|Gwen   |Bomb   |Sub    |Ninja  |frds|SZELETX|N
-|Gwen   |Bomb   |Sniper |Ninja  |frds|SZELETX|N
-|Gwen   |Bomb   |Glue   |Ninja  |frds|SZELETX|N
-|Gwen   |Bomb   |Ice    |Ninja  |frds|SZELETX|N
-|Gwen   |Bomb   |Tack   |Ninja  |frds|SZELETX|N
-|Gwen   |Boomer |Bomb   |Ninja  |frds|SZELETX|N
-|Gwen   |Dart   |Bomb   |Ninja  |frds|SZELETX|N
-|Quincy |Bomb   |Ninja  |Engi   |frds|SZELETX|N
-|Quincy |Bomb   |Ninja  |Village|frds|SZELETX|N
-|Quincy |Bomb   |Ninja  |Druid  |frds|SZELETX|N
-|Quincy |Bomb   |Mortar |Ninja  |frds|SZELETX|N
-|Quincy |Bomb   |Ace    |Ninja  |frds|SZELETX|N
-|Quincy |Bomb   |Bucc   |Ninja  |frds|SZELETX|N
-|Quincy |Bomb   |Sub    |Ninja  |frds|SZELETX|N
-|Quincy |Bomb   |Sniper |Ninja  |frds|SZELETX|N
-|Quincy |Bomb   |Glue   |Ninja  |frds|SZELETX|N
-|Quincy |Bomb   |Ice    |Ninja  |frds|SZELETX|N
-|Quincy |Bomb   |Tack   |Ninja  |frds|SZELETX|N
-|Quincy |Boomer |Bomb   |Ninja  |frds|SZELETX|N
-|Quincy |Dart   |Bomb   |Ninja  |frds|SZELETX|N
-|Bomb   |Ninja  |Village|Engi   |frds|SZELETX|N
-|Bomb   |Ninja  |Spact  |Engi   |frds|SZELETX|N
-|Bomb   |Ninja  |Spact  |Village|frds|SZELETX|N
-|Bomb   |Ninja  |Druid  |Engi   |frds|SZELETX|N
-|Bomb   |Ninja  |Druid  |Village|frds|SZELETX|N
-|Bomb   |Ninja  |Druid  |Spact  |frds|SZELETX|N
-|Bomb   |Super  |Ninja  |Engi   |frds|SZELETX|N
-|Bomb   |Super  |Ninja  |Spact  |frds|SZELETX|N
-|Bomb   |Super  |Ninja  |Druid  |frds|SZELETX|N
-|Bomb   |Mortar |Ninja  |Engi   |frds|SZELETX|N
-|Bomb   |Mortar |Ninja  |Village|frds|SZELETX|N
-|Bomb   |Mortar |Ninja  |Spact  |frds|SZELETX|N
-|Bomb   |Mortar |Ninja  |Druid  |frds|SZELETX|N
-|Bomb   |Mortar |Super  |Ninja  |frds|SZELETX|N
-|Bomb   |Ace    |Ninja  |Engi   |frds|SZELETX|N
-|Bomb   |Ace    |Ninja  |Village|frds|SZELETX|N
-|Bomb   |Ace    |Ninja  |Druid  |frds|SZELETX|N
-|Bomb   |Ace    |Mortar |Ninja  |frds|SZELETX|N
-|Bomb   |Bucc   |Ninja  |Engi   |frds|SZELETX|N
-|Bomb   |Bucc   |Ninja  |Village|frds|SZELETX|N
-|Bomb   |Bucc   |Ninja  |Spact  |frds|SZELETX|N
-|Bomb   |Bucc   |Ninja  |Druid  |frds|SZELETX|N
-|Bomb   |Bucc   |Super  |Ninja  |frds|SZELETX|N
-|Bomb   |Bucc   |Mortar |Ninja  |frds|SZELETX|N
-|Bomb   |Sub    |Ninja  |Engi   |frds|SZELETX|N
-|Bomb   |Sub    |Ninja  |Village|frds|SZELETX|N
-|Bomb   |Sub    |Ninja  |Spact  |frds|SZELETX|N
-|Bomb   |Sub    |Ninja  |Druid  |frds|SZELETX|N
-|Bomb   |Sub    |Mortar |Ninja  |frds|SZELETX|N
-|Bomb   |Sub    |Ace    |Ninja  |frds|SZELETX|N
-|Bomb   |Sub    |Bucc   |Ninja  |frds|SZELETX|N
-|Bomb   |Sniper |Ninja  |Engi   |frds|SZELETX|N
-|Bomb   |Sniper |Ninja  |Village|frds|SZELETX|N
-|Bomb   |Sniper |Ninja  |Spact  |frds|SZELETX|N
-|Bomb   |Sniper |Ninja  |Druid  |frds|SZELETX|N
-|Bomb   |Sniper |Super  |Ninja  |frds|SZELETX|N
-|Bomb   |Sniper |Mortar |Ninja  |frds|SZELETX|N
-|Bomb   |Sniper |Ace    |Ninja  |frds|SZELETX|N
-|Bomb   |Sniper |Bucc   |Ninja  |frds|SZELETX|N
-|Bomb   |Sniper |Sub    |Ninja  |frds|SZELETX|N
-|Bomb   |Glue   |Ninja  |Engi   |frds|SZELETX|N
-|Bomb   |Glue   |Ninja  |Village|frds|SZELETX|N
-|Bomb   |Glue   |Ninja  |Spact  |frds|SZELETX|N
-|Bomb   |Glue   |Ninja  |Druid  |frds|SZELETX|N
-|Bomb   |Glue   |Super  |Ninja  |frds|SZELETX|N
-|Bomb   |Glue   |Mortar |Ninja  |frds|SZELETX|N
-|Bomb   |Glue   |Bucc   |Ninja  |frds|SZELETX|N
-|Bomb   |Glue   |Sub    |Ninja  |frds|SZELETX|N
-|Bomb   |Glue   |Sniper |Ninja  |frds|SZELETX|N
-|Bomb   |Ice    |Ninja  |Engi   |frds|SZELETX|N
-|Bomb   |Ice    |Ninja  |Village|frds|SZELETX|N
-|Bomb   |Ice    |Ninja  |Spact  |frds|SZELETX|N
-|Bomb   |Ice    |Ninja  |Druid  |frds|SZELETX|N
-|Bomb   |Ice    |Super  |Ninja  |frds|SZELETX|N
-|Bomb   |Ice    |Mortar |Ninja  |frds|SZELETX|N
-|Bomb   |Ice    |Ace    |Ninja  |frds|SZELETX|N
-|Bomb   |Ice    |Bucc   |Ninja  |frds|SZELETX|N
-|Bomb   |Ice    |Sub    |Ninja  |frds|SZELETX|N
-|Bomb   |Ice    |Sniper |Ninja  |frds|SZELETX|N
-|Bomb   |Ice    |Glue   |Ninja  |frds|SZELETX|N
-|Bomb   |Tack   |Ninja  |Engi   |frds|SZELETX|N
-|Bomb   |Tack   |Ninja  |Spact  |frds|SZELETX|N
-|Bomb   |Tack   |Ninja  |Druid  |frds|SZELETX|N
-|Bomb   |Tack   |Super  |Ninja  |frds|SZELETX|N
-|Bomb   |Tack   |Mortar |Ninja  |frds|SZELETX|N
-|Bomb   |Tack   |Ace    |Ninja  |frds|SZELETX|N
-|Bomb   |Tack   |Bucc   |Ninja  |frds|SZELETX|N
-|Bomb   |Tack   |Sub    |Ninja  |frds|SZELETX|N
-|Bomb   |Tack   |Sniper |Ninja  |frds|SZELETX|N
-|Bomb   |Tack   |Glue   |Ninja  |frds|SZELETX|N
-|Bomb   |Tack   |Ice    |Ninja  |frds|SZELETX|N
-|Boomer |Bomb   |Ninja  |Engi   |frds|SZELETX|N
-|Boomer |Bomb   |Ninja  |Village|frds|SZELETX|N
-|Boomer |Bomb   |Ninja  |Spact  |frds|SZELETX|N
-|Boomer |Bomb   |Ninja  |Druid  |frds|SZELETX|N
-|Boomer |Bomb   |Mortar |Ninja  |frds|SZELETX|N
-|Boomer |Bomb   |Bucc   |Ninja  |frds|SZELETX|N
-|Boomer |Bomb   |Sub    |Ninja  |frds|SZELETX|N
-|Boomer |Bomb   |Sniper |Ninja  |frds|SZELETX|N
-|Boomer |Bomb   |Glue   |Ninja  |frds|SZELETX|N
-|Boomer |Bomb   |Ice    |Ninja  |frds|SZELETX|N
-|Boomer |Bomb   |Tack   |Ninja  |frds|SZELETX|N
-|Dart   |Bomb   |Ninja  |Engi   |frds|SZELETX|N
-|Dart   |Bomb   |Ninja  |Village|frds|SZELETX|N
-|Dart   |Bomb   |Ninja  |Spact  |frds|SZELETX|N
-|Dart   |Bomb   |Ninja  |Druid  |frds|SZELETX|N
-|Dart   |Bomb   |Super  |Ninja  |frds|SZELETX|N
-|Dart   |Bomb   |Mortar |Ninja  |frds|SZELETX|N
-|Dart   |Bomb   |Ace    |Ninja  |frds|SZELETX|N
-|Dart   |Bomb   |Bucc   |Ninja  |frds|SZELETX|N
-|Dart   |Bomb   |Sub    |Ninja  |frds|SZELETX|N
-|Dart   |Bomb   |Sniper |Ninja  |frds|SZELETX|N
-|Dart   |Bomb   |Glue   |Ninja  |frds|SZELETX|N
-|Dart   |Bomb   |Ice    |Ninja  |frds|SZELETX|N
-|Dart   |Bomb   |Tack   |Ninja  |frds|SZELETX|N
-|Dart   |Boomer |Bomb   |Ninja  |frds|SZELETX|N
 |Tack   |Mortar |Alch   |Spact  |Mestrophis|XZELEAA|N
 |Ezili  |Dart   |Ace    |Alch   |Char|DZELESP|N
 |Ben    |Dart   |Ace    |Alch   |Char|DZELESP|N
@@ -8149,3 +7940,95 @@
 |Striker|Tack   |Mortar |Druid  |The Mochinator|OZYGEGU|N
 |Striker|Tack   |Mortar |Village|The Mochinator|OZYGEGU|N
 |Striker|Tack   |Mortar |Engi   |The Mochinator|OZYGEGU|N
+|Dart   |Bomb   |Ninja  |Spact  |frds|SZELETX|N
+|Boomer |Bomb   |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Tack   |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Ice    |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Glue   |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Sniper |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Sub    |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Bucc   |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Mortar |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Super  |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Ninja  |Druid  |Spact  |frds|SZELETX|N
+|Bomb   |Ninja  |Spact  |Village|frds|SZELETX|N
+|Bomb   |Ninja  |Spact  |Engi   |frds|SZELETX|N
+|Gwen   |Bomb   |Ninja  |Spact  |frds|SZELETX|N
+|Striker|Bomb   |Ninja  |Spact  |frds|SZELETX|N
+|Pat    |Bomb   |Ninja  |Spact  |frds|SZELETX|N
+|Church |Bomb   |Ninja  |Spact  |frds|SZELETX|N
+|Ben    |Bomb   |Ninja  |Spact  |frds|SZELETX|N
+|Ezili  |Bomb   |Ninja  |Spact  |frds|SZELETX|N
+|Bomb   |Tack   |Super  |Ninja  |Char|EZELRBD|N
+|Dart   |Bomb   |Super  |Ninja  |the_op_boss|UZELLXT|N
+|Bomb   |Mortar |Super  |Ninja  |the_op_boss|FZELLDK|N
+|Bomb   |Glue   |Mortar |Ninja  |Char|DZEOKVV|N
+|Obyn   |Bomb   |Ace    |Ninja  |Chocbox|YZEOMGO|N
+|Ezili  |Bomb   |Super  |Ninja  |coolio1223|SZPUAUW|N
+|Bomb   |Sub    |Ninja  |Village|Emtee|GZPWSXG|N
+|Dart   |Bomb   |Ninja  |Village|Emtee|DZPWLEP|N
+|Boomer |Bomb   |Ninja  |Village|Emtee|DZPWLEP|N
+|Bomb   |Ice    |Ninja  |Village|Emtee|DZPWLEP|N
+|Bomb   |Glue   |Ninja  |Village|Emtee|DZPWLEP|N
+|Bomb   |Sniper |Ninja  |Village|Emtee|DZPWLEP|N
+|Bomb   |Bucc   |Ninja  |Village|Emtee|DZPWLEP|N
+|Bomb   |Ace    |Ninja  |Village|Emtee|DZPWLEP|N
+|Bomb   |Mortar |Ninja  |Village|Emtee|DZPWLEP|N
+|Bomb   |Ninja  |Druid  |Village|Emtee|DZPWLEP|N
+|Bomb   |Ninja  |Village|Engi   |Emtee|DZPWLEP|N
+|Quincy |Bomb   |Ninja  |Village|Emtee|DZPWLEP|N
+|Gwen   |Bomb   |Ninja  |Village|Emtee|DZPWLEP|N
+|Striker|Bomb   |Ninja  |Village|Emtee|DZPWLEP|N
+|Obyn   |Bomb   |Ninja  |Village|Emtee|DZPWLEP|N
+|Church |Bomb   |Ninja  |Village|Emtee|DZPWLEP|N
+|Ben    |Bomb   |Ninja  |Village|Emtee|DZPWLEP|N
+|Ezili  |Bomb   |Ninja  |Village|Emtee|DZPWLEP|N
+|Pat    |Bomb   |Super  |Ninja  |kernnpop|LZPXXHU|N
+|Bomb   |Ice    |Ace    |Ninja  |Char|MZPBUPF|N
+|Bomb   |Glue   |Super  |Ninja  |coolio1223|EZPECEK|N
+|Bomb   |Super  |Ninja  |Engi   |Emtee|DZPSPRF|N
+|Bomb   |Ace    |Ninja  |Engi   |The Mochinator|OZRXVOY|N
+|Bomb   |Bucc   |Super  |Ninja  |ILiekFishes|BZRADXL|N
+|Bomb   |Sub    |Ace    |Ninja  |ILiekFishes|SZRLKVP|N
+|Boomer |Ice    |Ninja  |Spact  |ILiekFishes|RZYMDTP|N
+|Boomer |Glue   |Ninja  |Spact  |ILiekFishes|RZYMDTP|N
+|Boomer |Sniper |Ninja  |Spact  |ILiekFishes|RZYMDTP|N
+|Boomer |Sub    |Ninja  |Spact  |ILiekFishes|RZYMDTP|N
+|Boomer |Ninja  |Druid  |Spact  |ILiekFishes|RZYMDTP|N
+|Boomer |Ninja  |Spact  |Village|ILiekFishes|RZYMDTP|N
+|Boomer |Ninja  |Spact  |Engi   |ILiekFishes|RZYMDTP|N
+|Quincy |Boomer |Ninja  |Spact  |ILiekFishes|RZYMDTP|N
+|Gwen   |Boomer |Ninja  |Spact  |ILiekFishes|RZYMDTP|N
+|Striker|Boomer |Ninja  |Spact  |ILiekFishes|RZYMDTP|N
+|Obyn   |Boomer |Ninja  |Spact  |ILiekFishes|RZYMDTP|N
+|Pat    |Boomer |Ninja  |Spact  |ILiekFishes|RZYMDTP|N
+|Church |Boomer |Ninja  |Spact  |ILiekFishes|RZYMDTP|N
+|Ben    |Boomer |Ninja  |Spact  |ILiekFishes|RZYMDTP|N
+|Ezili  |Boomer |Ninja  |Spact  |ILiekFishes|RZYMDTP|N
+|Boomer |Bomb   |Glue   |Spact  |The Mochinator|TZYGLEP|N
+|Boomer |Tack   |Glue   |Spact  |The Mochinator|TZYGLEP|N
+|Boomer |Ice    |Glue   |Spact  |The Mochinator|TZYGLEP|N
+|Boomer |Glue   |Sniper |Spact  |The Mochinator|TZYGLEP|N
+|Boomer |Glue   |Druid  |Spact  |The Mochinator|TZYGLEP|N
+|Boomer |Glue   |Spact  |Engi   |The Mochinator|TZYGLEP|N
+|Quincy |Boomer |Glue   |Spact  |The Mochinator|TZYGLEP|N
+|Gwen   |Boomer |Glue   |Spact  |The Mochinator|TZYGLEP|N
+|Striker|Boomer |Glue   |Spact  |The Mochinator|TZYGLEP|N
+|Obyn   |Boomer |Glue   |Spact  |The Mochinator|TZYGLEP|N
+|Pat    |Boomer |Glue   |Spact  |The Mochinator|TZYGLEP|N
+|Church |Boomer |Glue   |Spact  |The Mochinator|TZYGLEP|N
+|Ben    |Boomer |Glue   |Spact  |The Mochinator|TZYGLEP|N
+|Boomer |Ice    |Village|Engi   |coolio1223|OZYGOMU|N
+|Boomer |Glue   |Village|Engi   |coolio1223|OZYGOMU|N
+|Boomer |Sniper |Village|Engi   |coolio1223|OZYGOMU|N
+|Boomer |Mortar |Village|Engi   |coolio1223|OZYGOMU|N
+|Boomer |Ninja  |Village|Engi   |coolio1223|OZYGOMU|N
+|Boomer |Druid  |Village|Engi   |coolio1223|OZYGOMU|N
+|Boomer |Spact  |Village|Engi   |coolio1223|OZYGOMU|N
+|Quincy |Boomer |Village|Engi   |coolio1223|OZYGOMU|N
+|Gwen   |Boomer |Village|Engi   |coolio1223|OZYGOMU|N
+|Striker|Boomer |Village|Engi   |coolio1223|OZYGOMU|N
+|Pat    |Boomer |Village|Engi   |coolio1223|OZYGOMU|N
+|Church |Boomer |Village|Engi   |coolio1223|OZYGOMU|N
+|Ben    |Boomer |Village|Engi   |coolio1223|OZYGOMU|N
+|Ezili  |Boomer |Village|Engi   |coolio1223|OZYGOMU|N
