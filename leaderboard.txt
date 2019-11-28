@@ -1,21 +1,22 @@
-The Mochinator: 970
+The Mochinator: 991
 Char: 308
 Agent51: 271
 Emtee: 251
 the_op_boss: 235
-coolio1223: 219
+coolio1223: 226
 Great Mage: 194
 rigged: 177
 ILiekFishes: 165
 Topaz: 156
 kernnpop: 134
+Gavo38322: 125
 315Lukas: 125
-Gavo38322: 124
 Chocbox: 118
 meta: 113
 frds: 111
 Urinetosh: 95
 Smurfblade: 76
+TremenMusic: 73
 PEZmaster2: 73
 UnLapiz: 57
 123CrimsonRain: 47
@@ -42,13 +43,12 @@ MaiaGD: 15
 HikingPotato: 15
 powergo: 14
 Mlop098: 14
+DespacitoMage: 14
 AIGP2304: 14
 JrMonkey15184: 13
 PercyJackson: 12
 Kevaca: 12
-DespacitoMage: 12
 380-mortis: 12
-TremenMusic: 11
 Valter: 10
 LightChaosman: 10
 Imbigtedde: 10
