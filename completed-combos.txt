@@ -6363,12 +6363,6 @@
 |Pat    |Sub    |Alch   |Village|TheKNEE13|CZPWPUF|N
 |Church |Tack   |Sub    |Alch   |InnateWarrior|AZPWRSS|N
 |Tack   |Sub    |Alch   |Druid  |InnateWarrior|CZPWYFK|N
-|Ezili  |Ice    |Ace    |Mortar |The Mochinator|SZPWLFM|N
-|Quincy |Ice    |Ace    |Mortar |The Mochinator|SZPWLFM|N
-|Ice    |Ace    |Mortar |Engi   |The Mochinator|SZPWLFM|N
-|Ice    |Ace    |Mortar |Druid  |The Mochinator|SZPWLFM|N
-|Ice    |Ace    |Mortar |Ninja  |The Mochinator|SZPWLFM|N
-|Bomb   |Ice    |Ace    |Mortar |The Mochinator|SZPWLFM|N
 |Ben    |Wizard |Druid  |Village|Agent51|DZPWOAW|N
 |Pat    |Wizard |Druid  |Village|Agent51|DZPWOAW|N
 |Striker|Wizard |Druid  |Village|Agent51|DZPWOAW|N
@@ -7754,17 +7748,6 @@
 |Pat    |Ice    |Ace    |Heli   |The Line|UZELUUT|N
 |Church |Ice    |Ace    |Heli   |The Line|UZELUUT|N
 |Ben    |Ice    |Ace    |Heli   |The Line|UZELUUT|N
-|Ice    |Glue   |Ace    |Mortar |The Mochinator|SZPWLFM|N
-|Ice    |Sniper |Ace    |Mortar |The Mochinator|SZPWLFM|N
-|Ice    |Ace    |Mortar |Super  |The Mochinator|SZPWLFM|N
-|Ice    |Ace    |Mortar |Spact  |The Mochinator|SZPWLFM|N
-|Ice    |Ace    |Mortar |Village|The Mochinator|SZPWLFM|N
-|Gwen   |Ice    |Ace    |Mortar |The Mochinator|SZPWLFM|N
-|Striker|Ice    |Ace    |Mortar |The Mochinator|SZPWLFM|N
-|Obyn   |Ice    |Ace    |Mortar |The Mochinator|SZPWLFM|N
-|Pat    |Ice    |Ace    |Mortar |The Mochinator|SZPWLFM|N
-|Church |Ice    |Ace    |Mortar |The Mochinator|SZPWLFM|N
-|Ben    |Ice    |Ace    |Mortar |The Mochinator|SZPWLFM|N
 |Ice    |Glue   |Sniper |Heli   |The Mochinator|GZPXPOC|N
 |Ice    |Sniper |Heli   |Mortar |The Mochinator|GZPXPOC|N
 |Ice    |Sniper |Heli   |Super  |The Mochinator|GZPXPOC|N
@@ -8032,3 +8015,113 @@
 |Church |Boomer |Village|Engi   |coolio1223|OZYGOMU|N
 |Ben    |Boomer |Village|Engi   |coolio1223|OZYGOMU|N
 |Ezili  |Boomer |Village|Engi   |coolio1223|OZYGOMU|N
+|Dart   |Glue   |Bucc   |Heli   |The Mochinator|WZYHFDS|N
+|Boomer |Glue   |Bucc   |Heli   |The Mochinator|WZYHFDS|N
+|Bomb   |Glue   |Bucc   |Heli   |The Mochinator|WZYHFDS|N
+|Tack   |Glue   |Bucc   |Heli   |The Mochinator|WZYHFDS|N
+|Glue   |Bucc   |Heli   |Druid  |The Mochinator|WZYHFDS|N
+|Quincy |Glue   |Bucc   |Heli   |The Mochinator|WZYHFDS|N
+|Striker|Glue   |Bucc   |Heli   |The Mochinator|WZYHFDS|N
+|Ezili  |Bomb   |Ice    |Wizard |The Mochinator|TZYHWUV|N
+|Ezili  |Ice    |Wizard |Alch   |The Mochinator|TZYHWUV|N
+|Ezili  |Ice    |Wizard |Engi   |The Mochinator|TZYHWUV|N
+|Pat    |Tack   |Sub    |Engi   |DespacitoMage|SZYGLFG|N
+|Pat    |Boomer |Sub    |Engi   |DespacitoMage|RZYHMVR|N
+|Bomb   |Ice    |Glue   |Wizard |The Mochinator|YZYHTAO|N
+|Bomb   |Ice    |Wizard |Alch   |The Mochinator|YZYHTAO|N
+|Gwen   |Bomb   |Ice    |Wizard |The Mochinator|YZYHTAO|N
+|Striker|Bomb   |Ice    |Wizard |The Mochinator|YZYHTAO|N
+|Pat    |Bomb   |Ice    |Wizard |The Mochinator|YZYHTAO|N
+|Ben    |Bomb   |Ice    |Wizard |The Mochinator|YZYHTAO|N
+|Pat    |Dart   |Boomer |Heli   |The Mochinator|WZYHXCX|N
+|Pat    |Dart   |Bomb   |Heli   |The Mochinator|WZYHXCX|N
+|Pat    |Dart   |Tack   |Heli   |The Mochinator|WZYHXCX|N
+|Pat    |Dart   |Glue   |Heli   |The Mochinator|WZYHXCX|N
+|Pat    |Dart   |Heli   |Druid  |The Mochinator|WZYHXCX|N
+|Bomb   |Ice    |Heli   |Mortar |TremenMusic|YZYHXLD|N
+|Ice    |Glue   |Heli   |Mortar |TremenMusic|YZYHXLD|N
+|Ice    |Heli   |Mortar |Super  |TremenMusic|YZYHXLD|N
+|Ice    |Heli   |Mortar |Village|TremenMusic|YZYHXLD|N
+|Gwen   |Ice    |Heli   |Mortar |TremenMusic|YZYHXLD|N
+|Striker|Ice    |Heli   |Mortar |TremenMusic|YZYHXLD|N
+|Pat    |Ice    |Heli   |Mortar |TremenMusic|YZYHXLD|N
+|Church |Ice    |Heli   |Mortar |TremenMusic|YZYHXLD|N
+|Ben    |Ice    |Heli   |Mortar |TremenMusic|YZYHXLD|N
+|Gwen   |Dart   |Bucc   |Heli   |The Mochinator|GZYHADX|N
+|Gwen   |Bomb   |Bucc   |Heli   |The Mochinator|GZYHADX|N
+|Gwen   |Tack   |Bucc   |Heli   |The Mochinator|GZYHADX|N
+|Gwen   |Bucc   |Heli   |Druid  |The Mochinator|GZYHADX|N
+|Dart   |Ice    |Glue   |Village|TremenMusic|MZYHBBU|N
+|Dart   |Ice    |Sniper |Village|TremenMusic|MZYHBBU|N
+|Dart   |Ice    |Sub    |Village|TremenMusic|MZYHBBU|N
+|Dart   |Ice    |Mortar |Village|TremenMusic|MZYHBBU|N
+|Dart   |Ice    |Ninja  |Village|TremenMusic|MZYHBBU|N
+|Dart   |Ice    |Alch   |Village|TremenMusic|MZYHBBU|N
+|Dart   |Ice    |Druid  |Village|TremenMusic|MZYHBBU|N
+|Dart   |Ice    |Village|Engi   |TremenMusic|MZYHBBU|N
+|Quincy |Dart   |Ice    |Village|TremenMusic|MZYHBBU|N
+|Gwen   |Dart   |Ice    |Village|TremenMusic|MZYHBBU|N
+|Striker|Dart   |Ice    |Village|TremenMusic|MZYHBBU|N
+|Obyn   |Dart   |Ice    |Village|TremenMusic|MZYHBBU|N
+|Pat    |Dart   |Ice    |Village|TremenMusic|MZYHBBU|N
+|Church |Dart   |Ice    |Village|TremenMusic|MZYHBBU|N
+|Ben    |Dart   |Ice    |Village|TremenMusic|MZYHBBU|N
+|Ezili  |Dart   |Ice    |Village|TremenMusic|MZYHBBU|N
+|Quincy |Boomer |Bomb   |Mortar |coolio1223|PZYHBMT|N
+|Quincy |Boomer |Ice    |Mortar |coolio1223|PZYHBMT|N
+|Quincy |Boomer |Sniper |Mortar |coolio1223|PZYHBMT|N
+|Quincy |Boomer |Sub    |Mortar |coolio1223|PZYHBMT|N
+|Quincy |Boomer |Mortar |Ninja  |coolio1223|PZYHBMT|N
+|Quincy |Boomer |Mortar |Druid  |coolio1223|PZYHBMT|N
+|Quincy |Boomer |Mortar |Engi   |coolio1223|PZYHBMT|N
+|Tack   |Alch   |Village|Engi   |Gavo38322|DZYHBLS|N
+|Boomer |Ice    |Druid  |Village|The Mochinator|WZYHCKD|N
+|Boomer |Glue   |Druid  |Village|The Mochinator|WZYHCKD|N
+|Boomer |Sniper |Druid  |Village|The Mochinator|WZYHCKD|N
+|Boomer |Mortar |Druid  |Village|The Mochinator|WZYHCKD|N
+|Boomer |Ninja  |Druid  |Village|The Mochinator|WZYHCKD|N
+|Boomer |Druid  |Spact  |Village|The Mochinator|WZYHCKD|N
+|Quincy |Boomer |Druid  |Village|The Mochinator|WZYHCKD|N
+|Gwen   |Boomer |Druid  |Village|The Mochinator|WZYHCKD|N
+|Striker|Boomer |Druid  |Village|The Mochinator|WZYHCKD|N
+|Pat    |Boomer |Druid  |Village|The Mochinator|WZYHCKD|N
+|Church |Boomer |Druid  |Village|The Mochinator|WZYHCKD|N
+|Ben    |Boomer |Druid  |Village|The Mochinator|WZYHCKD|N
+|Ezili  |Boomer |Druid  |Village|The Mochinator|WZYHCKD|N
+|Boomer |Ice    |Glue   |Village|TremenMusic|DZYHCUP|N
+|Boomer |Ice    |Sniper |Village|TremenMusic|DZYHCUP|N
+|Boomer |Ice    |Mortar |Village|TremenMusic|DZYHCUP|N
+|Boomer |Ice    |Super  |Village|TremenMusic|DZYHCUP|N
+|Boomer |Ice    |Spact  |Village|TremenMusic|DZYHCUP|N
+|Gwen   |Boomer |Ice    |Village|TremenMusic|DZYHCUP|N
+|Striker|Boomer |Ice    |Village|TremenMusic|DZYHCUP|N
+|Pat    |Boomer |Ice    |Village|TremenMusic|DZYHCUP|N
+|Church |Boomer |Ice    |Village|TremenMusic|DZYHCUP|N
+|Ben    |Boomer |Ice    |Village|TremenMusic|DZYHCUP|N
+|Ezili  |Boomer |Ice    |Village|TremenMusic|DZYHCUP|N
+|Bomb   |Tack   |Mortar |Super  |TremenMusic|MZYHOUM|N
+|Tack   |Ice    |Mortar |Super  |TremenMusic|MZYHOUM|N
+|Tack   |Glue   |Mortar |Super  |TremenMusic|MZYHOUM|N
+|Tack   |Sniper |Mortar |Super  |TremenMusic|MZYHOUM|N
+|Tack   |Mortar |Super  |Alch   |TremenMusic|MZYHOUM|N
+|Tack   |Mortar |Super  |Druid  |TremenMusic|MZYHOUM|N
+|Tack   |Mortar |Super  |Village|TremenMusic|MZYHOUM|N
+|Pat    |Tack   |Mortar |Super  |TremenMusic|MZYHOUM|N
+|Ben    |Tack   |Mortar |Super  |TremenMusic|MZYHOUM|N
+|Ezili  |Ice    |Ace    |Mortar |TremenMusic|KZYUWKD|N
+|Quincy |Ice    |Ace    |Mortar |TremenMusic|KZYUWKD|N
+|Ice    |Ace    |Mortar |Engi   |TremenMusic|KZYUWKD|N
+|Ice    |Ace    |Mortar |Druid  |TremenMusic|KZYUWKD|N
+|Ice    |Ace    |Mortar |Ninja  |TremenMusic|KZYUWKD|N
+|Bomb   |Ice    |Ace    |Mortar |TremenMusic|KZYUWKD|N
+|Ice    |Glue   |Ace    |Mortar |TremenMusic|KZYUWKD|N
+|Ice    |Sniper |Ace    |Mortar |TremenMusic|KZYUWKD|N
+|Ice    |Ace    |Mortar |Super  |TremenMusic|KZYUWKD|N
+|Ice    |Ace    |Mortar |Spact  |TremenMusic|KZYUWKD|N
+|Ice    |Ace    |Mortar |Village|TremenMusic|KZYUWKD|N
+|Gwen   |Ice    |Ace    |Mortar |TremenMusic|KZYUWKD|N
+|Striker|Ice    |Ace    |Mortar |TremenMusic|KZYUWKD|N
+|Obyn   |Ice    |Ace    |Mortar |TremenMusic|KZYUWKD|N
+|Pat    |Ice    |Ace    |Mortar |TremenMusic|KZYUWKD|N
+|Church |Ice    |Ace    |Mortar |TremenMusic|KZYUWKD|N
+|Ben    |Ice    |Ace    |Mortar |TremenMusic|KZYUWKD|N
