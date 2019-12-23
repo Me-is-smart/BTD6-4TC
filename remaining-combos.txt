@@ -40,7 +40,6 @@
 |Dart   |Boomer |Sniper |Alch   |
 |Dart   |Boomer |Sniper |Druid  |
 |Dart   |Boomer |Sniper |Engi   |
-|Dart   |Boomer |Sub    |Bucc   |
 |Dart   |Boomer |Sub    |Ninja  |
 |Dart   |Boomer |Sub    |Druid  |
 |Dart   |Boomer |Sub    |Engi   |
@@ -216,7 +215,6 @@
 |Dart   |Glue   |Sniper |Spact  |
 |Dart   |Glue   |Sniper |Village|
 |Dart   |Glue   |Sniper |Engi   |
-|Dart   |Glue   |Sub    |Bucc   |
 |Dart   |Glue   |Sub    |Ninja  |
 |Dart   |Glue   |Sub    |Alch   |
 |Dart   |Glue   |Sub    |Druid  |
@@ -277,7 +275,6 @@
 |Dart   |Sniper |Village|Engi   |
 |Dart   |Sub    |Bucc   |Ninja  |
 |Dart   |Sub    |Bucc   |Druid  |
-|Dart   |Sub    |Bucc   |Spact  |
 |Dart   |Sub    |Bucc   |Engi   |
 |Dart   |Sub    |Mortar |Ninja  |
 |Dart   |Sub    |Mortar |Druid  |
@@ -773,7 +770,6 @@
 |Bomb   |Sub    |Spact  |Engi   |
 |Bomb   |Bucc   |Ace    |Druid  |
 |Bomb   |Bucc   |Heli   |Druid  |
-|Bomb   |Bucc   |Mortar |Ninja  |
 |Bomb   |Bucc   |Ninja  |Druid  |
 |Bomb   |Bucc   |Ninja  |Engi   |
 |Bomb   |Bucc   |Alch   |Druid  |
@@ -1652,7 +1648,6 @@
 |Quincy |Glue   |Bucc   |Engi   |
 |Quincy |Glue   |Ace    |Druid  |
 |Quincy |Glue   |Heli   |Druid  |
-|Quincy |Glue   |Heli   |Spact  |
 |Quincy |Glue   |Ninja  |Druid  |
 |Quincy |Glue   |Ninja  |Spact  |
 |Quincy |Glue   |Ninja  |Engi   |
@@ -1678,7 +1673,6 @@
 |Quincy |Sniper |Ace    |Druid  |
 |Quincy |Sniper |Ace    |Village|
 |Quincy |Sniper |Heli   |Druid  |
-|Quincy |Sniper |Heli   |Spact  |
 |Quincy |Sniper |Mortar |Ninja  |
 |Quincy |Sniper |Mortar |Alch   |
 |Quincy |Sniper |Mortar |Druid  |
@@ -1723,7 +1717,6 @@
 |Quincy |Bucc   |Druid  |Engi   |
 |Quincy |Bucc   |Spact  |Engi   |
 |Quincy |Ace    |Ninja  |Druid  |
-|Quincy |Heli   |Ninja  |Spact  |
 |Quincy |Mortar |Ninja  |Druid  |
 |Quincy |Mortar |Ninja  |Village|
 |Quincy |Mortar |Ninja  |Engi   |
@@ -2329,7 +2322,6 @@
 |Striker|Dart   |Sniper |Village|
 |Striker|Dart   |Sniper |Engi   |
 |Striker|Dart   |Sub    |Bucc   |
-|Striker|Dart   |Sub    |Mortar |
 |Striker|Dart   |Sub    |Ninja  |
 |Striker|Dart   |Sub    |Alch   |
 |Striker|Dart   |Sub    |Druid  |
@@ -2469,7 +2461,6 @@
 |Striker|Bomb   |Sniper |Village|
 |Striker|Bomb   |Sniper |Engi   |
 |Striker|Bomb   |Sub    |Bucc   |
-|Striker|Bomb   |Sub    |Mortar |
 |Striker|Bomb   |Sub    |Ninja  |
 |Striker|Bomb   |Sub    |Alch   |
 |Striker|Bomb   |Sub    |Druid  |
@@ -2599,7 +2590,6 @@
 |Striker|Ice    |Sniper |Engi   |
 |Striker|Ice    |Sub    |Bucc   |
 |Striker|Ice    |Sub    |Ace    |
-|Striker|Ice    |Sub    |Mortar |
 |Striker|Ice    |Sub    |Ninja  |
 |Striker|Ice    |Sub    |Alch   |
 |Striker|Ice    |Sub    |Druid  |
@@ -2684,7 +2674,6 @@
 |Striker|Glue   |Village|Engi   |
 |Striker|Sniper |Sub    |Bucc   |
 |Striker|Sniper |Sub    |Ace    |
-|Striker|Sniper |Sub    |Mortar |
 |Striker|Sniper |Sub    |Wizard |
 |Striker|Sniper |Sub    |Ninja  |
 |Striker|Sniper |Sub    |Alch   |
@@ -2728,10 +2717,6 @@
 |Striker|Sub    |Bucc   |Spact  |
 |Striker|Sub    |Bucc   |Engi   |
 |Striker|Sub    |Ace    |Druid  |
-|Striker|Sub    |Mortar |Ninja  |
-|Striker|Sub    |Mortar |Druid  |
-|Striker|Sub    |Mortar |Spact  |
-|Striker|Sub    |Mortar |Engi   |
 |Striker|Sub    |Wizard |Druid  |
 |Striker|Sub    |Ninja  |Druid  |
 |Striker|Sub    |Ninja  |Spact  |
@@ -3927,7 +3912,6 @@
 |Church |Bomb   |Sniper |Ace    |
 |Church |Bomb   |Sniper |Heli   |
 |Church |Bomb   |Sniper |Mortar |
-|Church |Bomb   |Sniper |Super  |
 |Church |Bomb   |Sniper |Ninja  |
 |Church |Bomb   |Sniper |Alch   |
 |Church |Bomb   |Sniper |Druid  |
@@ -4736,7 +4720,6 @@
 |Ben    |Mortar |Druid  |Engi   |
 |Ben    |Mortar |Spact  |Engi   |
 |Ben    |Mortar |Village|Engi   |
-|Ben    |Wizard |Super  |Village|
 |Ben    |Wizard |Alch   |Engi   |
 |Ben    |Wizard |Druid  |Engi   |
 |Ben    |Super  |Ninja  |Druid  |
@@ -5282,3 +5265,4131 @@
 |Ezili  |Druid  |Spact  |Engi   |
 |Ezili  |Druid  |Village|Engi   |
 |Ezili  |Spact  |Village|Engi   |
+|Adora  |Dart   |Boomer |Bomb   |
+|Adora  |Dart   |Boomer |Tack   |
+|Adora  |Dart   |Boomer |Ice    |
+|Adora  |Dart   |Boomer |Glue   |
+|Adora  |Dart   |Boomer |Sniper |
+|Adora  |Dart   |Boomer |Sub    |
+|Adora  |Dart   |Boomer |Bucc   |
+|Adora  |Dart   |Boomer |Heli   |
+|Adora  |Dart   |Boomer |Ninja  |
+|Adora  |Dart   |Boomer |Alch   |
+|Adora  |Dart   |Boomer |Druid  |
+|Adora  |Dart   |Boomer |Engi   |
+|Adora  |Dart   |Bomb   |Boomer |
+|Adora  |Dart   |Bomb   |Tack   |
+|Adora  |Dart   |Bomb   |Ice    |
+|Adora  |Dart   |Bomb   |Glue   |
+|Adora  |Dart   |Bomb   |Sniper |
+|Adora  |Dart   |Bomb   |Sub    |
+|Adora  |Dart   |Bomb   |Bucc   |
+|Adora  |Dart   |Bomb   |Ace    |
+|Adora  |Dart   |Bomb   |Heli   |
+|Adora  |Dart   |Bomb   |Mortar |
+|Adora  |Dart   |Bomb   |Ninja  |
+|Adora  |Dart   |Bomb   |Alch   |
+|Adora  |Dart   |Bomb   |Druid  |
+|Adora  |Dart   |Bomb   |Spact  |
+|Adora  |Dart   |Bomb   |Engi   |
+|Adora  |Dart   |Tack   |Boomer |
+|Adora  |Dart   |Tack   |Bomb   |
+|Adora  |Dart   |Tack   |Ice    |
+|Adora  |Dart   |Tack   |Glue   |
+|Adora  |Dart   |Tack   |Sniper |
+|Adora  |Dart   |Tack   |Sub    |
+|Adora  |Dart   |Tack   |Bucc   |
+|Adora  |Dart   |Tack   |Ace    |
+|Adora  |Dart   |Tack   |Heli   |
+|Adora  |Dart   |Tack   |Ninja  |
+|Adora  |Dart   |Tack   |Alch   |
+|Adora  |Dart   |Tack   |Druid  |
+|Adora  |Dart   |Tack   |Engi   |
+|Adora  |Dart   |Ice    |Boomer |
+|Adora  |Dart   |Ice    |Bomb   |
+|Adora  |Dart   |Ice    |Tack   |
+|Adora  |Dart   |Ice    |Glue   |
+|Adora  |Dart   |Ice    |Sniper |
+|Adora  |Dart   |Ice    |Sub    |
+|Adora  |Dart   |Ice    |Bucc   |
+|Adora  |Dart   |Ice    |Ace    |
+|Adora  |Dart   |Ice    |Mortar |
+|Adora  |Dart   |Ice    |Ninja  |
+|Adora  |Dart   |Ice    |Alch   |
+|Adora  |Dart   |Ice    |Druid  |
+|Adora  |Dart   |Ice    |Spact  |
+|Adora  |Dart   |Ice    |Engi   |
+|Adora  |Dart   |Glue   |Boomer |
+|Adora  |Dart   |Glue   |Bomb   |
+|Adora  |Dart   |Glue   |Tack   |
+|Adora  |Dart   |Glue   |Ice    |
+|Adora  |Dart   |Glue   |Sniper |
+|Adora  |Dart   |Glue   |Sub    |
+|Adora  |Dart   |Glue   |Bucc   |
+|Adora  |Dart   |Glue   |Ace    |
+|Adora  |Dart   |Glue   |Heli   |
+|Adora  |Dart   |Glue   |Mortar |
+|Adora  |Dart   |Glue   |Ninja  |
+|Adora  |Dart   |Glue   |Alch   |
+|Adora  |Dart   |Glue   |Druid  |
+|Adora  |Dart   |Glue   |Spact  |
+|Adora  |Dart   |Glue   |Village|
+|Adora  |Dart   |Glue   |Engi   |
+|Adora  |Dart   |Sniper |Boomer |
+|Adora  |Dart   |Sniper |Bomb   |
+|Adora  |Dart   |Sniper |Tack   |
+|Adora  |Dart   |Sniper |Ice    |
+|Adora  |Dart   |Sniper |Glue   |
+|Adora  |Dart   |Sniper |Sub    |
+|Adora  |Dart   |Sniper |Bucc   |
+|Adora  |Dart   |Sniper |Ace    |
+|Adora  |Dart   |Sniper |Mortar |
+|Adora  |Dart   |Sniper |Ninja  |
+|Adora  |Dart   |Sniper |Alch   |
+|Adora  |Dart   |Sniper |Druid  |
+|Adora  |Dart   |Sniper |Spact  |
+|Adora  |Dart   |Sniper |Village|
+|Adora  |Dart   |Sniper |Engi   |
+|Adora  |Dart   |Sub    |Boomer |
+|Adora  |Dart   |Sub    |Bomb   |
+|Adora  |Dart   |Sub    |Tack   |
+|Adora  |Dart   |Sub    |Ice    |
+|Adora  |Dart   |Sub    |Glue   |
+|Adora  |Dart   |Sub    |Sniper |
+|Adora  |Dart   |Sub    |Bucc   |
+|Adora  |Dart   |Sub    |Mortar |
+|Adora  |Dart   |Sub    |Ninja  |
+|Adora  |Dart   |Sub    |Alch   |
+|Adora  |Dart   |Sub    |Druid  |
+|Adora  |Dart   |Sub    |Spact  |
+|Adora  |Dart   |Sub    |Village|
+|Adora  |Dart   |Sub    |Engi   |
+|Adora  |Dart   |Bucc   |Boomer |
+|Adora  |Dart   |Bucc   |Bomb   |
+|Adora  |Dart   |Bucc   |Tack   |
+|Adora  |Dart   |Bucc   |Ice    |
+|Adora  |Dart   |Bucc   |Glue   |
+|Adora  |Dart   |Bucc   |Sniper |
+|Adora  |Dart   |Bucc   |Sub    |
+|Adora  |Dart   |Bucc   |Heli   |
+|Adora  |Dart   |Bucc   |Ninja  |
+|Adora  |Dart   |Bucc   |Alch   |
+|Adora  |Dart   |Bucc   |Druid  |
+|Adora  |Dart   |Bucc   |Spact  |
+|Adora  |Dart   |Bucc   |Village|
+|Adora  |Dart   |Bucc   |Engi   |
+|Adora  |Dart   |Ace    |Bomb   |
+|Adora  |Dart   |Ace    |Tack   |
+|Adora  |Dart   |Ace    |Ice    |
+|Adora  |Dart   |Ace    |Glue   |
+|Adora  |Dart   |Ace    |Sniper |
+|Adora  |Dart   |Ace    |Ninja  |
+|Adora  |Dart   |Ace    |Druid  |
+|Adora  |Dart   |Heli   |Boomer |
+|Adora  |Dart   |Heli   |Bomb   |
+|Adora  |Dart   |Heli   |Tack   |
+|Adora  |Dart   |Heli   |Glue   |
+|Adora  |Dart   |Heli   |Bucc   |
+|Adora  |Dart   |Heli   |Druid  |
+|Adora  |Dart   |Mortar |Bomb   |
+|Adora  |Dart   |Mortar |Ice    |
+|Adora  |Dart   |Mortar |Glue   |
+|Adora  |Dart   |Mortar |Sniper |
+|Adora  |Dart   |Mortar |Sub    |
+|Adora  |Dart   |Mortar |Ninja  |
+|Adora  |Dart   |Mortar |Druid  |
+|Adora  |Dart   |Mortar |Village|
+|Adora  |Dart   |Mortar |Engi   |
+|Adora  |Dart   |Super  |Village|
+|Adora  |Dart   |Ninja  |Boomer |
+|Adora  |Dart   |Ninja  |Bomb   |
+|Adora  |Dart   |Ninja  |Tack   |
+|Adora  |Dart   |Ninja  |Ice    |
+|Adora  |Dart   |Ninja  |Glue   |
+|Adora  |Dart   |Ninja  |Sniper |
+|Adora  |Dart   |Ninja  |Sub    |
+|Adora  |Dart   |Ninja  |Bucc   |
+|Adora  |Dart   |Ninja  |Ace    |
+|Adora  |Dart   |Ninja  |Mortar |
+|Adora  |Dart   |Ninja  |Druid  |
+|Adora  |Dart   |Ninja  |Spact  |
+|Adora  |Dart   |Ninja  |Village|
+|Adora  |Dart   |Ninja  |Engi   |
+|Adora  |Dart   |Alch   |Boomer |
+|Adora  |Dart   |Alch   |Bomb   |
+|Adora  |Dart   |Alch   |Tack   |
+|Adora  |Dart   |Alch   |Ice    |
+|Adora  |Dart   |Alch   |Glue   |
+|Adora  |Dart   |Alch   |Sniper |
+|Adora  |Dart   |Alch   |Sub    |
+|Adora  |Dart   |Alch   |Bucc   |
+|Adora  |Dart   |Alch   |Druid  |
+|Adora  |Dart   |Alch   |Spact  |
+|Adora  |Dart   |Alch   |Village|
+|Adora  |Dart   |Alch   |Engi   |
+|Adora  |Dart   |Druid  |Boomer |
+|Adora  |Dart   |Druid  |Bomb   |
+|Adora  |Dart   |Druid  |Tack   |
+|Adora  |Dart   |Druid  |Ice    |
+|Adora  |Dart   |Druid  |Glue   |
+|Adora  |Dart   |Druid  |Sniper |
+|Adora  |Dart   |Druid  |Sub    |
+|Adora  |Dart   |Druid  |Bucc   |
+|Adora  |Dart   |Druid  |Ace    |
+|Adora  |Dart   |Druid  |Heli   |
+|Adora  |Dart   |Druid  |Mortar |
+|Adora  |Dart   |Druid  |Ninja  |
+|Adora  |Dart   |Druid  |Alch   |
+|Adora  |Dart   |Druid  |Spact  |
+|Adora  |Dart   |Druid  |Village|
+|Adora  |Dart   |Druid  |Engi   |
+|Adora  |Dart   |Spact  |Bomb   |
+|Adora  |Dart   |Spact  |Ice    |
+|Adora  |Dart   |Spact  |Glue   |
+|Adora  |Dart   |Spact  |Sniper |
+|Adora  |Dart   |Spact  |Sub    |
+|Adora  |Dart   |Spact  |Bucc   |
+|Adora  |Dart   |Spact  |Ninja  |
+|Adora  |Dart   |Spact  |Alch   |
+|Adora  |Dart   |Spact  |Druid  |
+|Adora  |Dart   |Spact  |Engi   |
+|Adora  |Dart   |Village|Glue   |
+|Adora  |Dart   |Village|Sniper |
+|Adora  |Dart   |Village|Sub    |
+|Adora  |Dart   |Village|Bucc   |
+|Adora  |Dart   |Village|Mortar |
+|Adora  |Dart   |Village|Super  |
+|Adora  |Dart   |Village|Ninja  |
+|Adora  |Dart   |Village|Alch   |
+|Adora  |Dart   |Village|Druid  |
+|Adora  |Dart   |Village|Engi   |
+|Adora  |Dart   |Engi   |Boomer |
+|Adora  |Dart   |Engi   |Bomb   |
+|Adora  |Dart   |Engi   |Tack   |
+|Adora  |Dart   |Engi   |Ice    |
+|Adora  |Dart   |Engi   |Glue   |
+|Adora  |Dart   |Engi   |Sniper |
+|Adora  |Dart   |Engi   |Sub    |
+|Adora  |Dart   |Engi   |Bucc   |
+|Adora  |Dart   |Engi   |Mortar |
+|Adora  |Dart   |Engi   |Ninja  |
+|Adora  |Dart   |Engi   |Alch   |
+|Adora  |Dart   |Engi   |Druid  |
+|Adora  |Dart   |Engi   |Spact  |
+|Adora  |Dart   |Engi   |Village|
+|Adora  |Boomer |Dart   |Bomb   |
+|Adora  |Boomer |Dart   |Tack   |
+|Adora  |Boomer |Dart   |Ice    |
+|Adora  |Boomer |Dart   |Glue   |
+|Adora  |Boomer |Dart   |Sniper |
+|Adora  |Boomer |Dart   |Sub    |
+|Adora  |Boomer |Dart   |Bucc   |
+|Adora  |Boomer |Dart   |Heli   |
+|Adora  |Boomer |Dart   |Ninja  |
+|Adora  |Boomer |Dart   |Alch   |
+|Adora  |Boomer |Dart   |Druid  |
+|Adora  |Boomer |Dart   |Engi   |
+|Adora  |Boomer |Bomb   |Dart   |
+|Adora  |Boomer |Bomb   |Tack   |
+|Adora  |Boomer |Bomb   |Ice    |
+|Adora  |Boomer |Bomb   |Glue   |
+|Adora  |Boomer |Bomb   |Sniper |
+|Adora  |Boomer |Bomb   |Sub    |
+|Adora  |Boomer |Bomb   |Bucc   |
+|Adora  |Boomer |Bomb   |Ace    |
+|Adora  |Boomer |Bomb   |Heli   |
+|Adora  |Boomer |Bomb   |Mortar |
+|Adora  |Boomer |Bomb   |Wizard |
+|Adora  |Boomer |Bomb   |Super  |
+|Adora  |Boomer |Bomb   |Ninja  |
+|Adora  |Boomer |Bomb   |Alch   |
+|Adora  |Boomer |Bomb   |Druid  |
+|Adora  |Boomer |Bomb   |Spact  |
+|Adora  |Boomer |Bomb   |Engi   |
+|Adora  |Boomer |Tack   |Dart   |
+|Adora  |Boomer |Tack   |Bomb   |
+|Adora  |Boomer |Tack   |Ice    |
+|Adora  |Boomer |Tack   |Glue   |
+|Adora  |Boomer |Tack   |Sniper |
+|Adora  |Boomer |Tack   |Sub    |
+|Adora  |Boomer |Tack   |Bucc   |
+|Adora  |Boomer |Tack   |Ace    |
+|Adora  |Boomer |Tack   |Heli   |
+|Adora  |Boomer |Tack   |Mortar |
+|Adora  |Boomer |Tack   |Super  |
+|Adora  |Boomer |Tack   |Ninja  |
+|Adora  |Boomer |Tack   |Alch   |
+|Adora  |Boomer |Tack   |Druid  |
+|Adora  |Boomer |Tack   |Spact  |
+|Adora  |Boomer |Tack   |Engi   |
+|Adora  |Boomer |Ice    |Dart   |
+|Adora  |Boomer |Ice    |Bomb   |
+|Adora  |Boomer |Ice    |Tack   |
+|Adora  |Boomer |Ice    |Glue   |
+|Adora  |Boomer |Ice    |Sniper |
+|Adora  |Boomer |Ice    |Sub    |
+|Adora  |Boomer |Ice    |Bucc   |
+|Adora  |Boomer |Ice    |Ace    |
+|Adora  |Boomer |Ice    |Mortar |
+|Adora  |Boomer |Ice    |Super  |
+|Adora  |Boomer |Ice    |Ninja  |
+|Adora  |Boomer |Ice    |Alch   |
+|Adora  |Boomer |Ice    |Druid  |
+|Adora  |Boomer |Ice    |Spact  |
+|Adora  |Boomer |Ice    |Engi   |
+|Adora  |Boomer |Glue   |Dart   |
+|Adora  |Boomer |Glue   |Bomb   |
+|Adora  |Boomer |Glue   |Tack   |
+|Adora  |Boomer |Glue   |Ice    |
+|Adora  |Boomer |Glue   |Sniper |
+|Adora  |Boomer |Glue   |Sub    |
+|Adora  |Boomer |Glue   |Bucc   |
+|Adora  |Boomer |Glue   |Ace    |
+|Adora  |Boomer |Glue   |Heli   |
+|Adora  |Boomer |Glue   |Mortar |
+|Adora  |Boomer |Glue   |Super  |
+|Adora  |Boomer |Glue   |Ninja  |
+|Adora  |Boomer |Glue   |Alch   |
+|Adora  |Boomer |Glue   |Druid  |
+|Adora  |Boomer |Glue   |Village|
+|Adora  |Boomer |Glue   |Engi   |
+|Adora  |Boomer |Sniper |Dart   |
+|Adora  |Boomer |Sniper |Bomb   |
+|Adora  |Boomer |Sniper |Tack   |
+|Adora  |Boomer |Sniper |Ice    |
+|Adora  |Boomer |Sniper |Glue   |
+|Adora  |Boomer |Sniper |Sub    |
+|Adora  |Boomer |Sniper |Bucc   |
+|Adora  |Boomer |Sniper |Ace    |
+|Adora  |Boomer |Sniper |Heli   |
+|Adora  |Boomer |Sniper |Mortar |
+|Adora  |Boomer |Sniper |Wizard |
+|Adora  |Boomer |Sniper |Ninja  |
+|Adora  |Boomer |Sniper |Alch   |
+|Adora  |Boomer |Sniper |Druid  |
+|Adora  |Boomer |Sniper |Spact  |
+|Adora  |Boomer |Sniper |Village|
+|Adora  |Boomer |Sniper |Engi   |
+|Adora  |Boomer |Sub    |Dart   |
+|Adora  |Boomer |Sub    |Bomb   |
+|Adora  |Boomer |Sub    |Tack   |
+|Adora  |Boomer |Sub    |Ice    |
+|Adora  |Boomer |Sub    |Glue   |
+|Adora  |Boomer |Sub    |Sniper |
+|Adora  |Boomer |Sub    |Bucc   |
+|Adora  |Boomer |Sub    |Mortar |
+|Adora  |Boomer |Sub    |Ninja  |
+|Adora  |Boomer |Sub    |Druid  |
+|Adora  |Boomer |Sub    |Spact  |
+|Adora  |Boomer |Sub    |Engi   |
+|Adora  |Boomer |Bucc   |Dart   |
+|Adora  |Boomer |Bucc   |Bomb   |
+|Adora  |Boomer |Bucc   |Tack   |
+|Adora  |Boomer |Bucc   |Ice    |
+|Adora  |Boomer |Bucc   |Glue   |
+|Adora  |Boomer |Bucc   |Sniper |
+|Adora  |Boomer |Bucc   |Sub    |
+|Adora  |Boomer |Bucc   |Heli   |
+|Adora  |Boomer |Bucc   |Ninja  |
+|Adora  |Boomer |Bucc   |Druid  |
+|Adora  |Boomer |Bucc   |Village|
+|Adora  |Boomer |Bucc   |Engi   |
+|Adora  |Boomer |Ace    |Bomb   |
+|Adora  |Boomer |Ace    |Tack   |
+|Adora  |Boomer |Ace    |Ice    |
+|Adora  |Boomer |Ace    |Glue   |
+|Adora  |Boomer |Ace    |Sniper |
+|Adora  |Boomer |Ace    |Druid  |
+|Adora  |Boomer |Heli   |Dart   |
+|Adora  |Boomer |Heli   |Bomb   |
+|Adora  |Boomer |Heli   |Tack   |
+|Adora  |Boomer |Heli   |Glue   |
+|Adora  |Boomer |Heli   |Sniper |
+|Adora  |Boomer |Heli   |Bucc   |
+|Adora  |Boomer |Heli   |Druid  |
+|Adora  |Boomer |Mortar |Bomb   |
+|Adora  |Boomer |Mortar |Tack   |
+|Adora  |Boomer |Mortar |Ice    |
+|Adora  |Boomer |Mortar |Glue   |
+|Adora  |Boomer |Mortar |Sniper |
+|Adora  |Boomer |Mortar |Sub    |
+|Adora  |Boomer |Mortar |Ninja  |
+|Adora  |Boomer |Mortar |Alch   |
+|Adora  |Boomer |Mortar |Druid  |
+|Adora  |Boomer |Mortar |Village|
+|Adora  |Boomer |Mortar |Engi   |
+|Adora  |Boomer |Wizard |Bomb   |
+|Adora  |Boomer |Wizard |Sniper |
+|Adora  |Boomer |Wizard |Druid  |
+|Adora  |Boomer |Super  |Bomb   |
+|Adora  |Boomer |Super  |Tack   |
+|Adora  |Boomer |Super  |Ice    |
+|Adora  |Boomer |Super  |Glue   |
+|Adora  |Boomer |Super  |Alch   |
+|Adora  |Boomer |Super  |Druid  |
+|Adora  |Boomer |Super  |Village|
+|Adora  |Boomer |Ninja  |Dart   |
+|Adora  |Boomer |Ninja  |Bomb   |
+|Adora  |Boomer |Ninja  |Tack   |
+|Adora  |Boomer |Ninja  |Ice    |
+|Adora  |Boomer |Ninja  |Glue   |
+|Adora  |Boomer |Ninja  |Sniper |
+|Adora  |Boomer |Ninja  |Sub    |
+|Adora  |Boomer |Ninja  |Bucc   |
+|Adora  |Boomer |Ninja  |Mortar |
+|Adora  |Boomer |Ninja  |Druid  |
+|Adora  |Boomer |Ninja  |Village|
+|Adora  |Boomer |Ninja  |Engi   |
+|Adora  |Boomer |Alch   |Dart   |
+|Adora  |Boomer |Alch   |Bomb   |
+|Adora  |Boomer |Alch   |Tack   |
+|Adora  |Boomer |Alch   |Ice    |
+|Adora  |Boomer |Alch   |Glue   |
+|Adora  |Boomer |Alch   |Sniper |
+|Adora  |Boomer |Alch   |Mortar |
+|Adora  |Boomer |Alch   |Super  |
+|Adora  |Boomer |Alch   |Druid  |
+|Adora  |Boomer |Alch   |Engi   |
+|Adora  |Boomer |Druid  |Dart   |
+|Adora  |Boomer |Druid  |Bomb   |
+|Adora  |Boomer |Druid  |Tack   |
+|Adora  |Boomer |Druid  |Ice    |
+|Adora  |Boomer |Druid  |Glue   |
+|Adora  |Boomer |Druid  |Sniper |
+|Adora  |Boomer |Druid  |Sub    |
+|Adora  |Boomer |Druid  |Bucc   |
+|Adora  |Boomer |Druid  |Ace    |
+|Adora  |Boomer |Druid  |Heli   |
+|Adora  |Boomer |Druid  |Mortar |
+|Adora  |Boomer |Druid  |Wizard |
+|Adora  |Boomer |Druid  |Super  |
+|Adora  |Boomer |Druid  |Ninja  |
+|Adora  |Boomer |Druid  |Alch   |
+|Adora  |Boomer |Druid  |Spact  |
+|Adora  |Boomer |Druid  |Engi   |
+|Adora  |Boomer |Spact  |Bomb   |
+|Adora  |Boomer |Spact  |Tack   |
+|Adora  |Boomer |Spact  |Ice    |
+|Adora  |Boomer |Spact  |Sniper |
+|Adora  |Boomer |Spact  |Sub    |
+|Adora  |Boomer |Spact  |Druid  |
+|Adora  |Boomer |Spact  |Village|
+|Adora  |Boomer |Spact  |Engi   |
+|Adora  |Boomer |Village|Glue   |
+|Adora  |Boomer |Village|Sniper |
+|Adora  |Boomer |Village|Bucc   |
+|Adora  |Boomer |Village|Mortar |
+|Adora  |Boomer |Village|Super  |
+|Adora  |Boomer |Village|Ninja  |
+|Adora  |Boomer |Village|Spact  |
+|Adora  |Boomer |Engi   |Dart   |
+|Adora  |Boomer |Engi   |Bomb   |
+|Adora  |Boomer |Engi   |Tack   |
+|Adora  |Boomer |Engi   |Ice    |
+|Adora  |Boomer |Engi   |Glue   |
+|Adora  |Boomer |Engi   |Sniper |
+|Adora  |Boomer |Engi   |Sub    |
+|Adora  |Boomer |Engi   |Bucc   |
+|Adora  |Boomer |Engi   |Mortar |
+|Adora  |Boomer |Engi   |Ninja  |
+|Adora  |Boomer |Engi   |Alch   |
+|Adora  |Boomer |Engi   |Druid  |
+|Adora  |Boomer |Engi   |Spact  |
+|Adora  |Bomb   |Dart   |Boomer |
+|Adora  |Bomb   |Dart   |Tack   |
+|Adora  |Bomb   |Dart   |Ice    |
+|Adora  |Bomb   |Dart   |Glue   |
+|Adora  |Bomb   |Dart   |Sniper |
+|Adora  |Bomb   |Dart   |Sub    |
+|Adora  |Bomb   |Dart   |Bucc   |
+|Adora  |Bomb   |Dart   |Ace    |
+|Adora  |Bomb   |Dart   |Heli   |
+|Adora  |Bomb   |Dart   |Mortar |
+|Adora  |Bomb   |Dart   |Ninja  |
+|Adora  |Bomb   |Dart   |Alch   |
+|Adora  |Bomb   |Dart   |Druid  |
+|Adora  |Bomb   |Dart   |Spact  |
+|Adora  |Bomb   |Dart   |Engi   |
+|Adora  |Bomb   |Boomer |Dart   |
+|Adora  |Bomb   |Boomer |Tack   |
+|Adora  |Bomb   |Boomer |Ice    |
+|Adora  |Bomb   |Boomer |Glue   |
+|Adora  |Bomb   |Boomer |Sniper |
+|Adora  |Bomb   |Boomer |Sub    |
+|Adora  |Bomb   |Boomer |Bucc   |
+|Adora  |Bomb   |Boomer |Ace    |
+|Adora  |Bomb   |Boomer |Heli   |
+|Adora  |Bomb   |Boomer |Mortar |
+|Adora  |Bomb   |Boomer |Wizard |
+|Adora  |Bomb   |Boomer |Super  |
+|Adora  |Bomb   |Boomer |Ninja  |
+|Adora  |Bomb   |Boomer |Alch   |
+|Adora  |Bomb   |Boomer |Druid  |
+|Adora  |Bomb   |Boomer |Spact  |
+|Adora  |Bomb   |Boomer |Engi   |
+|Adora  |Bomb   |Tack   |Dart   |
+|Adora  |Bomb   |Tack   |Boomer |
+|Adora  |Bomb   |Tack   |Ice    |
+|Adora  |Bomb   |Tack   |Glue   |
+|Adora  |Bomb   |Tack   |Sniper |
+|Adora  |Bomb   |Tack   |Sub    |
+|Adora  |Bomb   |Tack   |Bucc   |
+|Adora  |Bomb   |Tack   |Ace    |
+|Adora  |Bomb   |Tack   |Heli   |
+|Adora  |Bomb   |Tack   |Mortar |
+|Adora  |Bomb   |Tack   |Wizard |
+|Adora  |Bomb   |Tack   |Super  |
+|Adora  |Bomb   |Tack   |Ninja  |
+|Adora  |Bomb   |Tack   |Alch   |
+|Adora  |Bomb   |Tack   |Druid  |
+|Adora  |Bomb   |Tack   |Spact  |
+|Adora  |Bomb   |Tack   |Village|
+|Adora  |Bomb   |Tack   |Engi   |
+|Adora  |Bomb   |Ice    |Dart   |
+|Adora  |Bomb   |Ice    |Boomer |
+|Adora  |Bomb   |Ice    |Tack   |
+|Adora  |Bomb   |Ice    |Glue   |
+|Adora  |Bomb   |Ice    |Sniper |
+|Adora  |Bomb   |Ice    |Sub    |
+|Adora  |Bomb   |Ice    |Bucc   |
+|Adora  |Bomb   |Ice    |Ace    |
+|Adora  |Bomb   |Ice    |Heli   |
+|Adora  |Bomb   |Ice    |Mortar |
+|Adora  |Bomb   |Ice    |Super  |
+|Adora  |Bomb   |Ice    |Ninja  |
+|Adora  |Bomb   |Ice    |Alch   |
+|Adora  |Bomb   |Ice    |Druid  |
+|Adora  |Bomb   |Ice    |Spact  |
+|Adora  |Bomb   |Ice    |Village|
+|Adora  |Bomb   |Ice    |Engi   |
+|Adora  |Bomb   |Glue   |Dart   |
+|Adora  |Bomb   |Glue   |Boomer |
+|Adora  |Bomb   |Glue   |Tack   |
+|Adora  |Bomb   |Glue   |Ice    |
+|Adora  |Bomb   |Glue   |Sniper |
+|Adora  |Bomb   |Glue   |Sub    |
+|Adora  |Bomb   |Glue   |Bucc   |
+|Adora  |Bomb   |Glue   |Ace    |
+|Adora  |Bomb   |Glue   |Heli   |
+|Adora  |Bomb   |Glue   |Mortar |
+|Adora  |Bomb   |Glue   |Wizard |
+|Adora  |Bomb   |Glue   |Super  |
+|Adora  |Bomb   |Glue   |Ninja  |
+|Adora  |Bomb   |Glue   |Alch   |
+|Adora  |Bomb   |Glue   |Druid  |
+|Adora  |Bomb   |Glue   |Spact  |
+|Adora  |Bomb   |Glue   |Village|
+|Adora  |Bomb   |Glue   |Engi   |
+|Adora  |Bomb   |Sniper |Dart   |
+|Adora  |Bomb   |Sniper |Boomer |
+|Adora  |Bomb   |Sniper |Tack   |
+|Adora  |Bomb   |Sniper |Ice    |
+|Adora  |Bomb   |Sniper |Glue   |
+|Adora  |Bomb   |Sniper |Sub    |
+|Adora  |Bomb   |Sniper |Bucc   |
+|Adora  |Bomb   |Sniper |Ace    |
+|Adora  |Bomb   |Sniper |Heli   |
+|Adora  |Bomb   |Sniper |Mortar |
+|Adora  |Bomb   |Sniper |Super  |
+|Adora  |Bomb   |Sniper |Ninja  |
+|Adora  |Bomb   |Sniper |Alch   |
+|Adora  |Bomb   |Sniper |Druid  |
+|Adora  |Bomb   |Sniper |Spact  |
+|Adora  |Bomb   |Sniper |Village|
+|Adora  |Bomb   |Sniper |Engi   |
+|Adora  |Bomb   |Sub    |Dart   |
+|Adora  |Bomb   |Sub    |Boomer |
+|Adora  |Bomb   |Sub    |Tack   |
+|Adora  |Bomb   |Sub    |Ice    |
+|Adora  |Bomb   |Sub    |Glue   |
+|Adora  |Bomb   |Sub    |Sniper |
+|Adora  |Bomb   |Sub    |Bucc   |
+|Adora  |Bomb   |Sub    |Mortar |
+|Adora  |Bomb   |Sub    |Ninja  |
+|Adora  |Bomb   |Sub    |Alch   |
+|Adora  |Bomb   |Sub    |Druid  |
+|Adora  |Bomb   |Sub    |Spact  |
+|Adora  |Bomb   |Sub    |Engi   |
+|Adora  |Bomb   |Bucc   |Dart   |
+|Adora  |Bomb   |Bucc   |Boomer |
+|Adora  |Bomb   |Bucc   |Tack   |
+|Adora  |Bomb   |Bucc   |Ice    |
+|Adora  |Bomb   |Bucc   |Glue   |
+|Adora  |Bomb   |Bucc   |Sniper |
+|Adora  |Bomb   |Bucc   |Sub    |
+|Adora  |Bomb   |Bucc   |Ace    |
+|Adora  |Bomb   |Bucc   |Heli   |
+|Adora  |Bomb   |Bucc   |Ninja  |
+|Adora  |Bomb   |Bucc   |Alch   |
+|Adora  |Bomb   |Bucc   |Druid  |
+|Adora  |Bomb   |Bucc   |Engi   |
+|Adora  |Bomb   |Ace    |Dart   |
+|Adora  |Bomb   |Ace    |Boomer |
+|Adora  |Bomb   |Ace    |Tack   |
+|Adora  |Bomb   |Ace    |Ice    |
+|Adora  |Bomb   |Ace    |Glue   |
+|Adora  |Bomb   |Ace    |Sniper |
+|Adora  |Bomb   |Ace    |Bucc   |
+|Adora  |Bomb   |Ace    |Heli   |
+|Adora  |Bomb   |Ace    |Mortar |
+|Adora  |Bomb   |Ace    |Super  |
+|Adora  |Bomb   |Ace    |Ninja  |
+|Adora  |Bomb   |Ace    |Alch   |
+|Adora  |Bomb   |Ace    |Druid  |
+|Adora  |Bomb   |Ace    |Spact  |
+|Adora  |Bomb   |Ace    |Village|
+|Adora  |Bomb   |Heli   |Dart   |
+|Adora  |Bomb   |Heli   |Boomer |
+|Adora  |Bomb   |Heli   |Tack   |
+|Adora  |Bomb   |Heli   |Ice    |
+|Adora  |Bomb   |Heli   |Glue   |
+|Adora  |Bomb   |Heli   |Sniper |
+|Adora  |Bomb   |Heli   |Bucc   |
+|Adora  |Bomb   |Heli   |Ace    |
+|Adora  |Bomb   |Heli   |Mortar |
+|Adora  |Bomb   |Heli   |Super  |
+|Adora  |Bomb   |Heli   |Druid  |
+|Adora  |Bomb   |Heli   |Spact  |
+|Adora  |Bomb   |Heli   |Village|
+|Adora  |Bomb   |Mortar |Dart   |
+|Adora  |Bomb   |Mortar |Boomer |
+|Adora  |Bomb   |Mortar |Tack   |
+|Adora  |Bomb   |Mortar |Ice    |
+|Adora  |Bomb   |Mortar |Glue   |
+|Adora  |Bomb   |Mortar |Sniper |
+|Adora  |Bomb   |Mortar |Sub    |
+|Adora  |Bomb   |Mortar |Ace    |
+|Adora  |Bomb   |Mortar |Heli   |
+|Adora  |Bomb   |Mortar |Super  |
+|Adora  |Bomb   |Mortar |Ninja  |
+|Adora  |Bomb   |Mortar |Alch   |
+|Adora  |Bomb   |Mortar |Druid  |
+|Adora  |Bomb   |Mortar |Spact  |
+|Adora  |Bomb   |Mortar |Village|
+|Adora  |Bomb   |Mortar |Engi   |
+|Adora  |Bomb   |Wizard |Boomer |
+|Adora  |Bomb   |Wizard |Tack   |
+|Adora  |Bomb   |Wizard |Glue   |
+|Adora  |Bomb   |Wizard |Alch   |
+|Adora  |Bomb   |Wizard |Druid  |
+|Adora  |Bomb   |Super  |Boomer |
+|Adora  |Bomb   |Super  |Tack   |
+|Adora  |Bomb   |Super  |Ice    |
+|Adora  |Bomb   |Super  |Glue   |
+|Adora  |Bomb   |Super  |Sniper |
+|Adora  |Bomb   |Super  |Ace    |
+|Adora  |Bomb   |Super  |Heli   |
+|Adora  |Bomb   |Super  |Mortar |
+|Adora  |Bomb   |Super  |Ninja  |
+|Adora  |Bomb   |Super  |Alch   |
+|Adora  |Bomb   |Super  |Druid  |
+|Adora  |Bomb   |Super  |Spact  |
+|Adora  |Bomb   |Super  |Village|
+|Adora  |Bomb   |Ninja  |Dart   |
+|Adora  |Bomb   |Ninja  |Boomer |
+|Adora  |Bomb   |Ninja  |Tack   |
+|Adora  |Bomb   |Ninja  |Ice    |
+|Adora  |Bomb   |Ninja  |Glue   |
+|Adora  |Bomb   |Ninja  |Sniper |
+|Adora  |Bomb   |Ninja  |Sub    |
+|Adora  |Bomb   |Ninja  |Bucc   |
+|Adora  |Bomb   |Ninja  |Ace    |
+|Adora  |Bomb   |Ninja  |Mortar |
+|Adora  |Bomb   |Ninja  |Super  |
+|Adora  |Bomb   |Ninja  |Druid  |
+|Adora  |Bomb   |Ninja  |Engi   |
+|Adora  |Bomb   |Alch   |Dart   |
+|Adora  |Bomb   |Alch   |Boomer |
+|Adora  |Bomb   |Alch   |Tack   |
+|Adora  |Bomb   |Alch   |Ice    |
+|Adora  |Bomb   |Alch   |Glue   |
+|Adora  |Bomb   |Alch   |Sniper |
+|Adora  |Bomb   |Alch   |Sub    |
+|Adora  |Bomb   |Alch   |Bucc   |
+|Adora  |Bomb   |Alch   |Ace    |
+|Adora  |Bomb   |Alch   |Mortar |
+|Adora  |Bomb   |Alch   |Wizard |
+|Adora  |Bomb   |Alch   |Super  |
+|Adora  |Bomb   |Alch   |Druid  |
+|Adora  |Bomb   |Alch   |Village|
+|Adora  |Bomb   |Alch   |Engi   |
+|Adora  |Bomb   |Druid  |Dart   |
+|Adora  |Bomb   |Druid  |Boomer |
+|Adora  |Bomb   |Druid  |Tack   |
+|Adora  |Bomb   |Druid  |Ice    |
+|Adora  |Bomb   |Druid  |Glue   |
+|Adora  |Bomb   |Druid  |Sniper |
+|Adora  |Bomb   |Druid  |Sub    |
+|Adora  |Bomb   |Druid  |Bucc   |
+|Adora  |Bomb   |Druid  |Ace    |
+|Adora  |Bomb   |Druid  |Heli   |
+|Adora  |Bomb   |Druid  |Mortar |
+|Adora  |Bomb   |Druid  |Wizard |
+|Adora  |Bomb   |Druid  |Super  |
+|Adora  |Bomb   |Druid  |Ninja  |
+|Adora  |Bomb   |Druid  |Alch   |
+|Adora  |Bomb   |Druid  |Spact  |
+|Adora  |Bomb   |Druid  |Village|
+|Adora  |Bomb   |Druid  |Engi   |
+|Adora  |Bomb   |Spact  |Dart   |
+|Adora  |Bomb   |Spact  |Boomer |
+|Adora  |Bomb   |Spact  |Tack   |
+|Adora  |Bomb   |Spact  |Ice    |
+|Adora  |Bomb   |Spact  |Glue   |
+|Adora  |Bomb   |Spact  |Sniper |
+|Adora  |Bomb   |Spact  |Sub    |
+|Adora  |Bomb   |Spact  |Ace    |
+|Adora  |Bomb   |Spact  |Heli   |
+|Adora  |Bomb   |Spact  |Mortar |
+|Adora  |Bomb   |Spact  |Super  |
+|Adora  |Bomb   |Spact  |Druid  |
+|Adora  |Bomb   |Spact  |Village|
+|Adora  |Bomb   |Spact  |Engi   |
+|Adora  |Bomb   |Village|Tack   |
+|Adora  |Bomb   |Village|Ice    |
+|Adora  |Bomb   |Village|Glue   |
+|Adora  |Bomb   |Village|Sniper |
+|Adora  |Bomb   |Village|Ace    |
+|Adora  |Bomb   |Village|Heli   |
+|Adora  |Bomb   |Village|Mortar |
+|Adora  |Bomb   |Village|Super  |
+|Adora  |Bomb   |Village|Alch   |
+|Adora  |Bomb   |Village|Druid  |
+|Adora  |Bomb   |Village|Spact  |
+|Adora  |Bomb   |Village|Engi   |
+|Adora  |Bomb   |Engi   |Dart   |
+|Adora  |Bomb   |Engi   |Boomer |
+|Adora  |Bomb   |Engi   |Tack   |
+|Adora  |Bomb   |Engi   |Ice    |
+|Adora  |Bomb   |Engi   |Glue   |
+|Adora  |Bomb   |Engi   |Sniper |
+|Adora  |Bomb   |Engi   |Sub    |
+|Adora  |Bomb   |Engi   |Bucc   |
+|Adora  |Bomb   |Engi   |Mortar |
+|Adora  |Bomb   |Engi   |Ninja  |
+|Adora  |Bomb   |Engi   |Alch   |
+|Adora  |Bomb   |Engi   |Druid  |
+|Adora  |Bomb   |Engi   |Spact  |
+|Adora  |Bomb   |Engi   |Village|
+|Adora  |Tack   |Dart   |Boomer |
+|Adora  |Tack   |Dart   |Bomb   |
+|Adora  |Tack   |Dart   |Ice    |
+|Adora  |Tack   |Dart   |Glue   |
+|Adora  |Tack   |Dart   |Sniper |
+|Adora  |Tack   |Dart   |Sub    |
+|Adora  |Tack   |Dart   |Bucc   |
+|Adora  |Tack   |Dart   |Ace    |
+|Adora  |Tack   |Dart   |Heli   |
+|Adora  |Tack   |Dart   |Ninja  |
+|Adora  |Tack   |Dart   |Alch   |
+|Adora  |Tack   |Dart   |Druid  |
+|Adora  |Tack   |Dart   |Engi   |
+|Adora  |Tack   |Boomer |Dart   |
+|Adora  |Tack   |Boomer |Bomb   |
+|Adora  |Tack   |Boomer |Ice    |
+|Adora  |Tack   |Boomer |Glue   |
+|Adora  |Tack   |Boomer |Sniper |
+|Adora  |Tack   |Boomer |Sub    |
+|Adora  |Tack   |Boomer |Bucc   |
+|Adora  |Tack   |Boomer |Ace    |
+|Adora  |Tack   |Boomer |Heli   |
+|Adora  |Tack   |Boomer |Mortar |
+|Adora  |Tack   |Boomer |Super  |
+|Adora  |Tack   |Boomer |Ninja  |
+|Adora  |Tack   |Boomer |Alch   |
+|Adora  |Tack   |Boomer |Druid  |
+|Adora  |Tack   |Boomer |Spact  |
+|Adora  |Tack   |Boomer |Engi   |
+|Adora  |Tack   |Bomb   |Dart   |
+|Adora  |Tack   |Bomb   |Boomer |
+|Adora  |Tack   |Bomb   |Ice    |
+|Adora  |Tack   |Bomb   |Glue   |
+|Adora  |Tack   |Bomb   |Sniper |
+|Adora  |Tack   |Bomb   |Sub    |
+|Adora  |Tack   |Bomb   |Bucc   |
+|Adora  |Tack   |Bomb   |Ace    |
+|Adora  |Tack   |Bomb   |Heli   |
+|Adora  |Tack   |Bomb   |Mortar |
+|Adora  |Tack   |Bomb   |Wizard |
+|Adora  |Tack   |Bomb   |Super  |
+|Adora  |Tack   |Bomb   |Ninja  |
+|Adora  |Tack   |Bomb   |Alch   |
+|Adora  |Tack   |Bomb   |Druid  |
+|Adora  |Tack   |Bomb   |Spact  |
+|Adora  |Tack   |Bomb   |Village|
+|Adora  |Tack   |Bomb   |Engi   |
+|Adora  |Tack   |Ice    |Dart   |
+|Adora  |Tack   |Ice    |Boomer |
+|Adora  |Tack   |Ice    |Bomb   |
+|Adora  |Tack   |Ice    |Glue   |
+|Adora  |Tack   |Ice    |Sniper |
+|Adora  |Tack   |Ice    |Sub    |
+|Adora  |Tack   |Ice    |Bucc   |
+|Adora  |Tack   |Ice    |Ace    |
+|Adora  |Tack   |Ice    |Heli   |
+|Adora  |Tack   |Ice    |Mortar |
+|Adora  |Tack   |Ice    |Super  |
+|Adora  |Tack   |Ice    |Ninja  |
+|Adora  |Tack   |Ice    |Alch   |
+|Adora  |Tack   |Ice    |Druid  |
+|Adora  |Tack   |Ice    |Spact  |
+|Adora  |Tack   |Ice    |Village|
+|Adora  |Tack   |Ice    |Engi   |
+|Adora  |Tack   |Glue   |Dart   |
+|Adora  |Tack   |Glue   |Boomer |
+|Adora  |Tack   |Glue   |Bomb   |
+|Adora  |Tack   |Glue   |Ice    |
+|Adora  |Tack   |Glue   |Sniper |
+|Adora  |Tack   |Glue   |Sub    |
+|Adora  |Tack   |Glue   |Bucc   |
+|Adora  |Tack   |Glue   |Ace    |
+|Adora  |Tack   |Glue   |Heli   |
+|Adora  |Tack   |Glue   |Mortar |
+|Adora  |Tack   |Glue   |Super  |
+|Adora  |Tack   |Glue   |Ninja  |
+|Adora  |Tack   |Glue   |Alch   |
+|Adora  |Tack   |Glue   |Druid  |
+|Adora  |Tack   |Glue   |Spact  |
+|Adora  |Tack   |Glue   |Village|
+|Adora  |Tack   |Glue   |Engi   |
+|Adora  |Tack   |Sniper |Dart   |
+|Adora  |Tack   |Sniper |Boomer |
+|Adora  |Tack   |Sniper |Bomb   |
+|Adora  |Tack   |Sniper |Ice    |
+|Adora  |Tack   |Sniper |Glue   |
+|Adora  |Tack   |Sniper |Sub    |
+|Adora  |Tack   |Sniper |Bucc   |
+|Adora  |Tack   |Sniper |Ace    |
+|Adora  |Tack   |Sniper |Heli   |
+|Adora  |Tack   |Sniper |Mortar |
+|Adora  |Tack   |Sniper |Wizard |
+|Adora  |Tack   |Sniper |Super  |
+|Adora  |Tack   |Sniper |Ninja  |
+|Adora  |Tack   |Sniper |Alch   |
+|Adora  |Tack   |Sniper |Druid  |
+|Adora  |Tack   |Sniper |Spact  |
+|Adora  |Tack   |Sniper |Village|
+|Adora  |Tack   |Sniper |Engi   |
+|Adora  |Tack   |Sub    |Dart   |
+|Adora  |Tack   |Sub    |Boomer |
+|Adora  |Tack   |Sub    |Bomb   |
+|Adora  |Tack   |Sub    |Ice    |
+|Adora  |Tack   |Sub    |Glue   |
+|Adora  |Tack   |Sub    |Sniper |
+|Adora  |Tack   |Sub    |Bucc   |
+|Adora  |Tack   |Sub    |Ace    |
+|Adora  |Tack   |Sub    |Ninja  |
+|Adora  |Tack   |Sub    |Druid  |
+|Adora  |Tack   |Sub    |Spact  |
+|Adora  |Tack   |Sub    |Engi   |
+|Adora  |Tack   |Bucc   |Dart   |
+|Adora  |Tack   |Bucc   |Boomer |
+|Adora  |Tack   |Bucc   |Bomb   |
+|Adora  |Tack   |Bucc   |Ice    |
+|Adora  |Tack   |Bucc   |Glue   |
+|Adora  |Tack   |Bucc   |Sniper |
+|Adora  |Tack   |Bucc   |Sub    |
+|Adora  |Tack   |Bucc   |Ace    |
+|Adora  |Tack   |Bucc   |Heli   |
+|Adora  |Tack   |Bucc   |Ninja  |
+|Adora  |Tack   |Bucc   |Alch   |
+|Adora  |Tack   |Bucc   |Druid  |
+|Adora  |Tack   |Bucc   |Engi   |
+|Adora  |Tack   |Ace    |Dart   |
+|Adora  |Tack   |Ace    |Boomer |
+|Adora  |Tack   |Ace    |Bomb   |
+|Adora  |Tack   |Ace    |Ice    |
+|Adora  |Tack   |Ace    |Glue   |
+|Adora  |Tack   |Ace    |Sniper |
+|Adora  |Tack   |Ace    |Sub    |
+|Adora  |Tack   |Ace    |Bucc   |
+|Adora  |Tack   |Ace    |Ninja  |
+|Adora  |Tack   |Ace    |Alch   |
+|Adora  |Tack   |Ace    |Druid  |
+|Adora  |Tack   |Heli   |Dart   |
+|Adora  |Tack   |Heli   |Boomer |
+|Adora  |Tack   |Heli   |Bomb   |
+|Adora  |Tack   |Heli   |Ice    |
+|Adora  |Tack   |Heli   |Glue   |
+|Adora  |Tack   |Heli   |Sniper |
+|Adora  |Tack   |Heli   |Bucc   |
+|Adora  |Tack   |Heli   |Druid  |
+|Adora  |Tack   |Mortar |Boomer |
+|Adora  |Tack   |Mortar |Bomb   |
+|Adora  |Tack   |Mortar |Ice    |
+|Adora  |Tack   |Mortar |Glue   |
+|Adora  |Tack   |Mortar |Sniper |
+|Adora  |Tack   |Mortar |Ninja  |
+|Adora  |Tack   |Mortar |Alch   |
+|Adora  |Tack   |Mortar |Druid  |
+|Adora  |Tack   |Mortar |Village|
+|Adora  |Tack   |Mortar |Engi   |
+|Adora  |Tack   |Wizard |Bomb   |
+|Adora  |Tack   |Wizard |Sniper |
+|Adora  |Tack   |Wizard |Druid  |
+|Adora  |Tack   |Wizard |Engi   |
+|Adora  |Tack   |Super  |Boomer |
+|Adora  |Tack   |Super  |Bomb   |
+|Adora  |Tack   |Super  |Ice    |
+|Adora  |Tack   |Super  |Glue   |
+|Adora  |Tack   |Super  |Sniper |
+|Adora  |Tack   |Super  |Alch   |
+|Adora  |Tack   |Super  |Druid  |
+|Adora  |Tack   |Super  |Village|
+|Adora  |Tack   |Ninja  |Dart   |
+|Adora  |Tack   |Ninja  |Boomer |
+|Adora  |Tack   |Ninja  |Bomb   |
+|Adora  |Tack   |Ninja  |Ice    |
+|Adora  |Tack   |Ninja  |Glue   |
+|Adora  |Tack   |Ninja  |Sniper |
+|Adora  |Tack   |Ninja  |Sub    |
+|Adora  |Tack   |Ninja  |Bucc   |
+|Adora  |Tack   |Ninja  |Ace    |
+|Adora  |Tack   |Ninja  |Mortar |
+|Adora  |Tack   |Ninja  |Druid  |
+|Adora  |Tack   |Ninja  |Engi   |
+|Adora  |Tack   |Alch   |Dart   |
+|Adora  |Tack   |Alch   |Boomer |
+|Adora  |Tack   |Alch   |Bomb   |
+|Adora  |Tack   |Alch   |Ice    |
+|Adora  |Tack   |Alch   |Glue   |
+|Adora  |Tack   |Alch   |Sniper |
+|Adora  |Tack   |Alch   |Bucc   |
+|Adora  |Tack   |Alch   |Ace    |
+|Adora  |Tack   |Alch   |Mortar |
+|Adora  |Tack   |Alch   |Super  |
+|Adora  |Tack   |Alch   |Druid  |
+|Adora  |Tack   |Alch   |Village|
+|Adora  |Tack   |Alch   |Engi   |
+|Adora  |Tack   |Druid  |Dart   |
+|Adora  |Tack   |Druid  |Boomer |
+|Adora  |Tack   |Druid  |Bomb   |
+|Adora  |Tack   |Druid  |Ice    |
+|Adora  |Tack   |Druid  |Glue   |
+|Adora  |Tack   |Druid  |Sniper |
+|Adora  |Tack   |Druid  |Sub    |
+|Adora  |Tack   |Druid  |Bucc   |
+|Adora  |Tack   |Druid  |Ace    |
+|Adora  |Tack   |Druid  |Heli   |
+|Adora  |Tack   |Druid  |Mortar |
+|Adora  |Tack   |Druid  |Wizard |
+|Adora  |Tack   |Druid  |Super  |
+|Adora  |Tack   |Druid  |Ninja  |
+|Adora  |Tack   |Druid  |Alch   |
+|Adora  |Tack   |Druid  |Spact  |
+|Adora  |Tack   |Druid  |Village|
+|Adora  |Tack   |Druid  |Engi   |
+|Adora  |Tack   |Spact  |Boomer |
+|Adora  |Tack   |Spact  |Bomb   |
+|Adora  |Tack   |Spact  |Ice    |
+|Adora  |Tack   |Spact  |Glue   |
+|Adora  |Tack   |Spact  |Sniper |
+|Adora  |Tack   |Spact  |Sub    |
+|Adora  |Tack   |Spact  |Druid  |
+|Adora  |Tack   |Spact  |Engi   |
+|Adora  |Tack   |Village|Bomb   |
+|Adora  |Tack   |Village|Ice    |
+|Adora  |Tack   |Village|Glue   |
+|Adora  |Tack   |Village|Sniper |
+|Adora  |Tack   |Village|Mortar |
+|Adora  |Tack   |Village|Super  |
+|Adora  |Tack   |Village|Alch   |
+|Adora  |Tack   |Village|Druid  |
+|Adora  |Tack   |Village|Engi   |
+|Adora  |Tack   |Engi   |Dart   |
+|Adora  |Tack   |Engi   |Boomer |
+|Adora  |Tack   |Engi   |Bomb   |
+|Adora  |Tack   |Engi   |Ice    |
+|Adora  |Tack   |Engi   |Glue   |
+|Adora  |Tack   |Engi   |Sniper |
+|Adora  |Tack   |Engi   |Sub    |
+|Adora  |Tack   |Engi   |Bucc   |
+|Adora  |Tack   |Engi   |Mortar |
+|Adora  |Tack   |Engi   |Wizard |
+|Adora  |Tack   |Engi   |Ninja  |
+|Adora  |Tack   |Engi   |Alch   |
+|Adora  |Tack   |Engi   |Druid  |
+|Adora  |Tack   |Engi   |Spact  |
+|Adora  |Tack   |Engi   |Village|
+|Adora  |Ice    |Dart   |Boomer |
+|Adora  |Ice    |Dart   |Bomb   |
+|Adora  |Ice    |Dart   |Tack   |
+|Adora  |Ice    |Dart   |Glue   |
+|Adora  |Ice    |Dart   |Sniper |
+|Adora  |Ice    |Dart   |Sub    |
+|Adora  |Ice    |Dart   |Bucc   |
+|Adora  |Ice    |Dart   |Ace    |
+|Adora  |Ice    |Dart   |Mortar |
+|Adora  |Ice    |Dart   |Ninja  |
+|Adora  |Ice    |Dart   |Alch   |
+|Adora  |Ice    |Dart   |Druid  |
+|Adora  |Ice    |Dart   |Spact  |
+|Adora  |Ice    |Dart   |Engi   |
+|Adora  |Ice    |Boomer |Dart   |
+|Adora  |Ice    |Boomer |Bomb   |
+|Adora  |Ice    |Boomer |Tack   |
+|Adora  |Ice    |Boomer |Glue   |
+|Adora  |Ice    |Boomer |Sniper |
+|Adora  |Ice    |Boomer |Sub    |
+|Adora  |Ice    |Boomer |Bucc   |
+|Adora  |Ice    |Boomer |Ace    |
+|Adora  |Ice    |Boomer |Mortar |
+|Adora  |Ice    |Boomer |Super  |
+|Adora  |Ice    |Boomer |Ninja  |
+|Adora  |Ice    |Boomer |Alch   |
+|Adora  |Ice    |Boomer |Druid  |
+|Adora  |Ice    |Boomer |Spact  |
+|Adora  |Ice    |Boomer |Engi   |
+|Adora  |Ice    |Bomb   |Dart   |
+|Adora  |Ice    |Bomb   |Boomer |
+|Adora  |Ice    |Bomb   |Tack   |
+|Adora  |Ice    |Bomb   |Glue   |
+|Adora  |Ice    |Bomb   |Sniper |
+|Adora  |Ice    |Bomb   |Sub    |
+|Adora  |Ice    |Bomb   |Bucc   |
+|Adora  |Ice    |Bomb   |Ace    |
+|Adora  |Ice    |Bomb   |Heli   |
+|Adora  |Ice    |Bomb   |Mortar |
+|Adora  |Ice    |Bomb   |Super  |
+|Adora  |Ice    |Bomb   |Ninja  |
+|Adora  |Ice    |Bomb   |Alch   |
+|Adora  |Ice    |Bomb   |Druid  |
+|Adora  |Ice    |Bomb   |Spact  |
+|Adora  |Ice    |Bomb   |Village|
+|Adora  |Ice    |Bomb   |Engi   |
+|Adora  |Ice    |Tack   |Dart   |
+|Adora  |Ice    |Tack   |Boomer |
+|Adora  |Ice    |Tack   |Bomb   |
+|Adora  |Ice    |Tack   |Glue   |
+|Adora  |Ice    |Tack   |Sniper |
+|Adora  |Ice    |Tack   |Sub    |
+|Adora  |Ice    |Tack   |Bucc   |
+|Adora  |Ice    |Tack   |Ace    |
+|Adora  |Ice    |Tack   |Heli   |
+|Adora  |Ice    |Tack   |Mortar |
+|Adora  |Ice    |Tack   |Super  |
+|Adora  |Ice    |Tack   |Ninja  |
+|Adora  |Ice    |Tack   |Alch   |
+|Adora  |Ice    |Tack   |Druid  |
+|Adora  |Ice    |Tack   |Spact  |
+|Adora  |Ice    |Tack   |Village|
+|Adora  |Ice    |Tack   |Engi   |
+|Adora  |Ice    |Glue   |Dart   |
+|Adora  |Ice    |Glue   |Boomer |
+|Adora  |Ice    |Glue   |Bomb   |
+|Adora  |Ice    |Glue   |Tack   |
+|Adora  |Ice    |Glue   |Sniper |
+|Adora  |Ice    |Glue   |Sub    |
+|Adora  |Ice    |Glue   |Bucc   |
+|Adora  |Ice    |Glue   |Ace    |
+|Adora  |Ice    |Glue   |Heli   |
+|Adora  |Ice    |Glue   |Mortar |
+|Adora  |Ice    |Glue   |Wizard |
+|Adora  |Ice    |Glue   |Super  |
+|Adora  |Ice    |Glue   |Ninja  |
+|Adora  |Ice    |Glue   |Alch   |
+|Adora  |Ice    |Glue   |Druid  |
+|Adora  |Ice    |Glue   |Spact  |
+|Adora  |Ice    |Glue   |Village|
+|Adora  |Ice    |Glue   |Engi   |
+|Adora  |Ice    |Sniper |Dart   |
+|Adora  |Ice    |Sniper |Boomer |
+|Adora  |Ice    |Sniper |Bomb   |
+|Adora  |Ice    |Sniper |Tack   |
+|Adora  |Ice    |Sniper |Glue   |
+|Adora  |Ice    |Sniper |Sub    |
+|Adora  |Ice    |Sniper |Bucc   |
+|Adora  |Ice    |Sniper |Ace    |
+|Adora  |Ice    |Sniper |Mortar |
+|Adora  |Ice    |Sniper |Super  |
+|Adora  |Ice    |Sniper |Ninja  |
+|Adora  |Ice    |Sniper |Alch   |
+|Adora  |Ice    |Sniper |Druid  |
+|Adora  |Ice    |Sniper |Spact  |
+|Adora  |Ice    |Sniper |Village|
+|Adora  |Ice    |Sniper |Engi   |
+|Adora  |Ice    |Sub    |Dart   |
+|Adora  |Ice    |Sub    |Boomer |
+|Adora  |Ice    |Sub    |Bomb   |
+|Adora  |Ice    |Sub    |Tack   |
+|Adora  |Ice    |Sub    |Glue   |
+|Adora  |Ice    |Sub    |Sniper |
+|Adora  |Ice    |Sub    |Bucc   |
+|Adora  |Ice    |Sub    |Ace    |
+|Adora  |Ice    |Sub    |Mortar |
+|Adora  |Ice    |Sub    |Ninja  |
+|Adora  |Ice    |Sub    |Alch   |
+|Adora  |Ice    |Sub    |Druid  |
+|Adora  |Ice    |Sub    |Spact  |
+|Adora  |Ice    |Sub    |Village|
+|Adora  |Ice    |Sub    |Engi   |
+|Adora  |Ice    |Bucc   |Dart   |
+|Adora  |Ice    |Bucc   |Boomer |
+|Adora  |Ice    |Bucc   |Bomb   |
+|Adora  |Ice    |Bucc   |Tack   |
+|Adora  |Ice    |Bucc   |Glue   |
+|Adora  |Ice    |Bucc   |Sniper |
+|Adora  |Ice    |Bucc   |Sub    |
+|Adora  |Ice    |Bucc   |Ninja  |
+|Adora  |Ice    |Bucc   |Alch   |
+|Adora  |Ice    |Bucc   |Druid  |
+|Adora  |Ice    |Bucc   |Spact  |
+|Adora  |Ice    |Bucc   |Engi   |
+|Adora  |Ice    |Ace    |Dart   |
+|Adora  |Ice    |Ace    |Boomer |
+|Adora  |Ice    |Ace    |Bomb   |
+|Adora  |Ice    |Ace    |Tack   |
+|Adora  |Ice    |Ace    |Glue   |
+|Adora  |Ice    |Ace    |Sniper |
+|Adora  |Ice    |Ace    |Sub    |
+|Adora  |Ice    |Ace    |Druid  |
+|Adora  |Ice    |Ace    |Spact  |
+|Adora  |Ice    |Ace    |Village|
+|Adora  |Ice    |Heli   |Bomb   |
+|Adora  |Ice    |Heli   |Tack   |
+|Adora  |Ice    |Heli   |Glue   |
+|Adora  |Ice    |Heli   |Mortar |
+|Adora  |Ice    |Heli   |Super  |
+|Adora  |Ice    |Heli   |Druid  |
+|Adora  |Ice    |Heli   |Spact  |
+|Adora  |Ice    |Heli   |Village|
+|Adora  |Ice    |Mortar |Dart   |
+|Adora  |Ice    |Mortar |Boomer |
+|Adora  |Ice    |Mortar |Bomb   |
+|Adora  |Ice    |Mortar |Tack   |
+|Adora  |Ice    |Mortar |Glue   |
+|Adora  |Ice    |Mortar |Sniper |
+|Adora  |Ice    |Mortar |Sub    |
+|Adora  |Ice    |Mortar |Heli   |
+|Adora  |Ice    |Mortar |Super  |
+|Adora  |Ice    |Mortar |Ninja  |
+|Adora  |Ice    |Mortar |Alch   |
+|Adora  |Ice    |Mortar |Druid  |
+|Adora  |Ice    |Mortar |Spact  |
+|Adora  |Ice    |Mortar |Village|
+|Adora  |Ice    |Mortar |Engi   |
+|Adora  |Ice    |Wizard |Glue   |
+|Adora  |Ice    |Wizard |Alch   |
+|Adora  |Ice    |Wizard |Village|
+|Adora  |Ice    |Wizard |Engi   |
+|Adora  |Ice    |Super  |Boomer |
+|Adora  |Ice    |Super  |Bomb   |
+|Adora  |Ice    |Super  |Tack   |
+|Adora  |Ice    |Super  |Glue   |
+|Adora  |Ice    |Super  |Sniper |
+|Adora  |Ice    |Super  |Heli   |
+|Adora  |Ice    |Super  |Mortar |
+|Adora  |Ice    |Super  |Ninja  |
+|Adora  |Ice    |Super  |Alch   |
+|Adora  |Ice    |Super  |Druid  |
+|Adora  |Ice    |Super  |Spact  |
+|Adora  |Ice    |Super  |Village|
+|Adora  |Ice    |Ninja  |Dart   |
+|Adora  |Ice    |Ninja  |Boomer |
+|Adora  |Ice    |Ninja  |Bomb   |
+|Adora  |Ice    |Ninja  |Tack   |
+|Adora  |Ice    |Ninja  |Glue   |
+|Adora  |Ice    |Ninja  |Sniper |
+|Adora  |Ice    |Ninja  |Sub    |
+|Adora  |Ice    |Ninja  |Bucc   |
+|Adora  |Ice    |Ninja  |Mortar |
+|Adora  |Ice    |Ninja  |Super  |
+|Adora  |Ice    |Ninja  |Druid  |
+|Adora  |Ice    |Ninja  |Spact  |
+|Adora  |Ice    |Ninja  |Village|
+|Adora  |Ice    |Ninja  |Engi   |
+|Adora  |Ice    |Alch   |Dart   |
+|Adora  |Ice    |Alch   |Boomer |
+|Adora  |Ice    |Alch   |Bomb   |
+|Adora  |Ice    |Alch   |Tack   |
+|Adora  |Ice    |Alch   |Glue   |
+|Adora  |Ice    |Alch   |Sniper |
+|Adora  |Ice    |Alch   |Sub    |
+|Adora  |Ice    |Alch   |Bucc   |
+|Adora  |Ice    |Alch   |Mortar |
+|Adora  |Ice    |Alch   |Wizard |
+|Adora  |Ice    |Alch   |Super  |
+|Adora  |Ice    |Alch   |Druid  |
+|Adora  |Ice    |Alch   |Spact  |
+|Adora  |Ice    |Alch   |Village|
+|Adora  |Ice    |Alch   |Engi   |
+|Adora  |Ice    |Druid  |Dart   |
+|Adora  |Ice    |Druid  |Boomer |
+|Adora  |Ice    |Druid  |Bomb   |
+|Adora  |Ice    |Druid  |Tack   |
+|Adora  |Ice    |Druid  |Glue   |
+|Adora  |Ice    |Druid  |Sniper |
+|Adora  |Ice    |Druid  |Sub    |
+|Adora  |Ice    |Druid  |Bucc   |
+|Adora  |Ice    |Druid  |Ace    |
+|Adora  |Ice    |Druid  |Heli   |
+|Adora  |Ice    |Druid  |Mortar |
+|Adora  |Ice    |Druid  |Super  |
+|Adora  |Ice    |Druid  |Ninja  |
+|Adora  |Ice    |Druid  |Alch   |
+|Adora  |Ice    |Druid  |Spact  |
+|Adora  |Ice    |Druid  |Village|
+|Adora  |Ice    |Druid  |Engi   |
+|Adora  |Ice    |Spact  |Dart   |
+|Adora  |Ice    |Spact  |Boomer |
+|Adora  |Ice    |Spact  |Bomb   |
+|Adora  |Ice    |Spact  |Tack   |
+|Adora  |Ice    |Spact  |Glue   |
+|Adora  |Ice    |Spact  |Sniper |
+|Adora  |Ice    |Spact  |Sub    |
+|Adora  |Ice    |Spact  |Bucc   |
+|Adora  |Ice    |Spact  |Ace    |
+|Adora  |Ice    |Spact  |Heli   |
+|Adora  |Ice    |Spact  |Mortar |
+|Adora  |Ice    |Spact  |Super  |
+|Adora  |Ice    |Spact  |Ninja  |
+|Adora  |Ice    |Spact  |Alch   |
+|Adora  |Ice    |Spact  |Druid  |
+|Adora  |Ice    |Spact  |Village|
+|Adora  |Ice    |Spact  |Engi   |
+|Adora  |Ice    |Village|Bomb   |
+|Adora  |Ice    |Village|Tack   |
+|Adora  |Ice    |Village|Glue   |
+|Adora  |Ice    |Village|Sniper |
+|Adora  |Ice    |Village|Sub    |
+|Adora  |Ice    |Village|Ace    |
+|Adora  |Ice    |Village|Heli   |
+|Adora  |Ice    |Village|Mortar |
+|Adora  |Ice    |Village|Wizard |
+|Adora  |Ice    |Village|Super  |
+|Adora  |Ice    |Village|Ninja  |
+|Adora  |Ice    |Village|Alch   |
+|Adora  |Ice    |Village|Druid  |
+|Adora  |Ice    |Village|Spact  |
+|Adora  |Ice    |Village|Engi   |
+|Adora  |Ice    |Engi   |Dart   |
+|Adora  |Ice    |Engi   |Boomer |
+|Adora  |Ice    |Engi   |Bomb   |
+|Adora  |Ice    |Engi   |Tack   |
+|Adora  |Ice    |Engi   |Glue   |
+|Adora  |Ice    |Engi   |Sniper |
+|Adora  |Ice    |Engi   |Sub    |
+|Adora  |Ice    |Engi   |Bucc   |
+|Adora  |Ice    |Engi   |Mortar |
+|Adora  |Ice    |Engi   |Wizard |
+|Adora  |Ice    |Engi   |Ninja  |
+|Adora  |Ice    |Engi   |Alch   |
+|Adora  |Ice    |Engi   |Druid  |
+|Adora  |Ice    |Engi   |Spact  |
+|Adora  |Ice    |Engi   |Village|
+|Adora  |Glue   |Dart   |Boomer |
+|Adora  |Glue   |Dart   |Bomb   |
+|Adora  |Glue   |Dart   |Tack   |
+|Adora  |Glue   |Dart   |Ice    |
+|Adora  |Glue   |Dart   |Sniper |
+|Adora  |Glue   |Dart   |Sub    |
+|Adora  |Glue   |Dart   |Bucc   |
+|Adora  |Glue   |Dart   |Ace    |
+|Adora  |Glue   |Dart   |Heli   |
+|Adora  |Glue   |Dart   |Mortar |
+|Adora  |Glue   |Dart   |Ninja  |
+|Adora  |Glue   |Dart   |Alch   |
+|Adora  |Glue   |Dart   |Druid  |
+|Adora  |Glue   |Dart   |Spact  |
+|Adora  |Glue   |Dart   |Village|
+|Adora  |Glue   |Dart   |Engi   |
+|Adora  |Glue   |Boomer |Dart   |
+|Adora  |Glue   |Boomer |Bomb   |
+|Adora  |Glue   |Boomer |Tack   |
+|Adora  |Glue   |Boomer |Ice    |
+|Adora  |Glue   |Boomer |Sniper |
+|Adora  |Glue   |Boomer |Sub    |
+|Adora  |Glue   |Boomer |Bucc   |
+|Adora  |Glue   |Boomer |Ace    |
+|Adora  |Glue   |Boomer |Heli   |
+|Adora  |Glue   |Boomer |Mortar |
+|Adora  |Glue   |Boomer |Super  |
+|Adora  |Glue   |Boomer |Ninja  |
+|Adora  |Glue   |Boomer |Alch   |
+|Adora  |Glue   |Boomer |Druid  |
+|Adora  |Glue   |Boomer |Village|
+|Adora  |Glue   |Boomer |Engi   |
+|Adora  |Glue   |Bomb   |Dart   |
+|Adora  |Glue   |Bomb   |Boomer |
+|Adora  |Glue   |Bomb   |Tack   |
+|Adora  |Glue   |Bomb   |Ice    |
+|Adora  |Glue   |Bomb   |Sniper |
+|Adora  |Glue   |Bomb   |Sub    |
+|Adora  |Glue   |Bomb   |Bucc   |
+|Adora  |Glue   |Bomb   |Ace    |
+|Adora  |Glue   |Bomb   |Heli   |
+|Adora  |Glue   |Bomb   |Mortar |
+|Adora  |Glue   |Bomb   |Wizard |
+|Adora  |Glue   |Bomb   |Super  |
+|Adora  |Glue   |Bomb   |Ninja  |
+|Adora  |Glue   |Bomb   |Alch   |
+|Adora  |Glue   |Bomb   |Druid  |
+|Adora  |Glue   |Bomb   |Spact  |
+|Adora  |Glue   |Bomb   |Village|
+|Adora  |Glue   |Bomb   |Engi   |
+|Adora  |Glue   |Tack   |Dart   |
+|Adora  |Glue   |Tack   |Boomer |
+|Adora  |Glue   |Tack   |Bomb   |
+|Adora  |Glue   |Tack   |Ice    |
+|Adora  |Glue   |Tack   |Sniper |
+|Adora  |Glue   |Tack   |Sub    |
+|Adora  |Glue   |Tack   |Bucc   |
+|Adora  |Glue   |Tack   |Ace    |
+|Adora  |Glue   |Tack   |Heli   |
+|Adora  |Glue   |Tack   |Mortar |
+|Adora  |Glue   |Tack   |Super  |
+|Adora  |Glue   |Tack   |Ninja  |
+|Adora  |Glue   |Tack   |Alch   |
+|Adora  |Glue   |Tack   |Druid  |
+|Adora  |Glue   |Tack   |Spact  |
+|Adora  |Glue   |Tack   |Village|
+|Adora  |Glue   |Tack   |Engi   |
+|Adora  |Glue   |Ice    |Dart   |
+|Adora  |Glue   |Ice    |Boomer |
+|Adora  |Glue   |Ice    |Bomb   |
+|Adora  |Glue   |Ice    |Tack   |
+|Adora  |Glue   |Ice    |Sniper |
+|Adora  |Glue   |Ice    |Sub    |
+|Adora  |Glue   |Ice    |Bucc   |
+|Adora  |Glue   |Ice    |Ace    |
+|Adora  |Glue   |Ice    |Heli   |
+|Adora  |Glue   |Ice    |Mortar |
+|Adora  |Glue   |Ice    |Wizard |
+|Adora  |Glue   |Ice    |Super  |
+|Adora  |Glue   |Ice    |Ninja  |
+|Adora  |Glue   |Ice    |Alch   |
+|Adora  |Glue   |Ice    |Druid  |
+|Adora  |Glue   |Ice    |Spact  |
+|Adora  |Glue   |Ice    |Village|
+|Adora  |Glue   |Ice    |Engi   |
+|Adora  |Glue   |Sniper |Dart   |
+|Adora  |Glue   |Sniper |Boomer |
+|Adora  |Glue   |Sniper |Bomb   |
+|Adora  |Glue   |Sniper |Tack   |
+|Adora  |Glue   |Sniper |Ice    |
+|Adora  |Glue   |Sniper |Sub    |
+|Adora  |Glue   |Sniper |Bucc   |
+|Adora  |Glue   |Sniper |Ace    |
+|Adora  |Glue   |Sniper |Heli   |
+|Adora  |Glue   |Sniper |Mortar |
+|Adora  |Glue   |Sniper |Super  |
+|Adora  |Glue   |Sniper |Ninja  |
+|Adora  |Glue   |Sniper |Alch   |
+|Adora  |Glue   |Sniper |Druid  |
+|Adora  |Glue   |Sniper |Spact  |
+|Adora  |Glue   |Sniper |Village|
+|Adora  |Glue   |Sniper |Engi   |
+|Adora  |Glue   |Sub    |Dart   |
+|Adora  |Glue   |Sub    |Boomer |
+|Adora  |Glue   |Sub    |Bomb   |
+|Adora  |Glue   |Sub    |Tack   |
+|Adora  |Glue   |Sub    |Ice    |
+|Adora  |Glue   |Sub    |Sniper |
+|Adora  |Glue   |Sub    |Bucc   |
+|Adora  |Glue   |Sub    |Ninja  |
+|Adora  |Glue   |Sub    |Alch   |
+|Adora  |Glue   |Sub    |Druid  |
+|Adora  |Glue   |Sub    |Engi   |
+|Adora  |Glue   |Bucc   |Dart   |
+|Adora  |Glue   |Bucc   |Boomer |
+|Adora  |Glue   |Bucc   |Bomb   |
+|Adora  |Glue   |Bucc   |Tack   |
+|Adora  |Glue   |Bucc   |Ice    |
+|Adora  |Glue   |Bucc   |Sniper |
+|Adora  |Glue   |Bucc   |Sub    |
+|Adora  |Glue   |Bucc   |Ninja  |
+|Adora  |Glue   |Bucc   |Alch   |
+|Adora  |Glue   |Bucc   |Druid  |
+|Adora  |Glue   |Bucc   |Spact  |
+|Adora  |Glue   |Bucc   |Engi   |
+|Adora  |Glue   |Ace    |Dart   |
+|Adora  |Glue   |Ace    |Boomer |
+|Adora  |Glue   |Ace    |Bomb   |
+|Adora  |Glue   |Ace    |Tack   |
+|Adora  |Glue   |Ace    |Ice    |
+|Adora  |Glue   |Ace    |Sniper |
+|Adora  |Glue   |Ace    |Heli   |
+|Adora  |Glue   |Ace    |Mortar |
+|Adora  |Glue   |Ace    |Super  |
+|Adora  |Glue   |Ace    |Druid  |
+|Adora  |Glue   |Ace    |Spact  |
+|Adora  |Glue   |Ace    |Village|
+|Adora  |Glue   |Heli   |Dart   |
+|Adora  |Glue   |Heli   |Boomer |
+|Adora  |Glue   |Heli   |Bomb   |
+|Adora  |Glue   |Heli   |Tack   |
+|Adora  |Glue   |Heli   |Ice    |
+|Adora  |Glue   |Heli   |Sniper |
+|Adora  |Glue   |Heli   |Ace    |
+|Adora  |Glue   |Heli   |Mortar |
+|Adora  |Glue   |Heli   |Super  |
+|Adora  |Glue   |Heli   |Druid  |
+|Adora  |Glue   |Heli   |Spact  |
+|Adora  |Glue   |Heli   |Village|
+|Adora  |Glue   |Heli   |Engi   |
+|Adora  |Glue   |Mortar |Dart   |
+|Adora  |Glue   |Mortar |Boomer |
+|Adora  |Glue   |Mortar |Bomb   |
+|Adora  |Glue   |Mortar |Tack   |
+|Adora  |Glue   |Mortar |Ice    |
+|Adora  |Glue   |Mortar |Sniper |
+|Adora  |Glue   |Mortar |Ace    |
+|Adora  |Glue   |Mortar |Heli   |
+|Adora  |Glue   |Mortar |Super  |
+|Adora  |Glue   |Mortar |Alch   |
+|Adora  |Glue   |Mortar |Druid  |
+|Adora  |Glue   |Mortar |Spact  |
+|Adora  |Glue   |Mortar |Village|
+|Adora  |Glue   |Mortar |Engi   |
+|Adora  |Glue   |Wizard |Bomb   |
+|Adora  |Glue   |Wizard |Ice    |
+|Adora  |Glue   |Wizard |Alch   |
+|Adora  |Glue   |Wizard |Druid  |
+|Adora  |Glue   |Super  |Boomer |
+|Adora  |Glue   |Super  |Bomb   |
+|Adora  |Glue   |Super  |Tack   |
+|Adora  |Glue   |Super  |Ice    |
+|Adora  |Glue   |Super  |Sniper |
+|Adora  |Glue   |Super  |Ace    |
+|Adora  |Glue   |Super  |Heli   |
+|Adora  |Glue   |Super  |Mortar |
+|Adora  |Glue   |Super  |Alch   |
+|Adora  |Glue   |Super  |Druid  |
+|Adora  |Glue   |Super  |Spact  |
+|Adora  |Glue   |Super  |Village|
+|Adora  |Glue   |Ninja  |Dart   |
+|Adora  |Glue   |Ninja  |Boomer |
+|Adora  |Glue   |Ninja  |Bomb   |
+|Adora  |Glue   |Ninja  |Tack   |
+|Adora  |Glue   |Ninja  |Ice    |
+|Adora  |Glue   |Ninja  |Sniper |
+|Adora  |Glue   |Ninja  |Sub    |
+|Adora  |Glue   |Ninja  |Bucc   |
+|Adora  |Glue   |Ninja  |Druid  |
+|Adora  |Glue   |Ninja  |Spact  |
+|Adora  |Glue   |Ninja  |Engi   |
+|Adora  |Glue   |Alch   |Dart   |
+|Adora  |Glue   |Alch   |Boomer |
+|Adora  |Glue   |Alch   |Bomb   |
+|Adora  |Glue   |Alch   |Tack   |
+|Adora  |Glue   |Alch   |Ice    |
+|Adora  |Glue   |Alch   |Sniper |
+|Adora  |Glue   |Alch   |Sub    |
+|Adora  |Glue   |Alch   |Bucc   |
+|Adora  |Glue   |Alch   |Mortar |
+|Adora  |Glue   |Alch   |Wizard |
+|Adora  |Glue   |Alch   |Super  |
+|Adora  |Glue   |Alch   |Druid  |
+|Adora  |Glue   |Alch   |Spact  |
+|Adora  |Glue   |Alch   |Village|
+|Adora  |Glue   |Alch   |Engi   |
+|Adora  |Glue   |Druid  |Dart   |
+|Adora  |Glue   |Druid  |Boomer |
+|Adora  |Glue   |Druid  |Bomb   |
+|Adora  |Glue   |Druid  |Tack   |
+|Adora  |Glue   |Druid  |Ice    |
+|Adora  |Glue   |Druid  |Sniper |
+|Adora  |Glue   |Druid  |Sub    |
+|Adora  |Glue   |Druid  |Bucc   |
+|Adora  |Glue   |Druid  |Ace    |
+|Adora  |Glue   |Druid  |Heli   |
+|Adora  |Glue   |Druid  |Mortar |
+|Adora  |Glue   |Druid  |Wizard |
+|Adora  |Glue   |Druid  |Super  |
+|Adora  |Glue   |Druid  |Ninja  |
+|Adora  |Glue   |Druid  |Alch   |
+|Adora  |Glue   |Druid  |Spact  |
+|Adora  |Glue   |Druid  |Village|
+|Adora  |Glue   |Druid  |Engi   |
+|Adora  |Glue   |Spact  |Dart   |
+|Adora  |Glue   |Spact  |Bomb   |
+|Adora  |Glue   |Spact  |Tack   |
+|Adora  |Glue   |Spact  |Ice    |
+|Adora  |Glue   |Spact  |Sniper |
+|Adora  |Glue   |Spact  |Bucc   |
+|Adora  |Glue   |Spact  |Ace    |
+|Adora  |Glue   |Spact  |Heli   |
+|Adora  |Glue   |Spact  |Mortar |
+|Adora  |Glue   |Spact  |Super  |
+|Adora  |Glue   |Spact  |Ninja  |
+|Adora  |Glue   |Spact  |Alch   |
+|Adora  |Glue   |Spact  |Druid  |
+|Adora  |Glue   |Spact  |Village|
+|Adora  |Glue   |Spact  |Engi   |
+|Adora  |Glue   |Village|Dart   |
+|Adora  |Glue   |Village|Boomer |
+|Adora  |Glue   |Village|Bomb   |
+|Adora  |Glue   |Village|Tack   |
+|Adora  |Glue   |Village|Ice    |
+|Adora  |Glue   |Village|Sniper |
+|Adora  |Glue   |Village|Ace    |
+|Adora  |Glue   |Village|Heli   |
+|Adora  |Glue   |Village|Mortar |
+|Adora  |Glue   |Village|Super  |
+|Adora  |Glue   |Village|Alch   |
+|Adora  |Glue   |Village|Druid  |
+|Adora  |Glue   |Village|Spact  |
+|Adora  |Glue   |Village|Engi   |
+|Adora  |Glue   |Engi   |Dart   |
+|Adora  |Glue   |Engi   |Boomer |
+|Adora  |Glue   |Engi   |Bomb   |
+|Adora  |Glue   |Engi   |Tack   |
+|Adora  |Glue   |Engi   |Ice    |
+|Adora  |Glue   |Engi   |Sniper |
+|Adora  |Glue   |Engi   |Sub    |
+|Adora  |Glue   |Engi   |Bucc   |
+|Adora  |Glue   |Engi   |Heli   |
+|Adora  |Glue   |Engi   |Mortar |
+|Adora  |Glue   |Engi   |Ninja  |
+|Adora  |Glue   |Engi   |Alch   |
+|Adora  |Glue   |Engi   |Druid  |
+|Adora  |Glue   |Engi   |Spact  |
+|Adora  |Glue   |Engi   |Village|
+|Adora  |Sniper |Dart   |Boomer |
+|Adora  |Sniper |Dart   |Bomb   |
+|Adora  |Sniper |Dart   |Tack   |
+|Adora  |Sniper |Dart   |Ice    |
+|Adora  |Sniper |Dart   |Glue   |
+|Adora  |Sniper |Dart   |Sub    |
+|Adora  |Sniper |Dart   |Bucc   |
+|Adora  |Sniper |Dart   |Ace    |
+|Adora  |Sniper |Dart   |Mortar |
+|Adora  |Sniper |Dart   |Ninja  |
+|Adora  |Sniper |Dart   |Alch   |
+|Adora  |Sniper |Dart   |Druid  |
+|Adora  |Sniper |Dart   |Spact  |
+|Adora  |Sniper |Dart   |Village|
+|Adora  |Sniper |Dart   |Engi   |
+|Adora  |Sniper |Boomer |Dart   |
+|Adora  |Sniper |Boomer |Bomb   |
+|Adora  |Sniper |Boomer |Tack   |
+|Adora  |Sniper |Boomer |Ice    |
+|Adora  |Sniper |Boomer |Glue   |
+|Adora  |Sniper |Boomer |Sub    |
+|Adora  |Sniper |Boomer |Bucc   |
+|Adora  |Sniper |Boomer |Ace    |
+|Adora  |Sniper |Boomer |Heli   |
+|Adora  |Sniper |Boomer |Mortar |
+|Adora  |Sniper |Boomer |Wizard |
+|Adora  |Sniper |Boomer |Ninja  |
+|Adora  |Sniper |Boomer |Alch   |
+|Adora  |Sniper |Boomer |Druid  |
+|Adora  |Sniper |Boomer |Spact  |
+|Adora  |Sniper |Boomer |Village|
+|Adora  |Sniper |Boomer |Engi   |
+|Adora  |Sniper |Bomb   |Dart   |
+|Adora  |Sniper |Bomb   |Boomer |
+|Adora  |Sniper |Bomb   |Tack   |
+|Adora  |Sniper |Bomb   |Ice    |
+|Adora  |Sniper |Bomb   |Glue   |
+|Adora  |Sniper |Bomb   |Sub    |
+|Adora  |Sniper |Bomb   |Bucc   |
+|Adora  |Sniper |Bomb   |Ace    |
+|Adora  |Sniper |Bomb   |Heli   |
+|Adora  |Sniper |Bomb   |Mortar |
+|Adora  |Sniper |Bomb   |Super  |
+|Adora  |Sniper |Bomb   |Ninja  |
+|Adora  |Sniper |Bomb   |Alch   |
+|Adora  |Sniper |Bomb   |Druid  |
+|Adora  |Sniper |Bomb   |Spact  |
+|Adora  |Sniper |Bomb   |Village|
+|Adora  |Sniper |Bomb   |Engi   |
+|Adora  |Sniper |Tack   |Dart   |
+|Adora  |Sniper |Tack   |Boomer |
+|Adora  |Sniper |Tack   |Bomb   |
+|Adora  |Sniper |Tack   |Ice    |
+|Adora  |Sniper |Tack   |Glue   |
+|Adora  |Sniper |Tack   |Sub    |
+|Adora  |Sniper |Tack   |Bucc   |
+|Adora  |Sniper |Tack   |Ace    |
+|Adora  |Sniper |Tack   |Heli   |
+|Adora  |Sniper |Tack   |Mortar |
+|Adora  |Sniper |Tack   |Wizard |
+|Adora  |Sniper |Tack   |Super  |
+|Adora  |Sniper |Tack   |Ninja  |
+|Adora  |Sniper |Tack   |Alch   |
+|Adora  |Sniper |Tack   |Druid  |
+|Adora  |Sniper |Tack   |Spact  |
+|Adora  |Sniper |Tack   |Village|
+|Adora  |Sniper |Tack   |Engi   |
+|Adora  |Sniper |Ice    |Dart   |
+|Adora  |Sniper |Ice    |Boomer |
+|Adora  |Sniper |Ice    |Bomb   |
+|Adora  |Sniper |Ice    |Tack   |
+|Adora  |Sniper |Ice    |Glue   |
+|Adora  |Sniper |Ice    |Sub    |
+|Adora  |Sniper |Ice    |Bucc   |
+|Adora  |Sniper |Ice    |Ace    |
+|Adora  |Sniper |Ice    |Mortar |
+|Adora  |Sniper |Ice    |Super  |
+|Adora  |Sniper |Ice    |Ninja  |
+|Adora  |Sniper |Ice    |Alch   |
+|Adora  |Sniper |Ice    |Druid  |
+|Adora  |Sniper |Ice    |Spact  |
+|Adora  |Sniper |Ice    |Village|
+|Adora  |Sniper |Ice    |Engi   |
+|Adora  |Sniper |Glue   |Dart   |
+|Adora  |Sniper |Glue   |Boomer |
+|Adora  |Sniper |Glue   |Bomb   |
+|Adora  |Sniper |Glue   |Tack   |
+|Adora  |Sniper |Glue   |Ice    |
+|Adora  |Sniper |Glue   |Sub    |
+|Adora  |Sniper |Glue   |Bucc   |
+|Adora  |Sniper |Glue   |Ace    |
+|Adora  |Sniper |Glue   |Heli   |
+|Adora  |Sniper |Glue   |Mortar |
+|Adora  |Sniper |Glue   |Super  |
+|Adora  |Sniper |Glue   |Ninja  |
+|Adora  |Sniper |Glue   |Alch   |
+|Adora  |Sniper |Glue   |Druid  |
+|Adora  |Sniper |Glue   |Spact  |
+|Adora  |Sniper |Glue   |Village|
+|Adora  |Sniper |Glue   |Engi   |
+|Adora  |Sniper |Sub    |Dart   |
+|Adora  |Sniper |Sub    |Boomer |
+|Adora  |Sniper |Sub    |Bomb   |
+|Adora  |Sniper |Sub    |Tack   |
+|Adora  |Sniper |Sub    |Ice    |
+|Adora  |Sniper |Sub    |Glue   |
+|Adora  |Sniper |Sub    |Bucc   |
+|Adora  |Sniper |Sub    |Ace    |
+|Adora  |Sniper |Sub    |Mortar |
+|Adora  |Sniper |Sub    |Wizard |
+|Adora  |Sniper |Sub    |Ninja  |
+|Adora  |Sniper |Sub    |Alch   |
+|Adora  |Sniper |Sub    |Druid  |
+|Adora  |Sniper |Sub    |Spact  |
+|Adora  |Sniper |Sub    |Village|
+|Adora  |Sniper |Sub    |Engi   |
+|Adora  |Sniper |Bucc   |Dart   |
+|Adora  |Sniper |Bucc   |Boomer |
+|Adora  |Sniper |Bucc   |Bomb   |
+|Adora  |Sniper |Bucc   |Tack   |
+|Adora  |Sniper |Bucc   |Ice    |
+|Adora  |Sniper |Bucc   |Glue   |
+|Adora  |Sniper |Bucc   |Sub    |
+|Adora  |Sniper |Bucc   |Ace    |
+|Adora  |Sniper |Bucc   |Ninja  |
+|Adora  |Sniper |Bucc   |Alch   |
+|Adora  |Sniper |Bucc   |Druid  |
+|Adora  |Sniper |Bucc   |Spact  |
+|Adora  |Sniper |Bucc   |Village|
+|Adora  |Sniper |Bucc   |Engi   |
+|Adora  |Sniper |Ace    |Dart   |
+|Adora  |Sniper |Ace    |Boomer |
+|Adora  |Sniper |Ace    |Bomb   |
+|Adora  |Sniper |Ace    |Tack   |
+|Adora  |Sniper |Ace    |Ice    |
+|Adora  |Sniper |Ace    |Glue   |
+|Adora  |Sniper |Ace    |Sub    |
+|Adora  |Sniper |Ace    |Bucc   |
+|Adora  |Sniper |Ace    |Heli   |
+|Adora  |Sniper |Ace    |Mortar |
+|Adora  |Sniper |Ace    |Super  |
+|Adora  |Sniper |Ace    |Ninja  |
+|Adora  |Sniper |Ace    |Alch   |
+|Adora  |Sniper |Ace    |Druid  |
+|Adora  |Sniper |Ace    |Spact  |
+|Adora  |Sniper |Ace    |Village|
+|Adora  |Sniper |Heli   |Boomer |
+|Adora  |Sniper |Heli   |Bomb   |
+|Adora  |Sniper |Heli   |Tack   |
+|Adora  |Sniper |Heli   |Glue   |
+|Adora  |Sniper |Heli   |Ace    |
+|Adora  |Sniper |Heli   |Mortar |
+|Adora  |Sniper |Heli   |Super  |
+|Adora  |Sniper |Heli   |Druid  |
+|Adora  |Sniper |Heli   |Spact  |
+|Adora  |Sniper |Heli   |Village|
+|Adora  |Sniper |Mortar |Dart   |
+|Adora  |Sniper |Mortar |Boomer |
+|Adora  |Sniper |Mortar |Bomb   |
+|Adora  |Sniper |Mortar |Tack   |
+|Adora  |Sniper |Mortar |Ice    |
+|Adora  |Sniper |Mortar |Glue   |
+|Adora  |Sniper |Mortar |Sub    |
+|Adora  |Sniper |Mortar |Ace    |
+|Adora  |Sniper |Mortar |Heli   |
+|Adora  |Sniper |Mortar |Super  |
+|Adora  |Sniper |Mortar |Ninja  |
+|Adora  |Sniper |Mortar |Alch   |
+|Adora  |Sniper |Mortar |Druid  |
+|Adora  |Sniper |Mortar |Spact  |
+|Adora  |Sniper |Mortar |Village|
+|Adora  |Sniper |Mortar |Engi   |
+|Adora  |Sniper |Wizard |Boomer |
+|Adora  |Sniper |Wizard |Tack   |
+|Adora  |Sniper |Wizard |Sub    |
+|Adora  |Sniper |Wizard |Alch   |
+|Adora  |Sniper |Wizard |Druid  |
+|Adora  |Sniper |Wizard |Engi   |
+|Adora  |Sniper |Super  |Bomb   |
+|Adora  |Sniper |Super  |Tack   |
+|Adora  |Sniper |Super  |Ice    |
+|Adora  |Sniper |Super  |Glue   |
+|Adora  |Sniper |Super  |Ace    |
+|Adora  |Sniper |Super  |Heli   |
+|Adora  |Sniper |Super  |Mortar |
+|Adora  |Sniper |Super  |Ninja  |
+|Adora  |Sniper |Super  |Druid  |
+|Adora  |Sniper |Super  |Spact  |
+|Adora  |Sniper |Super  |Village|
+|Adora  |Sniper |Super  |Engi   |
+|Adora  |Sniper |Ninja  |Dart   |
+|Adora  |Sniper |Ninja  |Boomer |
+|Adora  |Sniper |Ninja  |Bomb   |
+|Adora  |Sniper |Ninja  |Tack   |
+|Adora  |Sniper |Ninja  |Ice    |
+|Adora  |Sniper |Ninja  |Glue   |
+|Adora  |Sniper |Ninja  |Sub    |
+|Adora  |Sniper |Ninja  |Bucc   |
+|Adora  |Sniper |Ninja  |Ace    |
+|Adora  |Sniper |Ninja  |Mortar |
+|Adora  |Sniper |Ninja  |Super  |
+|Adora  |Sniper |Ninja  |Druid  |
+|Adora  |Sniper |Ninja  |Spact  |
+|Adora  |Sniper |Ninja  |Village|
+|Adora  |Sniper |Ninja  |Engi   |
+|Adora  |Sniper |Alch   |Dart   |
+|Adora  |Sniper |Alch   |Boomer |
+|Adora  |Sniper |Alch   |Bomb   |
+|Adora  |Sniper |Alch   |Tack   |
+|Adora  |Sniper |Alch   |Ice    |
+|Adora  |Sniper |Alch   |Glue   |
+|Adora  |Sniper |Alch   |Sub    |
+|Adora  |Sniper |Alch   |Bucc   |
+|Adora  |Sniper |Alch   |Ace    |
+|Adora  |Sniper |Alch   |Mortar |
+|Adora  |Sniper |Alch   |Wizard |
+|Adora  |Sniper |Alch   |Druid  |
+|Adora  |Sniper |Alch   |Spact  |
+|Adora  |Sniper |Alch   |Village|
+|Adora  |Sniper |Alch   |Engi   |
+|Adora  |Sniper |Druid  |Dart   |
+|Adora  |Sniper |Druid  |Boomer |
+|Adora  |Sniper |Druid  |Bomb   |
+|Adora  |Sniper |Druid  |Tack   |
+|Adora  |Sniper |Druid  |Ice    |
+|Adora  |Sniper |Druid  |Glue   |
+|Adora  |Sniper |Druid  |Sub    |
+|Adora  |Sniper |Druid  |Bucc   |
+|Adora  |Sniper |Druid  |Ace    |
+|Adora  |Sniper |Druid  |Heli   |
+|Adora  |Sniper |Druid  |Mortar |
+|Adora  |Sniper |Druid  |Wizard |
+|Adora  |Sniper |Druid  |Super  |
+|Adora  |Sniper |Druid  |Ninja  |
+|Adora  |Sniper |Druid  |Alch   |
+|Adora  |Sniper |Druid  |Spact  |
+|Adora  |Sniper |Druid  |Village|
+|Adora  |Sniper |Druid  |Engi   |
+|Adora  |Sniper |Spact  |Dart   |
+|Adora  |Sniper |Spact  |Boomer |
+|Adora  |Sniper |Spact  |Bomb   |
+|Adora  |Sniper |Spact  |Tack   |
+|Adora  |Sniper |Spact  |Ice    |
+|Adora  |Sniper |Spact  |Glue   |
+|Adora  |Sniper |Spact  |Sub    |
+|Adora  |Sniper |Spact  |Bucc   |
+|Adora  |Sniper |Spact  |Ace    |
+|Adora  |Sniper |Spact  |Heli   |
+|Adora  |Sniper |Spact  |Mortar |
+|Adora  |Sniper |Spact  |Super  |
+|Adora  |Sniper |Spact  |Ninja  |
+|Adora  |Sniper |Spact  |Alch   |
+|Adora  |Sniper |Spact  |Druid  |
+|Adora  |Sniper |Spact  |Village|
+|Adora  |Sniper |Spact  |Engi   |
+|Adora  |Sniper |Village|Dart   |
+|Adora  |Sniper |Village|Boomer |
+|Adora  |Sniper |Village|Bomb   |
+|Adora  |Sniper |Village|Tack   |
+|Adora  |Sniper |Village|Ice    |
+|Adora  |Sniper |Village|Glue   |
+|Adora  |Sniper |Village|Sub    |
+|Adora  |Sniper |Village|Bucc   |
+|Adora  |Sniper |Village|Ace    |
+|Adora  |Sniper |Village|Heli   |
+|Adora  |Sniper |Village|Mortar |
+|Adora  |Sniper |Village|Super  |
+|Adora  |Sniper |Village|Ninja  |
+|Adora  |Sniper |Village|Alch   |
+|Adora  |Sniper |Village|Druid  |
+|Adora  |Sniper |Village|Spact  |
+|Adora  |Sniper |Village|Engi   |
+|Adora  |Sniper |Engi   |Dart   |
+|Adora  |Sniper |Engi   |Boomer |
+|Adora  |Sniper |Engi   |Bomb   |
+|Adora  |Sniper |Engi   |Tack   |
+|Adora  |Sniper |Engi   |Ice    |
+|Adora  |Sniper |Engi   |Glue   |
+|Adora  |Sniper |Engi   |Sub    |
+|Adora  |Sniper |Engi   |Bucc   |
+|Adora  |Sniper |Engi   |Mortar |
+|Adora  |Sniper |Engi   |Wizard |
+|Adora  |Sniper |Engi   |Super  |
+|Adora  |Sniper |Engi   |Ninja  |
+|Adora  |Sniper |Engi   |Alch   |
+|Adora  |Sniper |Engi   |Druid  |
+|Adora  |Sniper |Engi   |Spact  |
+|Adora  |Sniper |Engi   |Village|
+|Adora  |Sub    |Dart   |Boomer |
+|Adora  |Sub    |Dart   |Bomb   |
+|Adora  |Sub    |Dart   |Tack   |
+|Adora  |Sub    |Dart   |Ice    |
+|Adora  |Sub    |Dart   |Glue   |
+|Adora  |Sub    |Dart   |Sniper |
+|Adora  |Sub    |Dart   |Bucc   |
+|Adora  |Sub    |Dart   |Mortar |
+|Adora  |Sub    |Dart   |Ninja  |
+|Adora  |Sub    |Dart   |Alch   |
+|Adora  |Sub    |Dart   |Druid  |
+|Adora  |Sub    |Dart   |Spact  |
+|Adora  |Sub    |Dart   |Village|
+|Adora  |Sub    |Dart   |Engi   |
+|Adora  |Sub    |Boomer |Dart   |
+|Adora  |Sub    |Boomer |Bomb   |
+|Adora  |Sub    |Boomer |Tack   |
+|Adora  |Sub    |Boomer |Ice    |
+|Adora  |Sub    |Boomer |Glue   |
+|Adora  |Sub    |Boomer |Sniper |
+|Adora  |Sub    |Boomer |Bucc   |
+|Adora  |Sub    |Boomer |Mortar |
+|Adora  |Sub    |Boomer |Ninja  |
+|Adora  |Sub    |Boomer |Druid  |
+|Adora  |Sub    |Boomer |Spact  |
+|Adora  |Sub    |Boomer |Engi   |
+|Adora  |Sub    |Bomb   |Dart   |
+|Adora  |Sub    |Bomb   |Boomer |
+|Adora  |Sub    |Bomb   |Tack   |
+|Adora  |Sub    |Bomb   |Ice    |
+|Adora  |Sub    |Bomb   |Glue   |
+|Adora  |Sub    |Bomb   |Sniper |
+|Adora  |Sub    |Bomb   |Bucc   |
+|Adora  |Sub    |Bomb   |Mortar |
+|Adora  |Sub    |Bomb   |Ninja  |
+|Adora  |Sub    |Bomb   |Alch   |
+|Adora  |Sub    |Bomb   |Druid  |
+|Adora  |Sub    |Bomb   |Spact  |
+|Adora  |Sub    |Bomb   |Engi   |
+|Adora  |Sub    |Tack   |Dart   |
+|Adora  |Sub    |Tack   |Boomer |
+|Adora  |Sub    |Tack   |Bomb   |
+|Adora  |Sub    |Tack   |Ice    |
+|Adora  |Sub    |Tack   |Glue   |
+|Adora  |Sub    |Tack   |Sniper |
+|Adora  |Sub    |Tack   |Bucc   |
+|Adora  |Sub    |Tack   |Ace    |
+|Adora  |Sub    |Tack   |Ninja  |
+|Adora  |Sub    |Tack   |Druid  |
+|Adora  |Sub    |Tack   |Spact  |
+|Adora  |Sub    |Tack   |Engi   |
+|Adora  |Sub    |Ice    |Dart   |
+|Adora  |Sub    |Ice    |Boomer |
+|Adora  |Sub    |Ice    |Bomb   |
+|Adora  |Sub    |Ice    |Tack   |
+|Adora  |Sub    |Ice    |Glue   |
+|Adora  |Sub    |Ice    |Sniper |
+|Adora  |Sub    |Ice    |Bucc   |
+|Adora  |Sub    |Ice    |Ace    |
+|Adora  |Sub    |Ice    |Mortar |
+|Adora  |Sub    |Ice    |Ninja  |
+|Adora  |Sub    |Ice    |Alch   |
+|Adora  |Sub    |Ice    |Druid  |
+|Adora  |Sub    |Ice    |Spact  |
+|Adora  |Sub    |Ice    |Village|
+|Adora  |Sub    |Ice    |Engi   |
+|Adora  |Sub    |Glue   |Dart   |
+|Adora  |Sub    |Glue   |Boomer |
+|Adora  |Sub    |Glue   |Bomb   |
+|Adora  |Sub    |Glue   |Tack   |
+|Adora  |Sub    |Glue   |Ice    |
+|Adora  |Sub    |Glue   |Sniper |
+|Adora  |Sub    |Glue   |Bucc   |
+|Adora  |Sub    |Glue   |Ninja  |
+|Adora  |Sub    |Glue   |Alch   |
+|Adora  |Sub    |Glue   |Druid  |
+|Adora  |Sub    |Glue   |Engi   |
+|Adora  |Sub    |Sniper |Dart   |
+|Adora  |Sub    |Sniper |Boomer |
+|Adora  |Sub    |Sniper |Bomb   |
+|Adora  |Sub    |Sniper |Tack   |
+|Adora  |Sub    |Sniper |Ice    |
+|Adora  |Sub    |Sniper |Glue   |
+|Adora  |Sub    |Sniper |Bucc   |
+|Adora  |Sub    |Sniper |Ace    |
+|Adora  |Sub    |Sniper |Mortar |
+|Adora  |Sub    |Sniper |Wizard |
+|Adora  |Sub    |Sniper |Ninja  |
+|Adora  |Sub    |Sniper |Alch   |
+|Adora  |Sub    |Sniper |Druid  |
+|Adora  |Sub    |Sniper |Spact  |
+|Adora  |Sub    |Sniper |Village|
+|Adora  |Sub    |Sniper |Engi   |
+|Adora  |Sub    |Bucc   |Dart   |
+|Adora  |Sub    |Bucc   |Boomer |
+|Adora  |Sub    |Bucc   |Bomb   |
+|Adora  |Sub    |Bucc   |Tack   |
+|Adora  |Sub    |Bucc   |Ice    |
+|Adora  |Sub    |Bucc   |Glue   |
+|Adora  |Sub    |Bucc   |Sniper |
+|Adora  |Sub    |Bucc   |Ninja  |
+|Adora  |Sub    |Bucc   |Druid  |
+|Adora  |Sub    |Bucc   |Spact  |
+|Adora  |Sub    |Bucc   |Village|
+|Adora  |Sub    |Bucc   |Engi   |
+|Adora  |Sub    |Ace    |Tack   |
+|Adora  |Sub    |Ace    |Ice    |
+|Adora  |Sub    |Ace    |Sniper |
+|Adora  |Sub    |Ace    |Ninja  |
+|Adora  |Sub    |Ace    |Druid  |
+|Adora  |Sub    |Mortar |Dart   |
+|Adora  |Sub    |Mortar |Boomer |
+|Adora  |Sub    |Mortar |Bomb   |
+|Adora  |Sub    |Mortar |Ice    |
+|Adora  |Sub    |Mortar |Sniper |
+|Adora  |Sub    |Mortar |Ninja  |
+|Adora  |Sub    |Mortar |Druid  |
+|Adora  |Sub    |Mortar |Spact  |
+|Adora  |Sub    |Mortar |Engi   |
+|Adora  |Sub    |Wizard |Sniper |
+|Adora  |Sub    |Wizard |Alch   |
+|Adora  |Sub    |Wizard |Druid  |
+|Adora  |Sub    |Wizard |Village|
+|Adora  |Sub    |Ninja  |Dart   |
+|Adora  |Sub    |Ninja  |Boomer |
+|Adora  |Sub    |Ninja  |Bomb   |
+|Adora  |Sub    |Ninja  |Tack   |
+|Adora  |Sub    |Ninja  |Ice    |
+|Adora  |Sub    |Ninja  |Glue   |
+|Adora  |Sub    |Ninja  |Sniper |
+|Adora  |Sub    |Ninja  |Bucc   |
+|Adora  |Sub    |Ninja  |Ace    |
+|Adora  |Sub    |Ninja  |Mortar |
+|Adora  |Sub    |Ninja  |Druid  |
+|Adora  |Sub    |Ninja  |Spact  |
+|Adora  |Sub    |Ninja  |Village|
+|Adora  |Sub    |Ninja  |Engi   |
+|Adora  |Sub    |Alch   |Dart   |
+|Adora  |Sub    |Alch   |Bomb   |
+|Adora  |Sub    |Alch   |Ice    |
+|Adora  |Sub    |Alch   |Glue   |
+|Adora  |Sub    |Alch   |Sniper |
+|Adora  |Sub    |Alch   |Wizard |
+|Adora  |Sub    |Alch   |Druid  |
+|Adora  |Sub    |Alch   |Spact  |
+|Adora  |Sub    |Alch   |Village|
+|Adora  |Sub    |Alch   |Engi   |
+|Adora  |Sub    |Druid  |Dart   |
+|Adora  |Sub    |Druid  |Boomer |
+|Adora  |Sub    |Druid  |Bomb   |
+|Adora  |Sub    |Druid  |Tack   |
+|Adora  |Sub    |Druid  |Ice    |
+|Adora  |Sub    |Druid  |Glue   |
+|Adora  |Sub    |Druid  |Sniper |
+|Adora  |Sub    |Druid  |Bucc   |
+|Adora  |Sub    |Druid  |Ace    |
+|Adora  |Sub    |Druid  |Mortar |
+|Adora  |Sub    |Druid  |Wizard |
+|Adora  |Sub    |Druid  |Ninja  |
+|Adora  |Sub    |Druid  |Alch   |
+|Adora  |Sub    |Druid  |Spact  |
+|Adora  |Sub    |Druid  |Village|
+|Adora  |Sub    |Druid  |Engi   |
+|Adora  |Sub    |Spact  |Dart   |
+|Adora  |Sub    |Spact  |Boomer |
+|Adora  |Sub    |Spact  |Bomb   |
+|Adora  |Sub    |Spact  |Tack   |
+|Adora  |Sub    |Spact  |Ice    |
+|Adora  |Sub    |Spact  |Sniper |
+|Adora  |Sub    |Spact  |Bucc   |
+|Adora  |Sub    |Spact  |Mortar |
+|Adora  |Sub    |Spact  |Ninja  |
+|Adora  |Sub    |Spact  |Alch   |
+|Adora  |Sub    |Spact  |Druid  |
+|Adora  |Sub    |Spact  |Village|
+|Adora  |Sub    |Spact  |Engi   |
+|Adora  |Sub    |Village|Dart   |
+|Adora  |Sub    |Village|Ice    |
+|Adora  |Sub    |Village|Sniper |
+|Adora  |Sub    |Village|Bucc   |
+|Adora  |Sub    |Village|Wizard |
+|Adora  |Sub    |Village|Ninja  |
+|Adora  |Sub    |Village|Alch   |
+|Adora  |Sub    |Village|Druid  |
+|Adora  |Sub    |Village|Spact  |
+|Adora  |Sub    |Village|Engi   |
+|Adora  |Sub    |Engi   |Dart   |
+|Adora  |Sub    |Engi   |Boomer |
+|Adora  |Sub    |Engi   |Bomb   |
+|Adora  |Sub    |Engi   |Tack   |
+|Adora  |Sub    |Engi   |Ice    |
+|Adora  |Sub    |Engi   |Glue   |
+|Adora  |Sub    |Engi   |Sniper |
+|Adora  |Sub    |Engi   |Bucc   |
+|Adora  |Sub    |Engi   |Mortar |
+|Adora  |Sub    |Engi   |Ninja  |
+|Adora  |Sub    |Engi   |Alch   |
+|Adora  |Sub    |Engi   |Druid  |
+|Adora  |Sub    |Engi   |Spact  |
+|Adora  |Sub    |Engi   |Village|
+|Adora  |Bucc   |Dart   |Boomer |
+|Adora  |Bucc   |Dart   |Bomb   |
+|Adora  |Bucc   |Dart   |Tack   |
+|Adora  |Bucc   |Dart   |Ice    |
+|Adora  |Bucc   |Dart   |Glue   |
+|Adora  |Bucc   |Dart   |Sniper |
+|Adora  |Bucc   |Dart   |Sub    |
+|Adora  |Bucc   |Dart   |Heli   |
+|Adora  |Bucc   |Dart   |Ninja  |
+|Adora  |Bucc   |Dart   |Alch   |
+|Adora  |Bucc   |Dart   |Druid  |
+|Adora  |Bucc   |Dart   |Spact  |
+|Adora  |Bucc   |Dart   |Village|
+|Adora  |Bucc   |Dart   |Engi   |
+|Adora  |Bucc   |Boomer |Dart   |
+|Adora  |Bucc   |Boomer |Bomb   |
+|Adora  |Bucc   |Boomer |Tack   |
+|Adora  |Bucc   |Boomer |Ice    |
+|Adora  |Bucc   |Boomer |Glue   |
+|Adora  |Bucc   |Boomer |Sniper |
+|Adora  |Bucc   |Boomer |Sub    |
+|Adora  |Bucc   |Boomer |Heli   |
+|Adora  |Bucc   |Boomer |Ninja  |
+|Adora  |Bucc   |Boomer |Druid  |
+|Adora  |Bucc   |Boomer |Village|
+|Adora  |Bucc   |Boomer |Engi   |
+|Adora  |Bucc   |Bomb   |Dart   |
+|Adora  |Bucc   |Bomb   |Boomer |
+|Adora  |Bucc   |Bomb   |Tack   |
+|Adora  |Bucc   |Bomb   |Ice    |
+|Adora  |Bucc   |Bomb   |Glue   |
+|Adora  |Bucc   |Bomb   |Sniper |
+|Adora  |Bucc   |Bomb   |Sub    |
+|Adora  |Bucc   |Bomb   |Ace    |
+|Adora  |Bucc   |Bomb   |Heli   |
+|Adora  |Bucc   |Bomb   |Ninja  |
+|Adora  |Bucc   |Bomb   |Alch   |
+|Adora  |Bucc   |Bomb   |Druid  |
+|Adora  |Bucc   |Bomb   |Engi   |
+|Adora  |Bucc   |Tack   |Dart   |
+|Adora  |Bucc   |Tack   |Boomer |
+|Adora  |Bucc   |Tack   |Bomb   |
+|Adora  |Bucc   |Tack   |Ice    |
+|Adora  |Bucc   |Tack   |Glue   |
+|Adora  |Bucc   |Tack   |Sniper |
+|Adora  |Bucc   |Tack   |Sub    |
+|Adora  |Bucc   |Tack   |Ace    |
+|Adora  |Bucc   |Tack   |Heli   |
+|Adora  |Bucc   |Tack   |Ninja  |
+|Adora  |Bucc   |Tack   |Alch   |
+|Adora  |Bucc   |Tack   |Druid  |
+|Adora  |Bucc   |Tack   |Engi   |
+|Adora  |Bucc   |Ice    |Dart   |
+|Adora  |Bucc   |Ice    |Boomer |
+|Adora  |Bucc   |Ice    |Bomb   |
+|Adora  |Bucc   |Ice    |Tack   |
+|Adora  |Bucc   |Ice    |Glue   |
+|Adora  |Bucc   |Ice    |Sniper |
+|Adora  |Bucc   |Ice    |Sub    |
+|Adora  |Bucc   |Ice    |Ninja  |
+|Adora  |Bucc   |Ice    |Alch   |
+|Adora  |Bucc   |Ice    |Druid  |
+|Adora  |Bucc   |Ice    |Spact  |
+|Adora  |Bucc   |Ice    |Engi   |
+|Adora  |Bucc   |Glue   |Dart   |
+|Adora  |Bucc   |Glue   |Boomer |
+|Adora  |Bucc   |Glue   |Bomb   |
+|Adora  |Bucc   |Glue   |Tack   |
+|Adora  |Bucc   |Glue   |Ice    |
+|Adora  |Bucc   |Glue   |Sniper |
+|Adora  |Bucc   |Glue   |Sub    |
+|Adora  |Bucc   |Glue   |Ninja  |
+|Adora  |Bucc   |Glue   |Alch   |
+|Adora  |Bucc   |Glue   |Druid  |
+|Adora  |Bucc   |Glue   |Spact  |
+|Adora  |Bucc   |Glue   |Engi   |
+|Adora  |Bucc   |Sniper |Dart   |
+|Adora  |Bucc   |Sniper |Boomer |
+|Adora  |Bucc   |Sniper |Bomb   |
+|Adora  |Bucc   |Sniper |Tack   |
+|Adora  |Bucc   |Sniper |Ice    |
+|Adora  |Bucc   |Sniper |Glue   |
+|Adora  |Bucc   |Sniper |Sub    |
+|Adora  |Bucc   |Sniper |Ace    |
+|Adora  |Bucc   |Sniper |Ninja  |
+|Adora  |Bucc   |Sniper |Alch   |
+|Adora  |Bucc   |Sniper |Druid  |
+|Adora  |Bucc   |Sniper |Spact  |
+|Adora  |Bucc   |Sniper |Village|
+|Adora  |Bucc   |Sniper |Engi   |
+|Adora  |Bucc   |Sub    |Dart   |
+|Adora  |Bucc   |Sub    |Boomer |
+|Adora  |Bucc   |Sub    |Bomb   |
+|Adora  |Bucc   |Sub    |Tack   |
+|Adora  |Bucc   |Sub    |Ice    |
+|Adora  |Bucc   |Sub    |Glue   |
+|Adora  |Bucc   |Sub    |Sniper |
+|Adora  |Bucc   |Sub    |Ninja  |
+|Adora  |Bucc   |Sub    |Druid  |
+|Adora  |Bucc   |Sub    |Spact  |
+|Adora  |Bucc   |Sub    |Village|
+|Adora  |Bucc   |Sub    |Engi   |
+|Adora  |Bucc   |Ace    |Bomb   |
+|Adora  |Bucc   |Ace    |Tack   |
+|Adora  |Bucc   |Ace    |Sniper |
+|Adora  |Bucc   |Ace    |Druid  |
+|Adora  |Bucc   |Heli   |Dart   |
+|Adora  |Bucc   |Heli   |Boomer |
+|Adora  |Bucc   |Heli   |Bomb   |
+|Adora  |Bucc   |Heli   |Tack   |
+|Adora  |Bucc   |Heli   |Druid  |
+|Adora  |Bucc   |Super  |Druid  |
+|Adora  |Bucc   |Ninja  |Dart   |
+|Adora  |Bucc   |Ninja  |Boomer |
+|Adora  |Bucc   |Ninja  |Bomb   |
+|Adora  |Bucc   |Ninja  |Tack   |
+|Adora  |Bucc   |Ninja  |Ice    |
+|Adora  |Bucc   |Ninja  |Glue   |
+|Adora  |Bucc   |Ninja  |Sniper |
+|Adora  |Bucc   |Ninja  |Sub    |
+|Adora  |Bucc   |Ninja  |Druid  |
+|Adora  |Bucc   |Ninja  |Spact  |
+|Adora  |Bucc   |Ninja  |Village|
+|Adora  |Bucc   |Ninja  |Engi   |
+|Adora  |Bucc   |Alch   |Dart   |
+|Adora  |Bucc   |Alch   |Bomb   |
+|Adora  |Bucc   |Alch   |Tack   |
+|Adora  |Bucc   |Alch   |Ice    |
+|Adora  |Bucc   |Alch   |Glue   |
+|Adora  |Bucc   |Alch   |Sniper |
+|Adora  |Bucc   |Alch   |Druid  |
+|Adora  |Bucc   |Alch   |Engi   |
+|Adora  |Bucc   |Druid  |Dart   |
+|Adora  |Bucc   |Druid  |Boomer |
+|Adora  |Bucc   |Druid  |Bomb   |
+|Adora  |Bucc   |Druid  |Tack   |
+|Adora  |Bucc   |Druid  |Ice    |
+|Adora  |Bucc   |Druid  |Glue   |
+|Adora  |Bucc   |Druid  |Sniper |
+|Adora  |Bucc   |Druid  |Sub    |
+|Adora  |Bucc   |Druid  |Ace    |
+|Adora  |Bucc   |Druid  |Heli   |
+|Adora  |Bucc   |Druid  |Super  |
+|Adora  |Bucc   |Druid  |Ninja  |
+|Adora  |Bucc   |Druid  |Alch   |
+|Adora  |Bucc   |Druid  |Village|
+|Adora  |Bucc   |Druid  |Engi   |
+|Adora  |Bucc   |Spact  |Dart   |
+|Adora  |Bucc   |Spact  |Ice    |
+|Adora  |Bucc   |Spact  |Glue   |
+|Adora  |Bucc   |Spact  |Sniper |
+|Adora  |Bucc   |Spact  |Sub    |
+|Adora  |Bucc   |Spact  |Ninja  |
+|Adora  |Bucc   |Spact  |Engi   |
+|Adora  |Bucc   |Village|Dart   |
+|Adora  |Bucc   |Village|Boomer |
+|Adora  |Bucc   |Village|Sniper |
+|Adora  |Bucc   |Village|Sub    |
+|Adora  |Bucc   |Village|Ninja  |
+|Adora  |Bucc   |Village|Druid  |
+|Adora  |Bucc   |Village|Engi   |
+|Adora  |Bucc   |Engi   |Dart   |
+|Adora  |Bucc   |Engi   |Boomer |
+|Adora  |Bucc   |Engi   |Bomb   |
+|Adora  |Bucc   |Engi   |Tack   |
+|Adora  |Bucc   |Engi   |Ice    |
+|Adora  |Bucc   |Engi   |Glue   |
+|Adora  |Bucc   |Engi   |Sniper |
+|Adora  |Bucc   |Engi   |Sub    |
+|Adora  |Bucc   |Engi   |Ninja  |
+|Adora  |Bucc   |Engi   |Alch   |
+|Adora  |Bucc   |Engi   |Druid  |
+|Adora  |Bucc   |Engi   |Spact  |
+|Adora  |Bucc   |Engi   |Village|
+|Adora  |Ace    |Dart   |Bomb   |
+|Adora  |Ace    |Dart   |Tack   |
+|Adora  |Ace    |Dart   |Ice    |
+|Adora  |Ace    |Dart   |Glue   |
+|Adora  |Ace    |Dart   |Sniper |
+|Adora  |Ace    |Dart   |Ninja  |
+|Adora  |Ace    |Dart   |Druid  |
+|Adora  |Ace    |Boomer |Bomb   |
+|Adora  |Ace    |Boomer |Tack   |
+|Adora  |Ace    |Boomer |Ice    |
+|Adora  |Ace    |Boomer |Glue   |
+|Adora  |Ace    |Boomer |Sniper |
+|Adora  |Ace    |Boomer |Druid  |
+|Adora  |Ace    |Bomb   |Dart   |
+|Adora  |Ace    |Bomb   |Boomer |
+|Adora  |Ace    |Bomb   |Tack   |
+|Adora  |Ace    |Bomb   |Ice    |
+|Adora  |Ace    |Bomb   |Glue   |
+|Adora  |Ace    |Bomb   |Sniper |
+|Adora  |Ace    |Bomb   |Bucc   |
+|Adora  |Ace    |Bomb   |Heli   |
+|Adora  |Ace    |Bomb   |Mortar |
+|Adora  |Ace    |Bomb   |Super  |
+|Adora  |Ace    |Bomb   |Ninja  |
+|Adora  |Ace    |Bomb   |Alch   |
+|Adora  |Ace    |Bomb   |Druid  |
+|Adora  |Ace    |Bomb   |Spact  |
+|Adora  |Ace    |Bomb   |Village|
+|Adora  |Ace    |Tack   |Dart   |
+|Adora  |Ace    |Tack   |Boomer |
+|Adora  |Ace    |Tack   |Bomb   |
+|Adora  |Ace    |Tack   |Ice    |
+|Adora  |Ace    |Tack   |Glue   |
+|Adora  |Ace    |Tack   |Sniper |
+|Adora  |Ace    |Tack   |Sub    |
+|Adora  |Ace    |Tack   |Bucc   |
+|Adora  |Ace    |Tack   |Ninja  |
+|Adora  |Ace    |Tack   |Alch   |
+|Adora  |Ace    |Tack   |Druid  |
+|Adora  |Ace    |Ice    |Dart   |
+|Adora  |Ace    |Ice    |Boomer |
+|Adora  |Ace    |Ice    |Bomb   |
+|Adora  |Ace    |Ice    |Tack   |
+|Adora  |Ace    |Ice    |Glue   |
+|Adora  |Ace    |Ice    |Sniper |
+|Adora  |Ace    |Ice    |Sub    |
+|Adora  |Ace    |Ice    |Druid  |
+|Adora  |Ace    |Ice    |Spact  |
+|Adora  |Ace    |Ice    |Village|
+|Adora  |Ace    |Glue   |Dart   |
+|Adora  |Ace    |Glue   |Boomer |
+|Adora  |Ace    |Glue   |Bomb   |
+|Adora  |Ace    |Glue   |Tack   |
+|Adora  |Ace    |Glue   |Ice    |
+|Adora  |Ace    |Glue   |Sniper |
+|Adora  |Ace    |Glue   |Heli   |
+|Adora  |Ace    |Glue   |Mortar |
+|Adora  |Ace    |Glue   |Super  |
+|Adora  |Ace    |Glue   |Druid  |
+|Adora  |Ace    |Glue   |Spact  |
+|Adora  |Ace    |Glue   |Village|
+|Adora  |Ace    |Sniper |Dart   |
+|Adora  |Ace    |Sniper |Boomer |
+|Adora  |Ace    |Sniper |Bomb   |
+|Adora  |Ace    |Sniper |Tack   |
+|Adora  |Ace    |Sniper |Ice    |
+|Adora  |Ace    |Sniper |Glue   |
+|Adora  |Ace    |Sniper |Sub    |
+|Adora  |Ace    |Sniper |Bucc   |
+|Adora  |Ace    |Sniper |Heli   |
+|Adora  |Ace    |Sniper |Mortar |
+|Adora  |Ace    |Sniper |Super  |
+|Adora  |Ace    |Sniper |Ninja  |
+|Adora  |Ace    |Sniper |Alch   |
+|Adora  |Ace    |Sniper |Druid  |
+|Adora  |Ace    |Sniper |Spact  |
+|Adora  |Ace    |Sniper |Village|
+|Adora  |Ace    |Sub    |Tack   |
+|Adora  |Ace    |Sub    |Ice    |
+|Adora  |Ace    |Sub    |Sniper |
+|Adora  |Ace    |Sub    |Ninja  |
+|Adora  |Ace    |Sub    |Druid  |
+|Adora  |Ace    |Bucc   |Bomb   |
+|Adora  |Ace    |Bucc   |Tack   |
+|Adora  |Ace    |Bucc   |Sniper |
+|Adora  |Ace    |Bucc   |Druid  |
+|Adora  |Ace    |Heli   |Bomb   |
+|Adora  |Ace    |Heli   |Glue   |
+|Adora  |Ace    |Heli   |Sniper |
+|Adora  |Ace    |Heli   |Mortar |
+|Adora  |Ace    |Heli   |Super  |
+|Adora  |Ace    |Heli   |Spact  |
+|Adora  |Ace    |Heli   |Village|
+|Adora  |Ace    |Mortar |Bomb   |
+|Adora  |Ace    |Mortar |Glue   |
+|Adora  |Ace    |Mortar |Sniper |
+|Adora  |Ace    |Mortar |Heli   |
+|Adora  |Ace    |Mortar |Super  |
+|Adora  |Ace    |Mortar |Ninja  |
+|Adora  |Ace    |Mortar |Druid  |
+|Adora  |Ace    |Mortar |Spact  |
+|Adora  |Ace    |Mortar |Village|
+|Adora  |Ace    |Super  |Bomb   |
+|Adora  |Ace    |Super  |Glue   |
+|Adora  |Ace    |Super  |Sniper |
+|Adora  |Ace    |Super  |Heli   |
+|Adora  |Ace    |Super  |Mortar |
+|Adora  |Ace    |Super  |Spact  |
+|Adora  |Ace    |Super  |Village|
+|Adora  |Ace    |Ninja  |Dart   |
+|Adora  |Ace    |Ninja  |Bomb   |
+|Adora  |Ace    |Ninja  |Tack   |
+|Adora  |Ace    |Ninja  |Sniper |
+|Adora  |Ace    |Ninja  |Sub    |
+|Adora  |Ace    |Ninja  |Mortar |
+|Adora  |Ace    |Ninja  |Druid  |
+|Adora  |Ace    |Ninja  |Village|
+|Adora  |Ace    |Alch   |Bomb   |
+|Adora  |Ace    |Alch   |Tack   |
+|Adora  |Ace    |Alch   |Sniper |
+|Adora  |Ace    |Alch   |Druid  |
+|Adora  |Ace    |Alch   |Village|
+|Adora  |Ace    |Druid  |Dart   |
+|Adora  |Ace    |Druid  |Boomer |
+|Adora  |Ace    |Druid  |Bomb   |
+|Adora  |Ace    |Druid  |Tack   |
+|Adora  |Ace    |Druid  |Ice    |
+|Adora  |Ace    |Druid  |Glue   |
+|Adora  |Ace    |Druid  |Sniper |
+|Adora  |Ace    |Druid  |Sub    |
+|Adora  |Ace    |Druid  |Bucc   |
+|Adora  |Ace    |Druid  |Mortar |
+|Adora  |Ace    |Druid  |Ninja  |
+|Adora  |Ace    |Druid  |Alch   |
+|Adora  |Ace    |Spact  |Bomb   |
+|Adora  |Ace    |Spact  |Ice    |
+|Adora  |Ace    |Spact  |Glue   |
+|Adora  |Ace    |Spact  |Sniper |
+|Adora  |Ace    |Spact  |Heli   |
+|Adora  |Ace    |Spact  |Mortar |
+|Adora  |Ace    |Spact  |Super  |
+|Adora  |Ace    |Spact  |Village|
+|Adora  |Ace    |Village|Bomb   |
+|Adora  |Ace    |Village|Ice    |
+|Adora  |Ace    |Village|Glue   |
+|Adora  |Ace    |Village|Sniper |
+|Adora  |Ace    |Village|Heli   |
+|Adora  |Ace    |Village|Mortar |
+|Adora  |Ace    |Village|Super  |
+|Adora  |Ace    |Village|Ninja  |
+|Adora  |Ace    |Village|Alch   |
+|Adora  |Ace    |Village|Spact  |
+|Adora  |Heli   |Dart   |Boomer |
+|Adora  |Heli   |Dart   |Bomb   |
+|Adora  |Heli   |Dart   |Tack   |
+|Adora  |Heli   |Dart   |Glue   |
+|Adora  |Heli   |Dart   |Bucc   |
+|Adora  |Heli   |Dart   |Druid  |
+|Adora  |Heli   |Boomer |Dart   |
+|Adora  |Heli   |Boomer |Bomb   |
+|Adora  |Heli   |Boomer |Tack   |
+|Adora  |Heli   |Boomer |Glue   |
+|Adora  |Heli   |Boomer |Sniper |
+|Adora  |Heli   |Boomer |Bucc   |
+|Adora  |Heli   |Boomer |Druid  |
+|Adora  |Heli   |Bomb   |Dart   |
+|Adora  |Heli   |Bomb   |Boomer |
+|Adora  |Heli   |Bomb   |Tack   |
+|Adora  |Heli   |Bomb   |Ice    |
+|Adora  |Heli   |Bomb   |Glue   |
+|Adora  |Heli   |Bomb   |Sniper |
+|Adora  |Heli   |Bomb   |Bucc   |
+|Adora  |Heli   |Bomb   |Ace    |
+|Adora  |Heli   |Bomb   |Mortar |
+|Adora  |Heli   |Bomb   |Super  |
+|Adora  |Heli   |Bomb   |Druid  |
+|Adora  |Heli   |Bomb   |Spact  |
+|Adora  |Heli   |Bomb   |Village|
+|Adora  |Heli   |Tack   |Dart   |
+|Adora  |Heli   |Tack   |Boomer |
+|Adora  |Heli   |Tack   |Bomb   |
+|Adora  |Heli   |Tack   |Ice    |
+|Adora  |Heli   |Tack   |Glue   |
+|Adora  |Heli   |Tack   |Sniper |
+|Adora  |Heli   |Tack   |Bucc   |
+|Adora  |Heli   |Tack   |Druid  |
+|Adora  |Heli   |Ice    |Bomb   |
+|Adora  |Heli   |Ice    |Tack   |
+|Adora  |Heli   |Ice    |Glue   |
+|Adora  |Heli   |Ice    |Mortar |
+|Adora  |Heli   |Ice    |Super  |
+|Adora  |Heli   |Ice    |Druid  |
+|Adora  |Heli   |Ice    |Spact  |
+|Adora  |Heli   |Ice    |Village|
+|Adora  |Heli   |Glue   |Dart   |
+|Adora  |Heli   |Glue   |Boomer |
+|Adora  |Heli   |Glue   |Bomb   |
+|Adora  |Heli   |Glue   |Tack   |
+|Adora  |Heli   |Glue   |Ice    |
+|Adora  |Heli   |Glue   |Sniper |
+|Adora  |Heli   |Glue   |Ace    |
+|Adora  |Heli   |Glue   |Mortar |
+|Adora  |Heli   |Glue   |Super  |
+|Adora  |Heli   |Glue   |Druid  |
+|Adora  |Heli   |Glue   |Spact  |
+|Adora  |Heli   |Glue   |Village|
+|Adora  |Heli   |Glue   |Engi   |
+|Adora  |Heli   |Sniper |Boomer |
+|Adora  |Heli   |Sniper |Bomb   |
+|Adora  |Heli   |Sniper |Tack   |
+|Adora  |Heli   |Sniper |Glue   |
+|Adora  |Heli   |Sniper |Ace    |
+|Adora  |Heli   |Sniper |Mortar |
+|Adora  |Heli   |Sniper |Super  |
+|Adora  |Heli   |Sniper |Druid  |
+|Adora  |Heli   |Sniper |Spact  |
+|Adora  |Heli   |Sniper |Village|
+|Adora  |Heli   |Bucc   |Dart   |
+|Adora  |Heli   |Bucc   |Boomer |
+|Adora  |Heli   |Bucc   |Bomb   |
+|Adora  |Heli   |Bucc   |Tack   |
+|Adora  |Heli   |Bucc   |Druid  |
+|Adora  |Heli   |Ace    |Bomb   |
+|Adora  |Heli   |Ace    |Glue   |
+|Adora  |Heli   |Ace    |Sniper |
+|Adora  |Heli   |Ace    |Mortar |
+|Adora  |Heli   |Ace    |Super  |
+|Adora  |Heli   |Ace    |Spact  |
+|Adora  |Heli   |Ace    |Village|
+|Adora  |Heli   |Mortar |Bomb   |
+|Adora  |Heli   |Mortar |Ice    |
+|Adora  |Heli   |Mortar |Glue   |
+|Adora  |Heli   |Mortar |Sniper |
+|Adora  |Heli   |Mortar |Ace    |
+|Adora  |Heli   |Mortar |Super  |
+|Adora  |Heli   |Mortar |Ninja  |
+|Adora  |Heli   |Mortar |Spact  |
+|Adora  |Heli   |Mortar |Village|
+|Adora  |Heli   |Super  |Bomb   |
+|Adora  |Heli   |Super  |Ice    |
+|Adora  |Heli   |Super  |Glue   |
+|Adora  |Heli   |Super  |Sniper |
+|Adora  |Heli   |Super  |Ace    |
+|Adora  |Heli   |Super  |Mortar |
+|Adora  |Heli   |Super  |Spact  |
+|Adora  |Heli   |Super  |Village|
+|Adora  |Heli   |Ninja  |Mortar |
+|Adora  |Heli   |Ninja  |Spact  |
+|Adora  |Heli   |Ninja  |Engi   |
+|Adora  |Heli   |Druid  |Dart   |
+|Adora  |Heli   |Druid  |Boomer |
+|Adora  |Heli   |Druid  |Bomb   |
+|Adora  |Heli   |Druid  |Tack   |
+|Adora  |Heli   |Druid  |Ice    |
+|Adora  |Heli   |Druid  |Glue   |
+|Adora  |Heli   |Druid  |Sniper |
+|Adora  |Heli   |Druid  |Bucc   |
+|Adora  |Heli   |Spact  |Bomb   |
+|Adora  |Heli   |Spact  |Ice    |
+|Adora  |Heli   |Spact  |Glue   |
+|Adora  |Heli   |Spact  |Sniper |
+|Adora  |Heli   |Spact  |Ace    |
+|Adora  |Heli   |Spact  |Mortar |
+|Adora  |Heli   |Spact  |Super  |
+|Adora  |Heli   |Spact  |Ninja  |
+|Adora  |Heli   |Spact  |Village|
+|Adora  |Heli   |Spact  |Engi   |
+|Adora  |Heli   |Village|Bomb   |
+|Adora  |Heli   |Village|Ice    |
+|Adora  |Heli   |Village|Glue   |
+|Adora  |Heli   |Village|Sniper |
+|Adora  |Heli   |Village|Ace    |
+|Adora  |Heli   |Village|Mortar |
+|Adora  |Heli   |Village|Super  |
+|Adora  |Heli   |Village|Spact  |
+|Adora  |Heli   |Village|Engi   |
+|Adora  |Heli   |Engi   |Glue   |
+|Adora  |Heli   |Engi   |Ninja  |
+|Adora  |Heli   |Engi   |Spact  |
+|Adora  |Heli   |Engi   |Village|
+|Adora  |Mortar |Dart   |Bomb   |
+|Adora  |Mortar |Dart   |Ice    |
+|Adora  |Mortar |Dart   |Glue   |
+|Adora  |Mortar |Dart   |Sniper |
+|Adora  |Mortar |Dart   |Sub    |
+|Adora  |Mortar |Dart   |Ninja  |
+|Adora  |Mortar |Dart   |Druid  |
+|Adora  |Mortar |Dart   |Village|
+|Adora  |Mortar |Dart   |Engi   |
+|Adora  |Mortar |Boomer |Bomb   |
+|Adora  |Mortar |Boomer |Tack   |
+|Adora  |Mortar |Boomer |Ice    |
+|Adora  |Mortar |Boomer |Glue   |
+|Adora  |Mortar |Boomer |Sniper |
+|Adora  |Mortar |Boomer |Sub    |
+|Adora  |Mortar |Boomer |Ninja  |
+|Adora  |Mortar |Boomer |Alch   |
+|Adora  |Mortar |Boomer |Druid  |
+|Adora  |Mortar |Boomer |Village|
+|Adora  |Mortar |Boomer |Engi   |
+|Adora  |Mortar |Bomb   |Dart   |
+|Adora  |Mortar |Bomb   |Boomer |
+|Adora  |Mortar |Bomb   |Tack   |
+|Adora  |Mortar |Bomb   |Ice    |
+|Adora  |Mortar |Bomb   |Glue   |
+|Adora  |Mortar |Bomb   |Sniper |
+|Adora  |Mortar |Bomb   |Sub    |
+|Adora  |Mortar |Bomb   |Ace    |
+|Adora  |Mortar |Bomb   |Heli   |
+|Adora  |Mortar |Bomb   |Super  |
+|Adora  |Mortar |Bomb   |Ninja  |
+|Adora  |Mortar |Bomb   |Alch   |
+|Adora  |Mortar |Bomb   |Druid  |
+|Adora  |Mortar |Bomb   |Spact  |
+|Adora  |Mortar |Bomb   |Village|
+|Adora  |Mortar |Bomb   |Engi   |
+|Adora  |Mortar |Tack   |Boomer |
+|Adora  |Mortar |Tack   |Bomb   |
+|Adora  |Mortar |Tack   |Ice    |
+|Adora  |Mortar |Tack   |Glue   |
+|Adora  |Mortar |Tack   |Sniper |
+|Adora  |Mortar |Tack   |Ninja  |
+|Adora  |Mortar |Tack   |Alch   |
+|Adora  |Mortar |Tack   |Druid  |
+|Adora  |Mortar |Tack   |Village|
+|Adora  |Mortar |Tack   |Engi   |
+|Adora  |Mortar |Ice    |Dart   |
+|Adora  |Mortar |Ice    |Boomer |
+|Adora  |Mortar |Ice    |Bomb   |
+|Adora  |Mortar |Ice    |Tack   |
+|Adora  |Mortar |Ice    |Glue   |
+|Adora  |Mortar |Ice    |Sniper |
+|Adora  |Mortar |Ice    |Sub    |
+|Adora  |Mortar |Ice    |Heli   |
+|Adora  |Mortar |Ice    |Super  |
+|Adora  |Mortar |Ice    |Ninja  |
+|Adora  |Mortar |Ice    |Alch   |
+|Adora  |Mortar |Ice    |Druid  |
+|Adora  |Mortar |Ice    |Spact  |
+|Adora  |Mortar |Ice    |Village|
+|Adora  |Mortar |Ice    |Engi   |
+|Adora  |Mortar |Glue   |Dart   |
+|Adora  |Mortar |Glue   |Boomer |
+|Adora  |Mortar |Glue   |Bomb   |
+|Adora  |Mortar |Glue   |Tack   |
+|Adora  |Mortar |Glue   |Ice    |
+|Adora  |Mortar |Glue   |Sniper |
+|Adora  |Mortar |Glue   |Ace    |
+|Adora  |Mortar |Glue   |Heli   |
+|Adora  |Mortar |Glue   |Super  |
+|Adora  |Mortar |Glue   |Alch   |
+|Adora  |Mortar |Glue   |Druid  |
+|Adora  |Mortar |Glue   |Spact  |
+|Adora  |Mortar |Glue   |Village|
+|Adora  |Mortar |Glue   |Engi   |
+|Adora  |Mortar |Sniper |Dart   |
+|Adora  |Mortar |Sniper |Boomer |
+|Adora  |Mortar |Sniper |Bomb   |
+|Adora  |Mortar |Sniper |Tack   |
+|Adora  |Mortar |Sniper |Ice    |
+|Adora  |Mortar |Sniper |Glue   |
+|Adora  |Mortar |Sniper |Sub    |
+|Adora  |Mortar |Sniper |Ace    |
+|Adora  |Mortar |Sniper |Heli   |
+|Adora  |Mortar |Sniper |Super  |
+|Adora  |Mortar |Sniper |Ninja  |
+|Adora  |Mortar |Sniper |Alch   |
+|Adora  |Mortar |Sniper |Druid  |
+|Adora  |Mortar |Sniper |Spact  |
+|Adora  |Mortar |Sniper |Village|
+|Adora  |Mortar |Sniper |Engi   |
+|Adora  |Mortar |Sub    |Dart   |
+|Adora  |Mortar |Sub    |Boomer |
+|Adora  |Mortar |Sub    |Bomb   |
+|Adora  |Mortar |Sub    |Ice    |
+|Adora  |Mortar |Sub    |Sniper |
+|Adora  |Mortar |Sub    |Ninja  |
+|Adora  |Mortar |Sub    |Druid  |
+|Adora  |Mortar |Sub    |Spact  |
+|Adora  |Mortar |Sub    |Engi   |
+|Adora  |Mortar |Ace    |Bomb   |
+|Adora  |Mortar |Ace    |Glue   |
+|Adora  |Mortar |Ace    |Sniper |
+|Adora  |Mortar |Ace    |Heli   |
+|Adora  |Mortar |Ace    |Super  |
+|Adora  |Mortar |Ace    |Ninja  |
+|Adora  |Mortar |Ace    |Druid  |
+|Adora  |Mortar |Ace    |Spact  |
+|Adora  |Mortar |Ace    |Village|
+|Adora  |Mortar |Heli   |Bomb   |
+|Adora  |Mortar |Heli   |Ice    |
+|Adora  |Mortar |Heli   |Glue   |
+|Adora  |Mortar |Heli   |Sniper |
+|Adora  |Mortar |Heli   |Ace    |
+|Adora  |Mortar |Heli   |Super  |
+|Adora  |Mortar |Heli   |Ninja  |
+|Adora  |Mortar |Heli   |Spact  |
+|Adora  |Mortar |Heli   |Village|
+|Adora  |Mortar |Super  |Bomb   |
+|Adora  |Mortar |Super  |Ice    |
+|Adora  |Mortar |Super  |Glue   |
+|Adora  |Mortar |Super  |Sniper |
+|Adora  |Mortar |Super  |Ace    |
+|Adora  |Mortar |Super  |Heli   |
+|Adora  |Mortar |Super  |Alch   |
+|Adora  |Mortar |Super  |Druid  |
+|Adora  |Mortar |Super  |Spact  |
+|Adora  |Mortar |Super  |Village|
+|Adora  |Mortar |Ninja  |Dart   |
+|Adora  |Mortar |Ninja  |Boomer |
+|Adora  |Mortar |Ninja  |Bomb   |
+|Adora  |Mortar |Ninja  |Tack   |
+|Adora  |Mortar |Ninja  |Ice    |
+|Adora  |Mortar |Ninja  |Sniper |
+|Adora  |Mortar |Ninja  |Sub    |
+|Adora  |Mortar |Ninja  |Ace    |
+|Adora  |Mortar |Ninja  |Heli   |
+|Adora  |Mortar |Ninja  |Druid  |
+|Adora  |Mortar |Ninja  |Village|
+|Adora  |Mortar |Ninja  |Engi   |
+|Adora  |Mortar |Alch   |Boomer |
+|Adora  |Mortar |Alch   |Bomb   |
+|Adora  |Mortar |Alch   |Tack   |
+|Adora  |Mortar |Alch   |Ice    |
+|Adora  |Mortar |Alch   |Glue   |
+|Adora  |Mortar |Alch   |Sniper |
+|Adora  |Mortar |Alch   |Super  |
+|Adora  |Mortar |Alch   |Druid  |
+|Adora  |Mortar |Alch   |Village|
+|Adora  |Mortar |Alch   |Engi   |
+|Adora  |Mortar |Druid  |Dart   |
+|Adora  |Mortar |Druid  |Boomer |
+|Adora  |Mortar |Druid  |Bomb   |
+|Adora  |Mortar |Druid  |Tack   |
+|Adora  |Mortar |Druid  |Ice    |
+|Adora  |Mortar |Druid  |Glue   |
+|Adora  |Mortar |Druid  |Sniper |
+|Adora  |Mortar |Druid  |Sub    |
+|Adora  |Mortar |Druid  |Ace    |
+|Adora  |Mortar |Druid  |Super  |
+|Adora  |Mortar |Druid  |Ninja  |
+|Adora  |Mortar |Druid  |Alch   |
+|Adora  |Mortar |Druid  |Spact  |
+|Adora  |Mortar |Druid  |Village|
+|Adora  |Mortar |Druid  |Engi   |
+|Adora  |Mortar |Spact  |Bomb   |
+|Adora  |Mortar |Spact  |Ice    |
+|Adora  |Mortar |Spact  |Glue   |
+|Adora  |Mortar |Spact  |Sniper |
+|Adora  |Mortar |Spact  |Sub    |
+|Adora  |Mortar |Spact  |Ace    |
+|Adora  |Mortar |Spact  |Heli   |
+|Adora  |Mortar |Spact  |Super  |
+|Adora  |Mortar |Spact  |Druid  |
+|Adora  |Mortar |Spact  |Village|
+|Adora  |Mortar |Spact  |Engi   |
+|Adora  |Mortar |Village|Dart   |
+|Adora  |Mortar |Village|Boomer |
+|Adora  |Mortar |Village|Bomb   |
+|Adora  |Mortar |Village|Tack   |
+|Adora  |Mortar |Village|Ice    |
+|Adora  |Mortar |Village|Glue   |
+|Adora  |Mortar |Village|Sniper |
+|Adora  |Mortar |Village|Ace    |
+|Adora  |Mortar |Village|Heli   |
+|Adora  |Mortar |Village|Super  |
+|Adora  |Mortar |Village|Ninja  |
+|Adora  |Mortar |Village|Alch   |
+|Adora  |Mortar |Village|Druid  |
+|Adora  |Mortar |Village|Spact  |
+|Adora  |Mortar |Village|Engi   |
+|Adora  |Mortar |Engi   |Dart   |
+|Adora  |Mortar |Engi   |Boomer |
+|Adora  |Mortar |Engi   |Bomb   |
+|Adora  |Mortar |Engi   |Tack   |
+|Adora  |Mortar |Engi   |Ice    |
+|Adora  |Mortar |Engi   |Glue   |
+|Adora  |Mortar |Engi   |Sniper |
+|Adora  |Mortar |Engi   |Sub    |
+|Adora  |Mortar |Engi   |Ninja  |
+|Adora  |Mortar |Engi   |Alch   |
+|Adora  |Mortar |Engi   |Druid  |
+|Adora  |Mortar |Engi   |Spact  |
+|Adora  |Mortar |Engi   |Village|
+|Adora  |Wizard |Boomer |Bomb   |
+|Adora  |Wizard |Boomer |Sniper |
+|Adora  |Wizard |Boomer |Druid  |
+|Adora  |Wizard |Bomb   |Boomer |
+|Adora  |Wizard |Bomb   |Tack   |
+|Adora  |Wizard |Bomb   |Glue   |
+|Adora  |Wizard |Bomb   |Alch   |
+|Adora  |Wizard |Bomb   |Druid  |
+|Adora  |Wizard |Tack   |Bomb   |
+|Adora  |Wizard |Tack   |Sniper |
+|Adora  |Wizard |Tack   |Druid  |
+|Adora  |Wizard |Tack   |Engi   |
+|Adora  |Wizard |Ice    |Glue   |
+|Adora  |Wizard |Ice    |Alch   |
+|Adora  |Wizard |Ice    |Village|
+|Adora  |Wizard |Ice    |Engi   |
+|Adora  |Wizard |Glue   |Bomb   |
+|Adora  |Wizard |Glue   |Ice    |
+|Adora  |Wizard |Glue   |Alch   |
+|Adora  |Wizard |Glue   |Druid  |
+|Adora  |Wizard |Sniper |Boomer |
+|Adora  |Wizard |Sniper |Tack   |
+|Adora  |Wizard |Sniper |Sub    |
+|Adora  |Wizard |Sniper |Alch   |
+|Adora  |Wizard |Sniper |Druid  |
+|Adora  |Wizard |Sniper |Engi   |
+|Adora  |Wizard |Sub    |Sniper |
+|Adora  |Wizard |Sub    |Alch   |
+|Adora  |Wizard |Sub    |Druid  |
+|Adora  |Wizard |Sub    |Village|
+|Adora  |Wizard |Alch   |Bomb   |
+|Adora  |Wizard |Alch   |Ice    |
+|Adora  |Wizard |Alch   |Glue   |
+|Adora  |Wizard |Alch   |Sniper |
+|Adora  |Wizard |Alch   |Sub    |
+|Adora  |Wizard |Alch   |Engi   |
+|Adora  |Wizard |Druid  |Boomer |
+|Adora  |Wizard |Druid  |Bomb   |
+|Adora  |Wizard |Druid  |Tack   |
+|Adora  |Wizard |Druid  |Glue   |
+|Adora  |Wizard |Druid  |Sniper |
+|Adora  |Wizard |Druid  |Sub    |
+|Adora  |Wizard |Druid  |Engi   |
+|Adora  |Wizard |Village|Ice    |
+|Adora  |Wizard |Village|Sub    |
+|Adora  |Wizard |Engi   |Tack   |
+|Adora  |Wizard |Engi   |Ice    |
+|Adora  |Wizard |Engi   |Sniper |
+|Adora  |Wizard |Engi   |Alch   |
+|Adora  |Wizard |Engi   |Druid  |
+|Adora  |Super  |Dart   |Village|
+|Adora  |Super  |Boomer |Bomb   |
+|Adora  |Super  |Boomer |Tack   |
+|Adora  |Super  |Boomer |Ice    |
+|Adora  |Super  |Boomer |Glue   |
+|Adora  |Super  |Boomer |Alch   |
+|Adora  |Super  |Boomer |Druid  |
+|Adora  |Super  |Boomer |Village|
+|Adora  |Super  |Bomb   |Boomer |
+|Adora  |Super  |Bomb   |Tack   |
+|Adora  |Super  |Bomb   |Ice    |
+|Adora  |Super  |Bomb   |Glue   |
+|Adora  |Super  |Bomb   |Sniper |
+|Adora  |Super  |Bomb   |Ace    |
+|Adora  |Super  |Bomb   |Heli   |
+|Adora  |Super  |Bomb   |Mortar |
+|Adora  |Super  |Bomb   |Ninja  |
+|Adora  |Super  |Bomb   |Alch   |
+|Adora  |Super  |Bomb   |Druid  |
+|Adora  |Super  |Bomb   |Spact  |
+|Adora  |Super  |Bomb   |Village|
+|Adora  |Super  |Tack   |Boomer |
+|Adora  |Super  |Tack   |Bomb   |
+|Adora  |Super  |Tack   |Ice    |
+|Adora  |Super  |Tack   |Glue   |
+|Adora  |Super  |Tack   |Sniper |
+|Adora  |Super  |Tack   |Alch   |
+|Adora  |Super  |Tack   |Druid  |
+|Adora  |Super  |Tack   |Village|
+|Adora  |Super  |Ice    |Boomer |
+|Adora  |Super  |Ice    |Bomb   |
+|Adora  |Super  |Ice    |Tack   |
+|Adora  |Super  |Ice    |Glue   |
+|Adora  |Super  |Ice    |Sniper |
+|Adora  |Super  |Ice    |Heli   |
+|Adora  |Super  |Ice    |Mortar |
+|Adora  |Super  |Ice    |Ninja  |
+|Adora  |Super  |Ice    |Alch   |
+|Adora  |Super  |Ice    |Druid  |
+|Adora  |Super  |Ice    |Spact  |
+|Adora  |Super  |Ice    |Village|
+|Adora  |Super  |Glue   |Boomer |
+|Adora  |Super  |Glue   |Bomb   |
+|Adora  |Super  |Glue   |Tack   |
+|Adora  |Super  |Glue   |Ice    |
+|Adora  |Super  |Glue   |Sniper |
+|Adora  |Super  |Glue   |Ace    |
+|Adora  |Super  |Glue   |Heli   |
+|Adora  |Super  |Glue   |Mortar |
+|Adora  |Super  |Glue   |Alch   |
+|Adora  |Super  |Glue   |Druid  |
+|Adora  |Super  |Glue   |Spact  |
+|Adora  |Super  |Glue   |Village|
+|Adora  |Super  |Sniper |Bomb   |
+|Adora  |Super  |Sniper |Tack   |
+|Adora  |Super  |Sniper |Ice    |
+|Adora  |Super  |Sniper |Glue   |
+|Adora  |Super  |Sniper |Ace    |
+|Adora  |Super  |Sniper |Heli   |
+|Adora  |Super  |Sniper |Mortar |
+|Adora  |Super  |Sniper |Ninja  |
+|Adora  |Super  |Sniper |Druid  |
+|Adora  |Super  |Sniper |Spact  |
+|Adora  |Super  |Sniper |Village|
+|Adora  |Super  |Sniper |Engi   |
+|Adora  |Super  |Bucc   |Druid  |
+|Adora  |Super  |Ace    |Bomb   |
+|Adora  |Super  |Ace    |Glue   |
+|Adora  |Super  |Ace    |Sniper |
+|Adora  |Super  |Ace    |Heli   |
+|Adora  |Super  |Ace    |Mortar |
+|Adora  |Super  |Ace    |Spact  |
+|Adora  |Super  |Ace    |Village|
+|Adora  |Super  |Heli   |Bomb   |
+|Adora  |Super  |Heli   |Ice    |
+|Adora  |Super  |Heli   |Glue   |
+|Adora  |Super  |Heli   |Sniper |
+|Adora  |Super  |Heli   |Ace    |
+|Adora  |Super  |Heli   |Mortar |
+|Adora  |Super  |Heli   |Spact  |
+|Adora  |Super  |Heli   |Village|
+|Adora  |Super  |Mortar |Bomb   |
+|Adora  |Super  |Mortar |Ice    |
+|Adora  |Super  |Mortar |Glue   |
+|Adora  |Super  |Mortar |Sniper |
+|Adora  |Super  |Mortar |Ace    |
+|Adora  |Super  |Mortar |Heli   |
+|Adora  |Super  |Mortar |Alch   |
+|Adora  |Super  |Mortar |Druid  |
+|Adora  |Super  |Mortar |Spact  |
+|Adora  |Super  |Mortar |Village|
+|Adora  |Super  |Ninja  |Bomb   |
+|Adora  |Super  |Ninja  |Ice    |
+|Adora  |Super  |Ninja  |Sniper |
+|Adora  |Super  |Ninja  |Druid  |
+|Adora  |Super  |Alch   |Boomer |
+|Adora  |Super  |Alch   |Bomb   |
+|Adora  |Super  |Alch   |Tack   |
+|Adora  |Super  |Alch   |Ice    |
+|Adora  |Super  |Alch   |Glue   |
+|Adora  |Super  |Alch   |Mortar |
+|Adora  |Super  |Alch   |Druid  |
+|Adora  |Super  |Alch   |Village|
+|Adora  |Super  |Alch   |Engi   |
+|Adora  |Super  |Druid  |Boomer |
+|Adora  |Super  |Druid  |Bomb   |
+|Adora  |Super  |Druid  |Tack   |
+|Adora  |Super  |Druid  |Ice    |
+|Adora  |Super  |Druid  |Glue   |
+|Adora  |Super  |Druid  |Sniper |
+|Adora  |Super  |Druid  |Bucc   |
+|Adora  |Super  |Druid  |Mortar |
+|Adora  |Super  |Druid  |Ninja  |
+|Adora  |Super  |Druid  |Alch   |
+|Adora  |Super  |Druid  |Village|
+|Adora  |Super  |Druid  |Engi   |
+|Adora  |Super  |Spact  |Bomb   |
+|Adora  |Super  |Spact  |Ice    |
+|Adora  |Super  |Spact  |Glue   |
+|Adora  |Super  |Spact  |Sniper |
+|Adora  |Super  |Spact  |Ace    |
+|Adora  |Super  |Spact  |Heli   |
+|Adora  |Super  |Spact  |Mortar |
+|Adora  |Super  |Spact  |Village|
+|Adora  |Super  |Village|Dart   |
+|Adora  |Super  |Village|Boomer |
+|Adora  |Super  |Village|Bomb   |
+|Adora  |Super  |Village|Tack   |
+|Adora  |Super  |Village|Ice    |
+|Adora  |Super  |Village|Glue   |
+|Adora  |Super  |Village|Sniper |
+|Adora  |Super  |Village|Ace    |
+|Adora  |Super  |Village|Heli   |
+|Adora  |Super  |Village|Mortar |
+|Adora  |Super  |Village|Alch   |
+|Adora  |Super  |Village|Druid  |
+|Adora  |Super  |Village|Spact  |
+|Adora  |Super  |Engi   |Sniper |
+|Adora  |Super  |Engi   |Alch   |
+|Adora  |Super  |Engi   |Druid  |
+|Adora  |Ninja  |Dart   |Boomer |
+|Adora  |Ninja  |Dart   |Bomb   |
+|Adora  |Ninja  |Dart   |Tack   |
+|Adora  |Ninja  |Dart   |Ice    |
+|Adora  |Ninja  |Dart   |Glue   |
+|Adora  |Ninja  |Dart   |Sniper |
+|Adora  |Ninja  |Dart   |Sub    |
+|Adora  |Ninja  |Dart   |Bucc   |
+|Adora  |Ninja  |Dart   |Ace    |
+|Adora  |Ninja  |Dart   |Mortar |
+|Adora  |Ninja  |Dart   |Druid  |
+|Adora  |Ninja  |Dart   |Spact  |
+|Adora  |Ninja  |Dart   |Village|
+|Adora  |Ninja  |Dart   |Engi   |
+|Adora  |Ninja  |Boomer |Dart   |
+|Adora  |Ninja  |Boomer |Bomb   |
+|Adora  |Ninja  |Boomer |Tack   |
+|Adora  |Ninja  |Boomer |Ice    |
+|Adora  |Ninja  |Boomer |Glue   |
+|Adora  |Ninja  |Boomer |Sniper |
+|Adora  |Ninja  |Boomer |Sub    |
+|Adora  |Ninja  |Boomer |Bucc   |
+|Adora  |Ninja  |Boomer |Mortar |
+|Adora  |Ninja  |Boomer |Druid  |
+|Adora  |Ninja  |Boomer |Village|
+|Adora  |Ninja  |Boomer |Engi   |
+|Adora  |Ninja  |Bomb   |Dart   |
+|Adora  |Ninja  |Bomb   |Boomer |
+|Adora  |Ninja  |Bomb   |Tack   |
+|Adora  |Ninja  |Bomb   |Ice    |
+|Adora  |Ninja  |Bomb   |Glue   |
+|Adora  |Ninja  |Bomb   |Sniper |
+|Adora  |Ninja  |Bomb   |Sub    |
+|Adora  |Ninja  |Bomb   |Bucc   |
+|Adora  |Ninja  |Bomb   |Ace    |
+|Adora  |Ninja  |Bomb   |Mortar |
+|Adora  |Ninja  |Bomb   |Super  |
+|Adora  |Ninja  |Bomb   |Druid  |
+|Adora  |Ninja  |Bomb   |Engi   |
+|Adora  |Ninja  |Tack   |Dart   |
+|Adora  |Ninja  |Tack   |Boomer |
+|Adora  |Ninja  |Tack   |Bomb   |
+|Adora  |Ninja  |Tack   |Ice    |
+|Adora  |Ninja  |Tack   |Glue   |
+|Adora  |Ninja  |Tack   |Sniper |
+|Adora  |Ninja  |Tack   |Sub    |
+|Adora  |Ninja  |Tack   |Bucc   |
+|Adora  |Ninja  |Tack   |Ace    |
+|Adora  |Ninja  |Tack   |Mortar |
+|Adora  |Ninja  |Tack   |Druid  |
+|Adora  |Ninja  |Tack   |Engi   |
+|Adora  |Ninja  |Ice    |Dart   |
+|Adora  |Ninja  |Ice    |Boomer |
+|Adora  |Ninja  |Ice    |Bomb   |
+|Adora  |Ninja  |Ice    |Tack   |
+|Adora  |Ninja  |Ice    |Glue   |
+|Adora  |Ninja  |Ice    |Sniper |
+|Adora  |Ninja  |Ice    |Sub    |
+|Adora  |Ninja  |Ice    |Bucc   |
+|Adora  |Ninja  |Ice    |Mortar |
+|Adora  |Ninja  |Ice    |Super  |
+|Adora  |Ninja  |Ice    |Druid  |
+|Adora  |Ninja  |Ice    |Spact  |
+|Adora  |Ninja  |Ice    |Village|
+|Adora  |Ninja  |Ice    |Engi   |
+|Adora  |Ninja  |Glue   |Dart   |
+|Adora  |Ninja  |Glue   |Boomer |
+|Adora  |Ninja  |Glue   |Bomb   |
+|Adora  |Ninja  |Glue   |Tack   |
+|Adora  |Ninja  |Glue   |Ice    |
+|Adora  |Ninja  |Glue   |Sniper |
+|Adora  |Ninja  |Glue   |Sub    |
+|Adora  |Ninja  |Glue   |Bucc   |
+|Adora  |Ninja  |Glue   |Druid  |
+|Adora  |Ninja  |Glue   |Spact  |
+|Adora  |Ninja  |Glue   |Engi   |
+|Adora  |Ninja  |Sniper |Dart   |
+|Adora  |Ninja  |Sniper |Boomer |
+|Adora  |Ninja  |Sniper |Bomb   |
+|Adora  |Ninja  |Sniper |Tack   |
+|Adora  |Ninja  |Sniper |Ice    |
+|Adora  |Ninja  |Sniper |Glue   |
+|Adora  |Ninja  |Sniper |Sub    |
+|Adora  |Ninja  |Sniper |Bucc   |
+|Adora  |Ninja  |Sniper |Ace    |
+|Adora  |Ninja  |Sniper |Mortar |
+|Adora  |Ninja  |Sniper |Super  |
+|Adora  |Ninja  |Sniper |Druid  |
+|Adora  |Ninja  |Sniper |Spact  |
+|Adora  |Ninja  |Sniper |Village|
+|Adora  |Ninja  |Sniper |Engi   |
+|Adora  |Ninja  |Sub    |Dart   |
+|Adora  |Ninja  |Sub    |Boomer |
+|Adora  |Ninja  |Sub    |Bomb   |
+|Adora  |Ninja  |Sub    |Tack   |
+|Adora  |Ninja  |Sub    |Ice    |
+|Adora  |Ninja  |Sub    |Glue   |
+|Adora  |Ninja  |Sub    |Sniper |
+|Adora  |Ninja  |Sub    |Bucc   |
+|Adora  |Ninja  |Sub    |Ace    |
+|Adora  |Ninja  |Sub    |Mortar |
+|Adora  |Ninja  |Sub    |Druid  |
+|Adora  |Ninja  |Sub    |Spact  |
+|Adora  |Ninja  |Sub    |Village|
+|Adora  |Ninja  |Sub    |Engi   |
+|Adora  |Ninja  |Bucc   |Dart   |
+|Adora  |Ninja  |Bucc   |Boomer |
+|Adora  |Ninja  |Bucc   |Bomb   |
+|Adora  |Ninja  |Bucc   |Tack   |
+|Adora  |Ninja  |Bucc   |Ice    |
+|Adora  |Ninja  |Bucc   |Glue   |
+|Adora  |Ninja  |Bucc   |Sniper |
+|Adora  |Ninja  |Bucc   |Sub    |
+|Adora  |Ninja  |Bucc   |Druid  |
+|Adora  |Ninja  |Bucc   |Spact  |
+|Adora  |Ninja  |Bucc   |Village|
+|Adora  |Ninja  |Bucc   |Engi   |
+|Adora  |Ninja  |Ace    |Dart   |
+|Adora  |Ninja  |Ace    |Bomb   |
+|Adora  |Ninja  |Ace    |Tack   |
+|Adora  |Ninja  |Ace    |Sniper |
+|Adora  |Ninja  |Ace    |Sub    |
+|Adora  |Ninja  |Ace    |Mortar |
+|Adora  |Ninja  |Ace    |Druid  |
+|Adora  |Ninja  |Ace    |Village|
+|Adora  |Ninja  |Heli   |Mortar |
+|Adora  |Ninja  |Heli   |Spact  |
+|Adora  |Ninja  |Heli   |Engi   |
+|Adora  |Ninja  |Mortar |Dart   |
+|Adora  |Ninja  |Mortar |Boomer |
+|Adora  |Ninja  |Mortar |Bomb   |
+|Adora  |Ninja  |Mortar |Tack   |
+|Adora  |Ninja  |Mortar |Ice    |
+|Adora  |Ninja  |Mortar |Sniper |
+|Adora  |Ninja  |Mortar |Sub    |
+|Adora  |Ninja  |Mortar |Ace    |
+|Adora  |Ninja  |Mortar |Heli   |
+|Adora  |Ninja  |Mortar |Druid  |
+|Adora  |Ninja  |Mortar |Village|
+|Adora  |Ninja  |Mortar |Engi   |
+|Adora  |Ninja  |Super  |Bomb   |
+|Adora  |Ninja  |Super  |Ice    |
+|Adora  |Ninja  |Super  |Sniper |
+|Adora  |Ninja  |Super  |Druid  |
+|Adora  |Ninja  |Druid  |Dart   |
+|Adora  |Ninja  |Druid  |Boomer |
+|Adora  |Ninja  |Druid  |Bomb   |
+|Adora  |Ninja  |Druid  |Tack   |
+|Adora  |Ninja  |Druid  |Ice    |
+|Adora  |Ninja  |Druid  |Glue   |
+|Adora  |Ninja  |Druid  |Sniper |
+|Adora  |Ninja  |Druid  |Sub    |
+|Adora  |Ninja  |Druid  |Bucc   |
+|Adora  |Ninja  |Druid  |Ace    |
+|Adora  |Ninja  |Druid  |Mortar |
+|Adora  |Ninja  |Druid  |Super  |
+|Adora  |Ninja  |Druid  |Spact  |
+|Adora  |Ninja  |Druid  |Village|
+|Adora  |Ninja  |Druid  |Engi   |
+|Adora  |Ninja  |Spact  |Dart   |
+|Adora  |Ninja  |Spact  |Ice    |
+|Adora  |Ninja  |Spact  |Glue   |
+|Adora  |Ninja  |Spact  |Sniper |
+|Adora  |Ninja  |Spact  |Sub    |
+|Adora  |Ninja  |Spact  |Bucc   |
+|Adora  |Ninja  |Spact  |Heli   |
+|Adora  |Ninja  |Spact  |Druid  |
+|Adora  |Ninja  |Spact  |Village|
+|Adora  |Ninja  |Spact  |Engi   |
+|Adora  |Ninja  |Village|Dart   |
+|Adora  |Ninja  |Village|Boomer |
+|Adora  |Ninja  |Village|Ice    |
+|Adora  |Ninja  |Village|Sniper |
+|Adora  |Ninja  |Village|Sub    |
+|Adora  |Ninja  |Village|Bucc   |
+|Adora  |Ninja  |Village|Ace    |
+|Adora  |Ninja  |Village|Mortar |
+|Adora  |Ninja  |Village|Druid  |
+|Adora  |Ninja  |Village|Spact  |
+|Adora  |Ninja  |Village|Engi   |
+|Adora  |Ninja  |Engi   |Dart   |
+|Adora  |Ninja  |Engi   |Boomer |
+|Adora  |Ninja  |Engi   |Bomb   |
+|Adora  |Ninja  |Engi   |Tack   |
+|Adora  |Ninja  |Engi   |Ice    |
+|Adora  |Ninja  |Engi   |Glue   |
+|Adora  |Ninja  |Engi   |Sniper |
+|Adora  |Ninja  |Engi   |Sub    |
+|Adora  |Ninja  |Engi   |Bucc   |
+|Adora  |Ninja  |Engi   |Heli   |
+|Adora  |Ninja  |Engi   |Mortar |
+|Adora  |Ninja  |Engi   |Druid  |
+|Adora  |Ninja  |Engi   |Spact  |
+|Adora  |Ninja  |Engi   |Village|
+|Adora  |Alch   |Dart   |Boomer |
+|Adora  |Alch   |Dart   |Bomb   |
+|Adora  |Alch   |Dart   |Tack   |
+|Adora  |Alch   |Dart   |Ice    |
+|Adora  |Alch   |Dart   |Glue   |
+|Adora  |Alch   |Dart   |Sniper |
+|Adora  |Alch   |Dart   |Sub    |
+|Adora  |Alch   |Dart   |Bucc   |
+|Adora  |Alch   |Dart   |Druid  |
+|Adora  |Alch   |Dart   |Spact  |
+|Adora  |Alch   |Dart   |Village|
+|Adora  |Alch   |Dart   |Engi   |
+|Adora  |Alch   |Boomer |Dart   |
+|Adora  |Alch   |Boomer |Bomb   |
+|Adora  |Alch   |Boomer |Tack   |
+|Adora  |Alch   |Boomer |Ice    |
+|Adora  |Alch   |Boomer |Glue   |
+|Adora  |Alch   |Boomer |Sniper |
+|Adora  |Alch   |Boomer |Mortar |
+|Adora  |Alch   |Boomer |Super  |
+|Adora  |Alch   |Boomer |Druid  |
+|Adora  |Alch   |Boomer |Engi   |
+|Adora  |Alch   |Bomb   |Dart   |
+|Adora  |Alch   |Bomb   |Boomer |
+|Adora  |Alch   |Bomb   |Tack   |
+|Adora  |Alch   |Bomb   |Ice    |
+|Adora  |Alch   |Bomb   |Glue   |
+|Adora  |Alch   |Bomb   |Sniper |
+|Adora  |Alch   |Bomb   |Sub    |
+|Adora  |Alch   |Bomb   |Bucc   |
+|Adora  |Alch   |Bomb   |Ace    |
+|Adora  |Alch   |Bomb   |Mortar |
+|Adora  |Alch   |Bomb   |Wizard |
+|Adora  |Alch   |Bomb   |Super  |
+|Adora  |Alch   |Bomb   |Druid  |
+|Adora  |Alch   |Bomb   |Village|
+|Adora  |Alch   |Bomb   |Engi   |
+|Adora  |Alch   |Tack   |Dart   |
+|Adora  |Alch   |Tack   |Boomer |
+|Adora  |Alch   |Tack   |Bomb   |
+|Adora  |Alch   |Tack   |Ice    |
+|Adora  |Alch   |Tack   |Glue   |
+|Adora  |Alch   |Tack   |Sniper |
+|Adora  |Alch   |Tack   |Bucc   |
+|Adora  |Alch   |Tack   |Ace    |
+|Adora  |Alch   |Tack   |Mortar |
+|Adora  |Alch   |Tack   |Super  |
+|Adora  |Alch   |Tack   |Druid  |
+|Adora  |Alch   |Tack   |Village|
+|Adora  |Alch   |Tack   |Engi   |
+|Adora  |Alch   |Ice    |Dart   |
+|Adora  |Alch   |Ice    |Boomer |
+|Adora  |Alch   |Ice    |Bomb   |
+|Adora  |Alch   |Ice    |Tack   |
+|Adora  |Alch   |Ice    |Glue   |
+|Adora  |Alch   |Ice    |Sniper |
+|Adora  |Alch   |Ice    |Sub    |
+|Adora  |Alch   |Ice    |Bucc   |
+|Adora  |Alch   |Ice    |Mortar |
+|Adora  |Alch   |Ice    |Wizard |
+|Adora  |Alch   |Ice    |Super  |
+|Adora  |Alch   |Ice    |Druid  |
+|Adora  |Alch   |Ice    |Spact  |
+|Adora  |Alch   |Ice    |Village|
+|Adora  |Alch   |Ice    |Engi   |
+|Adora  |Alch   |Glue   |Dart   |
+|Adora  |Alch   |Glue   |Boomer |
+|Adora  |Alch   |Glue   |Bomb   |
+|Adora  |Alch   |Glue   |Tack   |
+|Adora  |Alch   |Glue   |Ice    |
+|Adora  |Alch   |Glue   |Sniper |
+|Adora  |Alch   |Glue   |Sub    |
+|Adora  |Alch   |Glue   |Bucc   |
+|Adora  |Alch   |Glue   |Mortar |
+|Adora  |Alch   |Glue   |Wizard |
+|Adora  |Alch   |Glue   |Super  |
+|Adora  |Alch   |Glue   |Druid  |
+|Adora  |Alch   |Glue   |Spact  |
+|Adora  |Alch   |Glue   |Village|
+|Adora  |Alch   |Glue   |Engi   |
+|Adora  |Alch   |Sniper |Dart   |
+|Adora  |Alch   |Sniper |Boomer |
+|Adora  |Alch   |Sniper |Bomb   |
+|Adora  |Alch   |Sniper |Tack   |
+|Adora  |Alch   |Sniper |Ice    |
+|Adora  |Alch   |Sniper |Glue   |
+|Adora  |Alch   |Sniper |Sub    |
+|Adora  |Alch   |Sniper |Bucc   |
+|Adora  |Alch   |Sniper |Ace    |
+|Adora  |Alch   |Sniper |Mortar |
+|Adora  |Alch   |Sniper |Wizard |
+|Adora  |Alch   |Sniper |Druid  |
+|Adora  |Alch   |Sniper |Spact  |
+|Adora  |Alch   |Sniper |Village|
+|Adora  |Alch   |Sniper |Engi   |
+|Adora  |Alch   |Sub    |Dart   |
+|Adora  |Alch   |Sub    |Bomb   |
+|Adora  |Alch   |Sub    |Ice    |
+|Adora  |Alch   |Sub    |Glue   |
+|Adora  |Alch   |Sub    |Sniper |
+|Adora  |Alch   |Sub    |Wizard |
+|Adora  |Alch   |Sub    |Druid  |
+|Adora  |Alch   |Sub    |Spact  |
+|Adora  |Alch   |Sub    |Village|
+|Adora  |Alch   |Sub    |Engi   |
+|Adora  |Alch   |Bucc   |Dart   |
+|Adora  |Alch   |Bucc   |Bomb   |
+|Adora  |Alch   |Bucc   |Tack   |
+|Adora  |Alch   |Bucc   |Ice    |
+|Adora  |Alch   |Bucc   |Glue   |
+|Adora  |Alch   |Bucc   |Sniper |
+|Adora  |Alch   |Bucc   |Druid  |
+|Adora  |Alch   |Bucc   |Engi   |
+|Adora  |Alch   |Ace    |Bomb   |
+|Adora  |Alch   |Ace    |Tack   |
+|Adora  |Alch   |Ace    |Sniper |
+|Adora  |Alch   |Ace    |Druid  |
+|Adora  |Alch   |Ace    |Village|
+|Adora  |Alch   |Mortar |Boomer |
+|Adora  |Alch   |Mortar |Bomb   |
+|Adora  |Alch   |Mortar |Tack   |
+|Adora  |Alch   |Mortar |Ice    |
+|Adora  |Alch   |Mortar |Glue   |
+|Adora  |Alch   |Mortar |Sniper |
+|Adora  |Alch   |Mortar |Super  |
+|Adora  |Alch   |Mortar |Druid  |
+|Adora  |Alch   |Mortar |Village|
+|Adora  |Alch   |Mortar |Engi   |
+|Adora  |Alch   |Wizard |Bomb   |
+|Adora  |Alch   |Wizard |Ice    |
+|Adora  |Alch   |Wizard |Glue   |
+|Adora  |Alch   |Wizard |Sniper |
+|Adora  |Alch   |Wizard |Sub    |
+|Adora  |Alch   |Wizard |Engi   |
+|Adora  |Alch   |Super  |Boomer |
+|Adora  |Alch   |Super  |Bomb   |
+|Adora  |Alch   |Super  |Tack   |
+|Adora  |Alch   |Super  |Ice    |
+|Adora  |Alch   |Super  |Glue   |
+|Adora  |Alch   |Super  |Mortar |
+|Adora  |Alch   |Super  |Druid  |
+|Adora  |Alch   |Super  |Village|
+|Adora  |Alch   |Super  |Engi   |
+|Adora  |Alch   |Druid  |Dart   |
+|Adora  |Alch   |Druid  |Boomer |
+|Adora  |Alch   |Druid  |Bomb   |
+|Adora  |Alch   |Druid  |Tack   |
+|Adora  |Alch   |Druid  |Ice    |
+|Adora  |Alch   |Druid  |Glue   |
+|Adora  |Alch   |Druid  |Sniper |
+|Adora  |Alch   |Druid  |Sub    |
+|Adora  |Alch   |Druid  |Bucc   |
+|Adora  |Alch   |Druid  |Ace    |
+|Adora  |Alch   |Druid  |Mortar |
+|Adora  |Alch   |Druid  |Super  |
+|Adora  |Alch   |Druid  |Village|
+|Adora  |Alch   |Druid  |Engi   |
+|Adora  |Alch   |Spact  |Dart   |
+|Adora  |Alch   |Spact  |Ice    |
+|Adora  |Alch   |Spact  |Glue   |
+|Adora  |Alch   |Spact  |Sniper |
+|Adora  |Alch   |Spact  |Sub    |
+|Adora  |Alch   |Spact  |Village|
+|Adora  |Alch   |Spact  |Engi   |
+|Adora  |Alch   |Village|Dart   |
+|Adora  |Alch   |Village|Bomb   |
+|Adora  |Alch   |Village|Tack   |
+|Adora  |Alch   |Village|Ice    |
+|Adora  |Alch   |Village|Glue   |
+|Adora  |Alch   |Village|Sniper |
+|Adora  |Alch   |Village|Sub    |
+|Adora  |Alch   |Village|Ace    |
+|Adora  |Alch   |Village|Mortar |
+|Adora  |Alch   |Village|Super  |
+|Adora  |Alch   |Village|Druid  |
+|Adora  |Alch   |Village|Spact  |
+|Adora  |Alch   |Village|Engi   |
+|Adora  |Alch   |Engi   |Dart   |
+|Adora  |Alch   |Engi   |Boomer |
+|Adora  |Alch   |Engi   |Bomb   |
+|Adora  |Alch   |Engi   |Tack   |
+|Adora  |Alch   |Engi   |Ice    |
+|Adora  |Alch   |Engi   |Glue   |
+|Adora  |Alch   |Engi   |Sniper |
+|Adora  |Alch   |Engi   |Sub    |
+|Adora  |Alch   |Engi   |Bucc   |
+|Adora  |Alch   |Engi   |Mortar |
+|Adora  |Alch   |Engi   |Wizard |
+|Adora  |Alch   |Engi   |Super  |
+|Adora  |Alch   |Engi   |Druid  |
+|Adora  |Alch   |Engi   |Spact  |
+|Adora  |Alch   |Engi   |Village|
+|Adora  |Druid  |Dart   |Boomer |
+|Adora  |Druid  |Dart   |Bomb   |
+|Adora  |Druid  |Dart   |Tack   |
+|Adora  |Druid  |Dart   |Ice    |
+|Adora  |Druid  |Dart   |Glue   |
+|Adora  |Druid  |Dart   |Sniper |
+|Adora  |Druid  |Dart   |Sub    |
+|Adora  |Druid  |Dart   |Bucc   |
+|Adora  |Druid  |Dart   |Ace    |
+|Adora  |Druid  |Dart   |Heli   |
+|Adora  |Druid  |Dart   |Mortar |
+|Adora  |Druid  |Dart   |Ninja  |
+|Adora  |Druid  |Dart   |Alch   |
+|Adora  |Druid  |Dart   |Spact  |
+|Adora  |Druid  |Dart   |Village|
+|Adora  |Druid  |Dart   |Engi   |
+|Adora  |Druid  |Boomer |Dart   |
+|Adora  |Druid  |Boomer |Bomb   |
+|Adora  |Druid  |Boomer |Tack   |
+|Adora  |Druid  |Boomer |Ice    |
+|Adora  |Druid  |Boomer |Glue   |
+|Adora  |Druid  |Boomer |Sniper |
+|Adora  |Druid  |Boomer |Sub    |
+|Adora  |Druid  |Boomer |Bucc   |
+|Adora  |Druid  |Boomer |Ace    |
+|Adora  |Druid  |Boomer |Heli   |
+|Adora  |Druid  |Boomer |Mortar |
+|Adora  |Druid  |Boomer |Wizard |
+|Adora  |Druid  |Boomer |Super  |
+|Adora  |Druid  |Boomer |Ninja  |
+|Adora  |Druid  |Boomer |Alch   |
+|Adora  |Druid  |Boomer |Spact  |
+|Adora  |Druid  |Boomer |Engi   |
+|Adora  |Druid  |Bomb   |Dart   |
+|Adora  |Druid  |Bomb   |Boomer |
+|Adora  |Druid  |Bomb   |Tack   |
+|Adora  |Druid  |Bomb   |Ice    |
+|Adora  |Druid  |Bomb   |Glue   |
+|Adora  |Druid  |Bomb   |Sniper |
+|Adora  |Druid  |Bomb   |Sub    |
+|Adora  |Druid  |Bomb   |Bucc   |
+|Adora  |Druid  |Bomb   |Ace    |
+|Adora  |Druid  |Bomb   |Heli   |
+|Adora  |Druid  |Bomb   |Mortar |
+|Adora  |Druid  |Bomb   |Wizard |
+|Adora  |Druid  |Bomb   |Super  |
+|Adora  |Druid  |Bomb   |Ninja  |
+|Adora  |Druid  |Bomb   |Alch   |
+|Adora  |Druid  |Bomb   |Spact  |
+|Adora  |Druid  |Bomb   |Village|
+|Adora  |Druid  |Bomb   |Engi   |
+|Adora  |Druid  |Tack   |Dart   |
+|Adora  |Druid  |Tack   |Boomer |
+|Adora  |Druid  |Tack   |Bomb   |
+|Adora  |Druid  |Tack   |Ice    |
+|Adora  |Druid  |Tack   |Glue   |
+|Adora  |Druid  |Tack   |Sniper |
+|Adora  |Druid  |Tack   |Sub    |
+|Adora  |Druid  |Tack   |Bucc   |
+|Adora  |Druid  |Tack   |Ace    |
+|Adora  |Druid  |Tack   |Heli   |
+|Adora  |Druid  |Tack   |Mortar |
+|Adora  |Druid  |Tack   |Wizard |
+|Adora  |Druid  |Tack   |Super  |
+|Adora  |Druid  |Tack   |Ninja  |
+|Adora  |Druid  |Tack   |Alch   |
+|Adora  |Druid  |Tack   |Spact  |
+|Adora  |Druid  |Tack   |Village|
+|Adora  |Druid  |Tack   |Engi   |
+|Adora  |Druid  |Ice    |Dart   |
+|Adora  |Druid  |Ice    |Boomer |
+|Adora  |Druid  |Ice    |Bomb   |
+|Adora  |Druid  |Ice    |Tack   |
+|Adora  |Druid  |Ice    |Glue   |
+|Adora  |Druid  |Ice    |Sniper |
+|Adora  |Druid  |Ice    |Sub    |
+|Adora  |Druid  |Ice    |Bucc   |
+|Adora  |Druid  |Ice    |Ace    |
+|Adora  |Druid  |Ice    |Heli   |
+|Adora  |Druid  |Ice    |Mortar |
+|Adora  |Druid  |Ice    |Super  |
+|Adora  |Druid  |Ice    |Ninja  |
+|Adora  |Druid  |Ice    |Alch   |
+|Adora  |Druid  |Ice    |Spact  |
+|Adora  |Druid  |Ice    |Village|
+|Adora  |Druid  |Ice    |Engi   |
+|Adora  |Druid  |Glue   |Dart   |
+|Adora  |Druid  |Glue   |Boomer |
+|Adora  |Druid  |Glue   |Bomb   |
+|Adora  |Druid  |Glue   |Tack   |
+|Adora  |Druid  |Glue   |Ice    |
+|Adora  |Druid  |Glue   |Sniper |
+|Adora  |Druid  |Glue   |Sub    |
+|Adora  |Druid  |Glue   |Bucc   |
+|Adora  |Druid  |Glue   |Ace    |
+|Adora  |Druid  |Glue   |Heli   |
+|Adora  |Druid  |Glue   |Mortar |
+|Adora  |Druid  |Glue   |Wizard |
+|Adora  |Druid  |Glue   |Super  |
+|Adora  |Druid  |Glue   |Ninja  |
+|Adora  |Druid  |Glue   |Alch   |
+|Adora  |Druid  |Glue   |Spact  |
+|Adora  |Druid  |Glue   |Village|
+|Adora  |Druid  |Glue   |Engi   |
+|Adora  |Druid  |Sniper |Dart   |
+|Adora  |Druid  |Sniper |Boomer |
+|Adora  |Druid  |Sniper |Bomb   |
+|Adora  |Druid  |Sniper |Tack   |
+|Adora  |Druid  |Sniper |Ice    |
+|Adora  |Druid  |Sniper |Glue   |
+|Adora  |Druid  |Sniper |Sub    |
+|Adora  |Druid  |Sniper |Bucc   |
+|Adora  |Druid  |Sniper |Ace    |
+|Adora  |Druid  |Sniper |Heli   |
+|Adora  |Druid  |Sniper |Mortar |
+|Adora  |Druid  |Sniper |Wizard |
+|Adora  |Druid  |Sniper |Super  |
+|Adora  |Druid  |Sniper |Ninja  |
+|Adora  |Druid  |Sniper |Alch   |
+|Adora  |Druid  |Sniper |Spact  |
+|Adora  |Druid  |Sniper |Village|
+|Adora  |Druid  |Sniper |Engi   |
+|Adora  |Druid  |Sub    |Dart   |
+|Adora  |Druid  |Sub    |Boomer |
+|Adora  |Druid  |Sub    |Bomb   |
+|Adora  |Druid  |Sub    |Tack   |
+|Adora  |Druid  |Sub    |Ice    |
+|Adora  |Druid  |Sub    |Glue   |
+|Adora  |Druid  |Sub    |Sniper |
+|Adora  |Druid  |Sub    |Bucc   |
+|Adora  |Druid  |Sub    |Ace    |
+|Adora  |Druid  |Sub    |Mortar |
+|Adora  |Druid  |Sub    |Wizard |
+|Adora  |Druid  |Sub    |Ninja  |
+|Adora  |Druid  |Sub    |Alch   |
+|Adora  |Druid  |Sub    |Spact  |
+|Adora  |Druid  |Sub    |Village|
+|Adora  |Druid  |Sub    |Engi   |
+|Adora  |Druid  |Bucc   |Dart   |
+|Adora  |Druid  |Bucc   |Boomer |
+|Adora  |Druid  |Bucc   |Bomb   |
+|Adora  |Druid  |Bucc   |Tack   |
+|Adora  |Druid  |Bucc   |Ice    |
+|Adora  |Druid  |Bucc   |Glue   |
+|Adora  |Druid  |Bucc   |Sniper |
+|Adora  |Druid  |Bucc   |Sub    |
+|Adora  |Druid  |Bucc   |Ace    |
+|Adora  |Druid  |Bucc   |Heli   |
+|Adora  |Druid  |Bucc   |Super  |
+|Adora  |Druid  |Bucc   |Ninja  |
+|Adora  |Druid  |Bucc   |Alch   |
+|Adora  |Druid  |Bucc   |Village|
+|Adora  |Druid  |Bucc   |Engi   |
+|Adora  |Druid  |Ace    |Dart   |
+|Adora  |Druid  |Ace    |Boomer |
+|Adora  |Druid  |Ace    |Bomb   |
+|Adora  |Druid  |Ace    |Tack   |
+|Adora  |Druid  |Ace    |Ice    |
+|Adora  |Druid  |Ace    |Glue   |
+|Adora  |Druid  |Ace    |Sniper |
+|Adora  |Druid  |Ace    |Sub    |
+|Adora  |Druid  |Ace    |Bucc   |
+|Adora  |Druid  |Ace    |Mortar |
+|Adora  |Druid  |Ace    |Ninja  |
+|Adora  |Druid  |Ace    |Alch   |
+|Adora  |Druid  |Heli   |Dart   |
+|Adora  |Druid  |Heli   |Boomer |
+|Adora  |Druid  |Heli   |Bomb   |
+|Adora  |Druid  |Heli   |Tack   |
+|Adora  |Druid  |Heli   |Ice    |
+|Adora  |Druid  |Heli   |Glue   |
+|Adora  |Druid  |Heli   |Sniper |
+|Adora  |Druid  |Heli   |Bucc   |
+|Adora  |Druid  |Mortar |Dart   |
+|Adora  |Druid  |Mortar |Boomer |
+|Adora  |Druid  |Mortar |Bomb   |
+|Adora  |Druid  |Mortar |Tack   |
+|Adora  |Druid  |Mortar |Ice    |
+|Adora  |Druid  |Mortar |Glue   |
+|Adora  |Druid  |Mortar |Sniper |
+|Adora  |Druid  |Mortar |Sub    |
+|Adora  |Druid  |Mortar |Ace    |
+|Adora  |Druid  |Mortar |Super  |
+|Adora  |Druid  |Mortar |Ninja  |
+|Adora  |Druid  |Mortar |Alch   |
+|Adora  |Druid  |Mortar |Spact  |
+|Adora  |Druid  |Mortar |Village|
+|Adora  |Druid  |Mortar |Engi   |
+|Adora  |Druid  |Wizard |Boomer |
+|Adora  |Druid  |Wizard |Bomb   |
+|Adora  |Druid  |Wizard |Tack   |
+|Adora  |Druid  |Wizard |Glue   |
+|Adora  |Druid  |Wizard |Sniper |
+|Adora  |Druid  |Wizard |Sub    |
+|Adora  |Druid  |Wizard |Engi   |
+|Adora  |Druid  |Super  |Boomer |
+|Adora  |Druid  |Super  |Bomb   |
+|Adora  |Druid  |Super  |Tack   |
+|Adora  |Druid  |Super  |Ice    |
+|Adora  |Druid  |Super  |Glue   |
+|Adora  |Druid  |Super  |Sniper |
+|Adora  |Druid  |Super  |Bucc   |
+|Adora  |Druid  |Super  |Mortar |
+|Adora  |Druid  |Super  |Ninja  |
+|Adora  |Druid  |Super  |Alch   |
+|Adora  |Druid  |Super  |Village|
+|Adora  |Druid  |Super  |Engi   |
+|Adora  |Druid  |Ninja  |Dart   |
+|Adora  |Druid  |Ninja  |Boomer |
+|Adora  |Druid  |Ninja  |Bomb   |
+|Adora  |Druid  |Ninja  |Tack   |
+|Adora  |Druid  |Ninja  |Ice    |
+|Adora  |Druid  |Ninja  |Glue   |
+|Adora  |Druid  |Ninja  |Sniper |
+|Adora  |Druid  |Ninja  |Sub    |
+|Adora  |Druid  |Ninja  |Bucc   |
+|Adora  |Druid  |Ninja  |Ace    |
+|Adora  |Druid  |Ninja  |Mortar |
+|Adora  |Druid  |Ninja  |Super  |
+|Adora  |Druid  |Ninja  |Spact  |
+|Adora  |Druid  |Ninja  |Village|
+|Adora  |Druid  |Ninja  |Engi   |
+|Adora  |Druid  |Alch   |Dart   |
+|Adora  |Druid  |Alch   |Boomer |
+|Adora  |Druid  |Alch   |Bomb   |
+|Adora  |Druid  |Alch   |Tack   |
+|Adora  |Druid  |Alch   |Ice    |
+|Adora  |Druid  |Alch   |Glue   |
+|Adora  |Druid  |Alch   |Sniper |
+|Adora  |Druid  |Alch   |Sub    |
+|Adora  |Druid  |Alch   |Bucc   |
+|Adora  |Druid  |Alch   |Ace    |
+|Adora  |Druid  |Alch   |Mortar |
+|Adora  |Druid  |Alch   |Super  |
+|Adora  |Druid  |Alch   |Village|
+|Adora  |Druid  |Alch   |Engi   |
+|Adora  |Druid  |Spact  |Dart   |
+|Adora  |Druid  |Spact  |Boomer |
+|Adora  |Druid  |Spact  |Bomb   |
+|Adora  |Druid  |Spact  |Tack   |
+|Adora  |Druid  |Spact  |Ice    |
+|Adora  |Druid  |Spact  |Glue   |
+|Adora  |Druid  |Spact  |Sniper |
+|Adora  |Druid  |Spact  |Sub    |
+|Adora  |Druid  |Spact  |Mortar |
+|Adora  |Druid  |Spact  |Ninja  |
+|Adora  |Druid  |Spact  |Village|
+|Adora  |Druid  |Spact  |Engi   |
+|Adora  |Druid  |Village|Dart   |
+|Adora  |Druid  |Village|Bomb   |
+|Adora  |Druid  |Village|Tack   |
+|Adora  |Druid  |Village|Ice    |
+|Adora  |Druid  |Village|Glue   |
+|Adora  |Druid  |Village|Sniper |
+|Adora  |Druid  |Village|Sub    |
+|Adora  |Druid  |Village|Bucc   |
+|Adora  |Druid  |Village|Mortar |
+|Adora  |Druid  |Village|Super  |
+|Adora  |Druid  |Village|Ninja  |
+|Adora  |Druid  |Village|Alch   |
+|Adora  |Druid  |Village|Spact  |
+|Adora  |Druid  |Village|Engi   |
+|Adora  |Druid  |Engi   |Dart   |
+|Adora  |Druid  |Engi   |Boomer |
+|Adora  |Druid  |Engi   |Bomb   |
+|Adora  |Druid  |Engi   |Tack   |
+|Adora  |Druid  |Engi   |Ice    |
+|Adora  |Druid  |Engi   |Glue   |
+|Adora  |Druid  |Engi   |Sniper |
+|Adora  |Druid  |Engi   |Sub    |
+|Adora  |Druid  |Engi   |Bucc   |
+|Adora  |Druid  |Engi   |Mortar |
+|Adora  |Druid  |Engi   |Wizard |
+|Adora  |Druid  |Engi   |Super  |
+|Adora  |Druid  |Engi   |Ninja  |
+|Adora  |Druid  |Engi   |Alch   |
+|Adora  |Druid  |Engi   |Spact  |
+|Adora  |Druid  |Engi   |Village|
+|Adora  |Spact  |Dart   |Bomb   |
+|Adora  |Spact  |Dart   |Ice    |
+|Adora  |Spact  |Dart   |Glue   |
+|Adora  |Spact  |Dart   |Sniper |
+|Adora  |Spact  |Dart   |Sub    |
+|Adora  |Spact  |Dart   |Bucc   |
+|Adora  |Spact  |Dart   |Ninja  |
+|Adora  |Spact  |Dart   |Alch   |
+|Adora  |Spact  |Dart   |Druid  |
+|Adora  |Spact  |Dart   |Engi   |
+|Adora  |Spact  |Boomer |Bomb   |
+|Adora  |Spact  |Boomer |Tack   |
+|Adora  |Spact  |Boomer |Ice    |
+|Adora  |Spact  |Boomer |Sniper |
+|Adora  |Spact  |Boomer |Sub    |
+|Adora  |Spact  |Boomer |Druid  |
+|Adora  |Spact  |Boomer |Village|
+|Adora  |Spact  |Boomer |Engi   |
+|Adora  |Spact  |Bomb   |Dart   |
+|Adora  |Spact  |Bomb   |Boomer |
+|Adora  |Spact  |Bomb   |Tack   |
+|Adora  |Spact  |Bomb   |Ice    |
+|Adora  |Spact  |Bomb   |Glue   |
+|Adora  |Spact  |Bomb   |Sniper |
+|Adora  |Spact  |Bomb   |Sub    |
+|Adora  |Spact  |Bomb   |Ace    |
+|Adora  |Spact  |Bomb   |Heli   |
+|Adora  |Spact  |Bomb   |Mortar |
+|Adora  |Spact  |Bomb   |Super  |
+|Adora  |Spact  |Bomb   |Druid  |
+|Adora  |Spact  |Bomb   |Village|
+|Adora  |Spact  |Bomb   |Engi   |
+|Adora  |Spact  |Tack   |Boomer |
+|Adora  |Spact  |Tack   |Bomb   |
+|Adora  |Spact  |Tack   |Ice    |
+|Adora  |Spact  |Tack   |Glue   |
+|Adora  |Spact  |Tack   |Sniper |
+|Adora  |Spact  |Tack   |Sub    |
+|Adora  |Spact  |Tack   |Druid  |
+|Adora  |Spact  |Tack   |Engi   |
+|Adora  |Spact  |Ice    |Dart   |
+|Adora  |Spact  |Ice    |Boomer |
+|Adora  |Spact  |Ice    |Bomb   |
+|Adora  |Spact  |Ice    |Tack   |
+|Adora  |Spact  |Ice    |Glue   |
+|Adora  |Spact  |Ice    |Sniper |
+|Adora  |Spact  |Ice    |Sub    |
+|Adora  |Spact  |Ice    |Bucc   |
+|Adora  |Spact  |Ice    |Ace    |
+|Adora  |Spact  |Ice    |Heli   |
+|Adora  |Spact  |Ice    |Mortar |
+|Adora  |Spact  |Ice    |Super  |
+|Adora  |Spact  |Ice    |Ninja  |
+|Adora  |Spact  |Ice    |Alch   |
+|Adora  |Spact  |Ice    |Druid  |
+|Adora  |Spact  |Ice    |Village|
+|Adora  |Spact  |Ice    |Engi   |
+|Adora  |Spact  |Glue   |Dart   |
+|Adora  |Spact  |Glue   |Bomb   |
+|Adora  |Spact  |Glue   |Tack   |
+|Adora  |Spact  |Glue   |Ice    |
+|Adora  |Spact  |Glue   |Sniper |
+|Adora  |Spact  |Glue   |Bucc   |
+|Adora  |Spact  |Glue   |Ace    |
+|Adora  |Spact  |Glue   |Heli   |
+|Adora  |Spact  |Glue   |Mortar |
+|Adora  |Spact  |Glue   |Super  |
+|Adora  |Spact  |Glue   |Ninja  |
+|Adora  |Spact  |Glue   |Alch   |
+|Adora  |Spact  |Glue   |Druid  |
+|Adora  |Spact  |Glue   |Village|
+|Adora  |Spact  |Glue   |Engi   |
+|Adora  |Spact  |Sniper |Dart   |
+|Adora  |Spact  |Sniper |Boomer |
+|Adora  |Spact  |Sniper |Bomb   |
+|Adora  |Spact  |Sniper |Tack   |
+|Adora  |Spact  |Sniper |Ice    |
+|Adora  |Spact  |Sniper |Glue   |
+|Adora  |Spact  |Sniper |Sub    |
+|Adora  |Spact  |Sniper |Bucc   |
+|Adora  |Spact  |Sniper |Ace    |
+|Adora  |Spact  |Sniper |Heli   |
+|Adora  |Spact  |Sniper |Mortar |
+|Adora  |Spact  |Sniper |Super  |
+|Adora  |Spact  |Sniper |Ninja  |
+|Adora  |Spact  |Sniper |Alch   |
+|Adora  |Spact  |Sniper |Druid  |
+|Adora  |Spact  |Sniper |Village|
+|Adora  |Spact  |Sniper |Engi   |
+|Adora  |Spact  |Sub    |Dart   |
+|Adora  |Spact  |Sub    |Boomer |
+|Adora  |Spact  |Sub    |Bomb   |
+|Adora  |Spact  |Sub    |Tack   |
+|Adora  |Spact  |Sub    |Ice    |
+|Adora  |Spact  |Sub    |Sniper |
+|Adora  |Spact  |Sub    |Bucc   |
+|Adora  |Spact  |Sub    |Mortar |
+|Adora  |Spact  |Sub    |Ninja  |
+|Adora  |Spact  |Sub    |Alch   |
+|Adora  |Spact  |Sub    |Druid  |
+|Adora  |Spact  |Sub    |Village|
+|Adora  |Spact  |Sub    |Engi   |
+|Adora  |Spact  |Bucc   |Dart   |
+|Adora  |Spact  |Bucc   |Ice    |
+|Adora  |Spact  |Bucc   |Glue   |
+|Adora  |Spact  |Bucc   |Sniper |
+|Adora  |Spact  |Bucc   |Sub    |
+|Adora  |Spact  |Bucc   |Ninja  |
+|Adora  |Spact  |Bucc   |Engi   |
+|Adora  |Spact  |Ace    |Bomb   |
+|Adora  |Spact  |Ace    |Ice    |
+|Adora  |Spact  |Ace    |Glue   |
+|Adora  |Spact  |Ace    |Sniper |
+|Adora  |Spact  |Ace    |Heli   |
+|Adora  |Spact  |Ace    |Mortar |
+|Adora  |Spact  |Ace    |Super  |
+|Adora  |Spact  |Ace    |Village|
+|Adora  |Spact  |Heli   |Bomb   |
+|Adora  |Spact  |Heli   |Ice    |
+|Adora  |Spact  |Heli   |Glue   |
+|Adora  |Spact  |Heli   |Sniper |
+|Adora  |Spact  |Heli   |Ace    |
+|Adora  |Spact  |Heli   |Mortar |
+|Adora  |Spact  |Heli   |Super  |
+|Adora  |Spact  |Heli   |Ninja  |
+|Adora  |Spact  |Heli   |Village|
+|Adora  |Spact  |Heli   |Engi   |
+|Adora  |Spact  |Mortar |Bomb   |
+|Adora  |Spact  |Mortar |Ice    |
+|Adora  |Spact  |Mortar |Glue   |
+|Adora  |Spact  |Mortar |Sniper |
+|Adora  |Spact  |Mortar |Sub    |
+|Adora  |Spact  |Mortar |Ace    |
+|Adora  |Spact  |Mortar |Heli   |
+|Adora  |Spact  |Mortar |Super  |
+|Adora  |Spact  |Mortar |Druid  |
+|Adora  |Spact  |Mortar |Village|
+|Adora  |Spact  |Mortar |Engi   |
+|Adora  |Spact  |Super  |Bomb   |
+|Adora  |Spact  |Super  |Ice    |
+|Adora  |Spact  |Super  |Glue   |
+|Adora  |Spact  |Super  |Sniper |
+|Adora  |Spact  |Super  |Ace    |
+|Adora  |Spact  |Super  |Heli   |
+|Adora  |Spact  |Super  |Mortar |
+|Adora  |Spact  |Super  |Village|
+|Adora  |Spact  |Ninja  |Dart   |
+|Adora  |Spact  |Ninja  |Ice    |
+|Adora  |Spact  |Ninja  |Glue   |
+|Adora  |Spact  |Ninja  |Sniper |
+|Adora  |Spact  |Ninja  |Sub    |
+|Adora  |Spact  |Ninja  |Bucc   |
+|Adora  |Spact  |Ninja  |Heli   |
+|Adora  |Spact  |Ninja  |Druid  |
+|Adora  |Spact  |Ninja  |Village|
+|Adora  |Spact  |Ninja  |Engi   |
+|Adora  |Spact  |Alch   |Dart   |
+|Adora  |Spact  |Alch   |Ice    |
+|Adora  |Spact  |Alch   |Glue   |
+|Adora  |Spact  |Alch   |Sniper |
+|Adora  |Spact  |Alch   |Sub    |
+|Adora  |Spact  |Alch   |Village|
+|Adora  |Spact  |Alch   |Engi   |
+|Adora  |Spact  |Druid  |Dart   |
+|Adora  |Spact  |Druid  |Boomer |
+|Adora  |Spact  |Druid  |Bomb   |
+|Adora  |Spact  |Druid  |Tack   |
+|Adora  |Spact  |Druid  |Ice    |
+|Adora  |Spact  |Druid  |Glue   |
+|Adora  |Spact  |Druid  |Sniper |
+|Adora  |Spact  |Druid  |Sub    |
+|Adora  |Spact  |Druid  |Mortar |
+|Adora  |Spact  |Druid  |Ninja  |
+|Adora  |Spact  |Druid  |Village|
+|Adora  |Spact  |Druid  |Engi   |
+|Adora  |Spact  |Village|Boomer |
+|Adora  |Spact  |Village|Bomb   |
+|Adora  |Spact  |Village|Ice    |
+|Adora  |Spact  |Village|Glue   |
+|Adora  |Spact  |Village|Sniper |
+|Adora  |Spact  |Village|Sub    |
+|Adora  |Spact  |Village|Ace    |
+|Adora  |Spact  |Village|Heli   |
+|Adora  |Spact  |Village|Mortar |
+|Adora  |Spact  |Village|Super  |
+|Adora  |Spact  |Village|Ninja  |
+|Adora  |Spact  |Village|Alch   |
+|Adora  |Spact  |Village|Druid  |
+|Adora  |Spact  |Village|Engi   |
+|Adora  |Spact  |Engi   |Dart   |
+|Adora  |Spact  |Engi   |Boomer |
+|Adora  |Spact  |Engi   |Bomb   |
+|Adora  |Spact  |Engi   |Tack   |
+|Adora  |Spact  |Engi   |Ice    |
+|Adora  |Spact  |Engi   |Glue   |
+|Adora  |Spact  |Engi   |Sniper |
+|Adora  |Spact  |Engi   |Sub    |
+|Adora  |Spact  |Engi   |Bucc   |
+|Adora  |Spact  |Engi   |Heli   |
+|Adora  |Spact  |Engi   |Mortar |
+|Adora  |Spact  |Engi   |Ninja  |
+|Adora  |Spact  |Engi   |Alch   |
+|Adora  |Spact  |Engi   |Druid  |
+|Adora  |Spact  |Engi   |Village|
+|Adora  |Village|Dart   |Glue   |
+|Adora  |Village|Dart   |Sniper |
+|Adora  |Village|Dart   |Sub    |
+|Adora  |Village|Dart   |Bucc   |
+|Adora  |Village|Dart   |Mortar |
+|Adora  |Village|Dart   |Super  |
+|Adora  |Village|Dart   |Ninja  |
+|Adora  |Village|Dart   |Alch   |
+|Adora  |Village|Dart   |Druid  |
+|Adora  |Village|Dart   |Engi   |
+|Adora  |Village|Boomer |Glue   |
+|Adora  |Village|Boomer |Sniper |
+|Adora  |Village|Boomer |Bucc   |
+|Adora  |Village|Boomer |Mortar |
+|Adora  |Village|Boomer |Super  |
+|Adora  |Village|Boomer |Ninja  |
+|Adora  |Village|Boomer |Spact  |
+|Adora  |Village|Bomb   |Tack   |
+|Adora  |Village|Bomb   |Ice    |
+|Adora  |Village|Bomb   |Glue   |
+|Adora  |Village|Bomb   |Sniper |
+|Adora  |Village|Bomb   |Ace    |
+|Adora  |Village|Bomb   |Heli   |
+|Adora  |Village|Bomb   |Mortar |
+|Adora  |Village|Bomb   |Super  |
+|Adora  |Village|Bomb   |Alch   |
+|Adora  |Village|Bomb   |Druid  |
+|Adora  |Village|Bomb   |Spact  |
+|Adora  |Village|Bomb   |Engi   |
+|Adora  |Village|Tack   |Bomb   |
+|Adora  |Village|Tack   |Ice    |
+|Adora  |Village|Tack   |Glue   |
+|Adora  |Village|Tack   |Sniper |
+|Adora  |Village|Tack   |Mortar |
+|Adora  |Village|Tack   |Super  |
+|Adora  |Village|Tack   |Alch   |
+|Adora  |Village|Tack   |Druid  |
+|Adora  |Village|Tack   |Engi   |
+|Adora  |Village|Ice    |Bomb   |
+|Adora  |Village|Ice    |Tack   |
+|Adora  |Village|Ice    |Glue   |
+|Adora  |Village|Ice    |Sniper |
+|Adora  |Village|Ice    |Sub    |
+|Adora  |Village|Ice    |Ace    |
+|Adora  |Village|Ice    |Heli   |
+|Adora  |Village|Ice    |Mortar |
+|Adora  |Village|Ice    |Wizard |
+|Adora  |Village|Ice    |Super  |
+|Adora  |Village|Ice    |Ninja  |
+|Adora  |Village|Ice    |Alch   |
+|Adora  |Village|Ice    |Druid  |
+|Adora  |Village|Ice    |Spact  |
+|Adora  |Village|Ice    |Engi   |
+|Adora  |Village|Glue   |Dart   |
+|Adora  |Village|Glue   |Boomer |
+|Adora  |Village|Glue   |Bomb   |
+|Adora  |Village|Glue   |Tack   |
+|Adora  |Village|Glue   |Ice    |
+|Adora  |Village|Glue   |Sniper |
+|Adora  |Village|Glue   |Ace    |
+|Adora  |Village|Glue   |Heli   |
+|Adora  |Village|Glue   |Mortar |
+|Adora  |Village|Glue   |Super  |
+|Adora  |Village|Glue   |Alch   |
+|Adora  |Village|Glue   |Druid  |
+|Adora  |Village|Glue   |Spact  |
+|Adora  |Village|Glue   |Engi   |
+|Adora  |Village|Sniper |Dart   |
+|Adora  |Village|Sniper |Boomer |
+|Adora  |Village|Sniper |Bomb   |
+|Adora  |Village|Sniper |Tack   |
+|Adora  |Village|Sniper |Ice    |
+|Adora  |Village|Sniper |Glue   |
+|Adora  |Village|Sniper |Sub    |
+|Adora  |Village|Sniper |Bucc   |
+|Adora  |Village|Sniper |Ace    |
+|Adora  |Village|Sniper |Heli   |
+|Adora  |Village|Sniper |Mortar |
+|Adora  |Village|Sniper |Super  |
+|Adora  |Village|Sniper |Ninja  |
+|Adora  |Village|Sniper |Alch   |
+|Adora  |Village|Sniper |Druid  |
+|Adora  |Village|Sniper |Spact  |
+|Adora  |Village|Sniper |Engi   |
+|Adora  |Village|Sub    |Dart   |
+|Adora  |Village|Sub    |Ice    |
+|Adora  |Village|Sub    |Sniper |
+|Adora  |Village|Sub    |Bucc   |
+|Adora  |Village|Sub    |Wizard |
+|Adora  |Village|Sub    |Ninja  |
+|Adora  |Village|Sub    |Alch   |
+|Adora  |Village|Sub    |Druid  |
+|Adora  |Village|Sub    |Spact  |
+|Adora  |Village|Sub    |Engi   |
+|Adora  |Village|Bucc   |Dart   |
+|Adora  |Village|Bucc   |Boomer |
+|Adora  |Village|Bucc   |Sniper |
+|Adora  |Village|Bucc   |Sub    |
+|Adora  |Village|Bucc   |Ninja  |
+|Adora  |Village|Bucc   |Druid  |
+|Adora  |Village|Bucc   |Engi   |
+|Adora  |Village|Ace    |Bomb   |
+|Adora  |Village|Ace    |Ice    |
+|Adora  |Village|Ace    |Glue   |
+|Adora  |Village|Ace    |Sniper |
+|Adora  |Village|Ace    |Heli   |
+|Adora  |Village|Ace    |Mortar |
+|Adora  |Village|Ace    |Super  |
+|Adora  |Village|Ace    |Ninja  |
+|Adora  |Village|Ace    |Alch   |
+|Adora  |Village|Ace    |Spact  |
+|Adora  |Village|Heli   |Bomb   |
+|Adora  |Village|Heli   |Ice    |
+|Adora  |Village|Heli   |Glue   |
+|Adora  |Village|Heli   |Sniper |
+|Adora  |Village|Heli   |Ace    |
+|Adora  |Village|Heli   |Mortar |
+|Adora  |Village|Heli   |Super  |
+|Adora  |Village|Heli   |Spact  |
+|Adora  |Village|Heli   |Engi   |
+|Adora  |Village|Mortar |Dart   |
+|Adora  |Village|Mortar |Boomer |
+|Adora  |Village|Mortar |Bomb   |
+|Adora  |Village|Mortar |Tack   |
+|Adora  |Village|Mortar |Ice    |
+|Adora  |Village|Mortar |Glue   |
+|Adora  |Village|Mortar |Sniper |
+|Adora  |Village|Mortar |Ace    |
+|Adora  |Village|Mortar |Heli   |
+|Adora  |Village|Mortar |Super  |
+|Adora  |Village|Mortar |Ninja  |
+|Adora  |Village|Mortar |Alch   |
+|Adora  |Village|Mortar |Druid  |
+|Adora  |Village|Mortar |Spact  |
+|Adora  |Village|Mortar |Engi   |
+|Adora  |Village|Wizard |Ice    |
+|Adora  |Village|Wizard |Sub    |
+|Adora  |Village|Super  |Dart   |
+|Adora  |Village|Super  |Boomer |
+|Adora  |Village|Super  |Bomb   |
+|Adora  |Village|Super  |Tack   |
+|Adora  |Village|Super  |Ice    |
+|Adora  |Village|Super  |Glue   |
+|Adora  |Village|Super  |Sniper |
+|Adora  |Village|Super  |Ace    |
+|Adora  |Village|Super  |Heli   |
+|Adora  |Village|Super  |Mortar |
+|Adora  |Village|Super  |Alch   |
+|Adora  |Village|Super  |Druid  |
+|Adora  |Village|Super  |Spact  |
+|Adora  |Village|Ninja  |Dart   |
+|Adora  |Village|Ninja  |Boomer |
+|Adora  |Village|Ninja  |Ice    |
+|Adora  |Village|Ninja  |Sniper |
+|Adora  |Village|Ninja  |Sub    |
+|Adora  |Village|Ninja  |Bucc   |
+|Adora  |Village|Ninja  |Ace    |
+|Adora  |Village|Ninja  |Mortar |
+|Adora  |Village|Ninja  |Druid  |
+|Adora  |Village|Ninja  |Spact  |
+|Adora  |Village|Ninja  |Engi   |
+|Adora  |Village|Alch   |Dart   |
+|Adora  |Village|Alch   |Bomb   |
+|Adora  |Village|Alch   |Tack   |
+|Adora  |Village|Alch   |Ice    |
+|Adora  |Village|Alch   |Glue   |
+|Adora  |Village|Alch   |Sniper |
+|Adora  |Village|Alch   |Sub    |
+|Adora  |Village|Alch   |Ace    |
+|Adora  |Village|Alch   |Mortar |
+|Adora  |Village|Alch   |Super  |
+|Adora  |Village|Alch   |Druid  |
+|Adora  |Village|Alch   |Spact  |
+|Adora  |Village|Alch   |Engi   |
+|Adora  |Village|Druid  |Dart   |
+|Adora  |Village|Druid  |Bomb   |
+|Adora  |Village|Druid  |Tack   |
+|Adora  |Village|Druid  |Ice    |
+|Adora  |Village|Druid  |Glue   |
+|Adora  |Village|Druid  |Sniper |
+|Adora  |Village|Druid  |Sub    |
+|Adora  |Village|Druid  |Bucc   |
+|Adora  |Village|Druid  |Mortar |
+|Adora  |Village|Druid  |Super  |
+|Adora  |Village|Druid  |Ninja  |
+|Adora  |Village|Druid  |Alch   |
+|Adora  |Village|Druid  |Spact  |
+|Adora  |Village|Druid  |Engi   |
+|Adora  |Village|Spact  |Boomer |
+|Adora  |Village|Spact  |Bomb   |
+|Adora  |Village|Spact  |Ice    |
+|Adora  |Village|Spact  |Glue   |
+|Adora  |Village|Spact  |Sniper |
+|Adora  |Village|Spact  |Sub    |
+|Adora  |Village|Spact  |Ace    |
+|Adora  |Village|Spact  |Heli   |
+|Adora  |Village|Spact  |Mortar |
+|Adora  |Village|Spact  |Super  |
+|Adora  |Village|Spact  |Ninja  |
+|Adora  |Village|Spact  |Alch   |
+|Adora  |Village|Spact  |Druid  |
+|Adora  |Village|Spact  |Engi   |
+|Adora  |Village|Engi   |Dart   |
+|Adora  |Village|Engi   |Bomb   |
+|Adora  |Village|Engi   |Tack   |
+|Adora  |Village|Engi   |Ice    |
+|Adora  |Village|Engi   |Glue   |
+|Adora  |Village|Engi   |Sniper |
+|Adora  |Village|Engi   |Sub    |
+|Adora  |Village|Engi   |Bucc   |
+|Adora  |Village|Engi   |Heli   |
+|Adora  |Village|Engi   |Mortar |
+|Adora  |Village|Engi   |Ninja  |
+|Adora  |Village|Engi   |Alch   |
+|Adora  |Village|Engi   |Druid  |
+|Adora  |Village|Engi   |Spact  |
+|Adora  |Engi   |Dart   |Boomer |
+|Adora  |Engi   |Dart   |Bomb   |
+|Adora  |Engi   |Dart   |Tack   |
+|Adora  |Engi   |Dart   |Ice    |
+|Adora  |Engi   |Dart   |Glue   |
+|Adora  |Engi   |Dart   |Sniper |
+|Adora  |Engi   |Dart   |Sub    |
+|Adora  |Engi   |Dart   |Bucc   |
+|Adora  |Engi   |Dart   |Mortar |
+|Adora  |Engi   |Dart   |Ninja  |
+|Adora  |Engi   |Dart   |Alch   |
+|Adora  |Engi   |Dart   |Druid  |
+|Adora  |Engi   |Dart   |Spact  |
+|Adora  |Engi   |Dart   |Village|
+|Adora  |Engi   |Boomer |Dart   |
+|Adora  |Engi   |Boomer |Bomb   |
+|Adora  |Engi   |Boomer |Tack   |
+|Adora  |Engi   |Boomer |Ice    |
+|Adora  |Engi   |Boomer |Glue   |
+|Adora  |Engi   |Boomer |Sniper |
+|Adora  |Engi   |Boomer |Sub    |
+|Adora  |Engi   |Boomer |Bucc   |
+|Adora  |Engi   |Boomer |Mortar |
+|Adora  |Engi   |Boomer |Ninja  |
+|Adora  |Engi   |Boomer |Alch   |
+|Adora  |Engi   |Boomer |Druid  |
+|Adora  |Engi   |Boomer |Spact  |
+|Adora  |Engi   |Bomb   |Dart   |
+|Adora  |Engi   |Bomb   |Boomer |
+|Adora  |Engi   |Bomb   |Tack   |
+|Adora  |Engi   |Bomb   |Ice    |
+|Adora  |Engi   |Bomb   |Glue   |
+|Adora  |Engi   |Bomb   |Sniper |
+|Adora  |Engi   |Bomb   |Sub    |
+|Adora  |Engi   |Bomb   |Bucc   |
+|Adora  |Engi   |Bomb   |Mortar |
+|Adora  |Engi   |Bomb   |Ninja  |
+|Adora  |Engi   |Bomb   |Alch   |
+|Adora  |Engi   |Bomb   |Druid  |
+|Adora  |Engi   |Bomb   |Spact  |
+|Adora  |Engi   |Bomb   |Village|
+|Adora  |Engi   |Tack   |Dart   |
+|Adora  |Engi   |Tack   |Boomer |
+|Adora  |Engi   |Tack   |Bomb   |
+|Adora  |Engi   |Tack   |Ice    |
+|Adora  |Engi   |Tack   |Glue   |
+|Adora  |Engi   |Tack   |Sniper |
+|Adora  |Engi   |Tack   |Sub    |
+|Adora  |Engi   |Tack   |Bucc   |
+|Adora  |Engi   |Tack   |Mortar |
+|Adora  |Engi   |Tack   |Wizard |
+|Adora  |Engi   |Tack   |Ninja  |
+|Adora  |Engi   |Tack   |Alch   |
+|Adora  |Engi   |Tack   |Druid  |
+|Adora  |Engi   |Tack   |Spact  |
+|Adora  |Engi   |Tack   |Village|
+|Adora  |Engi   |Ice    |Dart   |
+|Adora  |Engi   |Ice    |Boomer |
+|Adora  |Engi   |Ice    |Bomb   |
+|Adora  |Engi   |Ice    |Tack   |
+|Adora  |Engi   |Ice    |Glue   |
+|Adora  |Engi   |Ice    |Sniper |
+|Adora  |Engi   |Ice    |Sub    |
+|Adora  |Engi   |Ice    |Bucc   |
+|Adora  |Engi   |Ice    |Mortar |
+|Adora  |Engi   |Ice    |Wizard |
+|Adora  |Engi   |Ice    |Ninja  |
+|Adora  |Engi   |Ice    |Alch   |
+|Adora  |Engi   |Ice    |Druid  |
+|Adora  |Engi   |Ice    |Spact  |
+|Adora  |Engi   |Ice    |Village|
+|Adora  |Engi   |Glue   |Dart   |
+|Adora  |Engi   |Glue   |Boomer |
+|Adora  |Engi   |Glue   |Bomb   |
+|Adora  |Engi   |Glue   |Tack   |
+|Adora  |Engi   |Glue   |Ice    |
+|Adora  |Engi   |Glue   |Sniper |
+|Adora  |Engi   |Glue   |Sub    |
+|Adora  |Engi   |Glue   |Bucc   |
+|Adora  |Engi   |Glue   |Heli   |
+|Adora  |Engi   |Glue   |Mortar |
+|Adora  |Engi   |Glue   |Ninja  |
+|Adora  |Engi   |Glue   |Alch   |
+|Adora  |Engi   |Glue   |Druid  |
+|Adora  |Engi   |Glue   |Spact  |
+|Adora  |Engi   |Glue   |Village|
+|Adora  |Engi   |Sniper |Dart   |
+|Adora  |Engi   |Sniper |Boomer |
+|Adora  |Engi   |Sniper |Bomb   |
+|Adora  |Engi   |Sniper |Tack   |
+|Adora  |Engi   |Sniper |Ice    |
+|Adora  |Engi   |Sniper |Glue   |
+|Adora  |Engi   |Sniper |Sub    |
+|Adora  |Engi   |Sniper |Bucc   |
+|Adora  |Engi   |Sniper |Mortar |
+|Adora  |Engi   |Sniper |Wizard |
+|Adora  |Engi   |Sniper |Super  |
+|Adora  |Engi   |Sniper |Ninja  |
+|Adora  |Engi   |Sniper |Alch   |
+|Adora  |Engi   |Sniper |Druid  |
+|Adora  |Engi   |Sniper |Spact  |
+|Adora  |Engi   |Sniper |Village|
+|Adora  |Engi   |Sub    |Dart   |
+|Adora  |Engi   |Sub    |Boomer |
+|Adora  |Engi   |Sub    |Bomb   |
+|Adora  |Engi   |Sub    |Tack   |
+|Adora  |Engi   |Sub    |Ice    |
+|Adora  |Engi   |Sub    |Glue   |
+|Adora  |Engi   |Sub    |Sniper |
+|Adora  |Engi   |Sub    |Bucc   |
+|Adora  |Engi   |Sub    |Mortar |
+|Adora  |Engi   |Sub    |Ninja  |
+|Adora  |Engi   |Sub    |Alch   |
+|Adora  |Engi   |Sub    |Druid  |
+|Adora  |Engi   |Sub    |Spact  |
+|Adora  |Engi   |Sub    |Village|
+|Adora  |Engi   |Bucc   |Dart   |
+|Adora  |Engi   |Bucc   |Boomer |
+|Adora  |Engi   |Bucc   |Bomb   |
+|Adora  |Engi   |Bucc   |Tack   |
+|Adora  |Engi   |Bucc   |Ice    |
+|Adora  |Engi   |Bucc   |Glue   |
+|Adora  |Engi   |Bucc   |Sniper |
+|Adora  |Engi   |Bucc   |Sub    |
+|Adora  |Engi   |Bucc   |Ninja  |
+|Adora  |Engi   |Bucc   |Alch   |
+|Adora  |Engi   |Bucc   |Druid  |
+|Adora  |Engi   |Bucc   |Spact  |
+|Adora  |Engi   |Bucc   |Village|
+|Adora  |Engi   |Heli   |Glue   |
+|Adora  |Engi   |Heli   |Ninja  |
+|Adora  |Engi   |Heli   |Spact  |
+|Adora  |Engi   |Heli   |Village|
+|Adora  |Engi   |Mortar |Dart   |
+|Adora  |Engi   |Mortar |Boomer |
+|Adora  |Engi   |Mortar |Bomb   |
+|Adora  |Engi   |Mortar |Tack   |
+|Adora  |Engi   |Mortar |Ice    |
+|Adora  |Engi   |Mortar |Glue   |
+|Adora  |Engi   |Mortar |Sniper |
+|Adora  |Engi   |Mortar |Sub    |
+|Adora  |Engi   |Mortar |Ninja  |
+|Adora  |Engi   |Mortar |Alch   |
+|Adora  |Engi   |Mortar |Druid  |
+|Adora  |Engi   |Mortar |Spact  |
+|Adora  |Engi   |Mortar |Village|
+|Adora  |Engi   |Wizard |Tack   |
+|Adora  |Engi   |Wizard |Ice    |
+|Adora  |Engi   |Wizard |Sniper |
+|Adora  |Engi   |Wizard |Alch   |
+|Adora  |Engi   |Wizard |Druid  |
+|Adora  |Engi   |Super  |Sniper |
+|Adora  |Engi   |Super  |Alch   |
+|Adora  |Engi   |Super  |Druid  |
+|Adora  |Engi   |Ninja  |Dart   |
+|Adora  |Engi   |Ninja  |Boomer |
+|Adora  |Engi   |Ninja  |Bomb   |
+|Adora  |Engi   |Ninja  |Tack   |
+|Adora  |Engi   |Ninja  |Ice    |
+|Adora  |Engi   |Ninja  |Glue   |
+|Adora  |Engi   |Ninja  |Sniper |
+|Adora  |Engi   |Ninja  |Sub    |
+|Adora  |Engi   |Ninja  |Bucc   |
+|Adora  |Engi   |Ninja  |Heli   |
+|Adora  |Engi   |Ninja  |Mortar |
+|Adora  |Engi   |Ninja  |Druid  |
+|Adora  |Engi   |Ninja  |Spact  |
+|Adora  |Engi   |Ninja  |Village|
+|Adora  |Engi   |Alch   |Dart   |
+|Adora  |Engi   |Alch   |Boomer |
+|Adora  |Engi   |Alch   |Bomb   |
+|Adora  |Engi   |Alch   |Tack   |
+|Adora  |Engi   |Alch   |Ice    |
+|Adora  |Engi   |Alch   |Glue   |
+|Adora  |Engi   |Alch   |Sniper |
+|Adora  |Engi   |Alch   |Sub    |
+|Adora  |Engi   |Alch   |Bucc   |
+|Adora  |Engi   |Alch   |Mortar |
+|Adora  |Engi   |Alch   |Wizard |
+|Adora  |Engi   |Alch   |Super  |
+|Adora  |Engi   |Alch   |Druid  |
+|Adora  |Engi   |Alch   |Spact  |
+|Adora  |Engi   |Alch   |Village|
+|Adora  |Engi   |Druid  |Dart   |
+|Adora  |Engi   |Druid  |Boomer |
+|Adora  |Engi   |Druid  |Bomb   |
+|Adora  |Engi   |Druid  |Tack   |
+|Adora  |Engi   |Druid  |Ice    |
+|Adora  |Engi   |Druid  |Glue   |
+|Adora  |Engi   |Druid  |Sniper |
+|Adora  |Engi   |Druid  |Sub    |
+|Adora  |Engi   |Druid  |Bucc   |
+|Adora  |Engi   |Druid  |Mortar |
+|Adora  |Engi   |Druid  |Wizard |
+|Adora  |Engi   |Druid  |Super  |
+|Adora  |Engi   |Druid  |Ninja  |
+|Adora  |Engi   |Druid  |Alch   |
+|Adora  |Engi   |Druid  |Spact  |
+|Adora  |Engi   |Druid  |Village|
+|Adora  |Engi   |Spact  |Dart   |
+|Adora  |Engi   |Spact  |Boomer |
+|Adora  |Engi   |Spact  |Bomb   |
+|Adora  |Engi   |Spact  |Tack   |
+|Adora  |Engi   |Spact  |Ice    |
+|Adora  |Engi   |Spact  |Glue   |
+|Adora  |Engi   |Spact  |Sniper |
+|Adora  |Engi   |Spact  |Sub    |
+|Adora  |Engi   |Spact  |Bucc   |
+|Adora  |Engi   |Spact  |Heli   |
+|Adora  |Engi   |Spact  |Mortar |
+|Adora  |Engi   |Spact  |Ninja  |
+|Adora  |Engi   |Spact  |Alch   |
+|Adora  |Engi   |Spact  |Druid  |
+|Adora  |Engi   |Spact  |Village|
+|Adora  |Engi   |Village|Dart   |
+|Adora  |Engi   |Village|Bomb   |
+|Adora  |Engi   |Village|Tack   |
+|Adora  |Engi   |Village|Ice    |
+|Adora  |Engi   |Village|Glue   |
+|Adora  |Engi   |Village|Sniper |
+|Adora  |Engi   |Village|Sub    |
+|Adora  |Engi   |Village|Bucc   |
+|Adora  |Engi   |Village|Heli   |
+|Adora  |Engi   |Village|Mortar |
+|Adora  |Engi   |Village|Ninja  |
+|Adora  |Engi   |Village|Alch   |
+|Adora  |Engi   |Village|Druid  |
+|Adora  |Engi   |Village|Spact  |
