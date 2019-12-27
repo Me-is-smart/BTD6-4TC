@@ -8126,155 +8126,34 @@
 |Church |Ice    |Ace    |Mortar |TremenMusic|KZYUWKD|N
 |Ben    |Ice    |Ace    |Mortar |TremenMusic|KZYUWKD|N
 |Adora  |Dart   |Sub    |Super  |
-|Adora  |Dart   |Super  |Sub    |
 |Adora  |Boomer |Sub    |Super  |
-|Adora  |Boomer |Super  |Sub    |
 |Adora  |Bomb   |Sub    |Super  |
-|Adora  |Bomb   |Super  |Sub    |
 |Adora  |Tack   |Sub    |Super  |
-|Adora  |Tack   |Super  |Sub    |
 |Adora  |Ice    |Sub    |Super  |
-|Adora  |Ice    |Super  |Sub    |
 |Adora  |Glue   |Sub    |Super  |
-|Adora  |Glue   |Super  |Sub    |
 |Adora  |Sniper |Sub    |Super  |
-|Adora  |Sniper |Super  |Sub    |
-|Adora  |Sub    |Dart   |Super  |
-|Adora  |Sub    |Boomer |Super  |
-|Adora  |Sub    |Bomb   |Super  |
-|Adora  |Sub    |Tack   |Super  |
-|Adora  |Sub    |Ice    |Super  |
-|Adora  |Sub    |Glue   |Super  |
-|Adora  |Sub    |Sniper |Super  |
 |Adora  |Sub    |Bucc   |Super  |
 |Adora  |Sub    |Ace    |Super  |
 |Adora  |Sub    |Heli   |Super  |
 |Adora  |Sub    |Mortar |Super  |
 |Adora  |Sub    |Wizard |Super  |
-|Adora  |Sub    |Super  |Dart   |
-|Adora  |Sub    |Super  |Boomer |
-|Adora  |Sub    |Super  |Bomb   |
-|Adora  |Sub    |Super  |Tack   |
-|Adora  |Sub    |Super  |Ice    |
-|Adora  |Sub    |Super  |Glue   |
-|Adora  |Sub    |Super  |Sniper |
-|Adora  |Sub    |Super  |Bucc   |
-|Adora  |Sub    |Super  |Ace    |
-|Adora  |Sub    |Super  |Heli   |
-|Adora  |Sub    |Super  |Mortar |
-|Adora  |Sub    |Super  |Wizard |
 |Adora  |Sub    |Super  |Ninja  |
 |Adora  |Sub    |Super  |Alch   |
 |Adora  |Sub    |Super  |Druid  |
 |Adora  |Sub    |Super  |Spact  |
 |Adora  |Sub    |Super  |Village|
 |Adora  |Sub    |Super  |Engi   |
-|Adora  |Sub    |Ninja  |Super  |
-|Adora  |Sub    |Alch   |Super  |
-|Adora  |Sub    |Druid  |Super  |
-|Adora  |Sub    |Spact  |Super  |
-|Adora  |Sub    |Village|Super  |
-|Adora  |Sub    |Engi   |Super  |
-|Adora  |Bucc   |Sub    |Super  |
-|Adora  |Bucc   |Super  |Sub    |
-|Adora  |Ace    |Sub    |Super  |
-|Adora  |Ace    |Super  |Sub    |
-|Adora  |Heli   |Sub    |Super  |
-|Adora  |Heli   |Super  |Sub    |
-|Adora  |Mortar |Sub    |Super  |
-|Adora  |Mortar |Super  |Sub    |
-|Adora  |Wizard |Sub    |Super  |
-|Adora  |Wizard |Super  |Sub    |
-|Adora  |Super  |Dart   |Sub    |
-|Adora  |Super  |Boomer |Sub    |
-|Adora  |Super  |Bomb   |Sub    |
-|Adora  |Super  |Tack   |Sub    |
-|Adora  |Super  |Ice    |Sub    |
-|Adora  |Super  |Glue   |Sub    |
-|Adora  |Super  |Sniper |Sub    |
-|Adora  |Super  |Sub    |Dart   |
-|Adora  |Super  |Sub    |Boomer |
-|Adora  |Super  |Sub    |Bomb   |
-|Adora  |Super  |Sub    |Tack   |
-|Adora  |Super  |Sub    |Ice    |
-|Adora  |Super  |Sub    |Glue   |
-|Adora  |Super  |Sub    |Sniper |
-|Adora  |Super  |Sub    |Bucc   |
-|Adora  |Super  |Sub    |Ace    |
-|Adora  |Super  |Sub    |Heli   |
-|Adora  |Super  |Sub    |Mortar |
-|Adora  |Super  |Sub    |Wizard |
-|Adora  |Super  |Sub    |Ninja  |
-|Adora  |Super  |Sub    |Alch   |
-|Adora  |Super  |Sub    |Druid  |
-|Adora  |Super  |Sub    |Spact  |
-|Adora  |Super  |Sub    |Village|
-|Adora  |Super  |Sub    |Engi   |
-|Adora  |Super  |Bucc   |Sub    |
-|Adora  |Super  |Ace    |Sub    |
-|Adora  |Super  |Heli   |Sub    |
-|Adora  |Super  |Mortar |Sub    |
-|Adora  |Super  |Wizard |Sub    |
-|Adora  |Super  |Ninja  |Sub    |
-|Adora  |Super  |Alch   |Sub    |
-|Adora  |Super  |Druid  |Sub    |
-|Adora  |Super  |Spact  |Sub    |
-|Adora  |Super  |Village|Sub    |
-|Adora  |Super  |Engi   |Sub    |
-|Adora  |Ninja  |Sub    |Super  |
-|Adora  |Ninja  |Super  |Sub    |
-|Adora  |Alch   |Sub    |Super  |
-|Adora  |Alch   |Super  |Sub    |
-|Adora  |Druid  |Sub    |Super  |
-|Adora  |Druid  |Super  |Sub    |
-|Adora  |Spact  |Sub    |Super  |
-|Adora  |Spact  |Super  |Sub    |
-|Adora  |Village|Sub    |Super  |
-|Adora  |Village|Super  |Sub    |
-|Adora  |Engi   |Sub    |Super  |
-|Adora  |Engi   |Super  |Sub    |
 |Adora  |Dart   |Heli   |Wizard |
-|Adora  |Dart   |Wizard |Heli   |
 |Adora  |Boomer |Heli   |Wizard |
-|Adora  |Boomer |Wizard |Heli   |
 |Adora  |Bomb   |Heli   |Wizard |
-|Adora  |Bomb   |Wizard |Heli   |
 |Adora  |Tack   |Heli   |Wizard |
-|Adora  |Tack   |Wizard |Heli   |
 |Adora  |Ice    |Heli   |Wizard |
-|Adora  |Ice    |Wizard |Heli   |
 |Adora  |Glue   |Heli   |Wizard |
-|Adora  |Glue   |Wizard |Heli   |
 |Adora  |Sniper |Heli   |Wizard |
-|Adora  |Sniper |Wizard |Heli   |
 |Adora  |Sub    |Heli   |Wizard |
-|Adora  |Sub    |Wizard |Heli   |
 |Adora  |Bucc   |Heli   |Wizard |
-|Adora  |Bucc   |Wizard |Heli   |
 |Adora  |Ace    |Heli   |Wizard |
-|Adora  |Ace    |Wizard |Heli   |
-|Adora  |Heli   |Dart   |Wizard |
-|Adora  |Heli   |Boomer |Wizard |
-|Adora  |Heli   |Bomb   |Wizard |
-|Adora  |Heli   |Tack   |Wizard |
-|Adora  |Heli   |Ice    |Wizard |
-|Adora  |Heli   |Glue   |Wizard |
-|Adora  |Heli   |Sniper |Wizard |
-|Adora  |Heli   |Sub    |Wizard |
-|Adora  |Heli   |Bucc   |Wizard |
-|Adora  |Heli   |Ace    |Wizard |
 |Adora  |Heli   |Mortar |Wizard |
-|Adora  |Heli   |Wizard |Dart   |
-|Adora  |Heli   |Wizard |Boomer |
-|Adora  |Heli   |Wizard |Bomb   |
-|Adora  |Heli   |Wizard |Tack   |
-|Adora  |Heli   |Wizard |Ice    |
-|Adora  |Heli   |Wizard |Glue   |
-|Adora  |Heli   |Wizard |Sniper |
-|Adora  |Heli   |Wizard |Sub    |
-|Adora  |Heli   |Wizard |Bucc   |
-|Adora  |Heli   |Wizard |Ace    |
-|Adora  |Heli   |Wizard |Mortar |
 |Adora  |Heli   |Wizard |Super  |
 |Adora  |Heli   |Wizard |Ninja  |
 |Adora  |Heli   |Wizard |Alch   |
@@ -8282,199 +8161,32 @@
 |Adora  |Heli   |Wizard |Spact  |
 |Adora  |Heli   |Wizard |Village|
 |Adora  |Heli   |Wizard |Engi   |
-|Adora  |Heli   |Super  |Wizard |
-|Adora  |Heli   |Ninja  |Wizard |
-|Adora  |Heli   |Alch   |Wizard |
-|Adora  |Heli   |Druid  |Wizard |
-|Adora  |Heli   |Spact  |Wizard |
-|Adora  |Heli   |Village|Wizard |
-|Adora  |Heli   |Engi   |Wizard |
-|Adora  |Mortar |Heli   |Wizard |
-|Adora  |Mortar |Wizard |Heli   |
-|Adora  |Wizard |Dart   |Heli   |
-|Adora  |Wizard |Boomer |Heli   |
-|Adora  |Wizard |Bomb   |Heli   |
-|Adora  |Wizard |Tack   |Heli   |
-|Adora  |Wizard |Ice    |Heli   |
-|Adora  |Wizard |Glue   |Heli   |
-|Adora  |Wizard |Sniper |Heli   |
-|Adora  |Wizard |Sub    |Heli   |
-|Adora  |Wizard |Bucc   |Heli   |
-|Adora  |Wizard |Ace    |Heli   |
-|Adora  |Wizard |Heli   |Dart   |
-|Adora  |Wizard |Heli   |Boomer |
-|Adora  |Wizard |Heli   |Bomb   |
-|Adora  |Wizard |Heli   |Tack   |
-|Adora  |Wizard |Heli   |Ice    |
-|Adora  |Wizard |Heli   |Glue   |
-|Adora  |Wizard |Heli   |Sniper |
-|Adora  |Wizard |Heli   |Sub    |
-|Adora  |Wizard |Heli   |Bucc   |
-|Adora  |Wizard |Heli   |Ace    |
-|Adora  |Wizard |Heli   |Mortar |
-|Adora  |Wizard |Heli   |Super  |
-|Adora  |Wizard |Heli   |Ninja  |
-|Adora  |Wizard |Heli   |Alch   |
-|Adora  |Wizard |Heli   |Druid  |
-|Adora  |Wizard |Heli   |Spact  |
-|Adora  |Wizard |Heli   |Village|
-|Adora  |Wizard |Heli   |Engi   |
-|Adora  |Wizard |Mortar |Heli   |
-|Adora  |Wizard |Super  |Heli   |
-|Adora  |Wizard |Ninja  |Heli   |
-|Adora  |Wizard |Alch   |Heli   |
-|Adora  |Wizard |Druid  |Heli   |
-|Adora  |Wizard |Spact  |Heli   |
-|Adora  |Wizard |Village|Heli   |
-|Adora  |Wizard |Engi   |Heli   |
-|Adora  |Super  |Heli   |Wizard |
-|Adora  |Super  |Wizard |Heli   |
-|Adora  |Ninja  |Heli   |Wizard |
-|Adora  |Ninja  |Wizard |Heli   |
-|Adora  |Alch   |Heli   |Wizard |
-|Adora  |Alch   |Wizard |Heli   |
-|Adora  |Druid  |Heli   |Wizard |
-|Adora  |Druid  |Wizard |Heli   |
-|Adora  |Spact  |Heli   |Wizard |
-|Adora  |Spact  |Wizard |Heli   |
-|Adora  |Village|Heli   |Wizard |
-|Adora  |Village|Wizard |Heli   |
-|Adora  |Engi   |Heli   |Wizard |
-|Adora  |Engi   |Wizard |Heli   |
 |Adora  |Dart   |Wizard |Spact  |
-|Adora  |Dart   |Spact  |Wizard |
 |Adora  |Boomer |Wizard |Spact  |
-|Adora  |Boomer |Spact  |Wizard |
 |Adora  |Bomb   |Wizard |Spact  |
-|Adora  |Bomb   |Spact  |Wizard |
 |Adora  |Tack   |Wizard |Spact  |
-|Adora  |Tack   |Spact  |Wizard |
 |Adora  |Ice    |Wizard |Spact  |
-|Adora  |Ice    |Spact  |Wizard |
 |Adora  |Glue   |Wizard |Spact  |
-|Adora  |Glue   |Spact  |Wizard |
 |Adora  |Sniper |Wizard |Spact  |
-|Adora  |Sniper |Spact  |Wizard |
 |Adora  |Sub    |Wizard |Spact  |
-|Adora  |Sub    |Spact  |Wizard |
 |Adora  |Bucc   |Wizard |Spact  |
-|Adora  |Bucc   |Spact  |Wizard |
 |Adora  |Ace    |Wizard |Spact  |
-|Adora  |Ace    |Spact  |Wizard |
 |Adora  |Mortar |Wizard |Spact  |
-|Adora  |Mortar |Spact  |Wizard |
-|Adora  |Wizard |Dart   |Spact  |
-|Adora  |Wizard |Boomer |Spact  |
-|Adora  |Wizard |Bomb   |Spact  |
-|Adora  |Wizard |Tack   |Spact  |
-|Adora  |Wizard |Ice    |Spact  |
-|Adora  |Wizard |Glue   |Spact  |
-|Adora  |Wizard |Sniper |Spact  |
-|Adora  |Wizard |Sub    |Spact  |
-|Adora  |Wizard |Bucc   |Spact  |
-|Adora  |Wizard |Ace    |Spact  |
-|Adora  |Wizard |Mortar |Spact  |
 |Adora  |Wizard |Super  |Spact  |
 |Adora  |Wizard |Ninja  |Spact  |
 |Adora  |Wizard |Alch   |Spact  |
 |Adora  |Wizard |Druid  |Spact  |
-|Adora  |Wizard |Spact  |Dart   |
-|Adora  |Wizard |Spact  |Boomer |
-|Adora  |Wizard |Spact  |Bomb   |
-|Adora  |Wizard |Spact  |Tack   |
-|Adora  |Wizard |Spact  |Ice    |
-|Adora  |Wizard |Spact  |Glue   |
-|Adora  |Wizard |Spact  |Sniper |
-|Adora  |Wizard |Spact  |Sub    |
-|Adora  |Wizard |Spact  |Bucc   |
-|Adora  |Wizard |Spact  |Ace    |
-|Adora  |Wizard |Spact  |Mortar |
-|Adora  |Wizard |Spact  |Super  |
-|Adora  |Wizard |Spact  |Ninja  |
-|Adora  |Wizard |Spact  |Alch   |
-|Adora  |Wizard |Spact  |Druid  |
 |Adora  |Wizard |Spact  |Village|
 |Adora  |Wizard |Spact  |Engi   |
-|Adora  |Wizard |Village|Spact  |
-|Adora  |Wizard |Engi   |Spact  |
-|Adora  |Super  |Wizard |Spact  |
-|Adora  |Super  |Spact  |Wizard |
-|Adora  |Ninja  |Wizard |Spact  |
-|Adora  |Ninja  |Spact  |Wizard |
-|Adora  |Alch   |Wizard |Spact  |
-|Adora  |Alch   |Spact  |Wizard |
-|Adora  |Druid  |Wizard |Spact  |
-|Adora  |Druid  |Spact  |Wizard |
-|Adora  |Spact  |Dart   |Wizard |
-|Adora  |Spact  |Boomer |Wizard |
-|Adora  |Spact  |Bomb   |Wizard |
-|Adora  |Spact  |Tack   |Wizard |
-|Adora  |Spact  |Ice    |Wizard |
-|Adora  |Spact  |Glue   |Wizard |
-|Adora  |Spact  |Sniper |Wizard |
-|Adora  |Spact  |Sub    |Wizard |
-|Adora  |Spact  |Bucc   |Wizard |
-|Adora  |Spact  |Ace    |Wizard |
-|Adora  |Spact  |Mortar |Wizard |
-|Adora  |Spact  |Wizard |Dart   |
-|Adora  |Spact  |Wizard |Boomer |
-|Adora  |Spact  |Wizard |Bomb   |
-|Adora  |Spact  |Wizard |Tack   |
-|Adora  |Spact  |Wizard |Ice    |
-|Adora  |Spact  |Wizard |Glue   |
-|Adora  |Spact  |Wizard |Sniper |
-|Adora  |Spact  |Wizard |Sub    |
-|Adora  |Spact  |Wizard |Bucc   |
-|Adora  |Spact  |Wizard |Ace    |
-|Adora  |Spact  |Wizard |Mortar |
-|Adora  |Spact  |Wizard |Super  |
-|Adora  |Spact  |Wizard |Ninja  |
-|Adora  |Spact  |Wizard |Alch   |
-|Adora  |Spact  |Wizard |Druid  |
-|Adora  |Spact  |Wizard |Village|
-|Adora  |Spact  |Wizard |Engi   |
-|Adora  |Spact  |Super  |Wizard |
-|Adora  |Spact  |Ninja  |Wizard |
-|Adora  |Spact  |Alch   |Wizard |
-|Adora  |Spact  |Druid  |Wizard |
-|Adora  |Spact  |Village|Wizard |
-|Adora  |Spact  |Engi   |Wizard |
-|Adora  |Village|Wizard |Spact  |
-|Adora  |Village|Spact  |Wizard |
-|Adora  |Engi   |Wizard |Spact  |
-|Adora  |Engi   |Spact  |Wizard |
 |Adora  |Dart   |Sub    |Heli   |
-|Adora  |Dart   |Heli   |Sub    |
 |Adora  |Boomer |Sub    |Heli   |
-|Adora  |Boomer |Heli   |Sub    |
 |Adora  |Bomb   |Sub    |Heli   |
-|Adora  |Bomb   |Heli   |Sub    |
 |Adora  |Tack   |Sub    |Heli   |
-|Adora  |Tack   |Heli   |Sub    |
 |Adora  |Ice    |Sub    |Heli   |
-|Adora  |Ice    |Heli   |Sub    |
 |Adora  |Glue   |Sub    |Heli   |
-|Adora  |Glue   |Heli   |Sub    |
 |Adora  |Sniper |Sub    |Heli   |
-|Adora  |Sniper |Heli   |Sub    |
-|Adora  |Sub    |Dart   |Heli   |
-|Adora  |Sub    |Boomer |Heli   |
-|Adora  |Sub    |Bomb   |Heli   |
-|Adora  |Sub    |Tack   |Heli   |
-|Adora  |Sub    |Ice    |Heli   |
-|Adora  |Sub    |Glue   |Heli   |
-|Adora  |Sub    |Sniper |Heli   |
 |Adora  |Sub    |Bucc   |Heli   |
 |Adora  |Sub    |Ace    |Heli   |
-|Adora  |Sub    |Heli   |Dart   |
-|Adora  |Sub    |Heli   |Boomer |
-|Adora  |Sub    |Heli   |Bomb   |
-|Adora  |Sub    |Heli   |Tack   |
-|Adora  |Sub    |Heli   |Ice    |
-|Adora  |Sub    |Heli   |Glue   |
-|Adora  |Sub    |Heli   |Sniper |
-|Adora  |Sub    |Heli   |Bucc   |
-|Adora  |Sub    |Heli   |Ace    |
 |Adora  |Sub    |Heli   |Mortar |
 |Adora  |Sub    |Heli   |Ninja  |
 |Adora  |Sub    |Heli   |Alch   |
@@ -8482,603 +8194,96 @@
 |Adora  |Sub    |Heli   |Spact  |
 |Adora  |Sub    |Heli   |Village|
 |Adora  |Sub    |Heli   |Engi   |
-|Adora  |Sub    |Mortar |Heli   |
-|Adora  |Sub    |Ninja  |Heli   |
-|Adora  |Sub    |Alch   |Heli   |
-|Adora  |Sub    |Druid  |Heli   |
-|Adora  |Sub    |Spact  |Heli   |
-|Adora  |Sub    |Village|Heli   |
-|Adora  |Sub    |Engi   |Heli   |
-|Adora  |Bucc   |Sub    |Heli   |
-|Adora  |Bucc   |Heli   |Sub    |
-|Adora  |Ace    |Sub    |Heli   |
-|Adora  |Ace    |Heli   |Sub    |
-|Adora  |Heli   |Dart   |Sub    |
-|Adora  |Heli   |Boomer |Sub    |
-|Adora  |Heli   |Bomb   |Sub    |
-|Adora  |Heli   |Tack   |Sub    |
-|Adora  |Heli   |Ice    |Sub    |
-|Adora  |Heli   |Glue   |Sub    |
-|Adora  |Heli   |Sniper |Sub    |
-|Adora  |Heli   |Sub    |Dart   |
-|Adora  |Heli   |Sub    |Boomer |
-|Adora  |Heli   |Sub    |Bomb   |
-|Adora  |Heli   |Sub    |Tack   |
-|Adora  |Heli   |Sub    |Ice    |
-|Adora  |Heli   |Sub    |Glue   |
-|Adora  |Heli   |Sub    |Sniper |
-|Adora  |Heli   |Sub    |Bucc   |
-|Adora  |Heli   |Sub    |Ace    |
-|Adora  |Heli   |Sub    |Mortar |
-|Adora  |Heli   |Sub    |Ninja  |
-|Adora  |Heli   |Sub    |Alch   |
-|Adora  |Heli   |Sub    |Druid  |
-|Adora  |Heli   |Sub    |Spact  |
-|Adora  |Heli   |Sub    |Village|
-|Adora  |Heli   |Sub    |Engi   |
-|Adora  |Heli   |Bucc   |Sub    |
-|Adora  |Heli   |Ace    |Sub    |
-|Adora  |Heli   |Mortar |Sub    |
-|Adora  |Heli   |Ninja  |Sub    |
-|Adora  |Heli   |Alch   |Sub    |
-|Adora  |Heli   |Druid  |Sub    |
-|Adora  |Heli   |Spact  |Sub    |
-|Adora  |Heli   |Village|Sub    |
-|Adora  |Heli   |Engi   |Sub    |
-|Adora  |Mortar |Sub    |Heli   |
-|Adora  |Mortar |Heli   |Sub    |
-|Adora  |Ninja  |Sub    |Heli   |
-|Adora  |Ninja  |Heli   |Sub    |
-|Adora  |Alch   |Sub    |Heli   |
-|Adora  |Alch   |Heli   |Sub    |
-|Adora  |Druid  |Sub    |Heli   |
-|Adora  |Druid  |Heli   |Sub    |
-|Adora  |Spact  |Sub    |Heli   |
-|Adora  |Spact  |Heli   |Sub    |
-|Adora  |Village|Sub    |Heli   |
-|Adora  |Village|Heli   |Sub    |
-|Adora  |Engi   |Sub    |Heli   |
-|Adora  |Engi   |Heli   |Sub    |
 |Adora  |Dart   |Ace    |Wizard |
-|Adora  |Dart   |Wizard |Ace    |
 |Adora  |Boomer |Ace    |Wizard |
-|Adora  |Boomer |Wizard |Ace    |
 |Adora  |Bomb   |Ace    |Wizard |
-|Adora  |Bomb   |Wizard |Ace    |
 |Adora  |Tack   |Ace    |Wizard |
-|Adora  |Tack   |Wizard |Ace    |
 |Adora  |Ice    |Ace    |Wizard |
-|Adora  |Ice    |Wizard |Ace    |
 |Adora  |Glue   |Ace    |Wizard |
-|Adora  |Glue   |Wizard |Ace    |
 |Adora  |Sniper |Ace    |Wizard |
-|Adora  |Sniper |Wizard |Ace    |
 |Adora  |Sub    |Ace    |Wizard |
-|Adora  |Sub    |Wizard |Ace    |
 |Adora  |Bucc   |Ace    |Wizard |
-|Adora  |Bucc   |Wizard |Ace    |
-|Adora  |Ace    |Dart   |Wizard |
-|Adora  |Ace    |Boomer |Wizard |
-|Adora  |Ace    |Bomb   |Wizard |
-|Adora  |Ace    |Tack   |Wizard |
-|Adora  |Ace    |Ice    |Wizard |
-|Adora  |Ace    |Glue   |Wizard |
-|Adora  |Ace    |Sniper |Wizard |
-|Adora  |Ace    |Sub    |Wizard |
-|Adora  |Ace    |Bucc   |Wizard |
 |Adora  |Ace    |Mortar |Wizard |
-|Adora  |Ace    |Wizard |Dart   |
-|Adora  |Ace    |Wizard |Boomer |
-|Adora  |Ace    |Wizard |Bomb   |
-|Adora  |Ace    |Wizard |Tack   |
-|Adora  |Ace    |Wizard |Ice    |
-|Adora  |Ace    |Wizard |Glue   |
-|Adora  |Ace    |Wizard |Sniper |
-|Adora  |Ace    |Wizard |Sub    |
-|Adora  |Ace    |Wizard |Bucc   |
-|Adora  |Ace    |Wizard |Mortar |
 |Adora  |Ace    |Wizard |Super  |
 |Adora  |Ace    |Wizard |Ninja  |
 |Adora  |Ace    |Wizard |Alch   |
 |Adora  |Ace    |Wizard |Druid  |
 |Adora  |Ace    |Wizard |Village|
 |Adora  |Ace    |Wizard |Engi   |
-|Adora  |Ace    |Super  |Wizard |
-|Adora  |Ace    |Ninja  |Wizard |
-|Adora  |Ace    |Alch   |Wizard |
-|Adora  |Ace    |Druid  |Wizard |
-|Adora  |Ace    |Village|Wizard |
-|Adora  |Ace    |Engi   |Wizard |
-|Adora  |Mortar |Ace    |Wizard |
-|Adora  |Mortar |Wizard |Ace    |
-|Adora  |Wizard |Dart   |Ace    |
-|Adora  |Wizard |Boomer |Ace    |
-|Adora  |Wizard |Bomb   |Ace    |
-|Adora  |Wizard |Tack   |Ace    |
-|Adora  |Wizard |Ice    |Ace    |
-|Adora  |Wizard |Glue   |Ace    |
-|Adora  |Wizard |Sniper |Ace    |
-|Adora  |Wizard |Sub    |Ace    |
-|Adora  |Wizard |Bucc   |Ace    |
-|Adora  |Wizard |Ace    |Dart   |
-|Adora  |Wizard |Ace    |Boomer |
-|Adora  |Wizard |Ace    |Bomb   |
-|Adora  |Wizard |Ace    |Tack   |
-|Adora  |Wizard |Ace    |Ice    |
-|Adora  |Wizard |Ace    |Glue   |
-|Adora  |Wizard |Ace    |Sniper |
-|Adora  |Wizard |Ace    |Sub    |
-|Adora  |Wizard |Ace    |Bucc   |
-|Adora  |Wizard |Ace    |Mortar |
-|Adora  |Wizard |Ace    |Super  |
-|Adora  |Wizard |Ace    |Ninja  |
-|Adora  |Wizard |Ace    |Alch   |
-|Adora  |Wizard |Ace    |Druid  |
-|Adora  |Wizard |Ace    |Village|
-|Adora  |Wizard |Ace    |Engi   |
-|Adora  |Wizard |Mortar |Ace    |
-|Adora  |Wizard |Super  |Ace    |
-|Adora  |Wizard |Ninja  |Ace    |
-|Adora  |Wizard |Alch   |Ace    |
-|Adora  |Wizard |Druid  |Ace    |
-|Adora  |Wizard |Village|Ace    |
-|Adora  |Wizard |Engi   |Ace    |
-|Adora  |Super  |Ace    |Wizard |
-|Adora  |Super  |Wizard |Ace    |
-|Adora  |Ninja  |Ace    |Wizard |
-|Adora  |Ninja  |Wizard |Ace    |
-|Adora  |Alch   |Ace    |Wizard |
-|Adora  |Alch   |Wizard |Ace    |
-|Adora  |Druid  |Ace    |Wizard |
-|Adora  |Druid  |Wizard |Ace    |
-|Adora  |Village|Ace    |Wizard |
-|Adora  |Village|Wizard |Ace    |
-|Adora  |Engi   |Ace    |Wizard |
-|Adora  |Engi   |Wizard |Ace    |
 |Adora  |Dart   |Ninja  |Alch   |
-|Adora  |Dart   |Alch   |Ninja  |
 |Adora  |Boomer |Ninja  |Alch   |
-|Adora  |Boomer |Alch   |Ninja  |
 |Adora  |Bomb   |Ninja  |Alch   |
-|Adora  |Bomb   |Alch   |Ninja  |
 |Adora  |Tack   |Ninja  |Alch   |
-|Adora  |Tack   |Alch   |Ninja  |
 |Adora  |Ice    |Ninja  |Alch   |
-|Adora  |Ice    |Alch   |Ninja  |
 |Adora  |Glue   |Ninja  |Alch   |
-|Adora  |Glue   |Alch   |Ninja  |
 |Adora  |Sniper |Ninja  |Alch   |
-|Adora  |Sniper |Alch   |Ninja  |
 |Adora  |Sub    |Ninja  |Alch   |
-|Adora  |Sub    |Alch   |Ninja  |
 |Adora  |Bucc   |Ninja  |Alch   |
-|Adora  |Bucc   |Alch   |Ninja  |
 |Adora  |Ace    |Ninja  |Alch   |
-|Adora  |Ace    |Alch   |Ninja  |
 |Adora  |Heli   |Ninja  |Alch   |
-|Adora  |Heli   |Alch   |Ninja  |
 |Adora  |Mortar |Ninja  |Alch   |
-|Adora  |Mortar |Alch   |Ninja  |
 |Adora  |Wizard |Ninja  |Alch   |
-|Adora  |Wizard |Alch   |Ninja  |
 |Adora  |Super  |Ninja  |Alch   |
-|Adora  |Super  |Alch   |Ninja  |
-|Adora  |Ninja  |Dart   |Alch   |
-|Adora  |Ninja  |Boomer |Alch   |
-|Adora  |Ninja  |Bomb   |Alch   |
-|Adora  |Ninja  |Tack   |Alch   |
-|Adora  |Ninja  |Ice    |Alch   |
-|Adora  |Ninja  |Glue   |Alch   |
-|Adora  |Ninja  |Sniper |Alch   |
-|Adora  |Ninja  |Sub    |Alch   |
-|Adora  |Ninja  |Bucc   |Alch   |
-|Adora  |Ninja  |Ace    |Alch   |
-|Adora  |Ninja  |Heli   |Alch   |
-|Adora  |Ninja  |Mortar |Alch   |
-|Adora  |Ninja  |Wizard |Alch   |
-|Adora  |Ninja  |Super  |Alch   |
-|Adora  |Ninja  |Alch   |Dart   |
-|Adora  |Ninja  |Alch   |Boomer |
-|Adora  |Ninja  |Alch   |Bomb   |
-|Adora  |Ninja  |Alch   |Tack   |
-|Adora  |Ninja  |Alch   |Ice    |
-|Adora  |Ninja  |Alch   |Glue   |
-|Adora  |Ninja  |Alch   |Sniper |
-|Adora  |Ninja  |Alch   |Sub    |
-|Adora  |Ninja  |Alch   |Bucc   |
-|Adora  |Ninja  |Alch   |Ace    |
-|Adora  |Ninja  |Alch   |Heli   |
-|Adora  |Ninja  |Alch   |Mortar |
-|Adora  |Ninja  |Alch   |Wizard |
-|Adora  |Ninja  |Alch   |Super  |
 |Adora  |Ninja  |Alch   |Druid  |
 |Adora  |Ninja  |Alch   |Spact  |
 |Adora  |Ninja  |Alch   |Village|
 |Adora  |Ninja  |Alch   |Engi   |
-|Adora  |Ninja  |Druid  |Alch   |
-|Adora  |Ninja  |Spact  |Alch   |
-|Adora  |Ninja  |Village|Alch   |
-|Adora  |Ninja  |Engi   |Alch   |
-|Adora  |Alch   |Dart   |Ninja  |
-|Adora  |Alch   |Boomer |Ninja  |
-|Adora  |Alch   |Bomb   |Ninja  |
-|Adora  |Alch   |Tack   |Ninja  |
-|Adora  |Alch   |Ice    |Ninja  |
-|Adora  |Alch   |Glue   |Ninja  |
-|Adora  |Alch   |Sniper |Ninja  |
-|Adora  |Alch   |Sub    |Ninja  |
-|Adora  |Alch   |Bucc   |Ninja  |
-|Adora  |Alch   |Ace    |Ninja  |
-|Adora  |Alch   |Heli   |Ninja  |
-|Adora  |Alch   |Mortar |Ninja  |
-|Adora  |Alch   |Wizard |Ninja  |
-|Adora  |Alch   |Super  |Ninja  |
-|Adora  |Alch   |Ninja  |Dart   |
-|Adora  |Alch   |Ninja  |Boomer |
-|Adora  |Alch   |Ninja  |Bomb   |
-|Adora  |Alch   |Ninja  |Tack   |
-|Adora  |Alch   |Ninja  |Ice    |
-|Adora  |Alch   |Ninja  |Glue   |
-|Adora  |Alch   |Ninja  |Sniper |
-|Adora  |Alch   |Ninja  |Sub    |
-|Adora  |Alch   |Ninja  |Bucc   |
-|Adora  |Alch   |Ninja  |Ace    |
-|Adora  |Alch   |Ninja  |Heli   |
-|Adora  |Alch   |Ninja  |Mortar |
-|Adora  |Alch   |Ninja  |Wizard |
-|Adora  |Alch   |Ninja  |Super  |
-|Adora  |Alch   |Ninja  |Druid  |
-|Adora  |Alch   |Ninja  |Spact  |
-|Adora  |Alch   |Ninja  |Village|
-|Adora  |Alch   |Ninja  |Engi   |
-|Adora  |Alch   |Druid  |Ninja  |
-|Adora  |Alch   |Spact  |Ninja  |
-|Adora  |Alch   |Village|Ninja  |
-|Adora  |Alch   |Engi   |Ninja  |
-|Adora  |Druid  |Ninja  |Alch   |
-|Adora  |Druid  |Alch   |Ninja  |
-|Adora  |Spact  |Ninja  |Alch   |
-|Adora  |Spact  |Alch   |Ninja  |
-|Adora  |Village|Ninja  |Alch   |
-|Adora  |Village|Alch   |Ninja  |
-|Adora  |Engi   |Ninja  |Alch   |
-|Adora  |Engi   |Alch   |Ninja  |
 |Adora  |Dart   |Mortar |Wizard |
-|Adora  |Dart   |Wizard |Mortar |
 |Adora  |Boomer |Mortar |Wizard |
-|Adora  |Boomer |Wizard |Mortar |
 |Adora  |Bomb   |Mortar |Wizard |
-|Adora  |Bomb   |Wizard |Mortar |
 |Adora  |Tack   |Mortar |Wizard |
-|Adora  |Tack   |Wizard |Mortar |
 |Adora  |Ice    |Mortar |Wizard |
-|Adora  |Ice    |Wizard |Mortar |
 |Adora  |Glue   |Mortar |Wizard |
-|Adora  |Glue   |Wizard |Mortar |
 |Adora  |Sniper |Mortar |Wizard |
-|Adora  |Sniper |Wizard |Mortar |
 |Adora  |Sub    |Mortar |Wizard |
-|Adora  |Sub    |Wizard |Mortar |
 |Adora  |Bucc   |Mortar |Wizard |
-|Adora  |Bucc   |Wizard |Mortar |
-|Adora  |Mortar |Dart   |Wizard |
-|Adora  |Mortar |Boomer |Wizard |
-|Adora  |Mortar |Bomb   |Wizard |
-|Adora  |Mortar |Tack   |Wizard |
-|Adora  |Mortar |Ice    |Wizard |
-|Adora  |Mortar |Glue   |Wizard |
-|Adora  |Mortar |Sniper |Wizard |
-|Adora  |Mortar |Sub    |Wizard |
-|Adora  |Mortar |Bucc   |Wizard |
-|Adora  |Mortar |Wizard |Dart   |
-|Adora  |Mortar |Wizard |Boomer |
-|Adora  |Mortar |Wizard |Bomb   |
-|Adora  |Mortar |Wizard |Tack   |
-|Adora  |Mortar |Wizard |Ice    |
-|Adora  |Mortar |Wizard |Glue   |
-|Adora  |Mortar |Wizard |Sniper |
-|Adora  |Mortar |Wizard |Sub    |
-|Adora  |Mortar |Wizard |Bucc   |
 |Adora  |Mortar |Wizard |Super  |
 |Adora  |Mortar |Wizard |Ninja  |
 |Adora  |Mortar |Wizard |Alch   |
 |Adora  |Mortar |Wizard |Druid  |
 |Adora  |Mortar |Wizard |Village|
 |Adora  |Mortar |Wizard |Engi   |
-|Adora  |Mortar |Super  |Wizard |
-|Adora  |Mortar |Ninja  |Wizard |
-|Adora  |Mortar |Alch   |Wizard |
-|Adora  |Mortar |Druid  |Wizard |
-|Adora  |Mortar |Village|Wizard |
-|Adora  |Mortar |Engi   |Wizard |
-|Adora  |Wizard |Dart   |Mortar |
-|Adora  |Wizard |Boomer |Mortar |
-|Adora  |Wizard |Bomb   |Mortar |
-|Adora  |Wizard |Tack   |Mortar |
-|Adora  |Wizard |Ice    |Mortar |
-|Adora  |Wizard |Glue   |Mortar |
-|Adora  |Wizard |Sniper |Mortar |
-|Adora  |Wizard |Sub    |Mortar |
-|Adora  |Wizard |Bucc   |Mortar |
-|Adora  |Wizard |Mortar |Dart   |
-|Adora  |Wizard |Mortar |Boomer |
-|Adora  |Wizard |Mortar |Bomb   |
-|Adora  |Wizard |Mortar |Tack   |
-|Adora  |Wizard |Mortar |Ice    |
-|Adora  |Wizard |Mortar |Glue   |
-|Adora  |Wizard |Mortar |Sniper |
-|Adora  |Wizard |Mortar |Sub    |
-|Adora  |Wizard |Mortar |Bucc   |
-|Adora  |Wizard |Mortar |Super  |
-|Adora  |Wizard |Mortar |Ninja  |
-|Adora  |Wizard |Mortar |Alch   |
-|Adora  |Wizard |Mortar |Druid  |
-|Adora  |Wizard |Mortar |Village|
-|Adora  |Wizard |Mortar |Engi   |
-|Adora  |Wizard |Super  |Mortar |
-|Adora  |Wizard |Ninja  |Mortar |
-|Adora  |Wizard |Alch   |Mortar |
-|Adora  |Wizard |Druid  |Mortar |
-|Adora  |Wizard |Village|Mortar |
-|Adora  |Wizard |Engi   |Mortar |
-|Adora  |Super  |Mortar |Wizard |
-|Adora  |Super  |Wizard |Mortar |
-|Adora  |Ninja  |Mortar |Wizard |
-|Adora  |Ninja  |Wizard |Mortar |
-|Adora  |Alch   |Mortar |Wizard |
-|Adora  |Alch   |Wizard |Mortar |
-|Adora  |Druid  |Mortar |Wizard |
-|Adora  |Druid  |Wizard |Mortar |
-|Adora  |Village|Mortar |Wizard |
-|Adora  |Village|Wizard |Mortar |
-|Adora  |Engi   |Mortar |Wizard |
-|Adora  |Engi   |Wizard |Mortar |
 |Adora  |Dart   |Heli   |Alch   |
-|Adora  |Dart   |Alch   |Heli   |
 |Adora  |Boomer |Heli   |Alch   |
-|Adora  |Boomer |Alch   |Heli   |
 |Adora  |Bomb   |Heli   |Alch   |
-|Adora  |Bomb   |Alch   |Heli   |
 |Adora  |Tack   |Heli   |Alch   |
-|Adora  |Tack   |Alch   |Heli   |
 |Adora  |Ice    |Heli   |Alch   |
-|Adora  |Ice    |Alch   |Heli   |
 |Adora  |Glue   |Heli   |Alch   |
-|Adora  |Glue   |Alch   |Heli   |
 |Adora  |Sniper |Heli   |Alch   |
-|Adora  |Sniper |Alch   |Heli   |
 |Adora  |Bucc   |Heli   |Alch   |
-|Adora  |Bucc   |Alch   |Heli   |
 |Adora  |Ace    |Heli   |Alch   |
-|Adora  |Ace    |Alch   |Heli   |
-|Adora  |Heli   |Dart   |Alch   |
-|Adora  |Heli   |Boomer |Alch   |
-|Adora  |Heli   |Bomb   |Alch   |
-|Adora  |Heli   |Tack   |Alch   |
-|Adora  |Heli   |Ice    |Alch   |
-|Adora  |Heli   |Glue   |Alch   |
-|Adora  |Heli   |Sniper |Alch   |
-|Adora  |Heli   |Bucc   |Alch   |
-|Adora  |Heli   |Ace    |Alch   |
 |Adora  |Heli   |Mortar |Alch   |
 |Adora  |Heli   |Super  |Alch   |
-|Adora  |Heli   |Alch   |Dart   |
-|Adora  |Heli   |Alch   |Boomer |
-|Adora  |Heli   |Alch   |Bomb   |
-|Adora  |Heli   |Alch   |Tack   |
-|Adora  |Heli   |Alch   |Ice    |
-|Adora  |Heli   |Alch   |Glue   |
-|Adora  |Heli   |Alch   |Sniper |
-|Adora  |Heli   |Alch   |Bucc   |
-|Adora  |Heli   |Alch   |Ace    |
-|Adora  |Heli   |Alch   |Mortar |
-|Adora  |Heli   |Alch   |Super  |
 |Adora  |Heli   |Alch   |Druid  |
 |Adora  |Heli   |Alch   |Spact  |
 |Adora  |Heli   |Alch   |Village|
 |Adora  |Heli   |Alch   |Engi   |
-|Adora  |Heli   |Druid  |Alch   |
-|Adora  |Heli   |Spact  |Alch   |
-|Adora  |Heli   |Village|Alch   |
-|Adora  |Heli   |Engi   |Alch   |
-|Adora  |Mortar |Heli   |Alch   |
-|Adora  |Mortar |Alch   |Heli   |
-|Adora  |Super  |Heli   |Alch   |
-|Adora  |Super  |Alch   |Heli   |
-|Adora  |Alch   |Dart   |Heli   |
-|Adora  |Alch   |Boomer |Heli   |
-|Adora  |Alch   |Bomb   |Heli   |
-|Adora  |Alch   |Tack   |Heli   |
-|Adora  |Alch   |Ice    |Heli   |
-|Adora  |Alch   |Glue   |Heli   |
-|Adora  |Alch   |Sniper |Heli   |
-|Adora  |Alch   |Bucc   |Heli   |
-|Adora  |Alch   |Ace    |Heli   |
-|Adora  |Alch   |Heli   |Dart   |
-|Adora  |Alch   |Heli   |Boomer |
-|Adora  |Alch   |Heli   |Bomb   |
-|Adora  |Alch   |Heli   |Tack   |
-|Adora  |Alch   |Heli   |Ice    |
-|Adora  |Alch   |Heli   |Glue   |
-|Adora  |Alch   |Heli   |Sniper |
-|Adora  |Alch   |Heli   |Bucc   |
-|Adora  |Alch   |Heli   |Ace    |
-|Adora  |Alch   |Heli   |Mortar |
-|Adora  |Alch   |Heli   |Super  |
-|Adora  |Alch   |Heli   |Druid  |
-|Adora  |Alch   |Heli   |Spact  |
-|Adora  |Alch   |Heli   |Village|
-|Adora  |Alch   |Heli   |Engi   |
-|Adora  |Alch   |Mortar |Heli   |
-|Adora  |Alch   |Super  |Heli   |
-|Adora  |Alch   |Druid  |Heli   |
-|Adora  |Alch   |Spact  |Heli   |
-|Adora  |Alch   |Village|Heli   |
-|Adora  |Alch   |Engi   |Heli   |
-|Adora  |Druid  |Heli   |Alch   |
-|Adora  |Druid  |Alch   |Heli   |
-|Adora  |Spact  |Heli   |Alch   |
-|Adora  |Spact  |Alch   |Heli   |
-|Adora  |Village|Heli   |Alch   |
-|Adora  |Village|Alch   |Heli   |
-|Adora  |Engi   |Heli   |Alch   |
-|Adora  |Engi   |Alch   |Heli   |
 |Adora  |Dart   |Bucc   |Wizard |
-|Adora  |Dart   |Wizard |Bucc   |
 |Adora  |Boomer |Bucc   |Wizard |
-|Adora  |Boomer |Wizard |Bucc   |
 |Adora  |Bomb   |Bucc   |Wizard |
-|Adora  |Bomb   |Wizard |Bucc   |
 |Adora  |Tack   |Bucc   |Wizard |
-|Adora  |Tack   |Wizard |Bucc   |
 |Adora  |Ice    |Bucc   |Wizard |
-|Adora  |Ice    |Wizard |Bucc   |
 |Adora  |Glue   |Bucc   |Wizard |
-|Adora  |Glue   |Wizard |Bucc   |
 |Adora  |Sniper |Bucc   |Wizard |
-|Adora  |Sniper |Wizard |Bucc   |
 |Adora  |Sub    |Bucc   |Wizard |
-|Adora  |Sub    |Wizard |Bucc   |
-|Adora  |Bucc   |Dart   |Wizard |
-|Adora  |Bucc   |Boomer |Wizard |
-|Adora  |Bucc   |Bomb   |Wizard |
-|Adora  |Bucc   |Tack   |Wizard |
-|Adora  |Bucc   |Ice    |Wizard |
-|Adora  |Bucc   |Glue   |Wizard |
-|Adora  |Bucc   |Sniper |Wizard |
-|Adora  |Bucc   |Sub    |Wizard |
-|Adora  |Bucc   |Wizard |Dart   |
-|Adora  |Bucc   |Wizard |Boomer |
-|Adora  |Bucc   |Wizard |Bomb   |
-|Adora  |Bucc   |Wizard |Tack   |
-|Adora  |Bucc   |Wizard |Ice    |
-|Adora  |Bucc   |Wizard |Glue   |
-|Adora  |Bucc   |Wizard |Sniper |
-|Adora  |Bucc   |Wizard |Sub    |
 |Adora  |Bucc   |Wizard |Super  |
 |Adora  |Bucc   |Wizard |Ninja  |
 |Adora  |Bucc   |Wizard |Alch   |
 |Adora  |Bucc   |Wizard |Druid  |
 |Adora  |Bucc   |Wizard |Village|
 |Adora  |Bucc   |Wizard |Engi   |
-|Adora  |Bucc   |Super  |Wizard |
-|Adora  |Bucc   |Ninja  |Wizard |
-|Adora  |Bucc   |Alch   |Wizard |
-|Adora  |Bucc   |Druid  |Wizard |
-|Adora  |Bucc   |Village|Wizard |
-|Adora  |Bucc   |Engi   |Wizard |
-|Adora  |Wizard |Dart   |Bucc   |
-|Adora  |Wizard |Boomer |Bucc   |
-|Adora  |Wizard |Bomb   |Bucc   |
-|Adora  |Wizard |Tack   |Bucc   |
-|Adora  |Wizard |Ice    |Bucc   |
-|Adora  |Wizard |Glue   |Bucc   |
-|Adora  |Wizard |Sniper |Bucc   |
-|Adora  |Wizard |Sub    |Bucc   |
-|Adora  |Wizard |Bucc   |Dart   |
-|Adora  |Wizard |Bucc   |Boomer |
-|Adora  |Wizard |Bucc   |Bomb   |
-|Adora  |Wizard |Bucc   |Tack   |
-|Adora  |Wizard |Bucc   |Ice    |
-|Adora  |Wizard |Bucc   |Glue   |
-|Adora  |Wizard |Bucc   |Sniper |
-|Adora  |Wizard |Bucc   |Sub    |
-|Adora  |Wizard |Bucc   |Super  |
-|Adora  |Wizard |Bucc   |Ninja  |
-|Adora  |Wizard |Bucc   |Alch   |
-|Adora  |Wizard |Bucc   |Druid  |
-|Adora  |Wizard |Bucc   |Village|
-|Adora  |Wizard |Bucc   |Engi   |
-|Adora  |Wizard |Super  |Bucc   |
-|Adora  |Wizard |Ninja  |Bucc   |
-|Adora  |Wizard |Alch   |Bucc   |
-|Adora  |Wizard |Druid  |Bucc   |
-|Adora  |Wizard |Village|Bucc   |
-|Adora  |Wizard |Engi   |Bucc   |
-|Adora  |Super  |Bucc   |Wizard |
-|Adora  |Super  |Wizard |Bucc   |
-|Adora  |Ninja  |Bucc   |Wizard |
-|Adora  |Ninja  |Wizard |Bucc   |
-|Adora  |Alch   |Bucc   |Wizard |
-|Adora  |Alch   |Wizard |Bucc   |
-|Adora  |Druid  |Bucc   |Wizard |
-|Adora  |Druid  |Wizard |Bucc   |
-|Adora  |Village|Bucc   |Wizard |
-|Adora  |Village|Wizard |Bucc   |
-|Adora  |Engi   |Bucc   |Wizard |
-|Adora  |Engi   |Wizard |Bucc   |
 |Adora  |Dart   |Wizard |Ninja  |
-|Adora  |Dart   |Ninja  |Wizard |
 |Adora  |Boomer |Wizard |Ninja  |
-|Adora  |Boomer |Ninja  |Wizard |
 |Adora  |Bomb   |Wizard |Ninja  |
-|Adora  |Bomb   |Ninja  |Wizard |
 |Adora  |Tack   |Wizard |Ninja  |
-|Adora  |Tack   |Ninja  |Wizard |
 |Adora  |Ice    |Wizard |Ninja  |
-|Adora  |Ice    |Ninja  |Wizard |
 |Adora  |Glue   |Wizard |Ninja  |
-|Adora  |Glue   |Ninja  |Wizard |
 |Adora  |Sniper |Wizard |Ninja  |
-|Adora  |Sniper |Ninja  |Wizard |
 |Adora  |Sub    |Wizard |Ninja  |
-|Adora  |Sub    |Ninja  |Wizard |
-|Adora  |Wizard |Dart   |Ninja  |
-|Adora  |Wizard |Boomer |Ninja  |
-|Adora  |Wizard |Bomb   |Ninja  |
-|Adora  |Wizard |Tack   |Ninja  |
-|Adora  |Wizard |Ice    |Ninja  |
-|Adora  |Wizard |Glue   |Ninja  |
-|Adora  |Wizard |Sniper |Ninja  |
-|Adora  |Wizard |Sub    |Ninja  |
 |Adora  |Wizard |Super  |Ninja  |
-|Adora  |Wizard |Ninja  |Dart   |
-|Adora  |Wizard |Ninja  |Boomer |
-|Adora  |Wizard |Ninja  |Bomb   |
-|Adora  |Wizard |Ninja  |Tack   |
-|Adora  |Wizard |Ninja  |Ice    |
-|Adora  |Wizard |Ninja  |Glue   |
-|Adora  |Wizard |Ninja  |Sniper |
-|Adora  |Wizard |Ninja  |Sub    |
-|Adora  |Wizard |Ninja  |Super  |
 |Adora  |Wizard |Ninja  |Druid  |
 |Adora  |Wizard |Ninja  |Village|
 |Adora  |Wizard |Ninja  |Engi   |
-|Adora  |Wizard |Druid  |Ninja  |
-|Adora  |Wizard |Village|Ninja  |
-|Adora  |Wizard |Engi   |Ninja  |
-|Adora  |Super  |Wizard |Ninja  |
-|Adora  |Super  |Ninja  |Wizard |
-|Adora  |Ninja  |Dart   |Wizard |
-|Adora  |Ninja  |Boomer |Wizard |
-|Adora  |Ninja  |Bomb   |Wizard |
-|Adora  |Ninja  |Tack   |Wizard |
-|Adora  |Ninja  |Ice    |Wizard |
-|Adora  |Ninja  |Glue   |Wizard |
-|Adora  |Ninja  |Sniper |Wizard |
-|Adora  |Ninja  |Sub    |Wizard |
-|Adora  |Ninja  |Wizard |Dart   |
-|Adora  |Ninja  |Wizard |Boomer |
-|Adora  |Ninja  |Wizard |Bomb   |
-|Adora  |Ninja  |Wizard |Tack   |
-|Adora  |Ninja  |Wizard |Ice    |
-|Adora  |Ninja  |Wizard |Glue   |
-|Adora  |Ninja  |Wizard |Sniper |
-|Adora  |Ninja  |Wizard |Sub    |
-|Adora  |Ninja  |Wizard |Super  |
-|Adora  |Ninja  |Wizard |Druid  |
-|Adora  |Ninja  |Wizard |Village|
-|Adora  |Ninja  |Wizard |Engi   |
-|Adora  |Ninja  |Super  |Wizard |
-|Adora  |Ninja  |Druid  |Wizard |
-|Adora  |Ninja  |Village|Wizard |
-|Adora  |Ninja  |Engi   |Wizard |
-|Adora  |Druid  |Wizard |Ninja  |
-|Adora  |Druid  |Ninja  |Wizard |
-|Adora  |Village|Wizard |Ninja  |
-|Adora  |Village|Ninja  |Wizard |
-|Adora  |Engi   |Wizard |Ninja  |
-|Adora  |Engi   |Ninja  |Wizard |
 |Adora  |Dart   |Boomer |Wizard |
 |Adora  |Dart   |Bomb   |Wizard |
 |Adora  |Dart   |Tack   |Wizard |
@@ -9086,159 +8291,48 @@
 |Adora  |Dart   |Glue   |Wizard |
 |Adora  |Dart   |Sniper |Wizard |
 |Adora  |Dart   |Sub    |Wizard |
-|Adora  |Dart   |Wizard |Boomer |
-|Adora  |Dart   |Wizard |Bomb   |
-|Adora  |Dart   |Wizard |Tack   |
-|Adora  |Dart   |Wizard |Ice    |
-|Adora  |Dart   |Wizard |Glue   |
-|Adora  |Dart   |Wizard |Sniper |
-|Adora  |Dart   |Wizard |Sub    |
 |Adora  |Dart   |Wizard |Super  |
 |Adora  |Dart   |Wizard |Alch   |
 |Adora  |Dart   |Wizard |Druid  |
 |Adora  |Dart   |Wizard |Village|
 |Adora  |Dart   |Wizard |Engi   |
-|Adora  |Dart   |Super  |Wizard |
-|Adora  |Dart   |Alch   |Wizard |
-|Adora  |Dart   |Druid  |Wizard |
-|Adora  |Dart   |Village|Wizard |
-|Adora  |Dart   |Engi   |Wizard |
-|Adora  |Boomer |Dart   |Wizard |
-|Adora  |Boomer |Wizard |Dart   |
-|Adora  |Bomb   |Dart   |Wizard |
-|Adora  |Bomb   |Wizard |Dart   |
-|Adora  |Tack   |Dart   |Wizard |
-|Adora  |Tack   |Wizard |Dart   |
-|Adora  |Ice    |Dart   |Wizard |
-|Adora  |Ice    |Wizard |Dart   |
-|Adora  |Glue   |Dart   |Wizard |
-|Adora  |Glue   |Wizard |Dart   |
-|Adora  |Sniper |Dart   |Wizard |
-|Adora  |Sniper |Wizard |Dart   |
-|Adora  |Sub    |Dart   |Wizard |
-|Adora  |Sub    |Wizard |Dart   |
-|Adora  |Wizard |Dart   |Boomer |
-|Adora  |Wizard |Dart   |Bomb   |
-|Adora  |Wizard |Dart   |Tack   |
-|Adora  |Wizard |Dart   |Ice    |
-|Adora  |Wizard |Dart   |Glue   |
-|Adora  |Wizard |Dart   |Sniper |
-|Adora  |Wizard |Dart   |Sub    |
-|Adora  |Wizard |Dart   |Super  |
-|Adora  |Wizard |Dart   |Alch   |
-|Adora  |Wizard |Dart   |Druid  |
-|Adora  |Wizard |Dart   |Village|
-|Adora  |Wizard |Dart   |Engi   |
-|Adora  |Wizard |Boomer |Dart   |
-|Adora  |Wizard |Bomb   |Dart   |
-|Adora  |Wizard |Tack   |Dart   |
-|Adora  |Wizard |Ice    |Dart   |
-|Adora  |Wizard |Glue   |Dart   |
-|Adora  |Wizard |Sniper |Dart   |
-|Adora  |Wizard |Sub    |Dart   |
-|Adora  |Wizard |Super  |Dart   |
-|Adora  |Wizard |Alch   |Dart   |
-|Adora  |Wizard |Druid  |Dart   |
-|Adora  |Wizard |Village|Dart   |
-|Adora  |Wizard |Engi   |Dart   |
-|Adora  |Super  |Dart   |Wizard |
-|Adora  |Super  |Wizard |Dart   |
-|Adora  |Alch   |Dart   |Wizard |
-|Adora  |Alch   |Wizard |Dart   |
-|Adora  |Druid  |Dart   |Wizard |
-|Adora  |Druid  |Wizard |Dart   |
-|Adora  |Village|Dart   |Wizard |
-|Adora  |Village|Wizard |Dart   |
-|Adora  |Engi   |Dart   |Wizard |
-|Adora  |Engi   |Wizard |Dart   |
+|Adora  |Dart   |Bucc   |Village|
+|Adora  |Boomer |Bucc   |Village|
+|Adora  |Bomb   |Bucc   |Village|
+|Adora  |Tack   |Bucc   |Village|
+|Adora  |Ice    |Bucc   |Village|
+|Adora  |Glue   |Bucc   |Village|
+|Adora  |Sniper |Bucc   |Village|
+|Adora  |Sub    |Bucc   |Village|
+|Adora  |Bucc   |Ace    |Village|
+|Adora  |Bucc   |Heli   |Village|
+|Adora  |Bucc   |Mortar |Village|
+|Adora  |Bucc   |Super  |Village|
+|Adora  |Bucc   |Ninja  |Village|
+|Adora  |Bucc   |Alch   |Village|
+|Adora  |Bucc   |Druid  |Village|
+|Adora  |Bucc   |Spact  |Village|
+|Adora  |Bucc   |Village|Engi   |
 |Ben    |Wizard |Super  |Village|
 |Adora  |Boomer |Wizard |Super  |
-|Adora  |Boomer |Super  |Wizard |
 |Adora  |Bomb   |Wizard |Super  |
-|Adora  |Bomb   |Super  |Wizard |
 |Adora  |Tack   |Wizard |Super  |
-|Adora  |Tack   |Super  |Wizard |
 |Adora  |Ice    |Wizard |Super  |
-|Adora  |Ice    |Super  |Wizard |
 |Adora  |Glue   |Wizard |Super  |
-|Adora  |Glue   |Super  |Wizard |
 |Adora  |Sniper |Wizard |Super  |
-|Adora  |Sniper |Super  |Wizard |
-|Adora  |Wizard |Boomer |Super  |
-|Adora  |Wizard |Bomb   |Super  |
-|Adora  |Wizard |Tack   |Super  |
-|Adora  |Wizard |Ice    |Super  |
-|Adora  |Wizard |Glue   |Super  |
-|Adora  |Wizard |Sniper |Super  |
-|Adora  |Wizard |Super  |Boomer |
-|Adora  |Wizard |Super  |Bomb   |
-|Adora  |Wizard |Super  |Tack   |
-|Adora  |Wizard |Super  |Ice    |
-|Adora  |Wizard |Super  |Glue   |
-|Adora  |Wizard |Super  |Sniper |
 |Adora  |Wizard |Super  |Alch   |
 |Adora  |Wizard |Super  |Druid  |
 |Adora  |Wizard |Super  |Village|
 |Adora  |Wizard |Super  |Engi   |
-|Adora  |Wizard |Alch   |Super  |
-|Adora  |Wizard |Druid  |Super  |
-|Adora  |Wizard |Village|Super  |
-|Adora  |Wizard |Engi   |Super  |
-|Adora  |Super  |Boomer |Wizard |
-|Adora  |Super  |Bomb   |Wizard |
-|Adora  |Super  |Tack   |Wizard |
-|Adora  |Super  |Ice    |Wizard |
-|Adora  |Super  |Glue   |Wizard |
-|Adora  |Super  |Sniper |Wizard |
-|Adora  |Super  |Wizard |Boomer |
-|Adora  |Super  |Wizard |Bomb   |
-|Adora  |Super  |Wizard |Tack   |
-|Adora  |Super  |Wizard |Ice    |
-|Adora  |Super  |Wizard |Glue   |
-|Adora  |Super  |Wizard |Sniper |
-|Adora  |Super  |Wizard |Alch   |
-|Adora  |Super  |Wizard |Druid  |
-|Adora  |Super  |Wizard |Village|
-|Adora  |Super  |Wizard |Engi   |
-|Adora  |Super  |Alch   |Wizard |
-|Adora  |Super  |Druid  |Wizard |
-|Adora  |Super  |Village|Wizard |
-|Adora  |Super  |Engi   |Wizard |
-|Adora  |Alch   |Wizard |Super  |
-|Adora  |Alch   |Super  |Wizard |
-|Adora  |Druid  |Wizard |Super  |
-|Adora  |Druid  |Super  |Wizard |
-|Adora  |Village|Wizard |Super  |
-|Adora  |Village|Super  |Wizard |
-|Adora  |Engi   |Wizard |Super  |
-|Adora  |Engi   |Super  |Wizard |
 |Adora  |Dart   |Ace    |Engi   |
-|Adora  |Dart   |Engi   |Ace    |
 |Adora  |Boomer |Ace    |Engi   |
-|Adora  |Boomer |Engi   |Ace    |
 |Adora  |Bomb   |Ace    |Engi   |
-|Adora  |Bomb   |Engi   |Ace    |
 |Adora  |Tack   |Ace    |Engi   |
-|Adora  |Tack   |Engi   |Ace    |
 |Adora  |Ice    |Ace    |Engi   |
-|Adora  |Ice    |Engi   |Ace    |
 |Adora  |Glue   |Ace    |Engi   |
-|Adora  |Glue   |Engi   |Ace    |
 |Adora  |Sniper |Ace    |Engi   |
-|Adora  |Sniper |Engi   |Ace    |
 |Adora  |Sub    |Ace    |Engi   |
-|Adora  |Sub    |Engi   |Ace    |
 |Adora  |Bucc   |Ace    |Engi   |
-|Adora  |Bucc   |Engi   |Ace    |
-|Adora  |Ace    |Dart   |Engi   |
-|Adora  |Ace    |Boomer |Engi   |
-|Adora  |Ace    |Bomb   |Engi   |
-|Adora  |Ace    |Tack   |Engi   |
-|Adora  |Ace    |Ice    |Engi   |
-|Adora  |Ace    |Glue   |Engi   |
-|Adora  |Ace    |Sniper |Engi   |
-|Adora  |Ace    |Sub    |Engi   |
-|Adora  |Ace    |Bucc   |Engi   |
 |Adora  |Ace    |Heli   |Engi   |
 |Adora  |Ace    |Mortar |Engi   |
 |Adora  |Ace    |Super  |Engi   |
@@ -9247,1598 +8341,253 @@
 |Adora  |Ace    |Druid  |Engi   |
 |Adora  |Ace    |Spact  |Engi   |
 |Adora  |Ace    |Village|Engi   |
-|Adora  |Ace    |Engi   |Dart   |
-|Adora  |Ace    |Engi   |Boomer |
-|Adora  |Ace    |Engi   |Bomb   |
-|Adora  |Ace    |Engi   |Tack   |
-|Adora  |Ace    |Engi   |Ice    |
-|Adora  |Ace    |Engi   |Glue   |
-|Adora  |Ace    |Engi   |Sniper |
-|Adora  |Ace    |Engi   |Sub    |
-|Adora  |Ace    |Engi   |Bucc   |
-|Adora  |Ace    |Engi   |Heli   |
-|Adora  |Ace    |Engi   |Mortar |
-|Adora  |Ace    |Engi   |Super  |
-|Adora  |Ace    |Engi   |Ninja  |
-|Adora  |Ace    |Engi   |Alch   |
-|Adora  |Ace    |Engi   |Druid  |
-|Adora  |Ace    |Engi   |Spact  |
-|Adora  |Ace    |Engi   |Village|
-|Adora  |Heli   |Ace    |Engi   |
-|Adora  |Heli   |Engi   |Ace    |
-|Adora  |Mortar |Ace    |Engi   |
-|Adora  |Mortar |Engi   |Ace    |
-|Adora  |Super  |Ace    |Engi   |
-|Adora  |Super  |Engi   |Ace    |
-|Adora  |Ninja  |Ace    |Engi   |
-|Adora  |Ninja  |Engi   |Ace    |
-|Adora  |Alch   |Ace    |Engi   |
-|Adora  |Alch   |Engi   |Ace    |
-|Adora  |Druid  |Ace    |Engi   |
-|Adora  |Druid  |Engi   |Ace    |
-|Adora  |Spact  |Ace    |Engi   |
-|Adora  |Spact  |Engi   |Ace    |
-|Adora  |Village|Ace    |Engi   |
-|Adora  |Village|Engi   |Ace    |
-|Adora  |Engi   |Dart   |Ace    |
-|Adora  |Engi   |Boomer |Ace    |
-|Adora  |Engi   |Bomb   |Ace    |
-|Adora  |Engi   |Tack   |Ace    |
-|Adora  |Engi   |Ice    |Ace    |
-|Adora  |Engi   |Glue   |Ace    |
-|Adora  |Engi   |Sniper |Ace    |
-|Adora  |Engi   |Sub    |Ace    |
-|Adora  |Engi   |Bucc   |Ace    |
-|Adora  |Engi   |Ace    |Dart   |
-|Adora  |Engi   |Ace    |Boomer |
-|Adora  |Engi   |Ace    |Bomb   |
-|Adora  |Engi   |Ace    |Tack   |
-|Adora  |Engi   |Ace    |Ice    |
-|Adora  |Engi   |Ace    |Glue   |
-|Adora  |Engi   |Ace    |Sniper |
-|Adora  |Engi   |Ace    |Sub    |
-|Adora  |Engi   |Ace    |Bucc   |
-|Adora  |Engi   |Ace    |Heli   |
-|Adora  |Engi   |Ace    |Mortar |
-|Adora  |Engi   |Ace    |Super  |
-|Adora  |Engi   |Ace    |Ninja  |
-|Adora  |Engi   |Ace    |Alch   |
-|Adora  |Engi   |Ace    |Druid  |
-|Adora  |Engi   |Ace    |Spact  |
-|Adora  |Engi   |Ace    |Village|
-|Adora  |Engi   |Heli   |Ace    |
-|Adora  |Engi   |Mortar |Ace    |
-|Adora  |Engi   |Super  |Ace    |
-|Adora  |Engi   |Ninja  |Ace    |
-|Adora  |Engi   |Alch   |Ace    |
-|Adora  |Engi   |Druid  |Ace    |
-|Adora  |Engi   |Spact  |Ace    |
-|Adora  |Engi   |Village|Ace    |
 |Bomb   |Bucc   |Mortar |Ninja  |
 |Adora  |Dart   |Bucc   |Mortar |
-|Adora  |Dart   |Mortar |Bucc   |
 |Adora  |Boomer |Bucc   |Mortar |
-|Adora  |Boomer |Mortar |Bucc   |
 |Adora  |Bomb   |Bucc   |Mortar |
-|Adora  |Bomb   |Mortar |Bucc   |
 |Adora  |Tack   |Bucc   |Mortar |
-|Adora  |Tack   |Mortar |Bucc   |
 |Adora  |Ice    |Bucc   |Mortar |
-|Adora  |Ice    |Mortar |Bucc   |
 |Adora  |Glue   |Bucc   |Mortar |
-|Adora  |Glue   |Mortar |Bucc   |
 |Adora  |Sniper |Bucc   |Mortar |
-|Adora  |Sniper |Mortar |Bucc   |
 |Adora  |Sub    |Bucc   |Mortar |
-|Adora  |Sub    |Mortar |Bucc   |
-|Adora  |Bucc   |Dart   |Mortar |
-|Adora  |Bucc   |Boomer |Mortar |
-|Adora  |Bucc   |Bomb   |Mortar |
-|Adora  |Bucc   |Tack   |Mortar |
-|Adora  |Bucc   |Ice    |Mortar |
-|Adora  |Bucc   |Glue   |Mortar |
-|Adora  |Bucc   |Sniper |Mortar |
-|Adora  |Bucc   |Sub    |Mortar |
 |Adora  |Bucc   |Ace    |Mortar |
 |Adora  |Bucc   |Heli   |Mortar |
-|Adora  |Bucc   |Mortar |Dart   |
-|Adora  |Bucc   |Mortar |Boomer |
-|Adora  |Bucc   |Mortar |Bomb   |
-|Adora  |Bucc   |Mortar |Tack   |
-|Adora  |Bucc   |Mortar |Ice    |
-|Adora  |Bucc   |Mortar |Glue   |
-|Adora  |Bucc   |Mortar |Sniper |
-|Adora  |Bucc   |Mortar |Sub    |
-|Adora  |Bucc   |Mortar |Ace    |
-|Adora  |Bucc   |Mortar |Heli   |
 |Adora  |Bucc   |Mortar |Super  |
 |Adora  |Bucc   |Mortar |Ninja  |
 |Adora  |Bucc   |Mortar |Alch   |
 |Adora  |Bucc   |Mortar |Druid  |
 |Adora  |Bucc   |Mortar |Spact  |
-|Adora  |Bucc   |Mortar |Village|
 |Adora  |Bucc   |Mortar |Engi   |
-|Adora  |Bucc   |Super  |Mortar |
-|Adora  |Bucc   |Ninja  |Mortar |
-|Adora  |Bucc   |Alch   |Mortar |
-|Adora  |Bucc   |Druid  |Mortar |
-|Adora  |Bucc   |Spact  |Mortar |
-|Adora  |Bucc   |Village|Mortar |
-|Adora  |Bucc   |Engi   |Mortar |
-|Adora  |Ace    |Bucc   |Mortar |
-|Adora  |Ace    |Mortar |Bucc   |
-|Adora  |Heli   |Bucc   |Mortar |
-|Adora  |Heli   |Mortar |Bucc   |
-|Adora  |Mortar |Dart   |Bucc   |
-|Adora  |Mortar |Boomer |Bucc   |
-|Adora  |Mortar |Bomb   |Bucc   |
-|Adora  |Mortar |Tack   |Bucc   |
-|Adora  |Mortar |Ice    |Bucc   |
-|Adora  |Mortar |Glue   |Bucc   |
-|Adora  |Mortar |Sniper |Bucc   |
-|Adora  |Mortar |Sub    |Bucc   |
-|Adora  |Mortar |Bucc   |Dart   |
-|Adora  |Mortar |Bucc   |Boomer |
-|Adora  |Mortar |Bucc   |Bomb   |
-|Adora  |Mortar |Bucc   |Tack   |
-|Adora  |Mortar |Bucc   |Ice    |
-|Adora  |Mortar |Bucc   |Glue   |
-|Adora  |Mortar |Bucc   |Sniper |
-|Adora  |Mortar |Bucc   |Sub    |
-|Adora  |Mortar |Bucc   |Ace    |
-|Adora  |Mortar |Bucc   |Heli   |
-|Adora  |Mortar |Bucc   |Super  |
-|Adora  |Mortar |Bucc   |Ninja  |
-|Adora  |Mortar |Bucc   |Alch   |
-|Adora  |Mortar |Bucc   |Druid  |
-|Adora  |Mortar |Bucc   |Spact  |
-|Adora  |Mortar |Bucc   |Village|
-|Adora  |Mortar |Bucc   |Engi   |
-|Adora  |Mortar |Ace    |Bucc   |
-|Adora  |Mortar |Heli   |Bucc   |
-|Adora  |Mortar |Super  |Bucc   |
-|Adora  |Mortar |Ninja  |Bucc   |
-|Adora  |Mortar |Alch   |Bucc   |
-|Adora  |Mortar |Druid  |Bucc   |
-|Adora  |Mortar |Spact  |Bucc   |
-|Adora  |Mortar |Village|Bucc   |
-|Adora  |Mortar |Engi   |Bucc   |
-|Adora  |Super  |Bucc   |Mortar |
-|Adora  |Super  |Mortar |Bucc   |
-|Adora  |Ninja  |Bucc   |Mortar |
-|Adora  |Ninja  |Mortar |Bucc   |
-|Adora  |Alch   |Bucc   |Mortar |
-|Adora  |Alch   |Mortar |Bucc   |
-|Adora  |Druid  |Bucc   |Mortar |
-|Adora  |Druid  |Mortar |Bucc   |
-|Adora  |Spact  |Bucc   |Mortar |
-|Adora  |Spact  |Mortar |Bucc   |
-|Adora  |Village|Bucc   |Mortar |
-|Adora  |Village|Mortar |Bucc   |
-|Adora  |Engi   |Bucc   |Mortar |
-|Adora  |Engi   |Mortar |Bucc   |
 |Adora  |Boomer |Ace    |Mortar |coolio1223|DZEYBAP|N
-|Adora  |Boomer |Mortar |Ace    |coolio1223|DZEYBAP|N
-|Adora  |Ace    |Boomer |Mortar |coolio1223|DZEYBAP|N
-|Adora  |Ace    |Mortar |Boomer |coolio1223|DZEYBAP|N
-|Adora  |Mortar |Boomer |Ace    |coolio1223|DZEYBAP|N
-|Adora  |Mortar |Ace    |Boomer |coolio1223|DZEYBAP|N
 |Adora  |Sub    |Ace    |Alch   |frds|GZEYOOY|N
-|Adora  |Sub    |Alch   |Ace    |frds|GZEYOOY|N
-|Adora  |Ace    |Sub    |Alch   |frds|GZEYOOY|N
-|Adora  |Ace    |Alch   |Sub    |frds|GZEYOOY|N
-|Adora  |Alch   |Sub    |Ace    |frds|GZEYOOY|N
-|Adora  |Alch   |Ace    |Sub    |frds|GZEYOOY|N
 |Adora  |Bucc   |Alch   |Spact  |315Lukas|TZELKYA|N
-|Adora  |Bucc   |Spact  |Alch   |315Lukas|TZELKYA|N
-|Adora  |Alch   |Bucc   |Spact  |315Lukas|TZELKYA|N
-|Adora  |Alch   |Spact  |Bucc   |315Lukas|TZELKYA|N
-|Adora  |Spact  |Bucc   |Alch   |315Lukas|TZELKYA|N
-|Adora  |Spact  |Alch   |Bucc   |315Lukas|TZELKYA|N
 |Adora  |Glue   |Wizard |Village|Agent51|HZELMMU|N
-|Adora  |Glue   |Village|Wizard |Agent51|HZELMMU|N
-|Adora  |Wizard |Glue   |Village|Agent51|HZELMMU|N
-|Adora  |Wizard |Village|Glue   |Agent51|HZELMMU|N
-|Adora  |Village|Glue   |Wizard |Agent51|HZELMMU|N
-|Adora  |Village|Wizard |Glue   |Agent51|HZELMMU|N
 |Adora  |Dart   |Boomer |Super  |the_op_boss|TZELMMY|N
-|Adora  |Dart   |Super  |Boomer |the_op_boss|TZELMMY|N
-|Adora  |Boomer |Dart   |Super  |the_op_boss|TZELMMY|N
-|Adora  |Boomer |Super  |Dart   |the_op_boss|TZELMMY|N
-|Adora  |Super  |Dart   |Boomer |the_op_boss|TZELMMY|N
-|Adora  |Super  |Boomer |Dart   |the_op_boss|TZELMMY|N
 |Adora  |Boomer |Heli   |Spact  |123CrimsonRain|VZELMHW|N
-|Adora  |Boomer |Spact  |Heli   |123CrimsonRain|VZELMHW|N
-|Adora  |Heli   |Boomer |Spact  |123CrimsonRain|VZELMHW|N
-|Adora  |Heli   |Spact  |Boomer |123CrimsonRain|VZELMHW|N
-|Adora  |Spact  |Boomer |Heli   |123CrimsonRain|VZELMHW|N
-|Adora  |Spact  |Heli   |Boomer |123CrimsonRain|VZELMHW|N
 |Adora  |Heli   |Ninja  |Druid  |Agent51|CZELMWG|N
-|Adora  |Heli   |Druid  |Ninja  |Agent51|CZELMWG|N
-|Adora  |Ninja  |Heli   |Druid  |Agent51|CZELMWG|N
-|Adora  |Ninja  |Druid  |Heli   |Agent51|CZELMWG|N
-|Adora  |Druid  |Heli   |Ninja  |Agent51|CZELMWG|N
-|Adora  |Druid  |Ninja  |Heli   |Agent51|CZELMWG|N
 |Adora  |Bucc   |Super  |Spact  |Urinetosh|CZELMWU|N
-|Adora  |Bucc   |Spact  |Super  |Urinetosh|CZELMWU|N
-|Adora  |Super  |Bucc   |Spact  |Urinetosh|CZELMWU|N
-|Adora  |Super  |Spact  |Bucc   |Urinetosh|CZELMWU|N
-|Adora  |Spact  |Bucc   |Super  |Urinetosh|CZELMWU|N
-|Adora  |Spact  |Super  |Bucc   |Urinetosh|CZELMWU|N
 |Adora  |Ice    |Heli   |Ninja  |Agent51|VZELMAS|N
-|Adora  |Ice    |Ninja  |Heli   |Agent51|VZELMAS|N
-|Adora  |Heli   |Ice    |Ninja  |Agent51|VZELMAS|N
-|Adora  |Heli   |Ninja  |Ice    |Agent51|VZELMAS|N
-|Adora  |Ninja  |Ice    |Heli   |Agent51|VZELMAS|N
-|Adora  |Ninja  |Heli   |Ice    |Agent51|VZELMAS|N
 |Adora  |Bucc   |Ace    |Alch   |UnLapiz|UZELMSU|N
-|Adora  |Bucc   |Alch   |Ace    |UnLapiz|UZELMSU|N
-|Adora  |Ace    |Bucc   |Alch   |UnLapiz|UZELMSU|N
-|Adora  |Ace    |Alch   |Bucc   |UnLapiz|UZELMSU|N
-|Adora  |Alch   |Bucc   |Ace    |UnLapiz|UZELMSU|N
-|Adora  |Alch   |Ace    |Bucc   |UnLapiz|UZELMSU|N
 |Adora  |Boomer |Heli   |Mortar |TobiBloon439|MZELMRL|N
-|Adora  |Boomer |Mortar |Heli   |TobiBloon439|MZELMRL|N
-|Adora  |Heli   |Boomer |Mortar |TobiBloon439|MZELMRL|N
-|Adora  |Heli   |Mortar |Boomer |TobiBloon439|MZELMRL|N
-|Adora  |Mortar |Boomer |Heli   |TobiBloon439|MZELMRL|N
-|Adora  |Mortar |Heli   |Boomer |TobiBloon439|MZELMRL|N
 |Adora  |Boomer |Sub    |Wizard |The Mochinator|TZELMYL|N
-|Adora  |Boomer |Wizard |Sub    |The Mochinator|TZELMYL|N
-|Adora  |Sub    |Boomer |Wizard |The Mochinator|TZELMYL|N
-|Adora  |Sub    |Wizard |Boomer |The Mochinator|TZELMYL|N
-|Adora  |Wizard |Boomer |Sub    |The Mochinator|TZELMYL|N
-|Adora  |Wizard |Sub    |Boomer |The Mochinator|TZELMYL|N
 |Adora  |Bomb   |Heli   |Ninja  |Agent51|EZELMLO|N
-|Adora  |Bomb   |Ninja  |Heli   |Agent51|EZELMLO|N
-|Adora  |Heli   |Bomb   |Ninja  |Agent51|EZELMLO|N
-|Adora  |Heli   |Ninja  |Bomb   |Agent51|EZELMLO|N
-|Adora  |Ninja  |Bomb   |Heli   |Agent51|EZELMLO|N
-|Adora  |Ninja  |Heli   |Bomb   |Agent51|EZELMLO|N
 |Adora  |Glue   |Sub    |Wizard |Jollto13|BZELMOW|N
-|Adora  |Glue   |Wizard |Sub    |Jollto13|BZELMOW|N
-|Adora  |Sub    |Glue   |Wizard |Jollto13|BZELMOW|N
-|Adora  |Sub    |Wizard |Glue   |Jollto13|BZELMOW|N
-|Adora  |Wizard |Glue   |Sub    |Jollto13|BZELMOW|N
-|Adora  |Wizard |Sub    |Glue   |Jollto13|BZELMOW|N
 |Adora  |Dart   |Mortar |Super  |Great Mage|DZELFKG|N
-|Adora  |Dart   |Super  |Mortar |Great Mage|DZELFKG|N
-|Adora  |Mortar |Dart   |Super  |Great Mage|DZELFKG|N
-|Adora  |Mortar |Super  |Dart   |Great Mage|DZELFKG|N
-|Adora  |Super  |Dart   |Mortar |Great Mage|DZELFKG|N
-|Adora  |Super  |Mortar |Dart   |Great Mage|DZELFKG|N
 |Adora  |Tack   |Ninja  |Village|meta|XZELFMA|N
-|Adora  |Tack   |Village|Ninja  |meta|XZELFMA|N
-|Adora  |Ninja  |Tack   |Village|meta|XZELFMA|N
-|Adora  |Ninja  |Village|Tack   |meta|XZELFMA|N
-|Adora  |Village|Tack   |Ninja  |meta|XZELFMA|N
-|Adora  |Village|Ninja  |Tack   |meta|XZELFMA|N
-|Adora  |Bucc   |Heli   |Village|411i0tt|FZELFFU|N
-|Adora  |Bucc   |Village|Heli   |411i0tt|FZELFFU|N
-|Adora  |Heli   |Bucc   |Village|411i0tt|FZELFFU|N
-|Adora  |Heli   |Village|Bucc   |411i0tt|FZELFFU|N
-|Adora  |Village|Bucc   |Heli   |411i0tt|FZELFFU|N
-|Adora  |Village|Heli   |Bucc   |411i0tt|FZELFFU|N
 |Adora  |Bucc   |Ace    |Heli   |315Lukas|MZELFVC|N
-|Adora  |Bucc   |Heli   |Ace    |315Lukas|MZELFVC|N
-|Adora  |Ace    |Bucc   |Heli   |315Lukas|MZELFVC|N
-|Adora  |Ace    |Heli   |Bucc   |315Lukas|MZELFVC|N
-|Adora  |Heli   |Bucc   |Ace    |315Lukas|MZELFVC|N
-|Adora  |Heli   |Ace    |Bucc   |315Lukas|MZELFVC|N
-|Adora  |Tack   |Bucc   |Village|meta|AZELFTU|N
-|Adora  |Tack   |Village|Bucc   |meta|AZELFTU|N
-|Adora  |Bucc   |Tack   |Village|meta|AZELFTU|N
-|Adora  |Bucc   |Village|Tack   |meta|AZELFTU|N
-|Adora  |Village|Tack   |Bucc   |meta|AZELFTU|N
-|Adora  |Village|Bucc   |Tack   |meta|AZELFTU|N
 |Adora  |Ace    |Heli   |Ninja  |315Lukas|DZELFAU|N
-|Adora  |Ace    |Ninja  |Heli   |315Lukas|DZELFAU|N
-|Adora  |Heli   |Ace    |Ninja  |315Lukas|DZELFAU|N
-|Adora  |Heli   |Ninja  |Ace    |315Lukas|DZELFAU|N
-|Adora  |Ninja  |Ace    |Heli   |315Lukas|DZELFAU|N
-|Adora  |Ninja  |Heli   |Ace    |315Lukas|DZELFAU|N
 |Adora  |Dart   |Mortar |Spact  |Great Mage|DZELFBG|N
-|Adora  |Dart   |Spact  |Mortar |Great Mage|DZELFBG|N
-|Adora  |Mortar |Dart   |Spact  |Great Mage|DZELFBG|N
-|Adora  |Mortar |Spact  |Dart   |Great Mage|DZELFBG|N
-|Adora  |Spact  |Dart   |Mortar |Great Mage|DZELFBG|N
-|Adora  |Spact  |Mortar |Dart   |Great Mage|DZELFBG|N
 |Adora  |Ace    |Heli   |Druid  |315Lukas|HZELFCD|N
-|Adora  |Ace    |Druid  |Heli   |315Lukas|HZELFCD|N
-|Adora  |Heli   |Ace    |Druid  |315Lukas|HZELFCD|N
-|Adora  |Heli   |Druid  |Ace    |315Lukas|HZELFCD|N
-|Adora  |Druid  |Ace    |Heli   |315Lukas|HZELFCD|N
-|Adora  |Druid  |Heli   |Ace    |315Lukas|HZELFCD|N
 |Adora  |Boomer |Ace    |Heli   |315Lukas|AZELFEK|N
-|Adora  |Boomer |Heli   |Ace    |315Lukas|AZELFEK|N
-|Adora  |Ace    |Boomer |Heli   |315Lukas|AZELFEK|N
-|Adora  |Ace    |Heli   |Boomer |315Lukas|AZELFEK|N
-|Adora  |Heli   |Boomer |Ace    |315Lukas|AZELFEK|N
-|Adora  |Heli   |Ace    |Boomer |315Lukas|AZELFEK|N
 |Adora  |Dart   |Ace    |Heli   |411i0tt|XZELFPM|N
-|Adora  |Dart   |Heli   |Ace    |411i0tt|XZELFPM|N
-|Adora  |Ace    |Dart   |Heli   |411i0tt|XZELFPM|N
-|Adora  |Ace    |Heli   |Dart   |411i0tt|XZELFPM|N
-|Adora  |Heli   |Dart   |Ace    |411i0tt|XZELFPM|N
-|Adora  |Heli   |Ace    |Dart   |411i0tt|XZELFPM|N
 |Adora  |Ace    |Super  |Ninja  |rigged|SZELFLF|N
-|Adora  |Ace    |Ninja  |Super  |rigged|SZELFLF|N
-|Adora  |Super  |Ace    |Ninja  |rigged|SZELFLF|N
-|Adora  |Super  |Ninja  |Ace    |rigged|SZELFLF|N
-|Adora  |Ninja  |Ace    |Super  |rigged|SZELFLF|N
-|Adora  |Ninja  |Super  |Ace    |rigged|SZELFLF|N
 |Adora  |Heli   |Ninja  |Village|coolio1223|DZELFOG|N
-|Adora  |Heli   |Village|Ninja  |coolio1223|DZELFOG|N
-|Adora  |Ninja  |Heli   |Village|coolio1223|DZELFOG|N
-|Adora  |Ninja  |Village|Heli   |coolio1223|DZELFOG|N
-|Adora  |Village|Heli   |Ninja  |coolio1223|DZELFOG|N
-|Adora  |Village|Ninja  |Heli   |coolio1223|DZELFOG|N
 |Adora  |Dart   |Heli   |Super  |The Mochinator|AZELGFM|N
-|Adora  |Dart   |Super  |Heli   |The Mochinator|AZELGFM|N
-|Adora  |Heli   |Dart   |Super  |The Mochinator|AZELGFM|N
-|Adora  |Heli   |Super  |Dart   |The Mochinator|AZELGFM|N
-|Adora  |Super  |Dart   |Heli   |The Mochinator|AZELGFM|N
-|Adora  |Super  |Heli   |Dart   |The Mochinator|AZELGFM|N
 |Adora  |Boomer |Mortar |Spact  |PEZmaster2|FZELGFA|N
-|Adora  |Boomer |Spact  |Mortar |PEZmaster2|FZELGFA|N
-|Adora  |Mortar |Boomer |Spact  |PEZmaster2|FZELGFA|N
-|Adora  |Mortar |Spact  |Boomer |PEZmaster2|FZELGFA|N
-|Adora  |Spact  |Boomer |Mortar |PEZmaster2|FZELGFA|N
-|Adora  |Spact  |Mortar |Boomer |PEZmaster2|FZELGFA|N
 |Adora  |Tack   |Ace    |Heli   |Chocbox|GZELGFY|N
-|Adora  |Tack   |Heli   |Ace    |Chocbox|GZELGFY|N
-|Adora  |Ace    |Tack   |Heli   |Chocbox|GZELGFY|N
-|Adora  |Ace    |Heli   |Tack   |Chocbox|GZELGFY|N
-|Adora  |Heli   |Tack   |Ace    |Chocbox|GZELGFY|N
-|Adora  |Heli   |Ace    |Tack   |Chocbox|GZELGFY|N
 |Adora  |Sniper |Bucc   |Super  |Urinetosh|Szelghw|N
-|Adora  |Sniper |Super  |Bucc   |Urinetosh|Szelghw|N
-|Adora  |Bucc   |Sniper |Super  |Urinetosh|Szelghw|N
-|Adora  |Bucc   |Super  |Sniper |Urinetosh|Szelghw|N
-|Adora  |Super  |Sniper |Bucc   |Urinetosh|Szelghw|N
-|Adora  |Super  |Bucc   |Sniper |Urinetosh|Szelghw|N
-|Adora  |Bucc   |Heli   |Super  |Boat Heli Super|PZELGVX|N
-|Adora  |Bucc   |Super  |Heli   |Boat Heli Super|PZELGVX|N
-|Adora  |Heli   |Bucc   |Super  |Boat Heli Super|PZELGVX|N
-|Adora  |Heli   |Super  |Bucc   |Boat Heli Super|PZELGVX|N
-|Adora  |Super  |Bucc   |Heli   |Boat Heli Super|PZELGVX|N
-|Adora  |Super  |Heli   |Bucc   |Boat Heli Super|PZELGVX|N
+|Adora  |Bucc   |Heli   |Super  |The Mochinator|PZELGVX|N
 |Adora  |Ice    |Bucc   |Super  |Urinetosh|BZELGBK|N
-|Adora  |Ice    |Super  |Bucc   |Urinetosh|BZELGBK|N
-|Adora  |Bucc   |Ice    |Super  |Urinetosh|BZELGBK|N
-|Adora  |Bucc   |Super  |Ice    |Urinetosh|BZELGBK|N
-|Adora  |Super  |Ice    |Bucc   |Urinetosh|BZELGBK|N
-|Adora  |Super  |Bucc   |Ice    |Urinetosh|BZELGBK|N
 |Adora  |Dart   |Heli   |Spact  |The Mochinator|LZELGCE|N
-|Adora  |Dart   |Spact  |Heli   |The Mochinator|LZELGCE|N
-|Adora  |Heli   |Dart   |Spact  |The Mochinator|LZELGCE|N
-|Adora  |Heli   |Spact  |Dart   |The Mochinator|LZELGCE|N
-|Adora  |Spact  |Dart   |Heli   |The Mochinator|LZELGCE|N
-|Adora  |Spact  |Heli   |Dart   |The Mochinator|LZELGCE|N
 |Adora  |Dart   |Ace    |Mortar |Great Mage|WZELGSL|N
-|Adora  |Dart   |Mortar |Ace    |Great Mage|WZELGSL|N
-|Adora  |Ace    |Dart   |Mortar |Great Mage|WZELGSL|N
-|Adora  |Ace    |Mortar |Dart   |Great Mage|WZELGSL|N
-|Adora  |Mortar |Dart   |Ace    |Great Mage|WZELGSL|N
-|Adora  |Mortar |Ace    |Dart   |Great Mage|WZELGSL|N
 |Adora  |Dart   |Heli   |Ninja  |Urinetosh|Wzelgek|N
-|Adora  |Dart   |Ninja  |Heli   |Urinetosh|Wzelgek|N
-|Adora  |Heli   |Dart   |Ninja  |Urinetosh|Wzelgek|N
-|Adora  |Heli   |Ninja  |Dart   |Urinetosh|Wzelgek|N
-|Adora  |Ninja  |Dart   |Heli   |Urinetosh|Wzelgek|N
-|Adora  |Ninja  |Heli   |Dart   |Urinetosh|Wzelgek|N
 |Adora  |Bucc   |Super  |Alch   |frds|SZELHMC|N
-|Adora  |Bucc   |Alch   |Super  |frds|SZELHMC|N
-|Adora  |Super  |Bucc   |Alch   |frds|SZELHMC|N
-|Adora  |Super  |Alch   |Bucc   |frds|SZELHMC|N
-|Adora  |Alch   |Bucc   |Super  |frds|SZELHMC|N
-|Adora  |Alch   |Super  |Bucc   |frds|SZELHMC|N
 |Adora  |Bucc   |Heli   |Ninja  |Chocbox|DZELHMO|N
-|Adora  |Bucc   |Ninja  |Heli   |Chocbox|DZELHMO|N
-|Adora  |Heli   |Bucc   |Ninja  |Chocbox|DZELHMO|N
-|Adora  |Heli   |Ninja  |Bucc   |Chocbox|DZELHMO|N
-|Adora  |Ninja  |Bucc   |Heli   |Chocbox|DZELHMO|N
-|Adora  |Ninja  |Heli   |Bucc   |Chocbox|DZELHMO|N
 |Adora  |Ace    |Ninja  |Spact  |rigged|XZELHXM|N
-|Adora  |Ace    |Spact  |Ninja  |rigged|XZELHXM|N
-|Adora  |Ninja  |Ace    |Spact  |rigged|XZELHXM|N
-|Adora  |Ninja  |Spact  |Ace    |rigged|XZELHXM|N
-|Adora  |Spact  |Ace    |Ninja  |rigged|XZELHXM|N
-|Adora  |Spact  |Ninja  |Ace    |rigged|XZELHXM|N
 |Adora  |Tack   |Heli   |Village|meta|UZELHXA|N
-|Adora  |Tack   |Village|Heli   |meta|UZELHXA|N
-|Adora  |Heli   |Tack   |Village|meta|UZELHXA|N
-|Adora  |Heli   |Village|Tack   |meta|UZELHXA|N
-|Adora  |Village|Tack   |Heli   |meta|UZELHXA|N
-|Adora  |Village|Heli   |Tack   |meta|UZELHXA|N
 |Adora  |Boomer |Ace    |Spact  |rigged|HZELHCU|N
-|Adora  |Boomer |Spact  |Ace    |rigged|HZELHCU|N
-|Adora  |Ace    |Boomer |Spact  |rigged|HZELHCU|N
-|Adora  |Ace    |Spact  |Boomer |rigged|HZELHCU|N
-|Adora  |Spact  |Boomer |Ace    |rigged|HZELHCU|N
-|Adora  |Spact  |Ace    |Boomer |rigged|HZELHCU|N
 |Adora  |Tack   |Heli   |Ninja  |Agent51|LZELHCT|N
-|Adora  |Tack   |Ninja  |Heli   |Agent51|LZELHCT|N
-|Adora  |Heli   |Tack   |Ninja  |Agent51|LZELHCT|N
-|Adora  |Heli   |Ninja  |Tack   |Agent51|LZELHCT|N
-|Adora  |Ninja  |Tack   |Heli   |Agent51|LZELHCT|N
-|Adora  |Ninja  |Heli   |Tack   |Agent51|LZELHCT|N
 |Adora  |Glue   |Sub    |Village|Lookatmeimamod|EZELHCP|N
-|Adora  |Glue   |Village|Sub    |Lookatmeimamod|EZELHCP|N
-|Adora  |Sub    |Glue   |Village|Lookatmeimamod|EZELHCP|N
-|Adora  |Sub    |Village|Glue   |Lookatmeimamod|EZELHCP|N
-|Adora  |Village|Glue   |Sub    |Lookatmeimamod|EZELHCP|N
-|Adora  |Village|Sub    |Glue   |Lookatmeimamod|EZELHCP|N
 |Adora  |Ice    |Ace    |Alch   |Agent51|CZELHEF|N
-|Adora  |Ice    |Alch   |Ace    |Agent51|CZELHEF|N
-|Adora  |Ace    |Ice    |Alch   |Agent51|CZELHEF|N
-|Adora  |Ace    |Alch   |Ice    |Agent51|CZELHEF|N
-|Adora  |Alch   |Ice    |Ace    |Agent51|CZELHEF|N
-|Adora  |Alch   |Ace    |Ice    |Agent51|CZELHEF|N
 |Adora  |Sub    |Bucc   |Ace    |Jollto13|TZELHRT|N
-|Adora  |Sub    |Ace    |Bucc   |Jollto13|TZELHRT|N
-|Adora  |Bucc   |Sub    |Ace    |Jollto13|TZELHRT|N
-|Adora  |Bucc   |Ace    |Sub    |Jollto13|TZELHRT|N
-|Adora  |Ace    |Sub    |Bucc   |Jollto13|TZELHRT|N
-|Adora  |Ace    |Bucc   |Sub    |Jollto13|TZELHRT|N
 |Adora  |Bucc   |Ace    |Spact  |rigged|KZELHRF|N
-|Adora  |Bucc   |Spact  |Ace    |rigged|KZELHRF|N
-|Adora  |Ace    |Bucc   |Spact  |rigged|KZELHRF|N
-|Adora  |Ace    |Spact  |Bucc   |rigged|KZELHRF|N
-|Adora  |Spact  |Bucc   |Ace    |rigged|KZELHRF|N
-|Adora  |Spact  |Ace    |Bucc   |rigged|KZELHRF|N
 |Adora  |Boomer |Bucc   |Super  |the_op_boss|CZELHYO|N
-|Adora  |Boomer |Super  |Bucc   |the_op_boss|CZELHYO|N
-|Adora  |Bucc   |Boomer |Super  |the_op_boss|CZELHYO|N
-|Adora  |Bucc   |Super  |Boomer |the_op_boss|CZELHYO|N
-|Adora  |Super  |Boomer |Bucc   |the_op_boss|CZELHYO|N
-|Adora  |Super  |Bucc   |Boomer |the_op_boss|CZELHYO|N
 |Adora  |Boomer |Heli   |Village|123CrimsonRain|KZELHOV|N
-|Adora  |Boomer |Village|Heli   |123CrimsonRain|KZELHOV|N
-|Adora  |Heli   |Boomer |Village|123CrimsonRain|KZELHOV|N
-|Adora  |Heli   |Village|Boomer |123CrimsonRain|KZELHOV|N
-|Adora  |Village|Boomer |Heli   |123CrimsonRain|KZELHOV|N
-|Adora  |Village|Heli   |Boomer |123CrimsonRain|KZELHOV|N
 |Adora  |Tack   |Ace    |Spact  |rigged|LZELUFS|N
-|Adora  |Tack   |Spact  |Ace    |rigged|LZELUFS|N
-|Adora  |Ace    |Tack   |Spact  |rigged|LZELUFS|N
-|Adora  |Ace    |Spact  |Tack   |rigged|LZELUFS|N
-|Adora  |Spact  |Tack   |Ace    |rigged|LZELUFS|N
-|Adora  |Spact  |Ace    |Tack   |rigged|LZELUFS|N
 |Adora  |Glue   |Bucc   |Super  |the_op_boss|DZELUWL|N
-|Adora  |Glue   |Super  |Bucc   |the_op_boss|DZELUWL|N
-|Adora  |Bucc   |Glue   |Super  |the_op_boss|DZELUWL|N
-|Adora  |Bucc   |Super  |Glue   |the_op_boss|DZELUWL|N
-|Adora  |Super  |Glue   |Bucc   |the_op_boss|DZELUWL|N
-|Adora  |Super  |Bucc   |Glue   |the_op_boss|DZELUWL|N
 |Adora  |Super  |Alch   |Spact  |The Mochinator|HZELUTH|N
-|Adora  |Super  |Spact  |Alch   |The Mochinator|HZELUTH|N
-|Adora  |Alch   |Super  |Spact  |The Mochinator|HZELUTH|N
-|Adora  |Alch   |Spact  |Super  |The Mochinator|HZELUTH|N
-|Adora  |Spact  |Super  |Alch   |The Mochinator|HZELUTH|N
-|Adora  |Spact  |Alch   |Super  |The Mochinator|HZELUTH|N
 |Adora  |Glue   |Bucc   |Ace    |frds|FZELUTC|N
-|Adora  |Glue   |Ace    |Bucc   |frds|FZELUTC|N
-|Adora  |Bucc   |Glue   |Ace    |frds|FZELUTC|N
-|Adora  |Bucc   |Ace    |Glue   |frds|FZELUTC|N
-|Adora  |Ace    |Glue   |Bucc   |frds|FZELUTC|N
-|Adora  |Ace    |Bucc   |Glue   |frds|FZELUTC|N
 |Adora  |Dart   |Ace    |Spact  |Agent51|PZELUXE|N
-|Adora  |Dart   |Spact  |Ace    |Agent51|PZELUXE|N
-|Adora  |Ace    |Dart   |Spact  |Agent51|PZELUXE|N
-|Adora  |Ace    |Spact  |Dart   |Agent51|PZELUXE|N
-|Adora  |Spact  |Dart   |Ace    |Agent51|PZELUXE|N
-|Adora  |Spact  |Ace    |Dart   |Agent51|PZELUXE|N
 |Adora  |Heli   |Super  |Druid  |The Mochinator|XZELUPH|N
-|Adora  |Heli   |Druid  |Super  |The Mochinator|XZELUPH|N
-|Adora  |Super  |Heli   |Druid  |The Mochinator|XZELUPH|N
-|Adora  |Super  |Druid  |Heli   |The Mochinator|XZELUPH|N
-|Adora  |Druid  |Heli   |Super  |The Mochinator|XZELUPH|N
-|Adora  |Druid  |Super  |Heli   |The Mochinator|XZELUPH|N
 |Adora  |Ice    |Ace    |Heli   |The Line|CZELUUT|N
-|Adora  |Ice    |Heli   |Ace    |The Line|CZELUUT|N
-|Adora  |Ace    |Ice    |Heli   |The Line|CZELUUT|N
-|Adora  |Ace    |Heli   |Ice    |The Line|CZELUUT|N
-|Adora  |Heli   |Ice    |Ace    |The Line|CZELUUT|N
-|Adora  |Heli   |Ace    |Ice    |The Line|CZELUUT|N
 |Adora  |Heli   |Super  |Ninja  |Kholdstare|KZELULV|N
-|Adora  |Heli   |Ninja  |Super  |Kholdstare|KZELULV|N
-|Adora  |Super  |Heli   |Ninja  |Kholdstare|KZELULV|N
-|Adora  |Super  |Ninja  |Heli   |Kholdstare|KZELULV|N
-|Adora  |Ninja  |Heli   |Super  |Kholdstare|KZELULV|N
-|Adora  |Ninja  |Super  |Heli   |Kholdstare|KZELULV|N
 |Adora  |Boomer |Super  |Spact  |Topaz|HZELVKP|N
-|Adora  |Boomer |Spact  |Super  |Topaz|HZELVKP|N
-|Adora  |Super  |Boomer |Spact  |Topaz|HZELVKP|N
-|Adora  |Super  |Spact  |Boomer |Topaz|HZELVKP|N
-|Adora  |Spact  |Boomer |Super  |Topaz|HZELVKP|N
-|Adora  |Spact  |Super  |Boomer |Topaz|HZELVKP|N
 |Adora  |Boomer |Heli   |Super  |The Mochinator|EZELVKL|N
-|Adora  |Boomer |Super  |Heli   |The Mochinator|EZELVKL|N
-|Adora  |Heli   |Boomer |Super  |The Mochinator|EZELVKL|N
-|Adora  |Heli   |Super  |Boomer |The Mochinator|EZELVKL|N
-|Adora  |Super  |Boomer |Heli   |The Mochinator|EZELVKL|N
-|Adora  |Super  |Heli   |Boomer |The Mochinator|EZELVKL|N
 |Adora  |Tack   |Heli   |Mortar |TobiBloon439|OZELVFS|N
-|Adora  |Tack   |Mortar |Heli   |TobiBloon439|OZELVFS|N
-|Adora  |Heli   |Tack   |Mortar |TobiBloon439|OZELVFS|N
-|Adora  |Heli   |Mortar |Tack   |TobiBloon439|OZELVFS|N
-|Adora  |Mortar |Tack   |Heli   |TobiBloon439|OZELVFS|N
-|Adora  |Mortar |Heli   |Tack   |TobiBloon439|OZELVFS|N
 |Adora  |Boomer |Ace    |Village|PEZmaster2|VZELVHH|N
-|Adora  |Boomer |Village|Ace    |PEZmaster2|VZELVHH|N
-|Adora  |Ace    |Boomer |Village|PEZmaster2|VZELVHH|N
-|Adora  |Ace    |Village|Boomer |PEZmaster2|VZELVHH|N
-|Adora  |Village|Boomer |Ace    |PEZmaster2|VZELVHH|N
-|Adora  |Village|Ace    |Boomer |PEZmaster2|VZELVHH|N
 |Adora  |Glue   |Ace    |Alch   |Agent51|LZELVUD|N
-|Adora  |Glue   |Alch   |Ace    |Agent51|LZELVUD|N
-|Adora  |Ace    |Glue   |Alch   |Agent51|LZELVUD|N
-|Adora  |Ace    |Alch   |Glue   |Agent51|LZELVUD|N
-|Adora  |Alch   |Glue   |Ace    |Agent51|LZELVUD|N
-|Adora  |Alch   |Ace    |Glue   |Agent51|LZELVUD|N
 |Adora  |Ace    |Alch   |Spact  |rigged|PZELVWO|N
-|Adora  |Ace    |Spact  |Alch   |rigged|PZELVWO|N
-|Adora  |Alch   |Ace    |Spact  |rigged|PZELVWO|N
-|Adora  |Alch   |Spact  |Ace    |rigged|PZELVWO|N
-|Adora  |Spact  |Ace    |Alch   |rigged|PZELVWO|N
-|Adora  |Spact  |Alch   |Ace    |rigged|PZELVWO|N
 |Adora  |Dart   |Ace    |Super  |Urinetosh|CZELVXR|N
-|Adora  |Dart   |Super  |Ace    |Urinetosh|CZELVXR|N
-|Adora  |Ace    |Dart   |Super  |Urinetosh|CZELVXR|N
-|Adora  |Ace    |Super  |Dart   |Urinetosh|CZELVXR|N
-|Adora  |Super  |Dart   |Ace    |Urinetosh|CZELVXR|N
-|Adora  |Super  |Ace    |Dart   |Urinetosh|CZELVXR|N
 |Adora  |Tack   |Wizard |Village|PEZmaster2|EZELVXL|N
-|Adora  |Tack   |Village|Wizard |PEZmaster2|EZELVXL|N
-|Adora  |Wizard |Tack   |Village|PEZmaster2|EZELVXL|N
-|Adora  |Wizard |Village|Tack   |PEZmaster2|EZELVXL|N
-|Adora  |Village|Tack   |Wizard |PEZmaster2|EZELVXL|N
-|Adora  |Village|Wizard |Tack   |PEZmaster2|EZELVXL|N
 |Adora  |Dart   |Ace    |Village|Agent51|PZELVCY|N
-|Adora  |Dart   |Village|Ace    |Agent51|PZELVCY|N
-|Adora  |Ace    |Dart   |Village|Agent51|PZELVCY|N
-|Adora  |Ace    |Village|Dart   |Agent51|PZELVCY|N
-|Adora  |Village|Dart   |Ace    |Agent51|PZELVCY|N
-|Adora  |Village|Ace    |Dart   |Agent51|PZELVCY|N
 |Adora  |Boomer |Wizard |Village|coolio1223|AZELVSX|N
-|Adora  |Boomer |Village|Wizard |coolio1223|AZELVSX|N
-|Adora  |Wizard |Boomer |Village|coolio1223|AZELVSX|N
-|Adora  |Wizard |Village|Boomer |coolio1223|AZELVSX|N
-|Adora  |Village|Boomer |Wizard |coolio1223|AZELVSX|N
-|Adora  |Village|Wizard |Boomer |coolio1223|AZELVSX|N
 |Adora  |Boomer |Ace    |Alch   |Topaz|MZELVRK|N
-|Adora  |Boomer |Alch   |Ace    |Topaz|MZELVRK|N
-|Adora  |Ace    |Boomer |Alch   |Topaz|MZELVRK|N
-|Adora  |Ace    |Alch   |Boomer |Topaz|MZELVRK|N
-|Adora  |Alch   |Boomer |Ace    |Topaz|MZELVRK|N
-|Adora  |Alch   |Ace    |Boomer |Topaz|MZELVRK|N
 |Adora  |Sub    |Bucc   |Alch   |UnLapiz|HZELWKF|N
-|Adora  |Sub    |Alch   |Bucc   |UnLapiz|HZELWKF|N
-|Adora  |Bucc   |Sub    |Alch   |UnLapiz|HZELWKF|N
-|Adora  |Bucc   |Alch   |Sub    |UnLapiz|HZELWKF|N
-|Adora  |Alch   |Sub    |Bucc   |UnLapiz|HZELWKF|N
-|Adora  |Alch   |Bucc   |Sub    |UnLapiz|HZELWKF|N
 |Adora  |Ice    |Sub    |Wizard |The Line|OZELVOY|N
-|Adora  |Ice    |Wizard |Sub    |The Line|OZELVOY|N
-|Adora  |Sub    |Ice    |Wizard |The Line|OZELVOY|N
-|Adora  |Sub    |Wizard |Ice    |The Line|OZELVOY|N
-|Adora  |Wizard |Ice    |Sub    |The Line|OZELVOY|N
-|Adora  |Wizard |Sub    |Ice    |The Line|OZELVOY|N
 |Adora  |Boomer |Sniper |Super  |Topaz|AZELWGP|N
-|Adora  |Boomer |Super  |Sniper |Topaz|AZELWGP|N
-|Adora  |Sniper |Boomer |Super  |Topaz|AZELWGP|N
-|Adora  |Sniper |Super  |Boomer |Topaz|AZELWGP|N
-|Adora  |Super  |Boomer |Sniper |Topaz|AZELWGP|N
-|Adora  |Super  |Sniper |Boomer |Topaz|AZELWGP|N
-|Adora  |Bucc   |Super  |Village|Agent51|UZELWUW|N
-|Adora  |Bucc   |Village|Super  |Agent51|UZELWUW|N
-|Adora  |Super  |Bucc   |Village|Agent51|UZELWUW|N
-|Adora  |Super  |Village|Bucc   |Agent51|UZELWUW|N
-|Adora  |Village|Bucc   |Super  |Agent51|UZELWUW|N
-|Adora  |Village|Super  |Bucc   |Agent51|UZELWUW|N
-|Adora  |Bucc   |Ace    |Village|Char|VZELWXV|N
-|Adora  |Bucc   |Village|Ace    |Char|VZELWXV|N
-|Adora  |Ace    |Bucc   |Village|Char|VZELWXV|N
-|Adora  |Ace    |Village|Bucc   |Char|VZELWXV|N
-|Adora  |Village|Bucc   |Ace    |Char|VZELWXV|N
-|Adora  |Village|Ace    |Bucc   |Char|VZELWXV|N
 |Adora  |Tack   |Ace    |Village|meta|TZELWCO|N
-|Adora  |Tack   |Village|Ace    |meta|TZELWCO|N
-|Adora  |Ace    |Tack   |Village|meta|TZELWCO|N
-|Adora  |Ace    |Village|Tack   |meta|TZELWCO|N
-|Adora  |Village|Tack   |Ace    |meta|TZELWCO|N
-|Adora  |Village|Ace    |Tack   |meta|TZELWCO|N
 |Adora  |Sniper |Super  |Alch   |RandyZ524|AZELWPM|N
-|Adora  |Sniper |Alch   |Super  |RandyZ524|AZELWPM|N
-|Adora  |Super  |Sniper |Alch   |RandyZ524|AZELWPM|N
-|Adora  |Super  |Alch   |Sniper |RandyZ524|AZELWPM|N
-|Adora  |Alch   |Sniper |Super  |RandyZ524|AZELWPM|N
-|Adora  |Alch   |Super  |Sniper |RandyZ524|AZELWPM|N
 |Adora  |Dart   |Tack   |Village|meta|TZELWLR|N
-|Adora  |Dart   |Village|Tack   |meta|TZELWLR|N
-|Adora  |Tack   |Dart   |Village|meta|TZELWLR|N
-|Adora  |Tack   |Village|Dart   |meta|TZELWLR|N
-|Adora  |Village|Dart   |Tack   |meta|TZELWLR|N
-|Adora  |Village|Tack   |Dart   |meta|TZELWLR|N
 |Adora  |Tack   |Sub    |Village|meta|LZELTMX|N
-|Adora  |Tack   |Village|Sub    |meta|LZELTMX|N
-|Adora  |Sub    |Tack   |Village|meta|LZELTMX|N
-|Adora  |Sub    |Village|Tack   |meta|LZELTMX|N
-|Adora  |Village|Tack   |Sub    |meta|LZELTMX|N
-|Adora  |Village|Sub    |Tack   |meta|LZELTMX|N
 |Adora  |Bucc   |Ace    |Super  |Agent51|BZELTAK|N
-|Adora  |Bucc   |Super  |Ace    |Agent51|BZELTAK|N
-|Adora  |Ace    |Bucc   |Super  |Agent51|BZELTAK|N
-|Adora  |Ace    |Super  |Bucc   |Agent51|BZELTAK|N
-|Adora  |Super  |Bucc   |Ace    |Agent51|BZELTAK|N
-|Adora  |Super  |Ace    |Bucc   |Agent51|BZELTAK|N
 |Adora  |Heli   |Mortar |Druid  |315Lukas|MZELTAY|N
-|Adora  |Heli   |Druid  |Mortar |315Lukas|MZELTAY|N
-|Adora  |Mortar |Heli   |Druid  |315Lukas|MZELTAY|N
-|Adora  |Mortar |Druid  |Heli   |315Lukas|MZELTAY|N
-|Adora  |Druid  |Heli   |Mortar |315Lukas|MZELTAY|N
-|Adora  |Druid  |Mortar |Heli   |315Lukas|MZELTAY|N
 |Adora  |Boomer |Mortar |Super  |Topaz|BZELTPB|N
-|Adora  |Boomer |Super  |Mortar |Topaz|BZELTPB|N
-|Adora  |Mortar |Boomer |Super  |Topaz|BZELTPB|N
-|Adora  |Mortar |Super  |Boomer |Topaz|BZELTPB|N
-|Adora  |Super  |Boomer |Mortar |Topaz|BZELTPB|N
-|Adora  |Super  |Mortar |Boomer |Topaz|BZELTPB|N
 |Adora  |Boomer |Sub    |Ace    |Gavo38322|RZELTLK|N
-|Adora  |Boomer |Ace    |Sub    |Gavo38322|RZELTLK|N
-|Adora  |Sub    |Boomer |Ace    |Gavo38322|RZELTLK|N
-|Adora  |Sub    |Ace    |Boomer |Gavo38322|RZELTLK|N
-|Adora  |Ace    |Boomer |Sub    |Gavo38322|RZELTLK|N
-|Adora  |Ace    |Sub    |Boomer |Gavo38322|RZELTLK|N
 |Adora  |Boomer |Super  |Ninja  |Topaz|WZELTLX|N
-|Adora  |Boomer |Ninja  |Super  |Topaz|WZELTLX|N
-|Adora  |Super  |Boomer |Ninja  |Topaz|WZELTLX|N
-|Adora  |Super  |Ninja  |Boomer |Topaz|WZELTLX|N
-|Adora  |Ninja  |Boomer |Super  |Topaz|WZELTLX|N
-|Adora  |Ninja  |Super  |Boomer |Topaz|WZELTLX|N
 |Adora  |Boomer |Ace    |Super  |Topaz|YZELXKD|N
-|Adora  |Boomer |Super  |Ace    |Topaz|YZELXKD|N
-|Adora  |Ace    |Boomer |Super  |Topaz|YZELXKD|N
-|Adora  |Ace    |Super  |Boomer |Topaz|YZELXKD|N
-|Adora  |Super  |Boomer |Ace    |Topaz|YZELXKD|N
-|Adora  |Super  |Ace    |Boomer |Topaz|YZELXKD|N
 |Adora  |Ace    |Druid  |Spact  |rigged|UZELXGL|N
-|Adora  |Ace    |Spact  |Druid  |rigged|UZELXGL|N
-|Adora  |Druid  |Ace    |Spact  |rigged|UZELXGL|N
-|Adora  |Druid  |Spact  |Ace    |rigged|UZELXGL|N
-|Adora  |Spact  |Ace    |Druid  |rigged|UZELXGL|N
-|Adora  |Spact  |Druid  |Ace    |rigged|UZELXGL|N
 |Adora  |Heli   |Druid  |Village|RainbowDox|WZELXHL|N
-|Adora  |Heli   |Village|Druid  |RainbowDox|WZELXHL|N
-|Adora  |Druid  |Heli   |Village|RainbowDox|WZELXHL|N
-|Adora  |Druid  |Village|Heli   |RainbowDox|WZELXHL|N
-|Adora  |Village|Heli   |Druid  |RainbowDox|WZELXHL|N
-|Adora  |Village|Druid  |Heli   |RainbowDox|WZELXHL|N
 |Adora  |Dart   |Heli   |Village|PEZmaster2|YZELXVG|N
-|Adora  |Dart   |Village|Heli   |PEZmaster2|YZELXVG|N
-|Adora  |Heli   |Dart   |Village|PEZmaster2|YZELXVG|N
-|Adora  |Heli   |Village|Dart   |PEZmaster2|YZELXVG|N
-|Adora  |Village|Dart   |Heli   |PEZmaster2|YZELXVG|N
-|Adora  |Village|Heli   |Dart   |PEZmaster2|YZELXVG|N
 |Adora  |Dart   |Super  |Alch   |LightChaosman|MZELXWR|N
-|Adora  |Dart   |Alch   |Super  |LightChaosman|MZELXWR|N
-|Adora  |Super  |Dart   |Alch   |LightChaosman|MZELXWR|N
-|Adora  |Super  |Alch   |Dart   |LightChaosman|MZELXWR|N
-|Adora  |Alch   |Dart   |Super  |LightChaosman|MZELXWR|N
-|Adora  |Alch   |Super  |Dart   |LightChaosman|MZELXWR|N
 |Adora  |Glue   |Heli   |Ninja  |LoveBrothers|GZELXTP|N
-|Adora  |Glue   |Ninja  |Heli   |LoveBrothers|GZELXTP|N
-|Adora  |Heli   |Glue   |Ninja  |LoveBrothers|GZELXTP|N
-|Adora  |Heli   |Ninja  |Glue   |LoveBrothers|GZELXTP|N
-|Adora  |Ninja  |Glue   |Heli   |LoveBrothers|GZELXTP|N
-|Adora  |Ninja  |Heli   |Glue   |LoveBrothers|GZELXTP|N
 |Adora  |Sub    |Ace    |Mortar |Mr-Samson|YZELAKX|N
-|Adora  |Sub    |Mortar |Ace    |Mr-Samson|YZELAKX|N
-|Adora  |Ace    |Sub    |Mortar |Mr-Samson|YZELAKX|N
-|Adora  |Ace    |Mortar |Sub    |Mr-Samson|YZELAKX|N
-|Adora  |Mortar |Sub    |Ace    |Mr-Samson|YZELAKX|N
-|Adora  |Mortar |Ace    |Sub    |Mr-Samson|YZELAKX|N
 |Adora  |Boomer |Ace    |Ninja  |Topaz|WZELAUM|N
-|Adora  |Boomer |Ninja  |Ace    |Topaz|WZELAUM|N
-|Adora  |Ace    |Boomer |Ninja  |Topaz|WZELAUM|N
-|Adora  |Ace    |Ninja  |Boomer |Topaz|WZELAUM|N
-|Adora  |Ninja  |Boomer |Ace    |Topaz|WZELAUM|N
-|Adora  |Ninja  |Ace    |Boomer |Topaz|WZELAUM|N
 |Adora  |Super  |Druid  |Spact  |samhulk99|VZELAAC|N
-|Adora  |Super  |Spact  |Druid  |samhulk99|VZELAAC|N
-|Adora  |Druid  |Super  |Spact  |samhulk99|VZELAAC|N
-|Adora  |Druid  |Spact  |Super  |samhulk99|VZELAAC|N
-|Adora  |Spact  |Super  |Druid  |samhulk99|VZELAAC|N
-|Adora  |Spact  |Druid  |Super  |samhulk99|VZELAAC|N
 |Adora  |Dart   |Ice    |Super  |TheKNEE13|LZELAYM|N
-|Adora  |Dart   |Super  |Ice    |TheKNEE13|LZELAYM|N
-|Adora  |Ice    |Dart   |Super  |TheKNEE13|LZELAYM|N
-|Adora  |Ice    |Super  |Dart   |TheKNEE13|LZELAYM|N
-|Adora  |Super  |Dart   |Ice    |TheKNEE13|LZELAYM|N
-|Adora  |Super  |Ice    |Dart   |TheKNEE13|LZELAYM|N
 |Adora  |Tack   |Ace    |Super  |rigged|FZELAOU|N
-|Adora  |Tack   |Super  |Ace    |rigged|FZELAOU|N
-|Adora  |Ace    |Tack   |Super  |rigged|FZELAOU|N
-|Adora  |Ace    |Super  |Tack   |rigged|FZELAOU|N
-|Adora  |Super  |Tack   |Ace    |rigged|FZELAOU|N
-|Adora  |Super  |Ace    |Tack   |rigged|FZELAOU|N
 |Adora  |Glue   |Ace    |Ninja  |KaptainKrunche|YZELBVY|N
-|Adora  |Glue   |Ninja  |Ace    |KaptainKrunche|YZELBVY|N
-|Adora  |Ace    |Glue   |Ninja  |KaptainKrunche|YZELBVY|N
-|Adora  |Ace    |Ninja  |Glue   |KaptainKrunche|YZELBVY|N
-|Adora  |Ninja  |Glue   |Ace    |KaptainKrunche|YZELBVY|N
-|Adora  |Ninja  |Ace    |Glue   |KaptainKrunche|YZELBVY|N
 |Adora  |Bucc   |Ace    |Ninja  |Char|LZELBTM|N
-|Adora  |Bucc   |Ninja  |Ace    |Char|LZELBTM|N
-|Adora  |Ace    |Bucc   |Ninja  |Char|LZELBTM|N
-|Adora  |Ace    |Ninja  |Bucc   |Char|LZELBTM|N
-|Adora  |Ninja  |Bucc   |Ace    |Char|LZELBTM|N
-|Adora  |Ninja  |Ace    |Bucc   |Char|LZELBTM|N
 |Adora  |Ace    |Super  |Alch   |rigged|DZELBTA|N
-|Adora  |Ace    |Alch   |Super  |rigged|DZELBTA|N
-|Adora  |Super  |Ace    |Alch   |rigged|DZELBTA|N
-|Adora  |Super  |Alch   |Ace    |rigged|DZELBTA|N
-|Adora  |Alch   |Ace    |Super  |rigged|DZELBTA|N
-|Adora  |Alch   |Super  |Ace    |rigged|DZELBTA|N
 |Adora  |Tack   |Heli   |Super  |The Mochinator|GZELBXR|N
-|Adora  |Tack   |Super  |Heli   |The Mochinator|GZELBXR|N
-|Adora  |Heli   |Tack   |Super  |The Mochinator|GZELBXR|N
-|Adora  |Heli   |Super  |Tack   |The Mochinator|GZELBXR|N
-|Adora  |Super  |Tack   |Heli   |The Mochinator|GZELBXR|N
-|Adora  |Super  |Heli   |Tack   |The Mochinator|GZELBXR|N
 |Adora  |Bucc   |Heli   |Spact  |the_op_boss|BZELBXW|N
-|Adora  |Bucc   |Spact  |Heli   |the_op_boss|BZELBXW|N
-|Adora  |Heli   |Bucc   |Spact  |the_op_boss|BZELBXW|N
-|Adora  |Heli   |Spact  |Bucc   |the_op_boss|BZELBXW|N
-|Adora  |Spact  |Bucc   |Heli   |the_op_boss|BZELBXW|N
-|Adora  |Spact  |Heli   |Bucc   |the_op_boss|BZELBXW|N
 |Adora  |Tack   |Heli   |Spact  |The Mochinator|OZELBCT|N
-|Adora  |Tack   |Spact  |Heli   |The Mochinator|OZELBCT|N
-|Adora  |Heli   |Tack   |Spact  |The Mochinator|OZELBCT|N
-|Adora  |Heli   |Spact  |Tack   |The Mochinator|OZELBCT|N
-|Adora  |Spact  |Tack   |Heli   |The Mochinator|OZELBCT|N
-|Adora  |Spact  |Heli   |Tack   |The Mochinator|OZELBCT|N
 |Adora  |Boomer |Bucc   |Ace    |Char|LZELBPG|N
-|Adora  |Boomer |Ace    |Bucc   |Char|LZELBPG|N
-|Adora  |Bucc   |Boomer |Ace    |Char|LZELBPG|N
-|Adora  |Bucc   |Ace    |Boomer |Char|LZELBPG|N
-|Adora  |Ace    |Boomer |Bucc   |Char|LZELBPG|N
-|Adora  |Ace    |Bucc   |Boomer |Char|LZELBPG|N
 |Adora  |Heli   |Druid  |Spact  |the_op_boss|PZELCVC|N
-|Adora  |Heli   |Spact  |Druid  |the_op_boss|PZELCVC|N
-|Adora  |Druid  |Heli   |Spact  |the_op_boss|PZELCVC|N
-|Adora  |Druid  |Spact  |Heli   |the_op_boss|PZELCVC|N
-|Adora  |Spact  |Heli   |Druid  |the_op_boss|PZELCVC|N
-|Adora  |Spact  |Druid  |Heli   |the_op_boss|PZELCVC|N
 |Adora  |Dart   |Super  |Spact  |the_op_boss|UZELCSX|N
-|Adora  |Dart   |Spact  |Super  |the_op_boss|UZELCSX|N
-|Adora  |Super  |Dart   |Spact  |the_op_boss|UZELCSX|N
-|Adora  |Super  |Spact  |Dart   |the_op_boss|UZELCSX|N
-|Adora  |Spact  |Dart   |Super  |the_op_boss|UZELCSX|N
-|Adora  |Spact  |Super  |Dart   |the_op_boss|UZELCSX|N
 |Adora  |Sub    |Ace    |Spact  |PercyJackson|HZELSRO|N
-|Adora  |Sub    |Spact  |Ace    |PercyJackson|HZELSRO|N
-|Adora  |Ace    |Sub    |Spact  |PercyJackson|HZELSRO|N
-|Adora  |Ace    |Spact  |Sub    |PercyJackson|HZELSRO|N
-|Adora  |Spact  |Sub    |Ace    |PercyJackson|HZELSRO|N
-|Adora  |Spact  |Ace    |Sub    |PercyJackson|HZELSRO|N
 |Adora  |Ice    |Bucc   |Ace    |Char|TZELDSF|N
-|Adora  |Ice    |Ace    |Bucc   |Char|TZELDSF|N
-|Adora  |Bucc   |Ice    |Ace    |Char|TZELDSF|N
-|Adora  |Bucc   |Ace    |Ice    |Char|TZELDSF|N
-|Adora  |Ace    |Ice    |Bucc   |Char|TZELDSF|N
-|Adora  |Ace    |Bucc   |Ice    |Char|TZELDSF|N
 |Adora  |Dart   |Bucc   |Ace    |Char|WZELDYG|N
-|Adora  |Dart   |Ace    |Bucc   |Char|WZELDYG|N
-|Adora  |Bucc   |Dart   |Ace    |Char|WZELDYG|N
-|Adora  |Bucc   |Ace    |Dart   |Char|WZELDYG|N
-|Adora  |Ace    |Dart   |Bucc   |Char|WZELDYG|N
-|Adora  |Ace    |Bucc   |Dart   |Char|WZELDYG|N
 |Adora  |Dart   |Heli   |Mortar |Great Mage|GZELDLR|N
-|Adora  |Dart   |Mortar |Heli   |Great Mage|GZELDLR|N
-|Adora  |Heli   |Dart   |Mortar |Great Mage|GZELDLR|N
-|Adora  |Heli   |Mortar |Dart   |Great Mage|GZELDLR|N
-|Adora  |Mortar |Dart   |Heli   |Great Mage|GZELDLR|N
-|Adora  |Mortar |Heli   |Dart   |Great Mage|GZELDLR|N
 |Adora  |Ace    |Mortar |Alch   |Chocbox|OZELEWP|N
-|Adora  |Ace    |Alch   |Mortar |Chocbox|OZELEWP|N
-|Adora  |Mortar |Ace    |Alch   |Chocbox|OZELEWP|N
-|Adora  |Mortar |Alch   |Ace    |Chocbox|OZELEWP|N
-|Adora  |Alch   |Ace    |Mortar |Chocbox|OZELEWP|N
-|Adora  |Alch   |Mortar |Ace    |Chocbox|OZELEWP|N
 |Adora  |Bomb   |Ninja  |Spact  |frds|SZELETX|N
-|Adora  |Bomb   |Spact  |Ninja  |frds|SZELETX|N
-|Adora  |Ninja  |Bomb   |Spact  |frds|SZELETX|N
-|Adora  |Ninja  |Spact  |Bomb   |frds|SZELETX|N
-|Adora  |Spact  |Bomb   |Ninja  |frds|SZELETX|N
-|Adora  |Spact  |Ninja  |Bomb   |frds|SZELETX|N
 |Adora  |Dart   |Ace    |Alch   |Char|DZELESP|N
-|Adora  |Dart   |Alch   |Ace    |Char|DZELESP|N
-|Adora  |Ace    |Dart   |Alch   |Char|DZELESP|N
-|Adora  |Ace    |Alch   |Dart   |Char|DZELESP|N
-|Adora  |Alch   |Dart   |Ace    |Char|DZELESP|N
-|Adora  |Alch   |Ace    |Dart   |Char|DZELESP|N
 |Adora  |Super  |Ninja  |Spact  |315Lukas|MZELRXY|N
-|Adora  |Super  |Spact  |Ninja  |315Lukas|MZELRXY|N
-|Adora  |Ninja  |Super  |Spact  |315Lukas|MZELRXY|N
-|Adora  |Ninja  |Spact  |Super  |315Lukas|MZELRXY|N
-|Adora  |Spact  |Super  |Ninja  |315Lukas|MZELRXY|N
-|Adora  |Spact  |Ninja  |Super  |315Lukas|MZELRXY|N
 |Adora  |Tack   |Super  |Ninja  |Char|EZELRBD|N
-|Adora  |Tack   |Ninja  |Super  |Char|EZELRBD|N
-|Adora  |Super  |Tack   |Ninja  |Char|EZELRBD|N
-|Adora  |Super  |Ninja  |Tack   |Char|EZELRBD|N
-|Adora  |Ninja  |Tack   |Super  |Char|EZELRBD|N
-|Adora  |Ninja  |Super  |Tack   |Char|EZELRBD|N
 |Adora  |Boomer |Bucc   |Alch   |urhere|UZELYYX|N
-|Adora  |Boomer |Alch   |Bucc   |urhere|UZELYYX|N
-|Adora  |Bucc   |Boomer |Alch   |urhere|UZELYYX|N
-|Adora  |Bucc   |Alch   |Boomer |urhere|UZELYYX|N
-|Adora  |Alch   |Boomer |Bucc   |urhere|UZELYYX|N
-|Adora  |Alch   |Bucc   |Boomer |urhere|UZELYYX|N
 |Adora  |Alch   |Druid  |Spact  |The Mochinator|PZELYLE|N
-|Adora  |Alch   |Spact  |Druid  |The Mochinator|PZELYLE|N
-|Adora  |Druid  |Alch   |Spact  |The Mochinator|PZELYLE|N
-|Adora  |Druid  |Spact  |Alch   |The Mochinator|PZELYLE|N
-|Adora  |Spact  |Alch   |Druid  |The Mochinator|PZELYLE|N
-|Adora  |Spact  |Druid  |Alch   |The Mochinator|PZELYLE|N
 |Adora  |Glue   |Sub    |Mortar |Char|FZELLKL|N
-|Adora  |Glue   |Mortar |Sub    |Char|FZELLKL|N
-|Adora  |Sub    |Glue   |Mortar |Char|FZELLKL|N
-|Adora  |Sub    |Mortar |Glue   |Char|FZELLKL|N
-|Adora  |Mortar |Glue   |Sub    |Char|FZELLKL|N
-|Adora  |Mortar |Sub    |Glue   |Char|FZELLKL|N
 |Adora  |Boomer |Heli   |Ninja  |RainbowDox|MZELLVK|N
-|Adora  |Boomer |Ninja  |Heli   |RainbowDox|MZELLVK|N
-|Adora  |Heli   |Boomer |Ninja  |RainbowDox|MZELLVK|N
-|Adora  |Heli   |Ninja  |Boomer |RainbowDox|MZELLVK|N
-|Adora  |Ninja  |Boomer |Heli   |RainbowDox|MZELLVK|N
-|Adora  |Ninja  |Heli   |Boomer |RainbowDox|MZELLVK|N
 |Adora  |Dart   |Super  |Ninja  |the_op_boss|UZELLXT|N
-|Adora  |Dart   |Ninja  |Super  |the_op_boss|UZELLXT|N
-|Adora  |Super  |Dart   |Ninja  |the_op_boss|UZELLXT|N
-|Adora  |Super  |Ninja  |Dart   |the_op_boss|UZELLXT|N
-|Adora  |Ninja  |Dart   |Super  |the_op_boss|UZELLXT|N
-|Adora  |Ninja  |Super  |Dart   |the_op_boss|UZELLXT|N
 |Adora  |Mortar |Super  |Ninja  |the_op_boss|FZELLDK|N
-|Adora  |Mortar |Ninja  |Super  |the_op_boss|FZELLDK|N
-|Adora  |Super  |Mortar |Ninja  |the_op_boss|FZELLDK|N
-|Adora  |Super  |Ninja  |Mortar |the_op_boss|FZELLDK|N
-|Adora  |Ninja  |Mortar |Super  |the_op_boss|FZELLDK|N
-|Adora  |Ninja  |Super  |Mortar |the_op_boss|FZELLDK|N
 |Adora  |Bomb   |Alch   |Spact  |The Mochinator|TZELLOB|N
-|Adora  |Bomb   |Spact  |Alch   |The Mochinator|TZELLOB|N
-|Adora  |Alch   |Bomb   |Spact  |The Mochinator|TZELLOB|N
-|Adora  |Alch   |Spact  |Bomb   |The Mochinator|TZELLOB|N
-|Adora  |Spact  |Bomb   |Alch   |The Mochinator|TZELLOB|N
-|Adora  |Spact  |Alch   |Bomb   |The Mochinator|TZELLOB|N
 |Adora  |Glue   |Mortar |Ninja  |Char|DZEOKVV|N
-|Adora  |Glue   |Ninja  |Mortar |Char|DZEOKVV|N
-|Adora  |Mortar |Glue   |Ninja  |Char|DZEOKVV|N
-|Adora  |Mortar |Ninja  |Glue   |Char|DZEOKVV|N
-|Adora  |Ninja  |Glue   |Mortar |Char|DZEOKVV|N
-|Adora  |Ninja  |Mortar |Glue   |Char|DZEOKVV|N
 |Adora  |Sub    |Mortar |Village|Chocbox|UZEOKLD|N
-|Adora  |Sub    |Village|Mortar |Chocbox|UZEOKLD|N
-|Adora  |Mortar |Sub    |Village|Chocbox|UZEOKLD|N
-|Adora  |Mortar |Village|Sub    |Chocbox|UZEOKLD|N
-|Adora  |Village|Sub    |Mortar |Chocbox|UZEOKLD|N
-|Adora  |Village|Mortar |Sub    |Chocbox|UZEOKLD|N
 |Adora  |Sub    |Ace    |Village|Kevaca|DZEORAD|N
-|Adora  |Sub    |Village|Ace    |Kevaca|DZEORAD|N
-|Adora  |Ace    |Sub    |Village|Kevaca|DZEORAD|N
-|Adora  |Ace    |Village|Sub    |Kevaca|DZEORAD|N
-|Adora  |Village|Sub    |Ace    |Kevaca|DZEORAD|N
-|Adora  |Village|Ace    |Sub    |Kevaca|DZEORAD|N
 |Adora  |Tack   |Ace    |Mortar |Char|MZPKKFY|N
-|Adora  |Tack   |Mortar |Ace    |Char|MZPKKFY|N
-|Adora  |Ace    |Tack   |Mortar |Char|MZPKKFY|N
-|Adora  |Ace    |Mortar |Tack   |Char|MZPKKFY|N
-|Adora  |Mortar |Tack   |Ace    |Char|MZPKKFY|N
-|Adora  |Mortar |Ace    |Tack   |Char|MZPKKFY|N
 |Adora  |Tack   |Sub    |Mortar |Char|TZPKHXO|N
-|Adora  |Tack   |Mortar |Sub    |Char|TZPKHXO|N
-|Adora  |Sub    |Tack   |Mortar |Char|TZPKHXO|N
-|Adora  |Sub    |Mortar |Tack   |Char|TZPKHXO|N
-|Adora  |Mortar |Tack   |Sub    |Char|TZPKHXO|N
-|Adora  |Mortar |Sub    |Tack   |Char|TZPKHXO|N
 |Adora  |Tack   |Alch   |Spact  |380-mortis|KZPKCGP|N
-|Adora  |Tack   |Spact  |Alch   |380-mortis|KZPKCGP|N
-|Adora  |Alch   |Tack   |Spact  |380-mortis|KZPKCGP|N
-|Adora  |Alch   |Spact  |Tack   |380-mortis|KZPKCGP|N
-|Adora  |Spact  |Tack   |Alch   |380-mortis|KZPKCGP|N
-|Adora  |Spact  |Alch   |Tack   |380-mortis|KZPKCGP|N
 |Adora  |Tack   |Mortar |Spact  |Char|LZPKDEK|N
-|Adora  |Tack   |Spact  |Mortar |Char|LZPKDEK|N
-|Adora  |Mortar |Tack   |Spact  |Char|LZPKDEK|N
-|Adora  |Mortar |Spact  |Tack   |Char|LZPKDEK|N
-|Adora  |Spact  |Tack   |Mortar |Char|LZPKDEK|N
-|Adora  |Spact  |Mortar |Tack   |Char|LZPKDEK|N
 |Adora  |Mortar |Alch   |Spact  |The Mochinator|YZPKYWY|N
-|Adora  |Mortar |Spact  |Alch   |The Mochinator|YZPKYWY|N
-|Adora  |Alch   |Mortar |Spact  |The Mochinator|YZPKYWY|N
-|Adora  |Alch   |Spact  |Mortar |The Mochinator|YZPKYWY|N
-|Adora  |Spact  |Mortar |Alch   |The Mochinator|YZPKYWY|N
-|Adora  |Spact  |Alch   |Mortar |The Mochinator|YZPKYWY|N
 |Adora  |Boomer |Alch   |Spact  |The Mochinator|WZPMUWM|N
-|Adora  |Boomer |Spact  |Alch   |The Mochinator|WZPMUWM|N
-|Adora  |Alch   |Boomer |Spact  |The Mochinator|WZPMUWM|N
-|Adora  |Alch   |Spact  |Boomer |The Mochinator|WZPMUWM|N
-|Adora  |Spact  |Boomer |Alch   |The Mochinator|WZPMUWM|N
-|Adora  |Spact  |Alch   |Boomer |The Mochinator|WZPMUWM|N
 |Adora  |Sub    |Mortar |Alch   |The Mochinator|FZPMWTF|N
-|Adora  |Sub    |Alch   |Mortar |The Mochinator|FZPMWTF|N
-|Adora  |Mortar |Sub    |Alch   |The Mochinator|FZPMWTF|N
-|Adora  |Mortar |Alch   |Sub    |The Mochinator|FZPMWTF|N
-|Adora  |Alch   |Sub    |Mortar |The Mochinator|FZPMWTF|N
-|Adora  |Alch   |Mortar |Sub    |The Mochinator|FZPMWTF|N
 |Adora  |Sniper |Wizard |Village|rmlgaming|MZPMRMY|N
-|Adora  |Sniper |Village|Wizard |rmlgaming|MZPMRMY|N
-|Adora  |Wizard |Sniper |Village|rmlgaming|MZPMRMY|N
-|Adora  |Wizard |Village|Sniper |rmlgaming|MZPMRMY|N
-|Adora  |Village|Sniper |Wizard |rmlgaming|MZPMRMY|N
-|Adora  |Village|Wizard |Sniper |rmlgaming|MZPMRMY|N
 |Adora  |Mortar |Ninja  |Spact  |Smurfblade|WZPMODH|N
-|Adora  |Mortar |Spact  |Ninja  |Smurfblade|WZPMODH|N
-|Adora  |Ninja  |Mortar |Spact  |Smurfblade|WZPMODH|N
-|Adora  |Ninja  |Spact  |Mortar |Smurfblade|WZPMODH|N
-|Adora  |Spact  |Mortar |Ninja  |Smurfblade|WZPMODH|N
-|Adora  |Spact  |Ninja  |Mortar |Smurfblade|WZPMODH|N
 |Adora  |Glue   |Sub    |Spact  |The Mochinator|EZPMOOS|N
-|Adora  |Glue   |Spact  |Sub    |The Mochinator|EZPMOOS|N
-|Adora  |Sub    |Glue   |Spact  |The Mochinator|EZPMOOS|N
-|Adora  |Sub    |Spact  |Glue   |The Mochinator|EZPMOOS|N
-|Adora  |Spact  |Glue   |Sub    |The Mochinator|EZPMOOS|N
-|Adora  |Spact  |Sub    |Glue   |The Mochinator|EZPMOOS|N
 |Adora  |Super  |Ninja  |Village|hailey is me|LZPHEAW|N
-|Adora  |Super  |Village|Ninja  |hailey is me|LZPHEAW|N
-|Adora  |Ninja  |Super  |Village|hailey is me|LZPHEAW|N
-|Adora  |Ninja  |Village|Super  |hailey is me|LZPHEAW|N
-|Adora  |Village|Super  |Ninja  |hailey is me|LZPHEAW|N
-|Adora  |Village|Ninja  |Super  |hailey is me|LZPHEAW|N
 |Adora  |Dart   |Sub    |Ace    |killerkama|AZPUGGY|N
-|Adora  |Dart   |Ace    |Sub    |killerkama|AZPUGGY|N
-|Adora  |Sub    |Dart   |Ace    |killerkama|AZPUGGY|N
-|Adora  |Sub    |Ace    |Dart   |killerkama|AZPUGGY|N
-|Adora  |Ace    |Dart   |Sub    |killerkama|AZPUGGY|N
-|Adora  |Ace    |Sub    |Dart   |killerkama|AZPUGGY|N
 |Adora  |Tack   |Sub    |Wizard |ImTheException|TZPVMRV|N
-|Adora  |Tack   |Wizard |Sub    |ImTheException|TZPVMRV|N
-|Adora  |Sub    |Tack   |Wizard |ImTheException|TZPVMRV|N
-|Adora  |Sub    |Wizard |Tack   |ImTheException|TZPVMRV|N
-|Adora  |Wizard |Tack   |Sub    |ImTheException|TZPVMRV|N
-|Adora  |Wizard |Sub    |Tack   |ImTheException|TZPVMRV|N
 |Adora  |Glue   |Sniper |Wizard |The Mochinator|YZPVEUR|N
-|Adora  |Glue   |Wizard |Sniper |The Mochinator|YZPVEUR|N
-|Adora  |Sniper |Glue   |Wizard |The Mochinator|YZPVEUR|N
-|Adora  |Sniper |Wizard |Glue   |The Mochinator|YZPVEUR|N
-|Adora  |Wizard |Glue   |Sniper |The Mochinator|YZPVEUR|N
-|Adora  |Wizard |Sniper |Glue   |The Mochinator|YZPVEUR|N
 |Adora  |Tack   |Ice    |Wizard |The Mochinator|LZPWVUO|N
-|Adora  |Tack   |Wizard |Ice    |The Mochinator|LZPWVUO|N
-|Adora  |Ice    |Tack   |Wizard |The Mochinator|LZPWVUO|N
-|Adora  |Ice    |Wizard |Tack   |The Mochinator|LZPWVUO|N
-|Adora  |Wizard |Tack   |Ice    |The Mochinator|LZPWVUO|N
-|Adora  |Wizard |Ice    |Tack   |The Mochinator|LZPWVUO|N
 |Adora  |Bomb   |Sub    |Village|Emtee|GZPWSXG|N
-|Adora  |Bomb   |Village|Sub    |Emtee|GZPWSXG|N
-|Adora  |Sub    |Bomb   |Village|Emtee|GZPWSXG|N
-|Adora  |Sub    |Village|Bomb   |Emtee|GZPWSXG|N
-|Adora  |Village|Bomb   |Sub    |Emtee|GZPWSXG|N
-|Adora  |Village|Sub    |Bomb   |Emtee|GZPWSXG|N
 |Adora  |Ice    |Ace    |Mortar |The Mochinator|SZPWLFM|N
-|Adora  |Ice    |Mortar |Ace    |The Mochinator|SZPWLFM|N
-|Adora  |Ace    |Ice    |Mortar |The Mochinator|SZPWLFM|N
-|Adora  |Ace    |Mortar |Ice    |The Mochinator|SZPWLFM|N
-|Adora  |Mortar |Ice    |Ace    |The Mochinator|SZPWLFM|N
-|Adora  |Mortar |Ace    |Ice    |The Mochinator|SZPWLFM|N
 |Adora  |Bomb   |Ninja  |Village|Emtee|DZPWLEP|N
-|Adora  |Bomb   |Village|Ninja  |Emtee|DZPWLEP|N
-|Adora  |Ninja  |Bomb   |Village|Emtee|DZPWLEP|N
-|Adora  |Ninja  |Village|Bomb   |Emtee|DZPWLEP|N
-|Adora  |Village|Bomb   |Ninja  |Emtee|DZPWLEP|N
-|Adora  |Village|Ninja  |Bomb   |Emtee|DZPWLEP|N
 |Adora  |Wizard |Druid  |Village|Agent51|DZPWOAW|N
-|Adora  |Wizard |Village|Druid  |Agent51|DZPWOAW|N
-|Adora  |Druid  |Wizard |Village|Agent51|DZPWOAW|N
-|Adora  |Druid  |Village|Wizard |Agent51|DZPWOAW|N
-|Adora  |Village|Wizard |Druid  |Agent51|DZPWOAW|N
-|Adora  |Village|Druid  |Wizard |Agent51|DZPWOAW|N
-|Adora  |Bomb   |Bucc   |Village|Emtee|GZPTXAB|N
-|Adora  |Bomb   |Village|Bucc   |Emtee|GZPTXAB|N
-|Adora  |Bucc   |Bomb   |Village|Emtee|GZPTXAB|N
-|Adora  |Bucc   |Village|Bomb   |Emtee|GZPTXAB|N
-|Adora  |Village|Bomb   |Bucc   |Emtee|GZPTXAB|N
-|Adora  |Village|Bucc   |Bomb   |Emtee|GZPTXAB|N
 |Adora  |Bomb   |Sub    |Wizard |Emtee|AZPTYTW|N
-|Adora  |Bomb   |Wizard |Sub    |Emtee|AZPTYTW|N
-|Adora  |Sub    |Bomb   |Wizard |Emtee|AZPTYTW|N
-|Adora  |Sub    |Wizard |Bomb   |Emtee|AZPTYTW|N
-|Adora  |Wizard |Bomb   |Sub    |Emtee|AZPTYTW|N
-|Adora  |Wizard |Sub    |Bomb   |Emtee|AZPTYTW|N
 |Adora  |Tack   |Super  |Spact  |kernnpop|YZPXWVM|N
-|Adora  |Tack   |Spact  |Super  |kernnpop|YZPXWVM|N
-|Adora  |Super  |Tack   |Spact  |kernnpop|YZPXWVM|N
-|Adora  |Super  |Spact  |Tack   |kernnpop|YZPXWVM|N
-|Adora  |Spact  |Tack   |Super  |kernnpop|YZPXWVM|N
-|Adora  |Spact  |Super  |Tack   |kernnpop|YZPXWVM|N
 |Adora  |Tack   |Ninja  |Spact  |FenixKillah|CZPXTTY|N
-|Adora  |Tack   |Spact  |Ninja  |FenixKillah|CZPXTTY|N
-|Adora  |Ninja  |Tack   |Spact  |FenixKillah|CZPXTTY|N
-|Adora  |Ninja  |Spact  |Tack   |FenixKillah|CZPXTTY|N
-|Adora  |Spact  |Tack   |Ninja  |FenixKillah|CZPXTTY|N
-|Adora  |Spact  |Ninja  |Tack   |FenixKillah|CZPXTTY|N
 |Adora  |Ice    |Wizard |Druid  |The Mochinator|KZPXBDP|N
-|Adora  |Ice    |Druid  |Wizard |The Mochinator|KZPXBDP|N
-|Adora  |Wizard |Ice    |Druid  |The Mochinator|KZPXBDP|N
-|Adora  |Wizard |Druid  |Ice    |The Mochinator|KZPXBDP|N
-|Adora  |Druid  |Ice    |Wizard |The Mochinator|KZPXBDP|N
-|Adora  |Druid  |Wizard |Ice    |The Mochinator|KZPXBDP|N
 |Adora  |Ice    |Sniper |Heli   |The Mochinator|GZPXPOC|N
-|Adora  |Ice    |Heli   |Sniper |The Mochinator|GZPXPOC|N
-|Adora  |Sniper |Ice    |Heli   |The Mochinator|GZPXPOC|N
-|Adora  |Sniper |Heli   |Ice    |The Mochinator|GZPXPOC|N
-|Adora  |Heli   |Ice    |Sniper |The Mochinator|GZPXPOC|N
-|Adora  |Heli   |Sniper |Ice    |The Mochinator|GZPXPOC|N
 |Adora  |Dart   |Tack   |Spact  |kernnpop|SZPAGMX|N
-|Adora  |Dart   |Spact  |Tack   |kernnpop|SZPAGMX|N
-|Adora  |Tack   |Dart   |Spact  |kernnpop|SZPAGMX|N
-|Adora  |Tack   |Spact  |Dart   |kernnpop|SZPAGMX|N
-|Adora  |Spact  |Dart   |Tack   |kernnpop|SZPAGMX|N
-|Adora  |Spact  |Tack   |Dart   |kernnpop|SZPAGMX|N
 |Adora  |Tack   |Bucc   |Spact  |kernnpop|YZPAHBM|N
-|Adora  |Tack   |Spact  |Bucc   |kernnpop|YZPAHBM|N
-|Adora  |Bucc   |Tack   |Spact  |kernnpop|YZPAHBM|N
-|Adora  |Bucc   |Spact  |Tack   |kernnpop|YZPAHBM|N
-|Adora  |Spact  |Tack   |Bucc   |kernnpop|YZPAHBM|N
-|Adora  |Spact  |Bucc   |Tack   |kernnpop|YZPAHBM|N
-|Adora  |Bucc   |Spact  |Village|The Mochinator|WZPBHAO|N
-|Adora  |Bucc   |Village|Spact  |The Mochinator|WZPBHAO|N
-|Adora  |Spact  |Bucc   |Village|The Mochinator|WZPBHAO|N
-|Adora  |Spact  |Village|Bucc   |The Mochinator|WZPBHAO|N
-|Adora  |Village|Bucc   |Spact  |The Mochinator|WZPBHAO|N
-|Adora  |Village|Spact  |Bucc   |The Mochinator|WZPBHAO|N
-|Adora  |Bucc   |Alch   |Village|The Mochinator|XZPBUKH|N
-|Adora  |Bucc   |Village|Alch   |The Mochinator|XZPBUKH|N
-|Adora  |Alch   |Bucc   |Village|The Mochinator|XZPBUKH|N
-|Adora  |Alch   |Village|Bucc   |The Mochinator|XZPBUKH|N
-|Adora  |Village|Bucc   |Alch   |The Mochinator|XZPBUKH|N
-|Adora  |Village|Alch   |Bucc   |The Mochinator|XZPBUKH|N
 |Adora  |Ice    |Ace    |Ninja  |Char|MZPBUPF|N
-|Adora  |Ice    |Ninja  |Ace    |Char|MZPBUPF|N
-|Adora  |Ace    |Ice    |Ninja  |Char|MZPBUPF|N
-|Adora  |Ace    |Ninja  |Ice    |Char|MZPBUPF|N
-|Adora  |Ninja  |Ice    |Ace    |Char|MZPBUPF|N
-|Adora  |Ninja  |Ace    |Ice    |Char|MZPBUPF|N
-|Adora  |Glue   |Bucc   |Village|The Mochinator|CZPBVRE|N
-|Adora  |Glue   |Village|Bucc   |The Mochinator|CZPBVRE|N
-|Adora  |Bucc   |Glue   |Village|The Mochinator|CZPBVRE|N
-|Adora  |Bucc   |Village|Glue   |The Mochinator|CZPBVRE|N
-|Adora  |Village|Glue   |Bucc   |The Mochinator|CZPBVRE|N
-|Adora  |Village|Bucc   |Glue   |The Mochinator|CZPBVRE|N
 |Adora  |Tack   |Spact  |Village|kernnpop|HZPBAOB|N
-|Adora  |Tack   |Village|Spact  |kernnpop|HZPBAOB|N
-|Adora  |Spact  |Tack   |Village|kernnpop|HZPBAOB|N
-|Adora  |Spact  |Village|Tack   |kernnpop|HZPBAOB|N
-|Adora  |Village|Tack   |Spact  |kernnpop|HZPBAOB|N
-|Adora  |Village|Spact  |Tack   |kernnpop|HZPBAOB|N
-|Adora  |Ice    |Bucc   |Village|The Mochinator|UZPBBFS|N
-|Adora  |Ice    |Village|Bucc   |The Mochinator|UZPBBFS|N
-|Adora  |Bucc   |Ice    |Village|The Mochinator|UZPBBFS|N
-|Adora  |Bucc   |Village|Ice    |The Mochinator|UZPBBFS|N
-|Adora  |Village|Ice    |Bucc   |The Mochinator|UZPBBFS|N
-|Adora  |Village|Bucc   |Ice    |The Mochinator|UZPBBFS|N
 |Adora  |Glue   |Ninja  |Village|Emtee|KZPBPUM|N
-|Adora  |Glue   |Village|Ninja  |Emtee|KZPBPUM|N
-|Adora  |Ninja  |Glue   |Village|Emtee|KZPBPUM|N
-|Adora  |Ninja  |Village|Glue   |Emtee|KZPBPUM|N
-|Adora  |Village|Glue   |Ninja  |Emtee|KZPBPUM|N
-|Adora  |Village|Ninja  |Glue   |Emtee|KZPBPUM|N
 |Adora  |Bomb   |Sniper |Wizard |Emtee|AZPBRPS|N
-|Adora  |Bomb   |Wizard |Sniper |Emtee|AZPBRPS|N
-|Adora  |Sniper |Bomb   |Wizard |Emtee|AZPBRPS|N
-|Adora  |Sniper |Wizard |Bomb   |Emtee|AZPBRPS|N
-|Adora  |Wizard |Bomb   |Sniper |Emtee|AZPBRPS|N
-|Adora  |Wizard |Sniper |Bomb   |Emtee|AZPBRPS|N
 |Adora  |Bomb   |Bucc   |Spact  |kernnpop|YZPBOSK|N
-|Adora  |Bomb   |Spact  |Bucc   |kernnpop|YZPBOSK|N
-|Adora  |Bucc   |Bomb   |Spact  |kernnpop|YZPBOSK|N
-|Adora  |Bucc   |Spact  |Bomb   |kernnpop|YZPBOSK|N
-|Adora  |Spact  |Bomb   |Bucc   |kernnpop|YZPBOSK|N
-|Adora  |Spact  |Bucc   |Bomb   |kernnpop|YZPBOSK|N
 |Adora  |Dart   |Sniper |Super  |Emtee|BZPCTUL|N
-|Adora  |Dart   |Super  |Sniper |Emtee|BZPCTUL|N
-|Adora  |Sniper |Dart   |Super  |Emtee|BZPCTUL|N
-|Adora  |Sniper |Super  |Dart   |Emtee|BZPCTUL|N
-|Adora  |Super  |Dart   |Sniper |Emtee|BZPCTUL|N
-|Adora  |Super  |Sniper |Dart   |Emtee|BZPCTUL|N
 |Adora  |Dart   |Boomer |Village|ILiekFishes|GZPCXBK|N
-|Adora  |Dart   |Village|Boomer |ILiekFishes|GZPCXBK|N
-|Adora  |Boomer |Dart   |Village|ILiekFishes|GZPCXBK|N
-|Adora  |Boomer |Village|Dart   |ILiekFishes|GZPCXBK|N
-|Adora  |Village|Dart   |Boomer |ILiekFishes|GZPCXBK|N
-|Adora  |Village|Boomer |Dart   |ILiekFishes|GZPCXBK|N
 |Adora  |Bucc   |Druid  |Spact  |kernnpop|BZPCATO|N
-|Adora  |Bucc   |Spact  |Druid  |kernnpop|BZPCATO|N
-|Adora  |Druid  |Bucc   |Spact  |kernnpop|BZPCATO|N
-|Adora  |Druid  |Spact  |Bucc   |kernnpop|BZPCATO|N
-|Adora  |Spact  |Bucc   |Druid  |kernnpop|BZPCATO|N
-|Adora  |Spact  |Druid  |Bucc   |kernnpop|BZPCATO|N
 |Adora  |Boomer |Tack   |Village|kernnpop|LZPCDOE|N
-|Adora  |Boomer |Village|Tack   |kernnpop|LZPCDOE|N
-|Adora  |Tack   |Boomer |Village|kernnpop|LZPCDOE|N
-|Adora  |Tack   |Village|Boomer |kernnpop|LZPCDOE|N
-|Adora  |Village|Boomer |Tack   |kernnpop|LZPCDOE|N
-|Adora  |Village|Tack   |Boomer |kernnpop|LZPCDOE|N
 |Adora  |Dart   |Bomb   |Village|kernnpop|SZPSVOX|N
-|Adora  |Dart   |Village|Bomb   |kernnpop|SZPSVOX|N
-|Adora  |Bomb   |Dart   |Village|kernnpop|SZPSVOX|N
-|Adora  |Bomb   |Village|Dart   |kernnpop|SZPSVOX|N
-|Adora  |Village|Dart   |Bomb   |kernnpop|SZPSVOX|N
-|Adora  |Village|Bomb   |Dart   |kernnpop|SZPSVOX|N
 |Adora  |Dart   |Mortar |Alch   |AIGP2304|DZPSWOW|N
-|Adora  |Dart   |Alch   |Mortar |AIGP2304|DZPSWOW|N
-|Adora  |Mortar |Dart   |Alch   |AIGP2304|DZPSWOW|N
-|Adora  |Mortar |Alch   |Dart   |AIGP2304|DZPSWOW|N
-|Adora  |Alch   |Dart   |Mortar |AIGP2304|DZPSWOW|N
-|Adora  |Alch   |Mortar |Dart   |AIGP2304|DZPSWOW|N
 |Adora  |Boomer |Sub    |Alch   |Natethesnake|UZPDCYK|N
-|Adora  |Boomer |Alch   |Sub    |Natethesnake|UZPDCYK|N
-|Adora  |Sub    |Boomer |Alch   |Natethesnake|UZPDCYK|N
-|Adora  |Sub    |Alch   |Boomer |Natethesnake|UZPDCYK|N
-|Adora  |Alch   |Boomer |Sub    |Natethesnake|UZPDCYK|N
-|Adora  |Alch   |Sub    |Boomer |Natethesnake|UZPDCYK|N
 |Adora  |Dart   |Glue   |Super  |ILiekFishes|DZPECVW|N
-|Adora  |Dart   |Super  |Glue   |ILiekFishes|DZPECVW|N
-|Adora  |Glue   |Dart   |Super  |ILiekFishes|DZPECVW|N
-|Adora  |Glue   |Super  |Dart   |ILiekFishes|DZPECVW|N
-|Adora  |Super  |Dart   |Glue   |ILiekFishes|DZPECVW|N
-|Adora  |Super  |Glue   |Dart   |ILiekFishes|DZPECVW|N
 |Adora  |Glue   |Super  |Ninja  |coolio1223|EZPECEK|N
-|Adora  |Glue   |Ninja  |Super  |coolio1223|EZPECEK|N
-|Adora  |Super  |Glue   |Ninja  |coolio1223|EZPECEK|N
-|Adora  |Super  |Ninja  |Glue   |coolio1223|EZPECEK|N
-|Adora  |Ninja  |Glue   |Super  |coolio1223|EZPECEK|N
-|Adora  |Ninja  |Super  |Glue   |coolio1223|EZPECEK|N
 |Adora  |Dart   |Boomer |Mortar |Topaz|TZPESGR|N
-|Adora  |Dart   |Mortar |Boomer |Topaz|TZPESGR|N
-|Adora  |Boomer |Dart   |Mortar |Topaz|TZPESGR|N
-|Adora  |Boomer |Mortar |Dart   |Topaz|TZPESGR|N
-|Adora  |Mortar |Dart   |Boomer |Topaz|TZPESGR|N
-|Adora  |Mortar |Boomer |Dart   |Topaz|TZPESGR|N
 |Adora  |Dart   |Boomer |Ace    |Topaz|UZPESEV|N
-|Adora  |Dart   |Ace    |Boomer |Topaz|UZPESEV|N
-|Adora  |Boomer |Dart   |Ace    |Topaz|UZPESEV|N
-|Adora  |Boomer |Ace    |Dart   |Topaz|UZPESEV|N
-|Adora  |Ace    |Dart   |Boomer |Topaz|UZPESEV|N
-|Adora  |Ace    |Boomer |Dart   |Topaz|UZPESEV|N
 |Adora  |Boomer |Alch   |Village|Gavo38322|CZPPMHR|N
-|Adora  |Boomer |Village|Alch   |Gavo38322|CZPPMHR|N
-|Adora  |Alch   |Boomer |Village|Gavo38322|CZPPMHR|N
-|Adora  |Alch   |Village|Boomer |Gavo38322|CZPPMHR|N
-|Adora  |Village|Boomer |Alch   |Gavo38322|CZPPMHR|N
-|Adora  |Village|Alch   |Boomer |Gavo38322|CZPPMHR|N
 |Adora  |Tack   |Wizard |Alch   |coolio1223|EZPYPTB|N
-|Adora  |Tack   |Alch   |Wizard |coolio1223|EZPYPTB|N
-|Adora  |Wizard |Tack   |Alch   |coolio1223|EZPYPTB|N
-|Adora  |Wizard |Alch   |Tack   |coolio1223|EZPYPTB|N
-|Adora  |Alch   |Tack   |Wizard |coolio1223|EZPYPTB|N
-|Adora  |Alch   |Wizard |Tack   |coolio1223|EZPYPTB|N
 |Adora  |Boomer |Bomb   |Village|Emtee|XZPLPME|N
-|Adora  |Boomer |Village|Bomb   |Emtee|XZPLPME|N
-|Adora  |Bomb   |Boomer |Village|Emtee|XZPLPME|N
-|Adora  |Bomb   |Village|Boomer |Emtee|XZPLPME|N
-|Adora  |Village|Boomer |Bomb   |Emtee|XZPLPME|N
-|Adora  |Village|Bomb   |Boomer |Emtee|XZPLPME|N
+|Adora  |Glue   |Heli   |Engi   |Gavo38322|XZRHKRX|N
 |Adora  |Sniper |Heli   |Ninja  |killerkama|HZRHCDE|N
-|Adora  |Sniper |Ninja  |Heli   |killerkama|HZRHCDE|N
-|Adora  |Heli   |Sniper |Ninja  |killerkama|HZRHCDE|N
-|Adora  |Heli   |Ninja  |Sniper |killerkama|HZRHCDE|N
-|Adora  |Ninja  |Sniper |Heli   |killerkama|HZRHCDE|N
-|Adora  |Ninja  |Heli   |Sniper |killerkama|HZRHCDE|N
+|Adora  |Sniper |Wizard |Engi   |Gavo38322|SZRHSVD|N
 |Adora  |Dart   |Super  |Engi   |Emtee|OZPSBDO|N
-|Adora  |Dart   |Engi   |Super  |Emtee|OZPSBDO|N
-|Adora  |Super  |Dart   |Engi   |Emtee|OZPSBDO|N
-|Adora  |Super  |Engi   |Dart   |Emtee|OZPSBDO|N
-|Adora  |Engi   |Dart   |Super  |Emtee|OZPSBDO|N
-|Adora  |Engi   |Super  |Dart   |Emtee|OZPSBDO|N
 |Adora  |Boomer |Super  |Engi   |Emtee|XZPSDSB|N
-|Adora  |Boomer |Engi   |Super  |Emtee|XZPSDSB|N
-|Adora  |Super  |Boomer |Engi   |Emtee|XZPSDSB|N
-|Adora  |Super  |Engi   |Boomer |Emtee|XZPSDSB|N
-|Adora  |Engi   |Boomer |Super  |Emtee|XZPSDSB|N
-|Adora  |Engi   |Super  |Boomer |Emtee|XZPSDSB|N
 |Adora  |Bomb   |Super  |Engi   |Emtee|DZPSPRF|N
-|Adora  |Bomb   |Engi   |Super  |Emtee|DZPSPRF|N
-|Adora  |Super  |Bomb   |Engi   |Emtee|DZPSPRF|N
-|Adora  |Super  |Engi   |Bomb   |Emtee|DZPSPRF|N
-|Adora  |Engi   |Bomb   |Super  |Emtee|DZPSPRF|N
-|Adora  |Engi   |Super  |Bomb   |Emtee|DZPSPRF|N
 |Adora  |Tack   |Super  |Engi   |Emtee|BZPSLGY|N
-|Adora  |Tack   |Engi   |Super  |Emtee|BZPSLGY|N
-|Adora  |Super  |Tack   |Engi   |Emtee|BZPSLGY|N
-|Adora  |Super  |Engi   |Tack   |Emtee|BZPSLGY|N
-|Adora  |Engi   |Tack   |Super  |Emtee|BZPSLGY|N
-|Adora  |Engi   |Super  |Tack   |Emtee|BZPSLGY|N
 |Adora  |Glue   |Super  |Engi   |Emtee|LZPDHLG|N
-|Adora  |Glue   |Engi   |Super  |Emtee|LZPDHLG|N
-|Adora  |Super  |Glue   |Engi   |Emtee|LZPDHLG|N
-|Adora  |Super  |Engi   |Glue   |Emtee|LZPDHLG|N
-|Adora  |Engi   |Glue   |Super  |Emtee|LZPDHLG|N
-|Adora  |Engi   |Super  |Glue   |Emtee|LZPDHLG|N
 |Adora  |Super  |Ninja  |Engi   |Emtee|FZRHSFV|N
-|Adora  |Super  |Engi   |Ninja  |Emtee|FZRHSFV|N
-|Adora  |Ninja  |Super  |Engi   |Emtee|FZRHSFV|N
-|Adora  |Ninja  |Engi   |Super  |Emtee|FZRHSFV|N
-|Adora  |Engi   |Super  |Ninja  |Emtee|FZRHSFV|N
-|Adora  |Engi   |Ninja  |Super  |Emtee|FZRHSFV|N
 |Adora  |Heli   |Super  |Engi   |Emtee|AZRHRXO|N
-|Adora  |Heli   |Engi   |Super  |Emtee|AZRHRXO|N
-|Adora  |Super  |Heli   |Engi   |Emtee|AZRHRXO|N
-|Adora  |Super  |Engi   |Heli   |Emtee|AZRHRXO|N
-|Adora  |Engi   |Heli   |Super  |Emtee|AZRHRXO|N
-|Adora  |Engi   |Super  |Heli   |Emtee|AZRHRXO|N
 |Adora  |Super  |Spact  |Engi   |Emtee|MZRUKPK|N
-|Adora  |Super  |Engi   |Spact  |Emtee|MZRUKPK|N
-|Adora  |Spact  |Super  |Engi   |Emtee|MZRUKPK|N
-|Adora  |Spact  |Engi   |Super  |Emtee|MZRUKPK|N
-|Adora  |Engi   |Super  |Spact  |Emtee|MZRUKPK|N
-|Adora  |Engi   |Spact  |Super  |Emtee|MZRUKPK|N
 |Adora  |Mortar |Super  |Engi   |Emtee|YZRUFCS|N
-|Adora  |Mortar |Engi   |Super  |Emtee|YZRUFCS|N
-|Adora  |Super  |Mortar |Engi   |Emtee|YZRUFCS|N
-|Adora  |Super  |Engi   |Mortar |Emtee|YZRUFCS|N
-|Adora  |Engi   |Mortar |Super  |Emtee|YZRUFCS|N
-|Adora  |Engi   |Super  |Mortar |Emtee|YZRUFCS|N
 |Adora  |Ice    |Super  |Engi   |Emtee|DZRUGYX|N
-|Adora  |Ice    |Engi   |Super  |Emtee|DZRUGYX|N
-|Adora  |Super  |Ice    |Engi   |Emtee|DZRUGYX|N
-|Adora  |Super  |Engi   |Ice    |Emtee|DZRUGYX|N
-|Adora  |Engi   |Ice    |Super  |Emtee|DZRUGYX|N
-|Adora  |Engi   |Super  |Ice    |Emtee|DZRUGYX|N
 |Adora  |Super  |Village|Engi   |Emtee|DZRUHHS|N
-|Adora  |Super  |Engi   |Village|Emtee|DZRUHHS|N
-|Adora  |Village|Super  |Engi   |Emtee|DZRUHHS|N
-|Adora  |Village|Engi   |Super  |Emtee|DZRUHHS|N
-|Adora  |Engi   |Super  |Village|Emtee|DZRUHHS|N
-|Adora  |Engi   |Village|Super  |Emtee|DZRUHHS|N
 |Adora  |Ice    |Heli   |Engi   |Chocbox|DZRUWGU|N
-|Adora  |Ice    |Engi   |Heli   |Chocbox|DZRUWGU|N
-|Adora  |Heli   |Ice    |Engi   |Chocbox|DZRUWGU|N
-|Adora  |Heli   |Engi   |Ice    |Chocbox|DZRUWGU|N
-|Adora  |Engi   |Ice    |Heli   |Chocbox|DZRUWGU|N
-|Adora  |Engi   |Heli   |Ice    |Chocbox|DZRUWGU|N
 |Adora  |Dart   |Bomb   |Super  |The Mochinator|CZRUEMO|N
-|Adora  |Dart   |Super  |Bomb   |The Mochinator|CZRUEMO|N
-|Adora  |Bomb   |Dart   |Super  |The Mochinator|CZRUEMO|N
-|Adora  |Bomb   |Super  |Dart   |The Mochinator|CZRUEMO|N
-|Adora  |Super  |Dart   |Bomb   |The Mochinator|CZRUEMO|N
-|Adora  |Super  |Bomb   |Dart   |The Mochinator|CZRUEMO|N
 |Adora  |Dart   |Super  |Druid  |The Mochinator|HZRUEVR|N
-|Adora  |Dart   |Druid  |Super  |The Mochinator|HZRUEVR|N
-|Adora  |Super  |Dart   |Druid  |The Mochinator|HZRUEVR|N
-|Adora  |Super  |Druid  |Dart   |The Mochinator|HZRUEVR|N
-|Adora  |Druid  |Dart   |Super  |The Mochinator|HZRUEVR|N
-|Adora  |Druid  |Super  |Dart   |The Mochinator|HZRUEVR|N
 |Adora  |Dart   |Tack   |Super  |The Mochinator|BZRUECD|N
-|Adora  |Dart   |Super  |Tack   |The Mochinator|BZRUECD|N
-|Adora  |Tack   |Dart   |Super  |The Mochinator|BZRUECD|N
-|Adora  |Tack   |Super  |Dart   |The Mochinator|BZRUECD|N
-|Adora  |Super  |Dart   |Tack   |The Mochinator|BZRUECD|N
-|Adora  |Super  |Tack   |Dart   |The Mochinator|BZRUECD|N
 |Adora  |Sub    |Wizard |Engi   |The Mochinator|GZRUPWM|N
-|Adora  |Sub    |Engi   |Wizard |The Mochinator|GZRUPWM|N
-|Adora  |Wizard |Sub    |Engi   |The Mochinator|GZRUPWM|N
-|Adora  |Wizard |Engi   |Sub    |The Mochinator|GZRUPWM|N
-|Adora  |Engi   |Sub    |Wizard |The Mochinator|GZRUPWM|N
-|Adora  |Engi   |Wizard |Sub    |The Mochinator|GZRUPWM|N
 |Adora  |Wizard |Village|Engi   |Emtee|VZRVKPY|N
-|Adora  |Wizard |Engi   |Village|Emtee|VZRVKPY|N
-|Adora  |Village|Wizard |Engi   |Emtee|VZRVKPY|N
-|Adora  |Village|Engi   |Wizard |Emtee|VZRVKPY|N
-|Adora  |Engi   |Wizard |Village|Emtee|VZRVKPY|N
-|Adora  |Engi   |Village|Wizard |Emtee|VZRVKPY|N
 |Adora  |Dart   |Bucc   |Super  |coolio1223|RZRWCVA|N
-|Adora  |Dart   |Super  |Bucc   |coolio1223|RZRWCVA|N
-|Adora  |Bucc   |Dart   |Super  |coolio1223|RZRWCVA|N
-|Adora  |Bucc   |Super  |Dart   |coolio1223|RZRWCVA|N
-|Adora  |Super  |Dart   |Bucc   |coolio1223|RZRWCVA|N
-|Adora  |Super  |Bucc   |Dart   |coolio1223|RZRWCVA|N
 |Adora  |Dart   |Tack   |Mortar |JrMonkey15184|RZRWYCT|N
-|Adora  |Dart   |Mortar |Tack   |JrMonkey15184|RZRWYCT|N
-|Adora  |Tack   |Dart   |Mortar |JrMonkey15184|RZRWYCT|N
-|Adora  |Tack   |Mortar |Dart   |JrMonkey15184|RZRWYCT|N
-|Adora  |Mortar |Dart   |Tack   |JrMonkey15184|RZRWYCT|N
-|Adora  |Mortar |Tack   |Dart   |JrMonkey15184|RZRWYCT|N
 |Adora  |Bomb   |Bucc   |Super  |ILiekFishes|BZRADXL|N
-|Adora  |Bomb   |Super  |Bucc   |ILiekFishes|BZRADXL|N
-|Adora  |Bucc   |Bomb   |Super  |ILiekFishes|BZRADXL|N
-|Adora  |Bucc   |Super  |Bomb   |ILiekFishes|BZRADXL|N
-|Adora  |Super  |Bomb   |Bucc   |ILiekFishes|BZRADXL|N
-|Adora  |Super  |Bucc   |Bomb   |ILiekFishes|BZRADXL|N
 |Adora  |Tack   |Bucc   |Super  |ILiekFishes|XZRADRS|N
-|Adora  |Tack   |Super  |Bucc   |ILiekFishes|XZRADRS|N
-|Adora  |Bucc   |Tack   |Super  |ILiekFishes|XZRADRS|N
-|Adora  |Bucc   |Super  |Tack   |ILiekFishes|XZRADRS|N
-|Adora  |Super  |Tack   |Bucc   |ILiekFishes|XZRADRS|N
-|Adora  |Super  |Bucc   |Tack   |ILiekFishes|XZRADRS|N
 |Adora  |Boomer |Sub    |Village|ILiekFishes|KZRBGDS|N
-|Adora  |Boomer |Village|Sub    |ILiekFishes|KZRBGDS|N
-|Adora  |Sub    |Boomer |Village|ILiekFishes|KZRBGDS|N
-|Adora  |Sub    |Village|Boomer |ILiekFishes|KZRBGDS|N
-|Adora  |Village|Boomer |Sub    |ILiekFishes|KZRBGDS|N
-|Adora  |Village|Sub    |Boomer |ILiekFishes|KZRBGDS|N
 |Adora  |Dart   |Boomer |Spact  |ILiekFishes|GZRBUTY|N
-|Adora  |Dart   |Spact  |Boomer |ILiekFishes|GZRBUTY|N
-|Adora  |Boomer |Dart   |Spact  |ILiekFishes|GZRBUTY|N
-|Adora  |Boomer |Spact  |Dart   |ILiekFishes|GZRBUTY|N
-|Adora  |Spact  |Dart   |Boomer |ILiekFishes|GZRBUTY|N
-|Adora  |Spact  |Boomer |Dart   |ILiekFishes|GZRBUTY|N
 |Adora  |Wizard |Alch   |Village|The Mochinator|PZRBWAR|N
-|Adora  |Wizard |Village|Alch   |The Mochinator|PZRBWAR|N
-|Adora  |Alch   |Wizard |Village|The Mochinator|PZRBWAR|N
-|Adora  |Alch   |Village|Wizard |The Mochinator|PZRBWAR|N
-|Adora  |Village|Wizard |Alch   |The Mochinator|PZRBWAR|N
-|Adora  |Village|Alch   |Wizard |The Mochinator|PZRBWAR|N
 |Adora  |Boomer |Ice    |Wizard |The Mochinator|MZRBLGS|N
-|Adora  |Boomer |Wizard |Ice    |The Mochinator|MZRBLGS|N
-|Adora  |Ice    |Boomer |Wizard |The Mochinator|MZRBLGS|N
-|Adora  |Ice    |Wizard |Boomer |The Mochinator|MZRBLGS|N
-|Adora  |Wizard |Boomer |Ice    |The Mochinator|MZRBLGS|N
-|Adora  |Wizard |Ice    |Boomer |The Mochinator|MZRBLGS|N
 |Adora  |Tack   |Sub    |Alch   |The Mochinator|KZRBLLD|N
-|Adora  |Tack   |Alch   |Sub    |The Mochinator|KZRBLLD|N
-|Adora  |Sub    |Tack   |Alch   |The Mochinator|KZRBLLD|N
-|Adora  |Sub    |Alch   |Tack   |The Mochinator|KZRBLLD|N
-|Adora  |Alch   |Tack   |Sub    |The Mochinator|KZRBLLD|N
-|Adora  |Alch   |Sub    |Tack   |The Mochinator|KZRBLLD|N
 |Adora  |Glue   |Wizard |Engi   |The Mochinator|LZRCKMS|N
-|Adora  |Glue   |Engi   |Wizard |The Mochinator|LZRCKMS|N
-|Adora  |Wizard |Glue   |Engi   |The Mochinator|LZRCKMS|N
-|Adora  |Wizard |Engi   |Glue   |The Mochinator|LZRCKMS|N
-|Adora  |Engi   |Glue   |Wizard |The Mochinator|LZRCKMS|N
-|Adora  |Engi   |Wizard |Glue   |The Mochinator|LZRCKMS|N
 |Adora  |Dart   |Spact  |Village|ILiekFishes|GZRCRUD|N
-|Adora  |Dart   |Village|Spact  |ILiekFishes|GZRCRUD|N
-|Adora  |Spact  |Dart   |Village|ILiekFishes|GZRCRUD|N
-|Adora  |Spact  |Village|Dart   |ILiekFishes|GZRCRUD|N
-|Adora  |Village|Dart   |Spact  |ILiekFishes|GZRCRUD|N
-|Adora  |Village|Spact  |Dart   |ILiekFishes|GZRCRUD|N
 |Adora  |Boomer |Heli   |Engi   |coolio1223|SZRCYRA|N
-|Adora  |Boomer |Engi   |Heli   |coolio1223|SZRCYRA|N
-|Adora  |Heli   |Boomer |Engi   |coolio1223|SZRCYRA|N
-|Adora  |Heli   |Engi   |Boomer |coolio1223|SZRCYRA|N
-|Adora  |Engi   |Boomer |Heli   |coolio1223|SZRCYRA|N
-|Adora  |Engi   |Heli   |Boomer |coolio1223|SZRCYRA|N
 |Adora  |Glue   |Sub    |Ace    |The Mochinator|DZRCLYE|N
-|Adora  |Glue   |Ace    |Sub    |The Mochinator|DZRCLYE|N
-|Adora  |Sub    |Glue   |Ace    |The Mochinator|DZRCLYE|N
-|Adora  |Sub    |Ace    |Glue   |The Mochinator|DZRCLYE|N
-|Adora  |Ace    |Glue   |Sub    |The Mochinator|DZRCLYE|N
-|Adora  |Ace    |Sub    |Glue   |The Mochinator|DZRCLYE|N
 |Adora  |Boomer |Glue   |Wizard |coolio1223|RZRSVXA|N
-|Adora  |Boomer |Wizard |Glue   |coolio1223|RZRSVXA|N
-|Adora  |Glue   |Boomer |Wizard |coolio1223|RZRSVXA|N
-|Adora  |Glue   |Wizard |Boomer |coolio1223|RZRSVXA|N
-|Adora  |Wizard |Boomer |Glue   |coolio1223|RZRSVXA|N
-|Adora  |Wizard |Glue   |Boomer |coolio1223|RZRSVXA|N
 |Adora  |Dart   |Ice    |Heli   |The Mochinator|PZRSRTA|N
-|Adora  |Dart   |Heli   |Ice    |The Mochinator|PZRSRTA|N
-|Adora  |Ice    |Dart   |Heli   |The Mochinator|PZRSRTA|N
-|Adora  |Ice    |Heli   |Dart   |The Mochinator|PZRSRTA|N
-|Adora  |Heli   |Dart   |Ice    |The Mochinator|PZRSRTA|N
-|Adora  |Heli   |Ice    |Dart   |The Mochinator|PZRSRTA|N
 |Adora  |Boomer |Ice    |Heli   |The Mochinator|AZRSRPD|N
-|Adora  |Boomer |Heli   |Ice    |The Mochinator|AZRSRPD|N
-|Adora  |Ice    |Boomer |Heli   |The Mochinator|AZRSRPD|N
-|Adora  |Ice    |Heli   |Boomer |The Mochinator|AZRSRPD|N
-|Adora  |Heli   |Boomer |Ice    |The Mochinator|AZRSRPD|N
-|Adora  |Heli   |Ice    |Boomer |The Mochinator|AZRSRPD|N
 |Adora  |Sniper |Bucc   |Heli   |The Mochinator|UZRDMEL|N
-|Adora  |Sniper |Heli   |Bucc   |The Mochinator|UZRDMEL|N
-|Adora  |Bucc   |Sniper |Heli   |The Mochinator|UZRDMEL|N
-|Adora  |Bucc   |Heli   |Sniper |The Mochinator|UZRDMEL|N
-|Adora  |Heli   |Sniper |Bucc   |The Mochinator|UZRDMEL|N
-|Adora  |Heli   |Bucc   |Sniper |The Mochinator|UZRDMEL|N
 |Adora  |Dart   |Sniper |Heli   |The Mochinator|MZRDFPS|N
-|Adora  |Dart   |Heli   |Sniper |The Mochinator|MZRDFPS|N
-|Adora  |Sniper |Dart   |Heli   |The Mochinator|MZRDFPS|N
-|Adora  |Sniper |Heli   |Dart   |The Mochinator|MZRDFPS|N
-|Adora  |Heli   |Dart   |Sniper |The Mochinator|MZRDFPS|N
-|Adora  |Heli   |Sniper |Dart   |The Mochinator|MZRDFPS|N
 |Adora  |Dart   |Heli   |Engi   |The Mochinator|WZRDBRM|N
-|Adora  |Dart   |Engi   |Heli   |The Mochinator|WZRDBRM|N
-|Adora  |Heli   |Dart   |Engi   |The Mochinator|WZRDBRM|N
-|Adora  |Heli   |Engi   |Dart   |The Mochinator|WZRDBRM|N
-|Adora  |Engi   |Dart   |Heli   |The Mochinator|WZRDBRM|N
-|Adora  |Engi   |Heli   |Dart   |The Mochinator|WZRDBRM|N
 |Adora  |Bomb   |Heli   |Engi   |The Mochinator|GZRDCLX|N
-|Adora  |Bomb   |Engi   |Heli   |The Mochinator|GZRDCLX|N
-|Adora  |Heli   |Bomb   |Engi   |The Mochinator|GZRDCLX|N
-|Adora  |Heli   |Engi   |Bomb   |The Mochinator|GZRDCLX|N
-|Adora  |Engi   |Bomb   |Heli   |The Mochinator|GZRDCLX|N
-|Adora  |Engi   |Heli   |Bomb   |The Mochinator|GZRDCLX|N
 |Adora  |Sniper |Heli   |Engi   |The Mochinator|PZRDEHX|N
-|Adora  |Sniper |Engi   |Heli   |The Mochinator|PZRDEHX|N
-|Adora  |Heli   |Sniper |Engi   |The Mochinator|PZRDEHX|N
-|Adora  |Heli   |Engi   |Sniper |The Mochinator|PZRDEHX|N
-|Adora  |Engi   |Sniper |Heli   |The Mochinator|PZRDEHX|N
-|Adora  |Engi   |Heli   |Sniper |The Mochinator|PZRDEHX|N
 |Adora  |Tack   |Heli   |Engi   |The Mochinator|OZRDESH|N
-|Adora  |Tack   |Engi   |Heli   |The Mochinator|OZRDESH|N
-|Adora  |Heli   |Tack   |Engi   |The Mochinator|OZRDESH|N
-|Adora  |Heli   |Engi   |Tack   |The Mochinator|OZRDESH|N
-|Adora  |Engi   |Tack   |Heli   |The Mochinator|OZRDESH|N
-|Adora  |Engi   |Heli   |Tack   |The Mochinator|OZRDESH|N
 |Adora  |Heli   |Mortar |Engi   |The Mochinator|LZRDPYY|N
-|Adora  |Heli   |Engi   |Mortar |The Mochinator|LZRDPYY|N
-|Adora  |Mortar |Heli   |Engi   |The Mochinator|LZRDPYY|N
-|Adora  |Mortar |Engi   |Heli   |The Mochinator|LZRDPYY|N
-|Adora  |Engi   |Heli   |Mortar |The Mochinator|LZRDPYY|N
-|Adora  |Engi   |Mortar |Heli   |The Mochinator|LZRDPYY|N
 |Adora  |Bucc   |Heli   |Engi   |The Mochinator|WZREKXY|N
-|Adora  |Bucc   |Engi   |Heli   |The Mochinator|WZREKXY|N
-|Adora  |Heli   |Bucc   |Engi   |The Mochinator|WZREKXY|N
-|Adora  |Heli   |Engi   |Bucc   |The Mochinator|WZREKXY|N
-|Adora  |Engi   |Bucc   |Heli   |The Mochinator|WZREKXY|N
-|Adora  |Engi   |Heli   |Bucc   |The Mochinator|WZREKXY|N
 |Adora  |Ace    |Super  |Druid  |coolio1223|RZREGLE|N
-|Adora  |Ace    |Druid  |Super  |coolio1223|RZREGLE|N
-|Adora  |Super  |Ace    |Druid  |coolio1223|RZREGLE|N
-|Adora  |Super  |Druid  |Ace    |coolio1223|RZREGLE|N
-|Adora  |Druid  |Ace    |Super  |coolio1223|RZREGLE|N
-|Adora  |Druid  |Super  |Ace    |coolio1223|RZREGLE|N
 |Adora  |Ace    |Druid  |Village|The Mochinator|CZREUXS|N
-|Adora  |Ace    |Village|Druid  |The Mochinator|CZREUXS|N
-|Adora  |Druid  |Ace    |Village|The Mochinator|CZREUXS|N
-|Adora  |Druid  |Village|Ace    |The Mochinator|CZREUXS|N
-|Adora  |Village|Ace    |Druid  |The Mochinator|CZREUXS|N
-|Adora  |Village|Druid  |Ace    |The Mochinator|CZREUXS|N
 |Adora  |Bucc   |Super  |Engi   |coolio1223|OZREWUM|N
-|Adora  |Bucc   |Engi   |Super  |coolio1223|OZREWUM|N
-|Adora  |Super  |Bucc   |Engi   |coolio1223|OZREWUM|N
-|Adora  |Super  |Engi   |Bucc   |coolio1223|OZREWUM|N
-|Adora  |Engi   |Bucc   |Super  |coolio1223|OZREWUM|N
-|Adora  |Engi   |Super  |Bucc   |coolio1223|OZREWUM|N
 |Adora  |Wizard |Alch   |Druid  |The Mochinator|VZREDUX|N
-|Adora  |Wizard |Druid  |Alch   |The Mochinator|VZREDUX|N
-|Adora  |Alch   |Wizard |Druid  |The Mochinator|VZREDUX|N
-|Adora  |Alch   |Druid  |Wizard |The Mochinator|VZREDUX|N
-|Adora  |Druid  |Wizard |Alch   |The Mochinator|VZREDUX|N
-|Adora  |Druid  |Alch   |Wizard |The Mochinator|VZREDUX|N
 |Adora  |Boomer |Wizard |Alch   |The Mochinator|VZREPHL|N
-|Adora  |Boomer |Alch   |Wizard |The Mochinator|VZREPHL|N
-|Adora  |Wizard |Boomer |Alch   |The Mochinator|VZREPHL|N
-|Adora  |Wizard |Alch   |Boomer |The Mochinator|VZREPHL|N
-|Adora  |Alch   |Boomer |Wizard |The Mochinator|VZREPHL|N
-|Adora  |Alch   |Wizard |Boomer |The Mochinator|VZREPHL|N
 |Adora  |Ice    |Ace    |Super  |The Mochinator|GZRPCGA|N
-|Adora  |Ice    |Super  |Ace    |The Mochinator|GZRPCGA|N
-|Adora  |Ace    |Ice    |Super  |The Mochinator|GZRPCGA|N
-|Adora  |Ace    |Super  |Ice    |The Mochinator|GZRPCGA|N
-|Adora  |Super  |Ice    |Ace    |The Mochinator|GZRPCGA|N
-|Adora  |Super  |Ace    |Ice    |The Mochinator|GZRPCGA|N
 |Adora  |Bucc   |Super  |Ninja  |coolio1223|MZRPSAH|N
-|Adora  |Bucc   |Ninja  |Super  |coolio1223|MZRPSAH|N
-|Adora  |Super  |Bucc   |Ninja  |coolio1223|MZRPSAH|N
-|Adora  |Super  |Ninja  |Bucc   |coolio1223|MZRPSAH|N
-|Adora  |Ninja  |Bucc   |Super  |coolio1223|MZRPSAH|N
-|Adora  |Ninja  |Super  |Bucc   |coolio1223|MZRPSAH|N
 |Adora  |Boomer |Wizard |Engi   |coolio1223|DZRRFWF|N
-|Adora  |Boomer |Engi   |Wizard |coolio1223|DZRRFWF|N
-|Adora  |Wizard |Boomer |Engi   |coolio1223|DZRRFWF|N
-|Adora  |Wizard |Engi   |Boomer |coolio1223|DZRRFWF|N
-|Adora  |Engi   |Boomer |Wizard |coolio1223|DZRRFWF|N
-|Adora  |Engi   |Wizard |Boomer |coolio1223|DZRRFWF|N
 |Adora  |Bomb   |Wizard |Engi   |ILiekFishes|OZRYMGY|N
-|Adora  |Bomb   |Engi   |Wizard |ILiekFishes|OZRYMGY|N
-|Adora  |Wizard |Bomb   |Engi   |ILiekFishes|OZRYMGY|N
-|Adora  |Wizard |Engi   |Bomb   |ILiekFishes|OZRYMGY|N
-|Adora  |Engi   |Bomb   |Wizard |ILiekFishes|OZRYMGY|N
-|Adora  |Engi   |Wizard |Bomb   |ILiekFishes|OZRYMGY|N
 |Adora  |Tack   |Glue   |Wizard |ILiekFishes|UZRYMYB|N
-|Adora  |Tack   |Wizard |Glue   |ILiekFishes|UZRYMYB|N
-|Adora  |Glue   |Tack   |Wizard |ILiekFishes|UZRYMYB|N
-|Adora  |Glue   |Wizard |Tack   |ILiekFishes|UZRYMYB|N
-|Adora  |Wizard |Tack   |Glue   |ILiekFishes|UZRYMYB|N
-|Adora  |Wizard |Glue   |Tack   |ILiekFishes|UZRYMYB|N
 |Adora  |Bomb   |Sub    |Ace    |ILiekFishes|SZRLKVP|N
-|Adora  |Bomb   |Ace    |Sub    |ILiekFishes|SZRLKVP|N
-|Adora  |Sub    |Bomb   |Ace    |ILiekFishes|SZRLKVP|N
-|Adora  |Sub    |Ace    |Bomb   |ILiekFishes|SZRLKVP|N
-|Adora  |Ace    |Bomb   |Sub    |ILiekFishes|SZRLKVP|N
-|Adora  |Ace    |Sub    |Bomb   |ILiekFishes|SZRLKVP|N
 |Adora  |Bomb   |Wizard |Village|ILiekFishes|PZROWKR|N
-|Adora  |Bomb   |Village|Wizard |ILiekFishes|PZROWKR|N
-|Adora  |Wizard |Bomb   |Village|ILiekFishes|PZROWKR|N
-|Adora  |Wizard |Village|Bomb   |ILiekFishes|PZROWKR|N
-|Adora  |Village|Bomb   |Wizard |ILiekFishes|PZROWKR|N
-|Adora  |Village|Wizard |Bomb   |ILiekFishes|PZROWKR|N
 |Adora  |Boomer |Bucc   |Spact  |ILiekFishes|XZYKVKT|N
-|Adora  |Boomer |Spact  |Bucc   |ILiekFishes|XZYKVKT|N
-|Adora  |Bucc   |Boomer |Spact  |ILiekFishes|XZYKVKT|N
-|Adora  |Bucc   |Spact  |Boomer |ILiekFishes|XZYKVKT|N
-|Adora  |Spact  |Boomer |Bucc   |ILiekFishes|XZYKVKT|N
-|Adora  |Spact  |Bucc   |Boomer |ILiekFishes|XZYKVKT|N
 |Adora  |Boomer |Tack   |Wizard |coolio1223|RZYKVRW|N
-|Adora  |Boomer |Wizard |Tack   |coolio1223|RZYKVRW|N
-|Adora  |Tack   |Boomer |Wizard |coolio1223|RZYKVRW|N
-|Adora  |Tack   |Wizard |Boomer |coolio1223|RZYKVRW|N
-|Adora  |Wizard |Boomer |Tack   |coolio1223|RZYKVRW|N
-|Adora  |Wizard |Tack   |Boomer |coolio1223|RZYKVRW|N
 |Adora  |Boomer |Ninja  |Spact  |ILiekFishes|RZYMDTP|N
-|Adora  |Boomer |Spact  |Ninja  |ILiekFishes|RZYMDTP|N
-|Adora  |Ninja  |Boomer |Spact  |ILiekFishes|RZYMDTP|N
-|Adora  |Ninja  |Spact  |Boomer |ILiekFishes|RZYMDTP|N
-|Adora  |Spact  |Boomer |Ninja  |ILiekFishes|RZYMDTP|N
-|Adora  |Spact  |Ninja  |Boomer |ILiekFishes|RZYMDTP|N
 |Adora  |Ice    |Sniper |Wizard |The Mochinator|WZYFFUU|N
-|Adora  |Ice    |Wizard |Sniper |The Mochinator|WZYFFUU|N
-|Adora  |Sniper |Ice    |Wizard |The Mochinator|WZYFFUU|N
-|Adora  |Sniper |Wizard |Ice    |The Mochinator|WZYFFUU|N
-|Adora  |Wizard |Ice    |Sniper |The Mochinator|WZYFFUU|N
-|Adora  |Wizard |Sniper |Ice    |The Mochinator|WZYFFUU|N
 |Adora  |Heli   |Druid  |Engi   |The Mochinator|YZYFEKF|N
-|Adora  |Heli   |Engi   |Druid  |The Mochinator|YZYFEKF|N
-|Adora  |Druid  |Heli   |Engi   |The Mochinator|YZYFEKF|N
-|Adora  |Druid  |Engi   |Heli   |The Mochinator|YZYFEKF|N
-|Adora  |Engi   |Heli   |Druid  |The Mochinator|YZYFEKF|N
-|Adora  |Engi   |Druid  |Heli   |The Mochinator|YZYFEKF|N
 |Adora  |Ice    |Bucc   |Heli   |The Mochinator|GZYFOSF|N
-|Adora  |Ice    |Heli   |Bucc   |The Mochinator|GZYFOSF|N
-|Adora  |Bucc   |Ice    |Heli   |The Mochinator|GZYFOSF|N
-|Adora  |Bucc   |Heli   |Ice    |The Mochinator|GZYFOSF|N
-|Adora  |Heli   |Ice    |Bucc   |The Mochinator|GZYFOSF|N
-|Adora  |Heli   |Bucc   |Ice    |The Mochinator|GZYFOSF|N
 |Adora  |Boomer |Glue   |Spact  |The Mochinator|TZYGLEP|N
-|Adora  |Boomer |Spact  |Glue   |The Mochinator|TZYGLEP|N
-|Adora  |Glue   |Boomer |Spact  |The Mochinator|TZYGLEP|N
-|Adora  |Glue   |Spact  |Boomer |The Mochinator|TZYGLEP|N
-|Adora  |Spact  |Boomer |Glue   |The Mochinator|TZYGLEP|N
-|Adora  |Spact  |Glue   |Boomer |The Mochinator|TZYGLEP|N
 |Adora  |Boomer |Village|Engi   |coolio1223|OZYGOMU|N
-|Adora  |Boomer |Engi   |Village|coolio1223|OZYGOMU|N
-|Adora  |Village|Boomer |Engi   |coolio1223|OZYGOMU|N
-|Adora  |Village|Engi   |Boomer |coolio1223|OZYGOMU|N
-|Adora  |Engi   |Boomer |Village|coolio1223|OZYGOMU|N
-|Adora  |Engi   |Village|Boomer |coolio1223|OZYGOMU|N
 |Adora  |Glue   |Bucc   |Heli   |The Mochinator|WZYHFDS|N
-|Adora  |Glue   |Heli   |Bucc   |The Mochinator|WZYHFDS|N
-|Adora  |Bucc   |Glue   |Heli   |The Mochinator|WZYHFDS|N
-|Adora  |Bucc   |Heli   |Glue   |The Mochinator|WZYHFDS|N
-|Adora  |Heli   |Glue   |Bucc   |The Mochinator|WZYHFDS|N
-|Adora  |Heli   |Bucc   |Glue   |The Mochinator|WZYHFDS|N
 |Adora  |Bomb   |Ice    |Wizard |The Mochinator|YZYHTAO|N
-|Adora  |Bomb   |Wizard |Ice    |The Mochinator|YZYHTAO|N
-|Adora  |Ice    |Bomb   |Wizard |The Mochinator|YZYHTAO|N
-|Adora  |Ice    |Wizard |Bomb   |The Mochinator|YZYHTAO|N
-|Adora  |Wizard |Bomb   |Ice    |The Mochinator|YZYHTAO|N
-|Adora  |Wizard |Ice    |Bomb   |The Mochinator|YZYHTAO|N
 |Adora  |Dart   |Ice    |Village|TremenMusic|MZYHBBU|N
-|Adora  |Dart   |Village|Ice    |TremenMusic|MZYHBBU|N
-|Adora  |Ice    |Dart   |Village|TremenMusic|MZYHBBU|N
-|Adora  |Ice    |Village|Dart   |TremenMusic|MZYHBBU|N
-|Adora  |Village|Dart   |Ice    |TremenMusic|MZYHBBU|N
-|Adora  |Village|Ice    |Dart   |TremenMusic|MZYHBBU|N
 |Adora  |Boomer |Druid  |Village|The Mochinator|WZYHCKD|N
-|Adora  |Boomer |Village|Druid  |The Mochinator|WZYHCKD|N
-|Adora  |Druid  |Boomer |Village|The Mochinator|WZYHCKD|N
-|Adora  |Druid  |Village|Boomer |The Mochinator|WZYHCKD|N
-|Adora  |Village|Boomer |Druid  |The Mochinator|WZYHCKD|N
-|Adora  |Village|Druid  |Boomer |The Mochinator|WZYHCKD|N
 |Adora  |Boomer |Ice    |Village|TremenMusic|DZYHCUP|N
-|Adora  |Boomer |Village|Ice    |TremenMusic|DZYHCUP|N
-|Adora  |Ice    |Boomer |Village|TremenMusic|DZYHCUP|N
-|Adora  |Ice    |Village|Boomer |TremenMusic|DZYHCUP|N
-|Adora  |Village|Boomer |Ice    |TremenMusic|DZYHCUP|N
-|Adora  |Village|Ice    |Boomer |TremenMusic|DZYHCUP|N
 |Adora  |Tack   |Mortar |Super  |TremenMusic|MZYHOUM|N
-|Adora  |Tack   |Super  |Mortar |TremenMusic|MZYHOUM|N
-|Adora  |Mortar |Tack   |Super  |TremenMusic|MZYHOUM|N
-|Adora  |Mortar |Super  |Tack   |TremenMusic|MZYHOUM|N
-|Adora  |Super  |Tack   |Mortar |TremenMusic|MZYHOUM|N
-|Adora  |Super  |Mortar |Tack   |TremenMusic|MZYHOUM|N
 |Striker|Dart   |Sub    |Mortar |Gavo38322|DZYVAFO|N
 |Striker|Bomb   |Sub    |Mortar |Gavo38322|DZYVAFO|N
 |Striker|Ice    |Sub    |Mortar |Gavo38322|DZYVAFO|N
