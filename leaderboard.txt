@@ -1,20 +1,21 @@
-The Mochinator: 1041
-Char: 320
+The Mochinator: 1120
+Char: 327
 Agent51: 282
 Emtee: 270
-coolio1223: 247
+coolio1223: 264
 the_op_boss: 243
 Great Mage: 198
 rigged: 186
 ILiekFishes: 178
 Topaz: 165
+Gavo38322: 145
 kernnpop: 142
-Gavo38322: 137
 315Lukas: 132
 Chocbox: 123
 meta: 118
 frds: 115
 Urinetosh: 100
+InnateWarrior: 80
 Smurfblade: 77
 PEZmaster2: 77
 TremenMusic: 76
@@ -25,10 +26,10 @@ RainbowDox: 47
 The Line: 44
 Natethesnake: 43
 Jollto13: 36
+epicalex4444: 33
 TheKNEE13: 31
 TheMainTrain: 28
 Mr-Samson: 28
-InnateWarrior: 27
 KaptainKrunche: 25
 rmlgaming: 23
 Lookatmeimamod: 23
@@ -87,6 +88,7 @@ Tyrell: 1
 ThinkHam: 1
 Samhulk99: 1
 Qelxiros: 1
+Murasame: 1
 MrDeagle: 1
 Minecraft: 1
 Millionsofmario: 1
