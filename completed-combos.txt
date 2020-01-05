@@ -8603,3 +8603,201 @@
 |Dart   |Boomer |Sub    |Bucc   |coolio1223|VZYTSRM|N
 |Dart   |Glue   |Sub    |Bucc   |coolio1223|UZYTOUO|N
 |Dart   |Sub    |Bucc   |Spact  |coolio1223|OZYXHXA|N
+|Ben    |Bomb   |Ace    |Alch   |The Mochinator|KZYPLYF|N
+|Ben    |Tack   |Ace    |Alch   |The Mochinator|KZYPLYF|N
+|Ben    |Sniper |Ace    |Alch   |The Mochinator|KZYPLYF|N
+|Ben    |Ace    |Alch   |Druid  |The Mochinator|KZYPLYF|N
+|Ben    |Ace    |Alch   |Village|The Mochinator|KZYPLYF|N
+|Adora  |Boomer |Bomb   |Wizard |epicalex4444|TZYSUYD|N
+|Adora  |Boomer |Sniper |Wizard |epicalex4444|TZYSUYD|N
+|Adora  |Boomer |Wizard |Druid  |epicalex4444|TZYSUYD|N
+|Adora  |Bomb   |Tack   |Wizard |epicalex4444|TZYSUYD|N
+|Adora  |Bomb   |Glue   |Wizard |epicalex4444|TZYSUYD|N
+|Adora  |Bomb   |Wizard |Alch   |epicalex4444|TZYSUYD|N
+|Adora  |Bomb   |Wizard |Druid  |epicalex4444|TZYSUYD|N
+|Adora  |Tack   |Sniper |Wizard |epicalex4444|TZYSUYD|N
+|Adora  |Tack   |Wizard |Druid  |epicalex4444|TZYSUYD|N
+|Adora  |Tack   |Wizard |Engi   |epicalex4444|TZYSUYD|N
+|Adora  |Ice    |Glue   |Wizard |epicalex4444|TZYSUYD|N
+|Adora  |Ice    |Wizard |Alch   |epicalex4444|TZYSUYD|N
+|Adora  |Ice    |Wizard |Village|epicalex4444|TZYSUYD|N
+|Adora  |Ice    |Wizard |Engi   |epicalex4444|TZYSUYD|N
+|Adora  |Glue   |Wizard |Alch   |epicalex4444|TZYSUYD|N
+|Adora  |Glue   |Wizard |Druid  |epicalex4444|TZYSUYD|N
+|Adora  |Sniper |Sub    |Wizard |epicalex4444|TZYSUYD|N
+|Adora  |Sniper |Wizard |Alch   |epicalex4444|TZYSUYD|N
+|Adora  |Sniper |Wizard |Druid  |epicalex4444|TZYSUYD|N
+|Adora  |Sub    |Wizard |Alch   |epicalex4444|TZYSUYD|N
+|Adora  |Sub    |Wizard |Druid  |epicalex4444|TZYSUYD|N
+|Adora  |Sub    |Wizard |Village|epicalex4444|TZYSUYD|N
+|Adora  |Wizard |Alch   |Engi   |epicalex4444|TZYSUYD|N
+|Adora  |Wizard |Druid  |Engi   |epicalex4444|TZYSUYD|N
+|Adora  |Dart   |Sub    |Village|Gavo38322|KZYLYSF|N
+|Adora  |Ice    |Sub    |Village|Gavo38322|KZYLYSF|N
+|Adora  |Sniper |Sub    |Village|Gavo38322|KZYLYSF|N
+|Adora  |Sub    |Ninja  |Village|Gavo38322|KZYLYSF|N
+|Adora  |Sub    |Alch   |Village|Gavo38322|KZYLYSF|N
+|Adora  |Sub    |Druid  |Village|Gavo38322|KZYLYSF|N
+|Adora  |Sub    |Spact  |Village|Gavo38322|KZYLYSF|N
+|Adora  |Sub    |Village|Engi   |Gavo38322|KZYLYSF|N
+|Ezili  |Boomer |Mortar |Village|Murasame|RZYOMBH|N
+|Gwen   |Dart   |Boomer |Heli   |The Mochinator|WZYOSFA|N
+|Gwen   |Dart   |Bomb   |Heli   |The Mochinator|WZYOSFA|N
+|Gwen   |Dart   |Tack   |Heli   |The Mochinator|WZYOSFA|N
+|Gwen   |Dart   |Glue   |Heli   |The Mochinator|WZYOSFA|N
+|Gwen   |Dart   |Heli   |Druid  |The Mochinator|WZYOSFA|N
+|Adora  |Dart   |Super  |Village|coolio1223|GZYOSOG|N
+|Adora  |Bucc   |Super  |Druid  |coolio1223|N/A|N
+|Adora  |Tack   |Sub    |Spact  |InnateWarrior|UZLHUUT|N
+|Pat    |Tack   |Village|Engi   |InnateWarrior|TZLHUYD|N
+|Pat    |Tack   |Sniper |Village|InnateWarrior|PZLHWBK|N
+|Pat    |Tack   |Mortar |Village|InnateWarrior|TZLHTGW|N
+|Pat    |Tack   |Druid  |Village|InnateWarrior|MZLHADD|N
+|Ezili  |Bomb   |Tack   |Village|InnateWarrior|LZLHBER|N
+|Ezili  |Tack   |Sniper |Village|InnateWarrior|WZLHCXG|N
+|Ezili  |Tack   |Mortar |Village|InnateWarrior|BZLHSGM|N
+|Ezili  |Tack   |Druid  |Engi   |InnateWarrior|RZLHSYA|N
+|Ezili  |Tack   |Druid  |Village|InnateWarrior|DZLHDSA|N
+|Obyn   |Bomb   |Tack   |Village|InnateWarrior|CZLHPDU|N
+|Obyn   |Tack   |Sniper |Village|InnateWarrior|FZLHRGF|N
+|Obyn   |Tack   |Mortar |Village|InnateWarrior|AZLHRAE|N
+|Adora  |Tack   |Sniper |Village|InnateWarrior|BZLUMLS|N
+|Adora  |Tack   |Mortar |Village|InnateWarrior|BZLUFDM|N
+|Adora  |Tack   |Druid  |Village|InnateWarrior|CZLUGVL|N
+|Adora  |Tack   |Village|Engi   |InnateWarrior|EZLUGRA|N
+|Tack   |Super  |Druid  |Village|InnateWarrior|EZLUURH|N
+|Tack   |Mortar |Village|Engi   |InnateWarrior|PZLUVCA|N
+|Tack   |Sniper |Super  |Village|InnateWarrior|UZLUWDK|N
+|Striker|Tack   |Village|Engi   |InnateWarrior|XZLUTCY|N
+|Adora  |Dart   |Boomer |Sub    |InnateWarrior|PZLUXOR|N
+|Bomb   |Sniper |Super  |Village|coolio1223|TZLUSGE|N
+|Adora  |Heli   |Village|Engi   |InnateWarrior|AZLUSYR|N
+|Gwen   |Dart   |Bomb   |Mortar |epicalex4444|HZLUEXM|N
+|Gwen   |Dart   |Ice    |Mortar |epicalex4444|HZLUEXM|N
+|Gwen   |Dart   |Glue   |Mortar |epicalex4444|HZLUEXM|N
+|Gwen   |Dart   |Sniper |Mortar |epicalex4444|HZLUEXM|N
+|Gwen   |Dart   |Sub    |Mortar |epicalex4444|HZLUEXM|N
+|Gwen   |Dart   |Mortar |Ninja  |epicalex4444|HZLUEXM|N
+|Gwen   |Dart   |Mortar |Druid  |epicalex4444|HZLUEXM|N
+|Gwen   |Dart   |Mortar |Village|epicalex4444|HZLUEXM|N
+|Gwen   |Dart   |Mortar |Engi   |epicalex4444|HZLUEXM|N
+|Adora  |Spact  |Village|Engi   |InnateWarrior|OZLUPFS|N
+|Sniper |Super  |Druid  |Village|coolio1223|UZLUELM|N
+|Adora  |Dart   |Ace    |Druid  |The Mochinator|CZLURXH|N
+|Adora  |Boomer |Ace    |Druid  |The Mochinator|CZLURXH|N
+|Adora  |Bomb   |Ace    |Druid  |The Mochinator|CZLURXH|N
+|Adora  |Tack   |Ace    |Druid  |The Mochinator|CZLURXH|N
+|Adora  |Ice    |Ace    |Druid  |The Mochinator|CZLURXH|N
+|Adora  |Glue   |Ace    |Druid  |The Mochinator|CZLURXH|N
+|Adora  |Sniper |Ace    |Druid  |The Mochinator|CZLURXH|N
+|Adora  |Sub    |Ace    |Druid  |The Mochinator|CZLURXH|N
+|Adora  |Bucc   |Ace    |Druid  |The Mochinator|CZLURXH|N
+|Adora  |Ace    |Mortar |Druid  |The Mochinator|CZLURXH|N
+|Adora  |Ace    |Ninja  |Druid  |The Mochinator|CZLURXH|N
+|Adora  |Ace    |Alch   |Druid  |The Mochinator|CZLURXH|N
+|Adora  |Mortar |Village|Engi   |InnateWarrior|DZLURBU|N
+|Adora  |Dart   |Mortar |Village|InnateWarrior|YZLUOMV|N
+|Bomb   |Tack   |Bucc   |Ace    |Char|SZLUOSM|N
+|Tack   |Sniper |Bucc   |Ace    |Char|SZLUOSM|N
+|Tack   |Bucc   |Ace    |Druid  |Char|SZLUOSM|N
+|Quincy |Tack   |Bucc   |Ace    |Char|SZLUOSM|N
+|Striker|Tack   |Bucc   |Ace    |Char|SZLUOSM|N
+|Adora  |Tack   |Bucc   |Ace    |Char|SZLUOSM|N
+|Ben    |Tack   |Bucc   |Ace    |Char|SZLUOSM|N
+|Adora  |Boomer |Mortar |Village|InnateWarrior|TZLVMBB|N
+|Adora  |Mortar |Ninja  |Village|InnateWarrior|RZLVFUF|N
+|Adora  |Mortar |Alch   |Village|InnateWarrior|WZLVFLE|N
+|Ben    |Boomer |Bomb   |Spact  |The Mochinator|MZLVGFU|N
+|Ben    |Boomer |Tack   |Spact  |The Mochinator|MZLVGFU|N
+|Ben    |Boomer |Ice    |Spact  |The Mochinator|MZLVGFU|N
+|Ben    |Boomer |Sniper |Spact  |The Mochinator|MZLVGFU|N
+|Ben    |Boomer |Sub    |Spact  |The Mochinator|MZLVGFU|N
+|Ben    |Boomer |Druid  |Spact  |The Mochinator|MZLVGFU|N
+|Ben    |Boomer |Spact  |Village|The Mochinator|MZLVGFU|N
+|Ben    |Boomer |Spact  |Engi   |The Mochinator|MZLVGFU|N
+|Adora  |Mortar |Druid  |Village|InnateWarrior|OZLVGCS|N
+|Church |Dart   |Bucc   |Alch   |coolio1223|GZLVVBE|N
+|Church |Bomb   |Bucc   |Alch   |coolio1223|GZLVVBE|N
+|Church |Tack   |Bucc   |Alch   |coolio1223|GZLVVBE|N
+|Church |Ice    |Bucc   |Alch   |coolio1223|GZLVVBE|N
+|Church |Glue   |Bucc   |Alch   |coolio1223|GZLVVBE|N
+|Church |Sniper |Bucc   |Alch   |coolio1223|GZLVVBE|N
+|Church |Bucc   |Alch   |Druid  |coolio1223|GZLVVBE|N
+|Church |Bucc   |Alch   |Engi   |coolio1223|GZLVVBE|N
+|Adora  |Dart   |Sub    |Mortar |InnateWarrior|GZLVTHR|N
+|Adora  |Boomer |Sub    |Mortar |InnateWarrior|GZLVTHR|N
+|Adora  |Bomb   |Sub    |Mortar |InnateWarrior|GZLVTHR|N
+|Adora  |Ice    |Sub    |Mortar |InnateWarrior|GZLVTHR|N
+|Adora  |Sniper |Sub    |Mortar |InnateWarrior|GZLVTHR|N
+|Adora  |Sub    |Mortar |Ninja  |InnateWarrior|GZLVTHR|N
+|Adora  |Sub    |Mortar |Druid  |InnateWarrior|GZLVTHR|N
+|Adora  |Sub    |Mortar |Spact  |InnateWarrior|GZLVTHR|N
+|Adora  |Sub    |Mortar |Engi   |InnateWarrior|GZLVTHR|N
+|Dart   |Glue   |Mortar |Village|InnateWarrior|KZLVSFB|N
+|Dart   |Sniper |Mortar |Village|InnateWarrior|OZLVDHP|N
+|Heli   |Ninja  |Spact  |Engi   |The Mochinator|WHOOPS|N
+|Adora  |Heli   |Spact  |Engi   |The Mochinator|WHOOPS|N
+|Ben    |Heli   |Spact  |Engi   |The Mochinator|WHOOPS|N
+|Dart   |Mortar |Ninja  |Village|InnateWarrior|AZLVEHS|N
+|Adora  |Heli   |Ninja  |Engi   |The Mochinator|HZLVERB|N
+|Ben    |Heli   |Ninja  |Engi   |The Mochinator|HZLVERB|N
+|Dart   |Mortar |Druid  |Village|InnateWarrior|SZLVEOT|N
+|Church |Boomer |Bomb   |Spact  |coolio1223|KZLVPCL|N
+|Church |Boomer |Ice    |Spact  |coolio1223|KZLVPCL|N
+|Church |Boomer |Sniper |Spact  |coolio1223|KZLVPCL|N
+|Church |Boomer |Druid  |Spact  |coolio1223|KZLVPCL|N
+|Church |Boomer |Spact  |Engi   |coolio1223|KZLVPCL|N
+|Boomer |Mortar |Ninja  |Village|InnateWarrior|AZLVRFB|N
+|Dart   |Bomb   |Sub    |Mortar |The Mochinator|AZLVRDR|N
+|Dart   |Ice    |Sub    |Mortar |The Mochinator|AZLVRDR|N
+|Dart   |Sniper |Sub    |Mortar |The Mochinator|AZLVRDR|N
+|Dart   |Sub    |Mortar |Ninja  |The Mochinator|AZLVRDR|N
+|Dart   |Sub    |Mortar |Druid  |The Mochinator|AZLVRDR|N
+|Dart   |Sub    |Mortar |Engi   |The Mochinator|AZLVRDR|N
+|Quincy |Dart   |Sub    |Mortar |The Mochinator|AZLVRDR|N
+|Ben    |Dart   |Sub    |Mortar |The Mochinator|AZLVRDR|N
+|Ezili  |Dart   |Sub    |Mortar |The Mochinator|AZLVRDR|N
+|Pat    |Dart   |Sub    |Mortar |The Mochinator|AZLVRDR|N
+|Bomb   |Mortar |Village|Engi   |InnateWarrior|YZLVYXM|N
+|Boomer |Sniper |Mortar |Village|InnateWarrior|AZLVPSF|N
+|Tack   |Sniper |Mortar |Village|InnateWarrior|SZLVLKL|N
+|Adora  |Dart   |Bomb   |Mortar |The Mochinator|GZLVLEM|N
+|Adora  |Dart   |Ice    |Mortar |The Mochinator|GZLVLEM|N
+|Adora  |Dart   |Glue   |Mortar |The Mochinator|GZLVLEM|N
+|Adora  |Dart   |Sniper |Mortar |The Mochinator|GZLVLEM|N
+|Adora  |Dart   |Mortar |Ninja  |The Mochinator|GZLVLEM|N
+|Adora  |Dart   |Mortar |Druid  |The Mochinator|GZLVLEM|N
+|Adora  |Dart   |Mortar |Engi   |The Mochinator|GZLVLEM|N
+|Ice    |Mortar |Ninja  |Village|InnateWarrior|RZLVLOF|N
+|Ice    |Mortar |Spact  |Village|InnateWarrior|RZLVOTB|N
+|Ice    |Mortar |Village|Engi   |InnateWarrior|WZLVOOB|N
+|Glue   |Mortar |Village|Engi   |InnateWarrior|KZLWFOA|N
+|Sniper |Sub    |Mortar |Spact  |InnateWarrior|EZLWGSD|N
+|Boomer |Bomb   |Ice    |Spact  |The Mochinator|FZLWHFG|N
+|Boomer |Tack   |Ice    |Spact  |The Mochinator|FZLWHFG|N
+|Boomer |Ice    |Sniper |Spact  |The Mochinator|FZLWHFG|N
+|Boomer |Ice    |Sub    |Spact  |The Mochinator|FZLWHFG|N
+|Boomer |Ice    |Druid  |Spact  |The Mochinator|FZLWHFG|N
+|Boomer |Ice    |Spact  |Engi   |The Mochinator|FZLWHFG|N
+|Quincy |Boomer |Ice    |Spact  |The Mochinator|FZLWHFG|N
+|Gwen   |Boomer |Ice    |Spact  |The Mochinator|FZLWHFG|N
+|Striker|Boomer |Ice    |Spact  |The Mochinator|FZLWHFG|N
+|Obyn   |Boomer |Ice    |Spact  |The Mochinator|FZLWHFG|N
+|Adora  |Boomer |Ice    |Spact  |The Mochinator|FZLWHFG|N
+|Ezili  |Boomer |Ice    |Spact  |The Mochinator|FZLWHFG|N
+|Pat    |Boomer |Ice    |Spact  |The Mochinator|FZLWHFG|N
+|Boomer |Bomb   |Sub    |Spact  |The Mochinator|OZLWUHX|N
+|Boomer |Tack   |Sub    |Spact  |The Mochinator|OZLWUHX|N
+|Boomer |Sniper |Sub    |Spact  |The Mochinator|OZLWUHX|N
+|Boomer |Sub    |Druid  |Spact  |The Mochinator|OZLWUHX|N
+|Boomer |Sub    |Spact  |Engi   |The Mochinator|OZLWUHX|N
+|Quincy |Boomer |Sub    |Spact  |The Mochinator|OZLWUHX|N
+|Gwen   |Boomer |Sub    |Spact  |The Mochinator|OZLWUHX|N
+|Striker|Boomer |Sub    |Spact  |The Mochinator|OZLWUHX|N
+|Obyn   |Boomer |Sub    |Spact  |The Mochinator|OZLWUHX|N
+|Adora  |Boomer |Sub    |Spact  |The Mochinator|OZLWUHX|N
+|Ezili  |Boomer |Sub    |Spact  |The Mochinator|OZLWUHX|N
+|Pat    |Boomer |Sub    |Spact  |The Mochinator|OZLWUHX|N
+|Sub    |Mortar |Druid  |Spact  |InnateWarrior|LZLWULU|N
+|Striker|Bucc   |Super  |Druid  |The Mochinator|FZLWVVM|N
+|Ben    |Bucc   |Super  |Druid  |The Mochinator|FZLWVVM|N
