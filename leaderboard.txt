@@ -1,7 +1,7 @@
-The Mochinator: 1162
+The Mochinator: 1176
 Char: 327
+coolio1223: 282
 Agent51: 282
-coolio1223: 280
 Emtee: 270
 the_op_boss: 243
 Great Mage: 198
@@ -15,11 +15,12 @@ InnateWarrior: 131
 Chocbox: 123
 meta: 118
 frds: 115
+epicalex4444: 106
 Urinetosh: 100
+benstein999: 95
 Smurfblade: 77
 PEZmaster2: 77
 TremenMusic: 76
-epicalex4444: 61
 UnLapiz: 59
 123CrimsonRain: 49
 TobiBloon439: 48
@@ -69,6 +70,7 @@ Rakution: 3
 Michael Volz: 3
 Dance: 3
 AKNIGHT49: 3
+Yuichiro_12: 2
 Sir Spanky: 2
 Rangaz: 2
 JAMESZ: 2

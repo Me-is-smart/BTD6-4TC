@@ -8949,3 +8949,161 @@
 |Striker|Tack   |Wizard |Druid  |epicalex4444|DZLBEUK|N
 |Ezili  |Tack   |Wizard |Druid  |epicalex4444|CZLBEPP|N
 |Pat    |Tack   |Wizard |Druid  |epicalex4444|RZLBPWP|N
+|Dart   |Sub    |Alch   |Spact  |Yuichiro_12|VZLCFAP|N
+|Tack   |Mortar |Alch   |Engi   |Yuichiro_12|GZLCGGH|N
+|Ice    |Glue   |Wizard |Alch   |epicalex4444|FZLCAUS|N
+|Ice    |Wizard |Alch   |Engi   |epicalex4444|GZLCALB|N
+|Bomb   |Glue   |Wizard |Alch   |epicalex4444|TZLCBLA|N
+|Sniper |Sub    |Wizard |Druid  |epicalex4444|VZLCDPG|N
+|Bomb   |Glue   |Wizard |Druid  |epicalex4444|KZLCRML|N
+|Obyn   |Tack   |Wizard |Engi   |epicalex4444|MZLCRYW|N
+|Obyn   |Wizard |Alch   |Engi   |epicalex4444|OZLCLCW|N
+|Obyn   |Sniper |Sub    |Wizard |epicalex4444|CZLCLOO|N
+|Obyn   |Ice    |Wizard |Engi   |epicalex4444|LZLCOYL|N
+|Obyn   |Ice    |Wizard |Alch   |epicalex4444|PZLSKBE|N
+|Gwen   |Sniper |Sub    |Wizard |epicalex4444|GZLSFKX|N
+|Striker|Sniper |Sub    |Wizard |epicalex4444|GZLSFKX|N
+|Ben    |Sniper |Sub    |Wizard |epicalex4444|GZLSFKX|N
+|Ezili  |Sniper |Sub    |Wizard |epicalex4444|GZLSFKX|N
+|Gwen   |Wizard |Alch   |Engi   |epicalex4444|RZLSFTH|N
+|Church |Sniper |Super  |Druid  |coolio1223|BZLSGFA|N
+|Gwen   |Wizard |Druid  |Engi   |epicalex4444|DZLSHCP|N
+|Boomer |Bomb   |Tack   |Mortar |The Mochinator|SZLSUYG|N
+|Boomer |Tack   |Ice    |Mortar |The Mochinator|SZLSUYG|N
+|Boomer |Tack   |Glue   |Mortar |The Mochinator|SZLSUYG|N
+|Boomer |Tack   |Sniper |Mortar |The Mochinator|SZLSUYG|N
+|Boomer |Tack   |Mortar |Ninja  |The Mochinator|SZLSUYG|N
+|Boomer |Tack   |Mortar |Alch   |The Mochinator|SZLSUYG|N
+|Boomer |Tack   |Mortar |Druid  |The Mochinator|SZLSUYG|N
+|Boomer |Tack   |Mortar |Engi   |The Mochinator|SZLSUYG|N
+|Gwen   |Boomer |Tack   |Mortar |The Mochinator|SZLSUYG|N
+|Obyn   |Boomer |Tack   |Mortar |The Mochinator|SZLSUYG|N
+|Adora  |Boomer |Tack   |Mortar |The Mochinator|SZLSUYG|N
+|Ben    |Boomer |Tack   |Mortar |The Mochinator|SZLSUYG|N
+|Ezili  |Boomer |Tack   |Mortar |The Mochinator|SZLSUYG|N
+|Pat    |Boomer |Tack   |Mortar |The Mochinator|SZLSUYG|N
+|Gwen   |Tack   |Wizard |Engi   |epicalex4444|PZLSVGG|N
+|Gwen   |Boomer |Sniper |Wizard |epicalex4444|FZLSBUD|N
+|Bomb   |Glue   |Ace    |Super  |coolio1223|XZLSBXG|N
+|Gwen   |Ice    |Wizard |Engi   |epicalex4444|XZLSCVT|N
+|Gwen   |Ice    |Wizard |Alch   |epicalex4444|CZLSDMP|N
+|Gwen   |Tack   |Sniper |Wizard |epicalex4444|TZLSDGO|N
+|Gwen   |Sniper |Wizard |Druid  |epicalex4444|GZLSDES|N
+|Gwen   |Bomb   |Wizard |Druid  |epicalex4444|BZLSDOC|N
+|Gwen   |Bomb   |Wizard |Alch   |epicalex4444|BZLSETC|N
+|Ezili  |Boomer |Sniper |Wizard |epicalex4444|OZLSEDM|N
+|Ezili  |Bomb   |Glue   |Wizard |epicalex4444|EZLDMDW|N
+|Ezili  |Bomb   |Wizard |Druid  |epicalex4444|GZLDMYL|N
+|Ezili  |Tack   |Sniper |Wizard |epicalex4444|CZLDFBT|N
+|Ezili  |Tack   |Wizard |Engi   |epicalex4444|UZLDXKD|N
+|Ezili  |Glue   |Wizard |Alch   |epicalex4444|BZLDXHL|N
+|Ezili  |Wizard |Alch   |Engi   |epicalex4444|EZLDYFX|N
+|Ezili  |Wizard |Druid  |Engi   |epicalex4444|KZLDOWR|N
+|Ezili  |Sniper |Wizard |Druid  |epicalex4444|DZLEHOO|N
+|Ezili  |Bomb   |Wizard |Alch   |epicalex4444|LZLEVHV|N
+|Pat    |Bomb   |Glue   |Wizard |epicalex4444|RZLEVCF|N
+|Pat    |Tack   |Sniper |Wizard |epicalex4444|OZLEWDW|N
+|Pat    |Tack   |Wizard |Engi   |epicalex4444|EZLEXOF|N
+|Pat    |Ice    |Glue   |Wizard |epicalex4444|LZLEBLA|N
+|Pat    |Ice    |Wizard |Alch   |epicalex4444|YZLESWA|N
+|Pat    |Ice    |Wizard |Engi   |epicalex4444|RZLEDUL|N
+|Pat    |Wizard |Alch   |Engi   |epicalex4444|DZLEYHR|N
+|Pat    |Sniper |Wizard |Druid  |epicalex4444|EZLPVAF|N
+|Pat    |Wizard |Druid  |Engi   |epicalex4444|LZLPWFD|N
+|Pat    |Glue   |Wizard |Alch   |epicalex4444|VZLPWBB|N
+|Pat    |Bomb   |Wizard |Alch   |epicalex4444|KZLPTBV|N
+|Dart   |Bomb   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Dart   |Tack   |Ice    |Ace    |benstein999|FZLPKTA|N
+|Dart   |Tack   |Glue   |Ace    |benstein999|FZLPKTA|N
+|Dart   |Tack   |Sniper |Ace    |benstein999|FZLPKTA|N
+|Dart   |Tack   |Ace    |Ninja  |benstein999|FZLPKTA|N
+|Dart   |Tack   |Ace    |Druid  |benstein999|FZLPKTA|N
+|Boomer |Bomb   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Boomer |Tack   |Ice    |Ace    |benstein999|FZLPKTA|N
+|Boomer |Tack   |Glue   |Ace    |benstein999|FZLPKTA|N
+|Boomer |Tack   |Sniper |Ace    |benstein999|FZLPKTA|N
+|Boomer |Tack   |Ace    |Druid  |benstein999|FZLPKTA|N
+|Bomb   |Tack   |Ice    |Ace    |benstein999|FZLPKTA|N
+|Bomb   |Tack   |Glue   |Ace    |benstein999|FZLPKTA|N
+|Bomb   |Tack   |Sniper |Ace    |benstein999|FZLPKTA|N
+|Bomb   |Tack   |Ace    |Ninja  |benstein999|FZLPKTA|N
+|Bomb   |Tack   |Ace    |Alch   |benstein999|FZLPKTA|N
+|Bomb   |Tack   |Ace    |Druid  |benstein999|FZLPKTA|N
+|Tack   |Ice    |Glue   |Ace    |benstein999|FZLPKTA|N
+|Tack   |Ice    |Sniper |Ace    |benstein999|FZLPKTA|N
+|Tack   |Ice    |Sub    |Ace    |benstein999|FZLPKTA|N
+|Tack   |Ice    |Ace    |Druid  |benstein999|FZLPKTA|N
+|Tack   |Glue   |Sniper |Ace    |benstein999|FZLPKTA|N
+|Tack   |Glue   |Ace    |Druid  |benstein999|FZLPKTA|N
+|Tack   |Sniper |Sub    |Ace    |benstein999|FZLPKTA|N
+|Tack   |Sniper |Ace    |Ninja  |benstein999|FZLPKTA|N
+|Tack   |Sniper |Ace    |Alch   |benstein999|FZLPKTA|N
+|Tack   |Sniper |Ace    |Druid  |benstein999|FZLPKTA|N
+|Tack   |Sub    |Ace    |Druid  |benstein999|FZLPKTA|N
+|Tack   |Ace    |Ninja  |Druid  |benstein999|FZLPKTA|N
+|Tack   |Ace    |Alch   |Druid  |benstein999|FZLPKTA|N
+|Quincy |Dart   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Quincy |Boomer |Tack   |Ace    |benstein999|FZLPKTA|N
+|Quincy |Bomb   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Quincy |Tack   |Ice    |Ace    |benstein999|FZLPKTA|N
+|Quincy |Tack   |Glue   |Ace    |benstein999|FZLPKTA|N
+|Quincy |Tack   |Sniper |Ace    |benstein999|FZLPKTA|N
+|Quincy |Tack   |Ace    |Ninja  |benstein999|FZLPKTA|N
+|Quincy |Tack   |Ace    |Druid  |benstein999|FZLPKTA|N
+|Gwen   |Dart   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Gwen   |Bomb   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Gwen   |Tack   |Ice    |Ace    |benstein999|FZLPKTA|N
+|Gwen   |Tack   |Glue   |Ace    |benstein999|FZLPKTA|N
+|Gwen   |Tack   |Sniper |Ace    |benstein999|FZLPKTA|N
+|Gwen   |Tack   |Ace    |Ninja  |benstein999|FZLPKTA|N
+|Gwen   |Tack   |Ace    |Druid  |benstein999|FZLPKTA|N
+|Striker|Dart   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Striker|Boomer |Tack   |Ace    |benstein999|FZLPKTA|N
+|Striker|Bomb   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Striker|Tack   |Ice    |Ace    |benstein999|FZLPKTA|N
+|Striker|Tack   |Glue   |Ace    |benstein999|FZLPKTA|N
+|Striker|Tack   |Sniper |Ace    |benstein999|FZLPKTA|N
+|Striker|Tack   |Sub    |Ace    |benstein999|FZLPKTA|N
+|Striker|Tack   |Ace    |Ninja  |benstein999|FZLPKTA|N
+|Striker|Tack   |Ace    |Alch   |benstein999|FZLPKTA|N
+|Striker|Tack   |Ace    |Druid  |benstein999|FZLPKTA|N
+|Adora  |Dart   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Adora  |Boomer |Tack   |Ace    |benstein999|FZLPKTA|N
+|Adora  |Bomb   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Adora  |Tack   |Ice    |Ace    |benstein999|FZLPKTA|N
+|Adora  |Tack   |Glue   |Ace    |benstein999|FZLPKTA|N
+|Adora  |Tack   |Sniper |Ace    |benstein999|FZLPKTA|N
+|Adora  |Tack   |Sub    |Ace    |benstein999|FZLPKTA|N
+|Adora  |Tack   |Ace    |Ninja  |benstein999|FZLPKTA|N
+|Adora  |Tack   |Ace    |Alch   |benstein999|FZLPKTA|N
+|Church |Dart   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Church |Bomb   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Church |Tack   |Ice    |Ace    |benstein999|FZLPKTA|N
+|Church |Tack   |Glue   |Ace    |benstein999|FZLPKTA|N
+|Church |Tack   |Sniper |Ace    |benstein999|FZLPKTA|N
+|Church |Tack   |Ace    |Ninja  |benstein999|FZLPKTA|N
+|Church |Tack   |Ace    |Druid  |benstein999|FZLPKTA|N
+|Ben    |Dart   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Ben    |Boomer |Tack   |Ace    |benstein999|FZLPKTA|N
+|Ben    |Bomb   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Ben    |Tack   |Ice    |Ace    |benstein999|FZLPKTA|N
+|Ben    |Tack   |Glue   |Ace    |benstein999|FZLPKTA|N
+|Ben    |Tack   |Sniper |Ace    |benstein999|FZLPKTA|N
+|Ben    |Tack   |Sub    |Ace    |benstein999|FZLPKTA|N
+|Ben    |Tack   |Ace    |Ninja  |benstein999|FZLPKTA|N
+|Ben    |Tack   |Ace    |Druid  |benstein999|FZLPKTA|N
+|Ezili  |Dart   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Ezili  |Boomer |Tack   |Ace    |benstein999|FZLPKTA|N
+|Ezili  |Bomb   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Ezili  |Tack   |Ice    |Ace    |benstein999|FZLPKTA|N
+|Ezili  |Tack   |Glue   |Ace    |benstein999|FZLPKTA|N
+|Ezili  |Tack   |Sniper |Ace    |benstein999|FZLPKTA|N
+|Ezili  |Tack   |Sub    |Ace    |benstein999|FZLPKTA|N
+|Ezili  |Tack   |Ace    |Ninja  |benstein999|FZLPKTA|N
+|Pat    |Dart   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Pat    |Bomb   |Tack   |Ace    |benstein999|FZLPKTA|N
+|Pat    |Tack   |Ice    |Ace    |benstein999|FZLPKTA|N
+|Pat    |Tack   |Glue   |Ace    |benstein999|FZLPKTA|N
+|Pat    |Tack   |Sniper |Ace    |benstein999|FZLPKTA|N
+|Pat    |Tack   |Ace    |Ninja  |benstein999|FZLPKTA|N
+|Pat    |Tack   |Ace    |Druid  |benstein999|FZLPKTA|N
