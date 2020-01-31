@@ -9107,3 +9107,162 @@
 |Pat    |Tack   |Sniper |Ace    |benstein999|FZLPKTA|N
 |Pat    |Tack   |Ace    |Ninja  |benstein999|FZLPKTA|N
 |Pat    |Tack   |Ace    |Druid  |benstein999|FZLPKTA|N
+|Pat    |Glue   |Wizard |Druid  |epicalex4444|FZLPBDC|N
+|Striker|Boomer |Sniper |Wizard |epicalex4444|WZLPCMC|N
+|Striker|Bomb   |Glue   |Wizard |epicalex4444|DZLPCHL|N
+|Striker|Tack   |Sniper |Wizard |epicalex4444|XZLPCSF|N
+|Striker|Tack   |Wizard |Engi   |epicalex4444|WZLPRYX|N
+|Striker|Ice    |Glue   |Wizard |epicalex4444|VZLPYVD|N
+|Striker|Ice    |Wizard |Alch   |epicalex4444|HZLPYAT|N
+|Striker|Glue   |Wizard |Alch   |epicalex4444|DZLPLDE|N
+|Striker|Glue   |Wizard |Druid  |epicalex4444|XZLPLYA|N
+|Striker|Wizard |Alch   |Engi   |epicalex4444|LZLPLOM|N
+|Adora  |Dart   |Boomer |Ninja  |benstein999|GZLPYUA|N
+|Adora  |Dart   |Bomb   |Ninja  |benstein999|GZLPYUA|N
+|Adora  |Dart   |Tack   |Ninja  |benstein999|GZLPYUA|N
+|Adora  |Dart   |Ice    |Ninja  |benstein999|GZLPYUA|N
+|Adora  |Dart   |Glue   |Ninja  |benstein999|GZLPYUA|N
+|Adora  |Dart   |Sniper |Ninja  |benstein999|GZLPYUA|N
+|Adora  |Dart   |Bucc   |Ninja  |benstein999|GZLPYUA|N
+|Adora  |Dart   |Ace    |Ninja  |benstein999|GZLPYUA|N
+|Adora  |Dart   |Ninja  |Druid  |benstein999|GZLPYUA|N
+|Adora  |Dart   |Ninja  |Spact  |benstein999|GZLPYUA|N
+|Adora  |Dart   |Ninja  |Village|benstein999|GZLPYUA|N
+|Adora  |Dart   |Ninja  |Engi   |benstein999|GZLPYUA|N
+|Striker|Sub    |Wizard |Druid  |epicalex4444|OZLPOTB|N
+|Ben    |Boomer |Sniper |Wizard |epicalex4444|OZLRKYH|N
+|Ben    |Tack   |Sniper |Wizard |epicalex4444|XZLRMHM|N
+|Bomb   |Tack   |Mortar |Village|Qeih|UZLRFVK|N
+|Tack   |Ice    |Mortar |Village|Qeih|UZLRFVK|N
+|Tack   |Glue   |Mortar |Village|Qeih|UZLRFVK|N
+|Tack   |Mortar |Alch   |Village|Qeih|UZLRFVK|N
+|Tack   |Mortar |Druid  |Village|Qeih|UZLRFVK|N
+|Ben    |Tack   |Mortar |Village|Qeih|UZLRFVK|N
+|Ben    |Tack   |Wizard |Engi   |epicalex4444|BZLRHLM|N
+|Ben    |Sub    |Wizard |Village|epicalex4444|SZLRUSF|N
+|Glue   |Sniper |Super  |Druid  |coolio1223|SZLPOKK|N
+|Gwen   |Ice    |Sniper |Super  |coolio1223|VZLRUDV|N
+|Ben    |Wizard |Alch   |Engi   |epicalex4444|MZLRUPF|N
+|Ben    |Ice    |Wizard |Engi   |epicalex4444|CZLRVTM|N
+|Bomb   |Sniper |Ace    |Alch   |natedaishmaster|DZLRWBV|N
+|Bomb   |Ace    |Alch   |Druid  |natedaishmaster|DZLRWBV|N
+|Sniper |Ace    |Alch   |Druid  |natedaishmaster|DZLRWBV|N
+|Striker|Bomb   |Ace    |Alch   |natedaishmaster|DZLRWBV|N
+|Striker|Sniper |Ace    |Alch   |natedaishmaster|DZLRWBV|N
+|Striker|Ace    |Alch   |Druid  |natedaishmaster|DZLRWBV|N
+|Adora  |Bomb   |Ace    |Alch   |natedaishmaster|DZLRWBV|N
+|Adora  |Sniper |Ace    |Alch   |natedaishmaster|DZLRWBV|N
+|Striker|Wizard |Druid  |Engi   |epicalex4444|OZLRYWW|N
+|Dart   |Bomb   |Mortar |Engi   |Agent51|HZLYKOD|N
+|Dart   |Ice    |Mortar |Engi   |Agent51|HZLYKOD|N
+|Dart   |Glue   |Mortar |Engi   |Agent51|HZLYKOD|N
+|Dart   |Sniper |Mortar |Engi   |Agent51|HZLYKOD|N
+|Dart   |Mortar |Ninja  |Engi   |Agent51|HZLYKOD|N
+|Dart   |Mortar |Druid  |Engi   |Agent51|HZLYKOD|N
+|Quincy |Dart   |Mortar |Engi   |Agent51|HZLYKOD|N
+|Striker|Dart   |Mortar |Engi   |Agent51|HZLYKOD|N
+|Obyn   |Dart   |Mortar |Engi   |Agent51|HZLYKOD|N
+|Ben    |Dart   |Mortar |Engi   |Agent51|HZLYKOD|N
+|Ezili  |Dart   |Mortar |Engi   |Agent51|HZLYKOD|N
+|Pat    |Dart   |Mortar |Engi   |Agent51|HZLYKOD|N
+|Striker|Ice    |Wizard |Engi   |epicalex4444|CZLYURW|N
+|Striker|Bomb   |Wizard |Alch   |epicalex4444|SZLYVOF|N
+|Boomer |Sniper |Ninja  |Village|TremenMusic|EZLYWBS|N
+|Quincy |Boomer |Ninja  |Village|TremenMusic|EZLYWBS|N
+|Striker|Boomer |Ninja  |Village|TremenMusic|EZLYWBS|N
+|Adora  |Boomer |Ninja  |Village|TremenMusic|EZLYWBS|N
+|Church |Boomer |Ninja  |Village|TremenMusic|EZLYWBS|N
+|Ben    |Boomer |Ninja  |Village|TremenMusic|EZLYWBS|N
+|Ezili  |Boomer |Ninja  |Village|TremenMusic|EZLYWBS|N
+|Boomer |Glue   |Sniper |Village|TremenMusic|FZLYTWY|N
+|Boomer |Sniper |Spact  |Village|TremenMusic|FZLYTWY|N
+|Quincy |Boomer |Sniper |Village|TremenMusic|FZLYTWY|N
+|Gwen   |Boomer |Sniper |Village|TremenMusic|FZLYTWY|N
+|Striker|Boomer |Sniper |Village|TremenMusic|FZLYTWY|N
+|Church |Boomer |Sniper |Village|TremenMusic|FZLYTWY|N
+|Ben    |Boomer |Sniper |Village|TremenMusic|FZLYTWY|N
+|Ezili  |Boomer |Sniper |Village|TremenMusic|FZLYTWY|N
+|Pat    |Boomer |Sniper |Village|TremenMusic|FZLYTWY|N
+|Quincy |Boomer |Spact  |Village|TremenMusic|CZLYXHL|N
+|Gwen   |Boomer |Spact  |Village|TremenMusic|CZLYXHL|N
+|Striker|Boomer |Spact  |Village|TremenMusic|CZLYXHL|N
+|Ezili  |Boomer |Spact  |Village|TremenMusic|CZLYXHL|N
+|Pat    |Boomer |Spact  |Village|TremenMusic|CZLYXHL|N
+|Dart   |Bomb   |Glue   |Mortar |Agent51|TZLYXUB|N
+|Dart   |Ice    |Glue   |Mortar |Agent51|TZLYXUB|N
+|Dart   |Glue   |Sniper |Mortar |Agent51|TZLYXUB|N
+|Dart   |Glue   |Mortar |Druid  |Agent51|TZLYXUB|N
+|Striker|Dart   |Glue   |Mortar |Agent51|TZLYXUB|N
+|Obyn   |Dart   |Glue   |Mortar |Agent51|TZLYXUB|N
+|Ben    |Dart   |Glue   |Mortar |Agent51|TZLYXUB|N
+|Ezili  |Dart   |Glue   |Mortar |Agent51|TZLYXUB|N
+|Pat    |Dart   |Glue   |Mortar |Agent51|TZLYXUB|N
+|Church |Dart   |Bomb   |Sub    |coolio1223|VZLYCSR|N
+|Church |Dart   |Tack   |Sub    |coolio1223|VZLYCSR|N
+|Church |Dart   |Ice    |Sub    |coolio1223|VZLYCSR|N
+|Church |Dart   |Sniper |Sub    |coolio1223|VZLYCSR|N
+|Church |Dart   |Sub    |Ninja  |coolio1223|VZLYCSR|N
+|Church |Dart   |Sub    |Alch   |coolio1223|VZLYCSR|N
+|Church |Dart   |Sub    |Druid  |coolio1223|VZLYCSR|N
+|Church |Dart   |Sub    |Village|coolio1223|VZLYCSR|N
+|Church |Dart   |Bomb   |Ace    |coolio1223|UZLYCOP|N
+|Church |Dart   |Ice    |Ace    |coolio1223|UZLYCOP|N
+|Church |Dart   |Glue   |Ace    |coolio1223|UZLYCOP|N
+|Church |Dart   |Sniper |Ace    |coolio1223|UZLYCOP|N
+|Church |Dart   |Ace    |Ninja  |coolio1223|UZLYCOP|N
+|Church |Dart   |Ace    |Druid  |coolio1223|UZLYCOP|N
+|Church |Dart   |Bucc   |Spact  |coolio1223|SZLYSDT|N
+|Church |Ice    |Bucc   |Spact  |coolio1223|SZLYSDT|N
+|Church |Glue   |Bucc   |Spact  |coolio1223|SZLYSDT|N
+|Church |Sniper |Bucc   |Spact  |coolio1223|SZLYSDT|N
+|Church |Bucc   |Ninja  |Spact  |coolio1223|SZLYSDT|N
+|Church |Bucc   |Spact  |Engi   |coolio1223|SZLYSDT|N
+|Ice    |Sniper |Sub    |Ace    |boblovespi|AZLRGLM|N
+|Ice    |Sub    |Ace    |Druid  |boblovespi|AZLRGLM|N
+|Sniper |Sub    |Ace    |Druid  |boblovespi|AZLRGLM|N
+|Striker|Ice    |Sub    |Ace    |boblovespi|AZLRGLM|N
+|Striker|Sniper |Sub    |Ace    |boblovespi|AZLRGLM|N
+|Striker|Sub    |Ace    |Druid  |boblovespi|AZLRGLM|N
+|Adora  |Ice    |Sub    |Ace    |boblovespi|AZLRGLM|N
+|Adora  |Sniper |Sub    |Ace    |boblovespi|AZLRGLM|N
+|Adora  |Sub    |Ace    |Ninja  |boblovespi|AZLRGLM|N
+|Ben    |Ice    |Sub    |Ace    |boblovespi|AZLRGLM|N
+|Ben    |Sniper |Sub    |Ace    |boblovespi|AZLRGLM|N
+|Ben    |Sub    |Ace    |Druid  |boblovespi|AZLRGLM|N
+|Ezili  |Ice    |Sub    |Ace    |boblovespi|AZLRGLM|N
+|Ezili  |Sniper |Sub    |Ace    |boblovespi|AZLRGLM|N
+|Ben    |Ice    |Wizard |Village|epicalex4444|GZLYYEO|N
+|Pat    |Sub    |Druid  |Village|Sniper 355|AZLYOGE|N
+|Boomer |Glue   |Mortar |Village|TremenMusic|MZLLFET|N
+|Boomer |Glue   |Super  |Village|TremenMusic|MZLLFET|N
+|Gwen   |Boomer |Glue   |Village|TremenMusic|MZLLFET|N
+|Striker|Boomer |Glue   |Village|TremenMusic|MZLLFET|N
+|Adora  |Boomer |Glue   |Village|TremenMusic|MZLLFET|N
+|Church |Boomer |Glue   |Village|TremenMusic|MZLLFET|N
+|Ben    |Boomer |Glue   |Village|TremenMusic|MZLLFET|N
+|Pat    |Boomer |Glue   |Village|TremenMusic|MZLLFET|N
+|Ben    |Wizard |Druid  |Engi   |epicalex4444|GZLLGXR|N
+|Ben    |Sub    |Wizard |Druid  |epicalex4444|BZLLHLW|N
+|Gwen   |Ice    |Heli   |Super  |coolio1223|RZLLUFR|N
+|Ben    |Tack   |Wizard |Druid  |epicalex4444|RZLLUGY|N
+|Ben    |Glue   |Wizard |Druid  |epicalex4444|GZLLUSD|N
+|Ben    |Bomb   |Glue   |Wizard |epicalex4444|YZLLVMA|N
+|Ben    |Ice    |Wizard |Alch   |epicalex4444|LZLLVXB|N
+|Tack   |Glue   |Village|Engi   |coolio1223|VZLLWHO|N
+|Striker|Boomer |Super  |Village|TremenMusic|MZLLBRP|N
+|Adora  |Boomer |Super  |Village|TremenMusic|XZLLCMD|N
+|Ben    |Glue   |Wizard |Alch   |epicalex4444|KZLLCEU|N
+|Adora  |Dart   |Bucc   |Spact  |coolio1223|BZLLSGK|N
+|Adora  |Ice    |Bucc   |Spact  |coolio1223|BZLLSGK|N
+|Adora  |Glue   |Bucc   |Spact  |coolio1223|BZLLSGK|N
+|Adora  |Sniper |Bucc   |Spact  |coolio1223|BZLLSGK|N
+|Adora  |Sub    |Bucc   |Spact  |coolio1223|BZLLSGK|N
+|Adora  |Bucc   |Ninja  |Spact  |coolio1223|BZLLSGK|N
+|Adora  |Bucc   |Spact  |Engi   |coolio1223|BZLLSGK|N
+|Adora  |Dart   |Glue   |Village|coolio1223|WZLLSWD|N
+|Adora  |Dart   |Sniper |Village|coolio1223|WZLLSWD|N
+|Adora  |Dart   |Alch   |Village|coolio1223|WZLLSWD|N
+|Adora  |Dart   |Druid  |Village|coolio1223|WZLLSWD|N
+|Church |Boomer |Super  |Village|TremenMusic|CZLLLEF|N
+|Ben    |Boomer |Super  |Village|TremenMusic|CZLLLEF|N
+|Gwen   |Glue   |Bucc   |Spact  |coolio1223|SZLLOYA|N
