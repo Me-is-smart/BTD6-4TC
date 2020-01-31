@@ -16,7 +16,7 @@ def find4tc(tower1, tower2, tower3, tower4):
     If you want to search for all combos that contain only 2 or 3 towers, you
     MUST keep 4 sets of quotes. Use "" for unused tower slots.
     """
-    fileread = open("remaining-combos-updated.txt", "r")
+    fileread = open("remaining-combos.txt", "r")
     lines = fileread.readlines()
     combos = 0
     for line in lines:
