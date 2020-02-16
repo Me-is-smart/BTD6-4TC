@@ -9266,3 +9266,116 @@
 |Church |Boomer |Super  |Village|TremenMusic|CZLLLEF|N
 |Ben    |Boomer |Super  |Village|TremenMusic|CZLLLEF|N
 |Gwen   |Glue   |Bucc   |Spact  |coolio1223|SZLLOYA|N
+|Church |Boomer |Mortar |Village|TremenMusic|HZLLWEO|N
+|Ben    |Boomer |Mortar |Village|TremenMusic|HZLLWEO|N
+|Pat    |Boomer |Mortar |Village|TremenMusic|HZLLWEO|N
+|Church |Sub    |Druid  |Village|Sniper 355|AZOKMWW|N
+|Obyn   |Mortar |Druid  |Village|coolio1223|UZOKTUX|N
+|Quincy |Glue   |Village|Engi   |coolio1223|HZOKXTY|N
+|Dart   |Glue   |Village|Engi   |TremenMusic|UZOKYFS|N
+|Dart   |Sniper |Village|Engi   |TremenMusic|UZOKYFS|N
+|Dart   |Sub    |Village|Engi   |TremenMusic|UZOKYFS|N
+|Dart   |Ninja  |Village|Engi   |TremenMusic|UZOKYFS|N
+|Dart   |Alch   |Village|Engi   |TremenMusic|UZOKYFS|N
+|Dart   |Druid  |Village|Engi   |TremenMusic|UZOKYFS|N
+|Quincy |Dart   |Village|Engi   |TremenMusic|UZOKYFS|N
+|Gwen   |Dart   |Village|Engi   |TremenMusic|UZOKYFS|N
+|Striker|Dart   |Village|Engi   |TremenMusic|UZOKYFS|N
+|Obyn   |Dart   |Village|Engi   |TremenMusic|UZOKYFS|N
+|Church |Dart   |Village|Engi   |TremenMusic|UZOKYFS|N
+|Ben    |Dart   |Village|Engi   |TremenMusic|UZOKYFS|N
+|Ezili  |Dart   |Village|Engi   |TremenMusic|UZOKYFS|N
+|Pat    |Dart   |Village|Engi   |TremenMusic|UZOKYFS|N
+|Tack   |Glue   |Sniper |Super  |coolio1223|AZOKYLF|N
+|Bomb   |Glue   |Sniper |Super  |coolio1223|RZOKLVV|N
+|Dart   |Bomb   |Sniper |Ace    |The Mochinator|EZOMBFB|N
+|Dart   |Ice    |Sniper |Ace    |The Mochinator|EZOMBFB|N
+|Dart   |Glue   |Sniper |Ace    |The Mochinator|EZOMBFB|N
+|Dart   |Sniper |Ace    |Ninja  |The Mochinator|EZOMBFB|N
+|Dart   |Sniper |Ace    |Druid  |The Mochinator|EZOMBFB|N
+|Quincy |Dart   |Sniper |Ace    |The Mochinator|EZOMBFB|N
+|Gwen   |Dart   |Sniper |Ace    |The Mochinator|EZOMBFB|N
+|Striker|Dart   |Sniper |Ace    |The Mochinator|EZOMBFB|N
+|Adora  |Dart   |Sniper |Ace    |The Mochinator|EZOMBFB|N
+|Ben    |Dart   |Sniper |Ace    |The Mochinator|EZOMBFB|N
+|Ezili  |Dart   |Sniper |Ace    |The Mochinator|EZOMBFB|N
+|Pat    |Dart   |Sniper |Ace    |The Mochinator|EZOMBFB|N
+|Bomb   |Ice    |Super  |Ninja  |coolio1223|HZOMPWU|N
+|Bomb   |Sniper |Super  |Ninja  |coolio1223|HZOMPWU|N
+|Bomb   |Super  |Ninja  |Druid  |coolio1223|HZOMPWU|N
+|Striker|Bomb   |Super  |Ninja  |coolio1223|HZOMPWU|N
+|Ben    |Bomb   |Super  |Ninja  |coolio1223|HZOMPWU|N
+|Boomer |Bomb   |Sniper |Ace    |The Mochinator|FZOMPTT|N
+|Boomer |Ice    |Sniper |Ace    |The Mochinator|FZOMPTT|N
+|Boomer |Glue   |Sniper |Ace    |The Mochinator|FZOMPTT|N
+|Boomer |Sniper |Ace    |Druid  |The Mochinator|FZOMPTT|N
+|Quincy |Boomer |Sniper |Ace    |The Mochinator|FZOMPTT|N
+|Striker|Boomer |Sniper |Ace    |The Mochinator|FZOMPTT|N
+|Adora  |Boomer |Sniper |Ace    |The Mochinator|FZOMPTT|N
+|Ben    |Boomer |Sniper |Ace    |The Mochinator|FZOMPTT|N
+|Ezili  |Boomer |Sniper |Ace    |The Mochinator|FZOMPTT|N
+|Ezili  |Super  |Alch   |Engi   |coolio1223|EZOMRPG|N
+|Ezili  |Super  |Druid  |Engi   |coolio1223|EZOMRPG|N
+|Ezili  |Dart   |Bomb   |Ace    |The Mochinator|EZOMOGP|N
+|Ezili  |Dart   |Ice    |Ace    |The Mochinator|EZOMOGP|N
+|Ezili  |Dart   |Glue   |Ace    |The Mochinator|EZOMOGP|N
+|Ezili  |Dart   |Ace    |Ninja  |The Mochinator|EZOMOGP|N
+|Bomb   |Glue   |Heli   |Super  |coolio1223|HZOFKGM|N
+|Quincy |Dart   |Ace    |Druid  |The Mochinator|KZOGKVY|N
+|Quincy |Boomer |Ace    |Druid  |The Mochinator|KZOGKVY|N
+|Quincy |Bomb   |Ace    |Druid  |The Mochinator|KZOGKVY|N
+|Quincy |Ice    |Ace    |Druid  |The Mochinator|KZOGKVY|N
+|Quincy |Glue   |Ace    |Druid  |The Mochinator|KZOGKVY|N
+|Quincy |Sniper |Ace    |Druid  |The Mochinator|KZOGKVY|N
+|Quincy |Bucc   |Ace    |Druid  |The Mochinator|KZOGKVY|N
+|Quincy |Ace    |Ninja  |Druid  |The Mochinator|KZOGKVY|N
+|Quincy |Ice    |Village|Engi   |TremenMusic|MZOFWPU|N
+|Quincy |Sniper |Village|Engi   |TremenMusic|MZOFWPU|N
+|Quincy |Sub    |Village|Engi   |TremenMusic|MZOFWPU|N
+|Quincy |Ninja  |Village|Engi   |TremenMusic|MZOFWPU|N
+|Quincy |Alch   |Village|Engi   |TremenMusic|MZOFWPU|N
+|Quincy |Druid  |Village|Engi   |TremenMusic|MZOFWPU|N
+|Quincy |Spact  |Village|Engi   |TremenMusic|MZOFWPU|N
+|Church |Bomb   |Ace    |Druid  |The Mochinator|VZOGUAK|N
+|Church |Ice    |Ace    |Druid  |The Mochinator|VZOGUAK|N
+|Church |Glue   |Ace    |Druid  |The Mochinator|VZOGUAK|N
+|Church |Sniper |Ace    |Druid  |The Mochinator|VZOGUAK|N
+|Church |Ace    |Mortar |Druid  |The Mochinator|VZOGUAK|N
+|Church |Ace    |Ninja  |Druid  |The Mochinator|VZOGUAK|N
+|Pat    |Dart   |Bomb   |Ace    |The Mochinator|CZOGBPX|N
+|Pat    |Dart   |Ice    |Ace    |The Mochinator|CZOGBPX|N
+|Pat    |Dart   |Glue   |Ace    |The Mochinator|CZOGBPX|N
+|Pat    |Dart   |Ace    |Ninja  |The Mochinator|CZOGBPX|N
+|Pat    |Dart   |Ace    |Druid  |The Mochinator|CZOGBPX|N
+|Dart   |Ice    |Ace    |Druid  |The Mochinator|KZOGSUU|N
+|Boomer |Ice    |Ace    |Druid  |The Mochinator|KZOGSUU|N
+|Bomb   |Ice    |Ace    |Druid  |The Mochinator|KZOGSUU|N
+|Ice    |Glue   |Ace    |Druid  |The Mochinator|KZOGSUU|N
+|Ice    |Sniper |Ace    |Druid  |The Mochinator|KZOGSUU|N
+|Gwen   |Ice    |Ace    |Druid  |The Mochinator|KZOGSUU|N
+|Striker|Ice    |Ace    |Druid  |The Mochinator|KZOGSUU|N
+|Ben    |Ice    |Ace    |Druid  |The Mochinator|KZOGSUU|N
+|Pat    |Ice    |Ace    |Druid  |The Mochinator|KZOGSUU|N
+|Obyn   |Alch   |Druid  |Village|Sniper 355|DZOHWCH|N
+|Quincy |Dart   |Glue   |Spact  |coolio1223|HZOUKPK|N
+|Dart   |Bomb   |Glue   |Spact  |The Mochinator|SZOUXFV|N
+|Dart   |Ice    |Glue   |Spact  |The Mochinator|SZOUXFV|N
+|Dart   |Glue   |Sniper |Spact  |The Mochinator|SZOUXFV|N
+|Dart   |Glue   |Bucc   |Spact  |The Mochinator|SZOUXFV|N
+|Dart   |Glue   |Ninja  |Spact  |The Mochinator|SZOUXFV|N
+|Dart   |Glue   |Alch   |Spact  |The Mochinator|SZOUXFV|N
+|Dart   |Glue   |Druid  |Spact  |The Mochinator|SZOUXFV|N
+|Dart   |Glue   |Spact  |Engi   |The Mochinator|SZOUXFV|N
+|Gwen   |Dart   |Glue   |Spact  |The Mochinator|SZOUXFV|N
+|Striker|Dart   |Glue   |Spact  |The Mochinator|SZOUXFV|N
+|Obyn   |Dart   |Glue   |Spact  |The Mochinator|SZOUXFV|N
+|Adora  |Dart   |Glue   |Spact  |The Mochinator|SZOUXFV|N
+|Church |Dart   |Glue   |Spact  |The Mochinator|SZOUXFV|N
+|Ben    |Dart   |Glue   |Spact  |The Mochinator|SZOUXFV|N
+|Pat    |Dart   |Glue   |Spact  |The Mochinator|SZOUXFV|N
+|Ezili  |Boomer |Ice    |Ace    |The Mochinator|SZOUBSA|N
+|Ezili  |Bomb   |Ice    |Ace    |The Mochinator|SZOUBSA|N
+|Ezili  |Ice    |Glue   |Ace    |The Mochinator|SZOUBSA|N
+|Ezili  |Ice    |Sniper |Ace    |The Mochinator|SZOUBSA|N
+|Ezili  |Ice    |Ace    |Spact  |The Mochinator|SZOUBSA|N
+|Ezili  |Ice    |Ace    |Village|The Mochinator|SZOUBSA|N
