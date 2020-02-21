@@ -9379,3 +9379,43 @@
 |Ezili  |Ice    |Sniper |Ace    |The Mochinator|SZOUBSA|N
 |Ezili  |Ice    |Ace    |Spact  |The Mochinator|SZOUBSA|N
 |Ezili  |Ice    |Ace    |Village|The Mochinator|SZOUBSA|N
+|Pat    |Bomb   |Wizard |Druid  |epicalex4444|N/A|N
+|Dart   |Boomer |Bucc   |Heli   |The Mochinator|FZOVTXC|N
+|Boomer |Bomb   |Bucc   |Heli   |The Mochinator|FZOVTXC|N
+|Boomer |Tack   |Bucc   |Heli   |The Mochinator|FZOVTXC|N
+|Boomer |Bucc   |Heli   |Druid  |The Mochinator|FZOVTXC|N
+|Quincy |Boomer |Bucc   |Heli   |The Mochinator|FZOVTXC|N
+|Striker|Boomer |Bucc   |Heli   |The Mochinator|FZOVTXC|N
+|Adora  |Boomer |Bucc   |Heli   |The Mochinator|FZOVTXC|N
+|Ice    |Glue   |Heli   |Super  |The Line|SZOVXDO|N
+|Ben    |Ice    |Glue   |Wizard |epicalex4444|TZOVDTO|N
+|Adora  |Dart   |Bomb   |Ace    |The Mochinator|EZOVDEW|N
+|Adora  |Dart   |Ice    |Ace    |The Mochinator|EZOVDEW|N
+|Adora  |Dart   |Glue   |Ace    |The Mochinator|EZOVDEW|N
+|Adora  |Boomer |Bomb   |Ace    |The Mochinator|EZOVDEW|N
+|Adora  |Boomer |Ice    |Ace    |The Mochinator|EZOVDEW|N
+|Adora  |Boomer |Glue   |Ace    |The Mochinator|EZOVDEW|N
+|Adora  |Bomb   |Ice    |Ace    |The Mochinator|EZOVDEW|N
+|Adora  |Ice    |Glue   |Ace    |The Mochinator|EZOVDEW|N
+|Adora  |Ice    |Sniper |Ace    |The Mochinator|EZOVDEW|N
+|Adora  |Ice    |Ace    |Spact  |The Mochinator|EZOVDEW|N
+|Adora  |Ice    |Ace    |Village|The Mochinator|EZOVDEW|N
+|Adora  |Bomb   |Bucc   |Ace    |The Mochinator|EZOVDEW|N
+|Adora  |Sniper |Bucc   |Ace    |The Mochinator|EZOVDEW|N
+|Adora  |Bomb   |Ace    |Ninja  |The Mochinator|EZOVDEW|N
+|Adora  |Sniper |Ace    |Ninja  |The Mochinator|EZOVDEW|N
+|Adora  |Ace    |Ninja  |Village|The Mochinator|EZOVDEW|N
+|Adora  |Bomb   |Sniper |Ace    |The Mochinator|EZOVDEW|N
+|Adora  |Bomb   |Glue   |Ace    |The Mochinator|EZOVDEW|N
+|Church |Dart   |Druid  |Spact  |Smurfblade|MZOVEKK|N
+|Church |Sniper |Druid  |Spact  |Smurfblade|MZOVEKK|N
+|Church |Mortar |Druid  |Spact  |Smurfblade|MZOVEKK|N
+|Church |Ninja  |Druid  |Spact  |Smurfblade|MZOVEKK|N
+|Church |Druid  |Spact  |Village|Smurfblade|MZOVEKK|N
+|Church |Druid  |Spact  |Engi   |Smurfblade|MZOVEKK|N
+|Striker|Bomb   |Wizard |Druid  |epicalex4444|LZOWKBV|N
+|Ben    |Bomb   |Wizard |Druid  |epicalex4444|EZOWFYS|N
+|Gwen   |Bomb   |Glue   |Super  |coolio1223|KZOWGTA|N
+|Ben    |Bomb   |Wizard |Alch   |epicalex4444|TZOWGLU|N
+|Striker|Sniper |Wizard |Druid  |epicalex4444|XZOWWUK|N
+|Ben    |Sniper |Wizard |Druid  |coolio1223|PZOWSDW|N

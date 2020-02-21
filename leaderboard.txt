@@ -1,5 +1,5 @@
-The Mochinator: 1250
-coolio1223: 331
+The Mochinator: 1275
+coolio1223: 333
 Char: 327
 Agent51: 303
 Emtee: 270
@@ -10,7 +10,7 @@ ILiekFishes: 178
 Topaz: 165
 Gavo38322: 145
 kernnpop: 142
-epicalex4444: 134
+epicalex4444: 140
 TremenMusic: 133
 315Lukas: 132
 InnateWarrior: 131
@@ -19,13 +19,13 @@ meta: 118
 frds: 115
 benstein999: 107
 Urinetosh: 100
-Smurfblade: 77
+Smurfblade: 83
 PEZmaster2: 77
 UnLapiz: 59
 123CrimsonRain: 49
 TobiBloon439: 48
 RainbowDox: 47
-The Line: 44
+The Line: 45
 Natethesnake: 43
 Jollto13: 36
 TheKNEE13: 31
