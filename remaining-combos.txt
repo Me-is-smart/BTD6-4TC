@@ -2319,7 +2319,6 @@
 |Striker|Sniper |Mortar |Alch   |
 |Striker|Sniper |Mortar |Druid  |
 |Striker|Sniper |Mortar |Engi   |
-|Striker|Sniper |Wizard |Druid  |
 |Striker|Sniper |Super  |Ninja  |
 |Striker|Sniper |Super  |Druid  |
 |Striker|Sniper |Super  |Engi   |
@@ -3913,7 +3912,6 @@
 |Ben    |Sniper |Mortar |Alch   |
 |Ben    |Sniper |Mortar |Druid  |
 |Ben    |Sniper |Mortar |Engi   |
-|Ben    |Sniper |Wizard |Druid  |
 |Ben    |Sniper |Super  |Ninja  |
 |Ben    |Sniper |Super  |Druid  |
 |Ben    |Sniper |Super  |Engi   |

@@ -9417,3 +9417,5 @@
 |Ben    |Bomb   |Wizard |Druid  |epicalex4444|EZOWFYS|N
 |Gwen   |Bomb   |Glue   |Super  |coolio1223|KZOWGTA|N
 |Ben    |Bomb   |Wizard |Alch   |epicalex4444|TZOWGLU|N
+|Striker|Sniper |Wizard |Druid  |epicalex4444|XZOWWUK|N
+|Ben    |Sniper |Wizard |Druid  |coolio1223|PZOWSDW|N
