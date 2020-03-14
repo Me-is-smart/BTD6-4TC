@@ -9419,3 +9419,106 @@
 |Ben    |Bomb   |Wizard |Alch   |epicalex4444|TZOWGLU|N
 |Striker|Sniper |Wizard |Druid  |epicalex4444|XZOWWUK|N
 |Ben    |Sniper |Wizard |Druid  |coolio1223|PZOWSDW|N
+|Bomb   |Glue   |Ace    |Heli   |epicalex4444|DZOTFAV|N
+|Bomb   |Sniper |Ace    |Heli   |epicalex4444|GZOTFYV|N
+|Bomb   |Ace    |Mortar |Druid  |epicalex4444|BZOTWLT|N
+|Glue   |Ace    |Mortar |Druid  |epicalex4444|BZOTWLT|N
+|Sniper |Ace    |Mortar |Druid  |epicalex4444|BZOTWLT|N
+|Gwen   |Ace    |Mortar |Druid  |epicalex4444|BZOTWLT|N
+|Striker|Ace    |Mortar |Druid  |epicalex4444|BZOTWLT|N
+|Ben    |Ace    |Mortar |Druid  |epicalex4444|BZOTWLT|N
+|Pat    |Ace    |Mortar |Druid  |epicalex4444|BZOTWLT|N
+|Ezili  |Bomb   |Ace    |Mortar |epicalex4444|WZOTTRF|N
+|Ezili  |Glue   |Ace    |Mortar |epicalex4444|WZOTTRF|N
+|Ezili  |Sniper |Ace    |Mortar |epicalex4444|WZOTTRF|N
+|Ezili  |Ace    |Mortar |Spact  |epicalex4444|WZOTTRF|N
+|Ezili  |Ace    |Mortar |Village|epicalex4444|WZOTTRF|N
+|Bomb   |Glue   |Ace    |Mortar |epicalex4444|FZOTAOE|N
+|Bomb   |Sniper |Ace    |Mortar |epicalex4444|XZOTCUL|N
+|Ezili  |Bomb   |Ace    |Spact  |epicalex4444|HZOTCDF|N
+|Ezili  |Sniper |Ace    |Spact  |epicalex4444|HZOTCDF|N
+|Ezili  |Ace    |Spact  |Village|epicalex4444|HZOTCDF|N
+|Bomb   |Ice    |Ace    |Spact  |epicalex4444|TZOTDBD|N
+|Ice    |Glue   |Ace    |Spact  |epicalex4444|TZOTDBD|N
+|Ice    |Sniper |Ace    |Spact  |epicalex4444|TZOTDBD|N
+|Ice    |Ace    |Spact  |Village|epicalex4444|TZOTDBD|N
+|Gwen   |Ice    |Ace    |Spact  |epicalex4444|TZOTDBD|N
+|Striker|Ice    |Ace    |Spact  |epicalex4444|TZOTDBD|N
+|Obyn   |Ice    |Ace    |Spact  |epicalex4444|TZOTDBD|N
+|Church |Ice    |Ace    |Spact  |epicalex4444|TZOTDBD|N
+|Ben    |Ice    |Ace    |Spact  |epicalex4444|TZOTDBD|N
+|Pat    |Ice    |Ace    |Spact  |epicalex4444|TZOTDBD|N
+|Bomb   |Glue   |Ace    |Spact  |epicalex4444|BZOTRMM|N
+|Bomb   |Sniper |Ace    |Spact  |epicalex4444|RZOTRXW|N
+|Church |Bomb   |Ace    |Ninja  |epicalex4444|YZOTRSP|N
+|Church |Sniper |Ace    |Ninja  |epicalex4444|YZOTRSP|N
+|Church |Ace    |Ninja  |Village|epicalex4444|YZOTRSP|N
+|Dart   |Bomb   |Tack   |Sub    |The Mochinator|HZOTRRH|N
+|Dart   |Bomb   |Ice    |Sub    |The Mochinator|HZOTRRH|N
+|Dart   |Bomb   |Sniper |Sub    |The Mochinator|HZOTRRH|N
+|Dart   |Bomb   |Sub    |Bucc   |The Mochinator|HZOTRRH|N
+|Dart   |Bomb   |Sub    |Ninja  |The Mochinator|HZOTRRH|N
+|Dart   |Bomb   |Sub    |Alch   |The Mochinator|HZOTRRH|N
+|Dart   |Bomb   |Sub    |Druid  |The Mochinator|HZOTRRH|N
+|Dart   |Bomb   |Sub    |Spact  |The Mochinator|HZOTRRH|N
+|Dart   |Bomb   |Sub    |Engi   |The Mochinator|HZOTRRH|N
+|Quincy |Dart   |Bomb   |Sub    |The Mochinator|HZOTRRH|N
+|Gwen   |Dart   |Bomb   |Sub    |The Mochinator|HZOTRRH|N
+|Striker|Dart   |Bomb   |Sub    |The Mochinator|HZOTRRH|N
+|Obyn   |Dart   |Bomb   |Sub    |The Mochinator|HZOTRRH|N
+|Ben    |Dart   |Bomb   |Sub    |The Mochinator|HZOTRRH|N
+|Ezili  |Dart   |Bomb   |Sub    |The Mochinator|HZOTRRH|N
+|Pat    |Dart   |Bomb   |Sub    |The Mochinator|HZOTRRH|N
+|Church |Bomb   |Ice    |Ace    |epicalex4444|RZOTYSP|N
+|Church |Ice    |Glue   |Ace    |epicalex4444|RZOTYSP|N
+|Church |Ice    |Sniper |Ace    |epicalex4444|RZOTYSP|N
+|Church |Ice    |Ace    |Village|epicalex4444|RZOTYSP|N
+|Dart   |Bomb   |Bucc   |Heli   |The Mochinator|PZOXFBO|N
+|Dart   |Tack   |Bucc   |Heli   |The Mochinator|PZOXFBO|N
+|Dart   |Bucc   |Heli   |Druid  |The Mochinator|PZOXFBO|N
+|Quincy |Dart   |Bucc   |Heli   |The Mochinator|PZOXFBO|N
+|Striker|Dart   |Bucc   |Heli   |The Mochinator|PZOXFBO|N
+|Adora  |Dart   |Bucc   |Heli   |The Mochinator|PZOXFBO|N
+|Glue   |Mortar |Super  |Druid  |coolio1223|VZOXWED|N
+|Bomb   |Sniper |Super  |Spact  |coolio1223|RZOAVGP|N
+|Dart   |Bomb   |Ace    |Ninja  |coolio1223|RZOBOPG|N
+|Dart   |Ace    |Ninja  |Druid  |coolio1223|RZOBOPG|N
+|Quincy |Dart   |Ace    |Ninja  |coolio1223|RZOBOPG|N
+|Gwen   |Dart   |Ace    |Ninja  |coolio1223|RZOBOPG|N
+|Striker|Dart   |Ace    |Ninja  |coolio1223|RZOBOPG|N
+|Ben    |Dart   |Ace    |Ninja  |coolio1223|RZOBOPG|N
+|Bomb   |Tack   |Sniper |Village|coolio1223|TZOSAOG|N
+|Tack   |Ice    |Sniper |Village|coolio1223|TZOSAOG|N
+|Tack   |Glue   |Sniper |Village|coolio1223|TZOSAOG|N
+|Tack   |Sniper |Alch   |Village|coolio1223|TZOSAOG|N
+|Tack   |Sniper |Druid  |Village|coolio1223|TZOSAOG|N
+|Tack   |Sniper |Village|Engi   |coolio1223|TZOSAOG|N
+|Striker|Tack   |Sniper |Village|coolio1223|TZOSAOG|N
+|Church |Tack   |Sniper |Village|coolio1223|TZOSAOG|N
+|Ben    |Tack   |Sniper |Village|coolio1223|TZOSAOG|N
+|Adora  |Boomer |Glue   |Sub    |epicalex4444|XZOSLAX|N
+|Adora  |Bomb   |Glue   |Sub    |epicalex4444|XZOSLAX|N
+|Adora  |Tack   |Glue   |Sub    |epicalex4444|XZOSLAX|N
+|Adora  |Ice    |Glue   |Sub    |epicalex4444|XZOSLAX|N
+|Adora  |Glue   |Sniper |Sub    |epicalex4444|XZOSLAX|N
+|Adora  |Glue   |Sub    |Bucc   |epicalex4444|XZOSLAX|N
+|Adora  |Glue   |Sub    |Ninja  |epicalex4444|XZOSLAX|N
+|Adora  |Glue   |Sub    |Alch   |epicalex4444|XZOSLAX|N
+|Adora  |Glue   |Sub    |Druid  |epicalex4444|XZOSLAX|N
+|Adora  |Glue   |Sub    |Engi   |epicalex4444|XZOSLAX|N
+|Adora  |Bomb   |Druid  |Village|epicalex4444|WZOSOFW|N
+|Adora  |Ice    |Druid  |Village|epicalex4444|WZOSOFW|N
+|Adora  |Glue   |Druid  |Village|epicalex4444|WZOSOFW|N
+|Adora  |Sniper |Druid  |Village|epicalex4444|WZOSOFW|N
+|Adora  |Super  |Druid  |Village|epicalex4444|WZOSOFW|N
+|Adora  |Ninja  |Druid  |Village|epicalex4444|WZOSOFW|N
+|Adora  |Alch   |Druid  |Village|epicalex4444|WZOSOFW|N
+|Adora  |Druid  |Spact  |Village|epicalex4444|WZOSOFW|N
+|Adora  |Boomer |Mortar |Ninja  |epicalex4444|LZODHPR|N
+|Adora  |Bomb   |Mortar |Ninja  |epicalex4444|LZODHPR|N
+|Adora  |Tack   |Mortar |Ninja  |epicalex4444|LZODHPR|N
+|Adora  |Ice    |Mortar |Ninja  |epicalex4444|LZODHPR|N
+|Adora  |Sniper |Mortar |Ninja  |epicalex4444|LZODHPR|N
+|Adora  |Mortar |Ninja  |Druid  |epicalex4444|LZODHPR|N
+|Adora  |Mortar |Ninja  |Engi   |epicalex4444|LZODHPR|N
+|Church |Sub    |Alch   |Village|Sniper 355|CZOETLK|N
