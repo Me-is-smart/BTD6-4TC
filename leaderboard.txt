@@ -1,16 +1,16 @@
-The Mochinator: 1275
-coolio1223: 333
+The Mochinator: 1297
+coolio1223: 350
 Char: 327
 Agent51: 303
 Emtee: 270
 the_op_boss: 243
+epicalex4444: 203
 Great Mage: 198
 rigged: 186
 ILiekFishes: 178
 Topaz: 165
 Gavo38322: 145
 kernnpop: 142
-epicalex4444: 140
 TremenMusic: 133
 315Lukas: 132
 InnateWarrior: 131
@@ -20,7 +20,7 @@ frds: 115
 benstein999: 107
 Urinetosh: 100
 Smurfblade: 83
-PEZmaster2: 77
+PEZmaster2: 78
 UnLapiz: 59
 123CrimsonRain: 49
 TobiBloon439: 48
@@ -66,10 +66,10 @@ dadragon99: 7
 Qeih: 6
 Kyle Robinson: 6
 Overeasybacon: 5
+Sniper 355: 4
 Jordan Hintz: 4
 Amanensia: 4
 @NoArmsTigerMan: 4
-Sniper 355: 3
 Rakution: 3
 Michael Volz: 3
 Dance: 3
@@ -109,7 +109,6 @@ ItIsNitecap: 1
 GeorgeGraphy: 1
 Gayanjebko: 1
 GamesCore: 1
-GZPMUOL: 1
 Friartruck: 1
 ForbiddenGroot: 1
 Folup666: 1
