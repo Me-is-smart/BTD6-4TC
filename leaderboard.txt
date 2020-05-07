@@ -1,10 +1,10 @@
 The Mochinator: 1297
-coolio1223: 350
+coolio1223: 366
 Char: 327
-Agent51: 303
+Agent51: 304
 Emtee: 270
+epicalex4444: 244
 the_op_boss: 243
-epicalex4444: 203
 Great Mage: 198
 rigged: 186
 ILiekFishes: 178
@@ -24,12 +24,13 @@ PEZmaster2: 78
 UnLapiz: 59
 123CrimsonRain: 49
 TobiBloon439: 48
+The Line: 47
 RainbowDox: 47
-The Line: 45
 Natethesnake: 43
+killerkama: 36
 Jollto13: 36
+natedaishmaster: 34
 TheKNEE13: 31
-killerkama: 29
 TheMainTrain: 28
 Mr-Samson: 28
 KaptainKrunche: 25
@@ -41,13 +42,16 @@ FenixKillah: 19
 411i0tt: 17
 samhulk99: 16
 RandyZ524: 16
+RB: 16
 MaiaGD: 15
 HikingPotato: 15
+Bolt Superdog: 15
 AIGP2304: 15
 powergo: 14
 boblovespi: 14
 Mlop098: 14
 JrMonkey15184: 14
+Hi_V0LTAGE: 14
 DespacitoMage: 14
 PercyJackson: 13
 Kevaca: 13
@@ -59,14 +63,14 @@ rouge_bare: 9
 S2067: 9
 LoveBrothers: 9
 Kholdstare: 9
-natedaishmaster: 8
+100beep: 9
 killcrazy99: 8
 ImTheException: 8
 dadragon99: 7
 Qeih: 6
 Kyle Robinson: 6
+Sniper 355: 5
 Overeasybacon: 5
-Sniper 355: 4
 Jordan Hintz: 4
 Amanensia: 4
 @NoArmsTigerMan: 4
@@ -112,6 +116,7 @@ GamesCore: 1
 Friartruck: 1
 ForbiddenGroot: 1
 Folup666: 1
+Flambe13: 1
 Drens_: 1
 Charipi: 1
 BloonBuster974: 1

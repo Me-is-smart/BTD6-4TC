@@ -9522,3 +9522,152 @@
 |Adora  |Mortar |Ninja  |Druid  |epicalex4444|LZODHPR|N
 |Adora  |Mortar |Ninja  |Engi   |epicalex4444|LZODHPR|N
 |Church |Sub    |Alch   |Village|Sniper 355|CZOETLK|N
+|Quincy |Glue   |Alch   |Engi   |Agent51|UZOPSGD|N
+|Glue   |Sniper |Druid  |Village|The Line|AZORCYL|N
+|Boomer |Tack   |Glue   |Sub    |coolio1223|SZORSTX|N
+|Church |Dart   |Ninja  |Village|Sniper 355|OZOOPMG|N
+|Adora  |Boomer |Sub    |Bucc   |Flambe13|ZMKKUYG|N
+|Tack   |Glue   |Alch   |Village|Hi_V0LTAGE|ZMKMKTK|N
+|Ezili  |Super  |Alch   |Village|Hi_V0LTAGE|ZMKMCEF|N
+|Pat    |Bomb   |Ace    |Druid  |epicalex4444|ZMKMYOR|N
+|Pat    |Glue   |Ace    |Druid  |epicalex4444|ZMKMYOR|N
+|Pat    |Sniper |Ace    |Druid  |epicalex4444|ZMKMYOR|N
+|Pat    |Ace    |Ninja  |Druid  |epicalex4444|ZMKMYOR|N
+|Ezili  |Boomer |Bomb   |Ace    |epicalex4444|ZMKMLXA|N
+|Ezili  |Boomer |Glue   |Ace    |epicalex4444|ZMKMLXA|N
+|Dart   |Boomer |Glue   |Heli   |Hi_V0LTAGE|ZMKFHTC|N
+|Dart   |Bomb   |Glue   |Heli   |Hi_V0LTAGE|ZMKFHTC|N
+|Dart   |Tack   |Glue   |Heli   |Hi_V0LTAGE|ZMKFHTC|N
+|Dart   |Glue   |Heli   |Druid  |Hi_V0LTAGE|ZMKFHTC|N
+|Quincy |Dart   |Glue   |Heli   |Hi_V0LTAGE|ZMKFHTC|N
+|Striker|Dart   |Glue   |Heli   |Hi_V0LTAGE|ZMKFHTC|N
+|Adora  |Dart   |Glue   |Heli   |Hi_V0LTAGE|ZMKFHTC|N
+|Ben    |Dart   |Glue   |Heli   |Hi_V0LTAGE|ZMKFHTC|N
+|Ezili  |Dart   |Glue   |Heli   |Hi_V0LTAGE|ZMKFHTC|N
+|Glue   |Sniper |Ace    |Spact  |epicalex4444|ZMKFHLR|N
+|Boomer |Bomb   |Glue   |Ace    |epicalex4444|ZMKFVFB|N
+|Boomer |Ice    |Glue   |Ace    |epicalex4444|ZMKFVFB|N
+|Boomer |Glue   |Ace    |Druid  |epicalex4444|ZMKFVFB|N
+|Quincy |Boomer |Glue   |Ace    |epicalex4444|ZMKFVFB|N
+|Striker|Boomer |Glue   |Ace    |epicalex4444|ZMKFVFB|N
+|Ben    |Boomer |Glue   |Ace    |epicalex4444|ZMKFVFB|N
+|Gwen   |Dart   |Ace    |Druid  |epicalex4444|ZMKFBAP|N
+|Gwen   |Bomb   |Ace    |Druid  |epicalex4444|ZMKFBAP|N
+|Gwen   |Glue   |Ace    |Druid  |epicalex4444|ZMKFBAP|N
+|Gwen   |Sniper |Ace    |Druid  |epicalex4444|ZMKFBAP|N
+|Gwen   |Ace    |Ninja  |Druid  |epicalex4444|ZMKFBAP|N
+|Gwen   |Dart   |Bomb   |Ace    |epicalex4444|ZMKFBEF|N
+|Gwen   |Dart   |Ice    |Ace    |epicalex4444|ZMKFBEF|N
+|Gwen   |Dart   |Glue   |Ace    |epicalex4444|ZMKFBEF|N
+|Sniper |Ace    |Ninja  |Druid  |The Line|ZMKFDHE|N
+|Dart   |Glue   |Alch   |Village|Hi_V0LTAGE|ZMKFPUG|N
+|Ezili  |Bomb   |Ace    |Village|epicalex4444|ZMKGUKS|N
+|Ezili  |Sniper |Ace    |Village|epicalex4444|ZMKGUKS|N
+|Ezili  |Ace    |Ninja  |Village|epicalex4444|ZMKGUKS|N
+|Quincy |Ice    |Ace    |Village|epicalex4444|ZMKGUER|N
+|Quincy |Sniper |Ace    |Village|epicalex4444|ZMKGUER|N
+|Church |Boomer |Bomb   |Sub    |coolio1223|ZMKGVVL|N
+|Church |Boomer |Tack   |Sub    |coolio1223|ZMKGVVL|N
+|Church |Boomer |Ice    |Sub    |coolio1223|ZMKGVVL|N
+|Church |Boomer |Sniper |Sub    |coolio1223|ZMKGVVL|N
+|Church |Boomer |Sub    |Mortar |coolio1223|ZMKGVVL|N
+|Church |Boomer |Sub    |Ninja  |coolio1223|ZMKGVVL|N
+|Church |Boomer |Sub    |Druid  |coolio1223|ZMKGVVL|N
+|Striker|Ace    |Ninja  |Village|epicalex4444|ZMKGTVT|N
+|Ben    |Ace    |Ninja  |Village|epicalex4444|ZMKGTVT|N
+|Bomb   |Ice    |Ace    |Village|epicalex4444|ZMKGTEW|N
+|Ice    |Glue   |Ace    |Village|epicalex4444|ZMKGTEW|N
+|Ice    |Sniper |Ace    |Village|epicalex4444|ZMKGTEW|N
+|Gwen   |Ice    |Ace    |Village|epicalex4444|ZMKGTEW|N
+|Striker|Ice    |Ace    |Village|epicalex4444|ZMKGTEW|N
+|Obyn   |Ice    |Ace    |Village|epicalex4444|ZMKGTEW|N
+|Ben    |Ice    |Ace    |Village|epicalex4444|ZMKGTEW|N
+|Pat    |Ice    |Ace    |Village|epicalex4444|ZMKGTEW|N
+|Pat    |Bomb   |Ice    |Ace    |epicalex4444|ZMKGXKC|N
+|Pat    |Ice    |Glue   |Ace    |epicalex4444|ZMKGXKC|N
+|Pat    |Ice    |Sniper |Ace    |epicalex4444|ZMKGXKC|N
+|Pat    |Bomb   |Ace    |Ninja  |epicalex4444|ZMKGXVV|N
+|Pat    |Sniper |Ace    |Ninja  |epicalex4444|ZMKGXVV|N
+|Tack   |Ice    |Glue   |Village|Hi_V0LTAGE|ZMKHHVS|N
+|Church |Bomb   |Sub    |Ninja  |killerkama|ZMKHBAE|N
+|Church |Tack   |Sub    |Ninja  |killerkama|ZMKHBAE|N
+|Church |Ice    |Sub    |Ninja  |killerkama|ZMKHBAE|N
+|Church |Sniper |Sub    |Ninja  |killerkama|ZMKHBAE|N
+|Church |Sub    |Mortar |Ninja  |killerkama|ZMKHBAE|N
+|Church |Sub    |Ninja  |Druid  |killerkama|ZMKHBAE|N
+|Church |Sub    |Ninja  |Village|killerkama|ZMKHBAE|N
+|Bomb   |Tack   |Sniper |Super  |coolio1223|ZMKUDPP|N
+|Bomb   |Ice    |Sniper |Super  |coolio1223|ZMKUDPP|N
+|Bomb   |Sniper |Heli   |Super  |coolio1223|ZMKUDPP|N
+|Bomb   |Sniper |Mortar |Super  |coolio1223|ZMKUDPP|N
+|Bomb   |Sniper |Super  |Druid  |coolio1223|ZMKUDPP|N
+|Striker|Bomb   |Sniper |Super  |coolio1223|ZMKUDPP|N
+|Ben    |Bomb   |Sniper |Super  |coolio1223|ZMKUDPP|N
+|Pat    |Bomb   |Sniper |Super  |coolio1223|ZMKUDPP|N
+|Dart   |Sniper |Alch   |Village|Hi_V0LTAGE|ZMKVGDX|N
+|Boomer |Bomb   |Ice    |Ace    |natedaishmaster|ZMKWMAD|N
+|Boomer |Bomb   |Ace    |Druid  |natedaishmaster|ZMKWMAD|N
+|Quincy |Boomer |Bomb   |Ace    |natedaishmaster|ZMKWMAD|N
+|Quincy |Boomer |Ice    |Ace    |natedaishmaster|ZMKWMAD|N
+|Striker|Boomer |Bomb   |Ace    |natedaishmaster|ZMKWMAD|N
+|Striker|Boomer |Ice    |Ace    |natedaishmaster|ZMKWMAD|N
+|Striker|Boomer |Ace    |Druid  |natedaishmaster|ZMKWMAD|N
+|Ben    |Boomer |Bomb   |Ace    |natedaishmaster|ZMKWMAD|N
+|Ben    |Boomer |Ice    |Ace    |natedaishmaster|ZMKWMAD|N
+|Ben    |Boomer |Ace    |Druid  |natedaishmaster|ZMKWMAD|N
+|Dart   |Bomb   |Ice    |Ace    |RB|ZMKWDER|N
+|Dart   |Bomb   |Glue   |Ace    |RB|ZMKWDER|N
+|Dart   |Bomb   |Ace    |Druid  |RB|ZMKWDER|N
+|Dart   |Ice    |Glue   |Ace    |RB|ZMKWDER|N
+|Dart   |Glue   |Ace    |Druid  |RB|ZMKWDER|N
+|Quincy |Dart   |Bomb   |Ace    |RB|ZMKWDER|N
+|Quincy |Dart   |Ice    |Ace    |RB|ZMKWDER|N
+|Quincy |Dart   |Glue   |Ace    |RB|ZMKWDER|N
+|Striker|Dart   |Bomb   |Ace    |RB|ZMKWDER|N
+|Striker|Dart   |Ice    |Ace    |RB|ZMKWDER|N
+|Striker|Dart   |Glue   |Ace    |RB|ZMKWDER|N
+|Striker|Dart   |Ace    |Druid  |RB|ZMKWDER|N
+|Ben    |Dart   |Bomb   |Ace    |RB|ZMKWDER|N
+|Ben    |Dart   |Ice    |Ace    |RB|ZMKWDER|N
+|Ben    |Dart   |Glue   |Ace    |RB|ZMKWDER|N
+|Ben    |Dart   |Ace    |Druid  |RB|ZMKWDER|N
+|Bomb   |Glue   |Ace    |Druid  |natedaishmaster|ZMKTWHY|N
+|Bomb   |Sniper |Ace    |Druid  |natedaishmaster|ZMKTWHY|N
+|Bomb   |Bucc   |Ace    |Druid  |natedaishmaster|ZMKTWHY|N
+|Bomb   |Ace    |Ninja  |Druid  |natedaishmaster|ZMKTWHY|N
+|Glue   |Sniper |Ace    |Druid  |natedaishmaster|ZMKTWHY|N
+|Sniper |Bucc   |Ace    |Druid  |natedaishmaster|ZMKTWHY|N
+|Striker|Bomb   |Ace    |Druid  |natedaishmaster|ZMKTWHY|N
+|Striker|Glue   |Ace    |Druid  |natedaishmaster|ZMKTWHY|N
+|Striker|Sniper |Ace    |Druid  |natedaishmaster|ZMKTWHY|N
+|Striker|Bucc   |Ace    |Druid  |natedaishmaster|ZMKTWHY|N
+|Striker|Ace    |Ninja  |Druid  |natedaishmaster|ZMKTWHY|N
+|Ben    |Bomb   |Ace    |Druid  |natedaishmaster|ZMKTWHY|N
+|Ben    |Glue   |Ace    |Druid  |natedaishmaster|ZMKTWHY|N
+|Ben    |Sniper |Ace    |Druid  |natedaishmaster|ZMKTWHY|N
+|Ben    |Bucc   |Ace    |Druid  |natedaishmaster|ZMKTWHY|N
+|Ben    |Ace    |Ninja  |Druid  |natedaishmaster|ZMKTWHY|N
+|Boomer |Bomb   |Sniper |Mortar |Bolt Superdog|ZMKTCDM|N
+|Boomer |Ice    |Sniper |Mortar |Bolt Superdog|ZMKTCDM|N
+|Boomer |Glue   |Sniper |Mortar |Bolt Superdog|ZMKTCDM|N
+|Boomer |Sniper |Sub    |Mortar |Bolt Superdog|ZMKTCDM|N
+|Boomer |Sniper |Mortar |Ninja  |Bolt Superdog|ZMKTCDM|N
+|Boomer |Sniper |Mortar |Alch   |Bolt Superdog|ZMKTCDM|N
+|Boomer |Sniper |Mortar |Druid  |Bolt Superdog|ZMKTCDM|N
+|Boomer |Sniper |Mortar |Engi   |Bolt Superdog|ZMKTCDM|N
+|Gwen   |Boomer |Sniper |Mortar |Bolt Superdog|ZMKTCDM|N
+|Obyn   |Boomer |Sniper |Mortar |Bolt Superdog|ZMKTCDM|N
+|Adora  |Boomer |Sniper |Mortar |Bolt Superdog|ZMKTCDM|N
+|Church |Boomer |Sniper |Mortar |Bolt Superdog|ZMKTCDM|N
+|Ben    |Boomer |Sniper |Mortar |Bolt Superdog|ZMKTCDM|N
+|Ezili  |Boomer |Sniper |Mortar |Bolt Superdog|ZMKTCDM|N
+|Pat    |Boomer |Sniper |Mortar |Bolt Superdog|ZMKTCDM|N
+|Church |Sniper |Sub    |Alch   |100beep|ZMKXRPB|N
+|Gwen   |Boomer |Bucc   |Engi   |100beep|ZMKAVLW|N
+|Dart   |Boomer |Tack   |Engi   |100beep|ZMKBHYT|N
+|Adora  |Bomb   |Sub    |Alch   |100beep|ZMKCFSR|N
+|Adora  |Ice    |Sub    |Alch   |100beep|ZMKCFSR|N
+|Adora  |Sniper |Sub    |Alch   |100beep|ZMKCFSR|N
+|Adora  |Sub    |Alch   |Druid  |100beep|ZMKCFSR|N
+|Adora  |Sub    |Alch   |Spact  |100beep|ZMKCFSR|N
+|Adora  |Sub    |Alch   |Engi   |100beep|ZMKCFSR|N
