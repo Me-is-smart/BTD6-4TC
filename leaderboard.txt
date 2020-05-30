@@ -1,85 +1,94 @@
-The Mochinator: 1297
-coolio1223: 366
-Char: 327
-Agent51: 304
-Emtee: 270
-epicalex4444: 244
-the_op_boss: 243
-Great Mage: 198
-rigged: 186
-ILiekFishes: 178
-Topaz: 165
-Gavo38322: 145
-kernnpop: 142
-TremenMusic: 133
-315Lukas: 132
-InnateWarrior: 131
-Chocbox: 123
-meta: 118
-frds: 115
+The Mochinator: 1356
+Berryl: 389
+coolio1223: 388
+Char: 335
+2TC: 333
+epicalex4444: 293
+Emtee: 288
+the_op_boss: 251
+rigged: 217
+Great Mage: 201
+ILiekFishes: 190
+Topaz: 169
+kernnpop: 149
+Gavo38322: 147
+TremenMusic: 143
+315Lukas: 136
+InnateWarrior: 132
+Chocbox: 125
+meta: 122
+frds: 118
 benstein999: 107
-Urinetosh: 100
-Smurfblade: 83
-PEZmaster2: 78
-UnLapiz: 59
-123CrimsonRain: 49
-TobiBloon439: 48
-The Line: 47
-RainbowDox: 47
-Natethesnake: 43
-killerkama: 36
-Jollto13: 36
+Urinetosh: 103
+Smurfblade: 84
+PEZmaster2: 81
+The Line: 62
+UnLapiz: 60
+123CrimsonRain: 51
+TobiBloon439: 50
+RainbowDox: 48
+LankyMcSwanky: 48
+100beep: 46
+Uniquepotatoes: 45
+Natethesnake: 44
+killerkama: 37
+Jollto13: 37
 natedaishmaster: 34
-TheKNEE13: 31
+TheKNEE13: 32
 TheMainTrain: 28
 Mr-Samson: 28
-KaptainKrunche: 25
+KaptainKrunche: 26
+Lookatmeimamod: 24
 rmlgaming: 23
-Lookatmeimamod: 23
+urhere: 20
 laxx: 20
-urhere: 19
-FenixKillah: 19
+FenixKillah: 20
+RB: 19
+RandyZ524: 17
 411i0tt: 17
 samhulk99: 16
-RandyZ524: 16
-RB: 16
+Bolt Superdog: 16
+AIGP2304: 16
 MaiaGD: 15
+JrMonkey15184: 15
 HikingPotato: 15
-Bolt Superdog: 15
-AIGP2304: 15
+Hi_V0LTAGE: 15
 powergo: 14
 boblovespi: 14
 Mlop098: 14
-JrMonkey15184: 14
-Hi_V0LTAGE: 14
 DespacitoMage: 14
 PercyJackson: 13
 Kevaca: 13
 380-mortis: 13
-LightChaosman: 11
+LightChaosman: 12
 Valter: 10
 Imbigtedde: 10
 rouge_bare: 9
+Vader123987: 9
 S2067: 9
 LoveBrothers: 9
 Kholdstare: 9
-100beep: 9
+ImTheException: 9
 killcrazy99: 8
-ImTheException: 8
+kanjerlucas: 8
 dadragon99: 7
-Qeih: 6
+Qeih: 7
 Kyle Robinson: 6
 Sniper 355: 5
 Overeasybacon: 5
 Jordan Hintz: 4
 Amanensia: 4
 @NoArmsTigerMan: 4
+epialex4444: 3
 Rakution: 3
 Michael Volz: 3
 Dance: 3
 AKNIGHT49: 3
+hailey is me: 2
 Yuichiro_12: 2
+ThinkHam: 2
 Sir Spanky: 2
+ShineBunny: 2
 Rangaz: 2
 JAMESZ: 2
 GabiPera: 2
@@ -91,11 +100,9 @@ popnovice0313: 1
 p4nthom22: 1
 milesman34: 1
 heavyknight: 1
-hailey is me: 1
 WillOwispss: 1
 Waddledee789123: 1
 Tyrell: 1
-ThinkHam: 1
 Samhulk99: 1
 Qelxiros: 1
 Murasame: 1
