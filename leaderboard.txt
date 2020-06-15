@@ -2,8 +2,7 @@ The Mochinator: 1356
 Berryl: 389
 coolio1223: 388
 Char: 335
-2TC: 333
-epicalex4444: 293
+epicalex4444: 302
 Emtee: 288
 the_op_boss: 251
 rigged: 217
@@ -20,24 +19,26 @@ meta: 122
 frds: 118
 benstein999: 107
 Urinetosh: 103
+LankyMcSwanky: 86
 Smurfblade: 84
 PEZmaster2: 81
+100beep: 74
+BIIue: 65
 The Line: 62
 UnLapiz: 60
 123CrimsonRain: 51
 TobiBloon439: 50
+killerkama: 48
 RainbowDox: 48
-LankyMcSwanky: 48
-100beep: 46
 Uniquepotatoes: 45
 Natethesnake: 44
-killerkama: 37
 Jollto13: 37
 natedaishmaster: 34
 TheKNEE13: 32
 TheMainTrain: 28
 Mr-Samson: 28
 KaptainKrunche: 26
+Hi_V0LTAGE: 25
 Lookatmeimamod: 24
 rmlgaming: 23
 urhere: 20
@@ -52,11 +53,12 @@ AIGP2304: 16
 MaiaGD: 15
 JrMonkey15184: 15
 HikingPotato: 15
-Hi_V0LTAGE: 15
 powergo: 14
 boblovespi: 14
 Mlop098: 14
+False Side: 14
 DespacitoMage: 14
+Vader123987: 13
 PercyJackson: 13
 Kevaca: 13
 380-mortis: 13
@@ -64,7 +66,6 @@ LightChaosman: 12
 Valter: 10
 Imbigtedde: 10
 rouge_bare: 9
-Vader123987: 9
 S2067: 9
 LoveBrothers: 9
 Kholdstare: 9
@@ -73,8 +74,8 @@ killcrazy99: 8
 kanjerlucas: 8
 dadragon99: 7
 Qeih: 7
+Sniper 355: 6
 Kyle Robinson: 6
-Sniper 355: 5
 Overeasybacon: 5
 Jordan Hintz: 4
 Amanensia: 4
@@ -85,7 +86,9 @@ Michael Volz: 3
 Dance: 3
 AKNIGHT49: 3
 hailey is me: 2
+clevelandfan32: 2
 Yuichiro_12: 2
+TylerdexDeluxe: 2
 ThinkHam: 2
 Sir Spanky: 2
 ShineBunny: 2
