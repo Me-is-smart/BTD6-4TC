@@ -1,10 +1,11 @@
-The Mochinator: 1356
-Berryl: 389
-coolio1223: 388
+The Mochinator: 1370
+Berryl: 485
+coolio1223: 413
+epicalex4444: 348
 Char: 335
-epicalex4444: 302
 Emtee: 288
 the_op_boss: 251
+LankyMcSwanky: 251
 rigged: 217
 Great Mage: 201
 ILiekFishes: 190
@@ -14,29 +15,28 @@ Gavo38322: 147
 TremenMusic: 143
 315Lukas: 136
 InnateWarrior: 132
-Chocbox: 125
+Chocbox: 129
 meta: 122
 frds: 118
 benstein999: 107
 Urinetosh: 103
-LankyMcSwanky: 86
 Smurfblade: 84
 PEZmaster2: 81
+The Line: 77
 100beep: 74
-BIIue: 65
-The Line: 62
+BIIue: 66
 UnLapiz: 60
+killerkama: 54
 123CrimsonRain: 51
 TobiBloon439: 50
-killerkama: 48
 RainbowDox: 48
 Uniquepotatoes: 45
 Natethesnake: 44
 Jollto13: 37
 natedaishmaster: 34
 TheKNEE13: 32
+Mr-Samson: 29
 TheMainTrain: 28
-Mr-Samson: 28
 KaptainKrunche: 26
 Hi_V0LTAGE: 25
 Lookatmeimamod: 24
@@ -44,6 +44,7 @@ rmlgaming: 23
 urhere: 20
 laxx: 20
 FenixKillah: 20
+clevelandfan32: 19
 RB: 19
 RandyZ524: 17
 411i0tt: 17
@@ -55,10 +56,10 @@ JrMonkey15184: 15
 HikingPotato: 15
 powergo: 14
 boblovespi: 14
+Vader123987: 14
 Mlop098: 14
 False Side: 14
 DespacitoMage: 14
-Vader123987: 13
 PercyJackson: 13
 Kevaca: 13
 380-mortis: 13
@@ -86,7 +87,6 @@ Michael Volz: 3
 Dance: 3
 AKNIGHT49: 3
 hailey is me: 2
-clevelandfan32: 2
 Yuichiro_12: 2
 TylerdexDeluxe: 2
 ThinkHam: 2
@@ -96,6 +96,7 @@ Rangaz: 2
 JAMESZ: 2
 GabiPera: 2
 Doesj: 2
+Aaron Cook: 2
 AUAG: 2
 water221: 1
 shadownavi64: 1
