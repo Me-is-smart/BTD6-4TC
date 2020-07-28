@@ -12063,8 +12063,9 @@
 |Brick  |Super  |Ninja  |Druid  |epicalex4444|ZMMGCGO|N
 |Brick  |Sniper |Super  |Ninja  |epicalex4444|ZMMGCXW|N
 |Striker|Super  |Ninja  |Druid  |epicalex4444|ZMMGSOY|N
+|Bomb   |Glue   |Heli   |Druid  |LankyMcSwanky|ZMMGDVO|N
 |Ben    |Sniper |Super  |Ninja  |epicalex4444|ZMMGDWV|N
-|Bomb   |Glue   |Heli   |Spact  |LankyMcSwanky|ZMMGDVO|N
+|Bomb   |Glue   |Heli   |Spact  |LankyMcSwanky (Sorry I misclicked)|ZMMGDVO|N
 |Boomer |Glue   |Sub    |Bucc   |coolio1223|ZMMGPUE|N
 |Boomer |Sniper |Sub    |Bucc   |coolio1223|ZMMGPUE|N
 |Boomer |Sub    |Bucc   |Ninja  |coolio1223|ZMMGPUE|N
@@ -12174,3 +12175,82 @@
 |Ezili  |Dart   |Sub    |Alch   |LankyMcSwanky|ZMMTGPK|N
 |Pat    |Dart   |Sub    |Alch   |LankyMcSwanky|ZMMTGPK|N
 |Quincy |Sub    |Druid  |Village|clevelandfan32|ZMMTXUF|N
+|Ice    |Glue   |Sniper |Sub    |coolio1223|ZMMXPPA|N
+|Brick  |Boomer |Glue   |Sub    |clevelandfan32|ZMMAOUU|N
+|Bomb   |Ice    |Glue   |Mortar |Berryl|ZMMBKOC|N
+|Bomb   |Glue   |Heli   |Mortar |Berryl|ZMMBKOC|N
+|Bomb   |Glue   |Mortar |Druid  |Berryl|ZMMBKOC|N
+|Bomb   |Glue   |Mortar |Spact  |Berryl|ZMMBKOC|N
+|Bomb   |Glue   |Mortar |Village|Berryl|ZMMBKOC|N
+|Bomb   |Glue   |Mortar |Engi   |Berryl|ZMMBKOC|N
+|Gwen   |Bomb   |Glue   |Mortar |Berryl|ZMMBKOC|N
+|Striker|Bomb   |Glue   |Mortar |Berryl|ZMMBKOC|N
+|Obyn   |Bomb   |Glue   |Mortar |Berryl|ZMMBKOC|N
+|Brick  |Bomb   |Glue   |Mortar |Berryl|ZMMBKOC|N
+|Church |Bomb   |Glue   |Mortar |Berryl|ZMMBKOC|N
+|Ben    |Bomb   |Glue   |Mortar |Berryl|ZMMBKOC|N
+|Ezili  |Bomb   |Glue   |Mortar |Berryl|ZMMBKOC|N
+|Pat    |Bomb   |Glue   |Mortar |Berryl|ZMMBKOC|N
+|Adora  |Bomb   |Glue   |Mortar |Berryl|ZMMBKOC|N
+|Bomb   |Ice    |Sub    |Mortar |Berryl|ZMMBMBS|N
+|Bomb   |Sub    |Mortar |Ninja  |Berryl|ZMMBMBS|N
+|Bomb   |Sub    |Mortar |Druid  |Berryl|ZMMBMBS|N
+|Bomb   |Sub    |Mortar |Spact  |Berryl|ZMMBMBS|N
+|Bomb   |Sub    |Mortar |Engi   |Berryl|ZMMBMBS|N
+|Quincy |Bomb   |Sub    |Mortar |Berryl|ZMMBMBS|N
+|Gwen   |Bomb   |Sub    |Mortar |Berryl|ZMMBMBS|N
+|Obyn   |Bomb   |Sub    |Mortar |Berryl|ZMMBMBS|N
+|Ben    |Bomb   |Sub    |Mortar |Berryl|ZMMBMBS|N
+|Ezili  |Bomb   |Sub    |Mortar |Berryl|ZMMBMBS|N
+|Tack   |Ice    |Glue   |Ninja  |Hi_V0LTAGE|ZMMBUGF|N
+|Boomer |Glue   |Sub    |Ninja  |clevelandfan32|ZMMBVAB|N
+|Bomb   |Glue   |Sub    |Bucc   |clevelandfan32|ZMMBMTB|N
+|Ezili  |Mortar |Ninja  |Village|clevelandfan32|ZMMBVSP|N
+|Ezili  |Bomb   |Tack   |Sub    |clevelandfan32|ZMMBVRY|N
+|Quincy |Boomer |Glue   |Sub    |clevelandfan32|ZMMBWAG|N
+|Tack   |Sniper |Mortar |Ninja  |Berryl|ZMMBTDO|N
+|Tack   |Sniper |Mortar |Alch   |Berryl|ZMMBTDO|N
+|Tack   |Sniper |Mortar |Druid  |Berryl|ZMMBTDO|N
+|Tack   |Sniper |Mortar |Engi   |Berryl|ZMMBTDO|N
+|Gwen   |Tack   |Sniper |Mortar |Berryl|ZMMBTDO|N
+|Obyn   |Tack   |Sniper |Mortar |Berryl|ZMMBTDO|N
+|Brick  |Tack   |Sniper |Mortar |Berryl|ZMMBTDO|N
+|Ben    |Tack   |Sniper |Mortar |Berryl|ZMMBTDO|N
+|Ezili  |Tack   |Sniper |Mortar |Berryl|ZMMBTDO|N
+|Pat    |Tack   |Sniper |Mortar |Berryl|ZMMBTDO|N
+|Adora  |Tack   |Sniper |Mortar |Berryl|ZMMBTDO|N
+|Gwen   |Bomb   |Bucc   |Alch   |LankyMcSwanky|ZMMBCSH|N
+|Gwen   |Tack   |Bucc   |Alch   |LankyMcSwanky|ZMMBCSH|N
+|Gwen   |Ice    |Bucc   |Alch   |LankyMcSwanky|ZMMBCSH|N
+|Gwen   |Glue   |Bucc   |Alch   |LankyMcSwanky|ZMMBCSH|N
+|Gwen   |Sniper |Bucc   |Alch   |LankyMcSwanky|ZMMBCSH|N
+|Gwen   |Bucc   |Alch   |Druid  |LankyMcSwanky|ZMMBCSH|N
+|Gwen   |Bucc   |Alch   |Engi   |LankyMcSwanky|ZMMBCSH|N
+|Ezili  |Boomer |Bomb   |Heli   |LankyMcSwanky|ZMMBCLF|N
+|Ezili  |Boomer |Tack   |Heli   |LankyMcSwanky|ZMMBCLF|N
+|Ezili  |Boomer |Glue   |Heli   |LankyMcSwanky|ZMMBCLF|N
+|Ezili  |Boomer |Heli   |Druid  |LankyMcSwanky|ZMMBCLF|N
+|Striker|Bomb   |Sub    |Bucc   |clevelandfan32|ZMMBSUW|N
+|Bomb   |Tack   |Ice    |Heli   |LankyMcSwanky|ZMMBSTD|N
+|Tack   |Ice    |Glue   |Heli   |LankyMcSwanky|ZMMBSTD|N
+|Tack   |Ice    |Heli   |Druid  |LankyMcSwanky|ZMMBSTD|N
+|Quincy |Tack   |Ice    |Heli   |LankyMcSwanky|ZMMBSTD|N
+|Striker|Tack   |Ice    |Heli   |LankyMcSwanky|ZMMBSTD|N
+|Ben    |Tack   |Ice    |Heli   |LankyMcSwanky|ZMMBSTD|N
+|Pat    |Tack   |Ice    |Heli   |LankyMcSwanky|ZMMBSTD|N
+|Adora  |Tack   |Ice    |Heli   |LankyMcSwanky|ZMMBSTD|N
+|Ezili  |Boomer |Ice    |Sub    |clevelandfan32|ZMMCMPR|N
+|Dart   |Sub    |Ninja  |Spact  |clevelandfan32|ZMMCFBB|N
+|Obyn   |Tack   |Ice    |Village|clevelandfan32|ZMMCHLV|N
+|Bomb   |Tack   |Sub    |Bucc   |clevelandfan32|ZMMCTPH|N
+|Quincy |Glue   |Bucc   |Spact  |coolio1223|ZMMSKPD|N
+|Adora  |Bomb   |Sub    |Ninja  |clevelandfan32|ZMMSAWL|N
+|Adora  |Bomb   |Ice    |Sub    |clevelandfan32|ZMMSAEP|N
+|Ice    |Glue   |Bucc   |Spact  |The Mochinator|ZMMSEGO|N
+|Glue   |Sniper |Bucc   |Spact  |The Mochinator|ZMMSEGO|N
+|Glue   |Bucc   |Ninja  |Spact  |The Mochinator|ZMMSEGO|N
+|Glue   |Bucc   |Spact  |Engi   |The Mochinator|ZMMSEGO|N
+|Striker|Glue   |Bucc   |Spact  |The Mochinator|ZMMSEGO|N
+|Obyn   |Glue   |Bucc   |Spact  |The Mochinator|ZMMSEGO|N
+|Ben    |Glue   |Bucc   |Spact  |The Mochinator|ZMMSEGO|N
+|Pat    |Glue   |Bucc   |Spact  |The Mochinator|ZMMSEGO|N
